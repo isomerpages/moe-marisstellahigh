@@ -62,3 +62,31 @@ The holistic development of each Marist that blends faith, culture and life, wit
 ### 海星价值观
 
 ### MARIST VALUES
+	
+	
+<table>
+<thead>
+  <tr>
+    <td><center>投入奉献</center></td>
+    <td><center>Presence</center></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center>简朴谦卑</center></td>
+    <td><center>Simplicity</center></td>
+  </tr>
+  <tr>
+    <td><center>一家精神</center></td>
+    <td><center>Family Spirit</center></td>
+  </tr>
+  <tr>
+    <td><center>敬业乐业</center></td>
+    <td><center>Love of Work</center></td>
+  </tr>
+  <tr>
+    <td><center>效法圣母</center></td>
+    <td><center>In the Way of Mary</center></td>
+  </tr>
+</tbody>
+</table>	
