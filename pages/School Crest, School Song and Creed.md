@@ -54,50 +54,50 @@ The Church through the ages has accommodated this text to the Coronation of the 
 <table>
 <thead>
   <tr>
-    <th>歌词</th>
-    <th>歌词大意</th>
+		<th><center>歌词</center></th>
+    <th><center>歌词大意</center></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td> 煌煌海星 圣母圣名</td>
-    <td> 明亮的海星－圣母玛利亚</td>
+    <td><center> 煌煌海星 圣母圣名</center></td>
+    <td> <center>明亮的海星－圣母玛利亚</center></td>
   </tr>
   <tr>
-    <td> 炳炳烺烺 永放光明</td>
-    <td> 光芒四射，永放光明</td>
+    <td><center> 炳炳烺烺 永放光明</center></td>
+    <td> <center>光芒四射，永放光明</center></td>
   </tr>
   <tr>
-    <td> 高悬世海 照彻狮城</td>
-    <td> 高挂天上，照遍我国（新加坡）</td>
+    <td><center> 高悬世海 照彻狮城</center></td>
+    <td> <center>高挂天上，照遍我国（新加坡）</center></td>
   </tr>
   <tr>
-    <td> 指明正路 引导前程</td>
-    <td> 带领我们走向正路，踏上光明前程</td>
+    <td><center> 指明正路 引导前程</center></td>
+    <td> <center>带领我们走向正路，踏上光明前程</center></td>
   </tr>
   <tr>
-    <td> 振兴教化 乐育群英</td>
-    <td> 大力发展教育，培育英才</td>
+    <td> <center>振兴教化 乐育群英</center></td>
+    <td> <center>大力发展教育，培育英才</center></td>
   </tr>
   <tr>
-    <td> 阐扬学术 陶冶性情</td>
-    <td> 提倡学术，修心养性</td>
+    <td><center> 阐扬学术 陶冶性情</center></td>
+    <td> <center>提倡学术，修心养性</center></td>
   </tr>
   <tr>
-    <td> 励以名节 持以坚贞</td>
-    <td> 严求个人好名声，保持不变</td>
+    <td><center> 励以名节 持以坚贞</center></td>
+    <td><center> 严求个人好名声，保持不变</center></td>
   </tr>
   <tr>
-    <td> 勖以道德 动以至诚</td>
-    <td> 以道德来勉励，以行动表真诚</td>
+    <td> <center>勖以道德 动以至诚</center></td>
+    <td><center> 以道德来勉励，以行动表真诚</center></td>
   </tr>
   <tr>
-    <td> 勿荒勿怠 精益求精</td>
-    <td> 不贪玩不懒惰，全心向善向上</td>
+    <td> <center>勿荒勿怠 精益求精</center></td>
+    <td><center> 不贪玩不懒惰，全心向善向上</center></td>
   </tr>
   <tr>
-    <td> 勤勉忠勇 校训是行</td>
-    <td> 实践校训－ 勤勉忠勇</td>
+    <td><center> 勤勉忠勇 校训是行</center></td>
+    <td><center> 实践校训－ 勤勉忠勇</center></td>
   </tr>
 </tbody>
 </table>
@@ -113,46 +113,46 @@ The Church through the ages has accommodated this text to the Coronation of the 
 <table>
 <thead>
   <tr>
-    <th>  我是海星的一份子。</th>
-    <th>I am a Marist.<br></th>
+    <th> <center> 我是海星的一份子。</center></th>
+    <th><center>I am a Marist.</center><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>我愿遵循以下的行为准则： </td>
-    <td>My conduct is guided by: </td>
+    <td><center>我愿遵循以下的行为准则：</center> </td>
+    <td><center>My conduct is guided by: </center></td>
   </tr>
   <tr>
-    <td>自尊自重，</td>
-    <td>My conduct is guided by: </td>
+    <td><center>自尊自重，</center></td>
+    <td><center>My conduct is guided by: </center></td>
   </tr>
   <tr>
-    <td>敬主爱国，<br></td>
-    <td>Respect for God,<br></td>
+    <td><center>敬主爱国，</center><br></td>
+    <td><center>Respect for God,<br></center></td>
   </tr>
   <tr>
-    <td>敬老尊贤， </td>
-    <td>Respect for self and country,<br></td>
+    <td><center>敬老尊贤， </center></td>
+    <td><center>Respect for self and country,</center><br></td>
   </tr>
   <tr>
-    <td>友爱兄弟、同辈及学弟，<br></td>
-    <td>Respect for parents and elders,<br></td>
+    <td><center>友爱兄弟、同辈及学弟，</center><br></td>
+    <td><center>Respect for parents and elders,</center><br></td>
   </tr>
   <tr>
-    <td>尊重他人资产 </td>
-    <td>Respect for siblings, peers and juniors, and<br>respect for property</td>
+    <td><center>尊重他人资产 </center></td>
+    <td><center>Respect for siblings, peers and juniors, and<br>respect for property</center></td>
   </tr>
   <tr>
-    <td>我谨记在心，我的言行会直接或间接影响他人。<br></td>
-    <td>In all that I say or do, I bear in mind that it affects and influences others <br>directly or indirectly</td>
+    <td><center>我谨记在心，我的言行会直接或间接影响他人。</center><br></td>
+    <td><center>In all that I say or do, I bear in mind that it affects and influences others <br>directly or indirectly</center></td>
   </tr>
   <tr>
-    <td>我愿以爱心，作为服务人群的信念，并时时尊重他人的权益。<br></td>
-    <td>What I do, I do through love and service, and with regard to the rights of others.<br></td>
+    <td><center>我愿以爱心，作为服务人群的信念，并时时尊重他人的权益。</center><br></td>
+    <td><center>What I do, I do through love and service, and with regard to the rights of others.</center><br></td>
   </tr>
   <tr>
-    <td>最后，我誓言，凡是值得我做的事，我愿心怀喜悦，达致完美。<br></td>
-    <td>Lastly I believe that what is worth doing should be done well and cheerfully.</td>
+    <td><center>最后，我誓言，凡是值得我做的事，我愿心怀喜悦，达致完美。</center><br></td>
+    <td><center>Lastly I believe that what is worth doing should be done well and cheerfully.</center></td>
   </tr>
 </tbody>
 </table>
