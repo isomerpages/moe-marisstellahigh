@@ -101,3 +101,58 @@ The Church through the ages has accommodated this text to the Coronation of the 
   </tr>
 </tbody>
 </table>
+
+<center>
+
+### 海星信条
+
+### SCHOOL CREED
+	
+</center>
+
+<table>
+<thead>
+  <tr>
+    <th>  我是海星的一份子。</th>
+    <th>I am a Marist.<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>我愿遵循以下的行为准则： </td>
+    <td>My conduct is guided by: </td>
+  </tr>
+  <tr>
+    <td>自尊自重，</td>
+    <td>My conduct is guided by: </td>
+  </tr>
+  <tr>
+    <td>敬主爱国，<br></td>
+    <td>Respect for God,<br></td>
+  </tr>
+  <tr>
+    <td>敬老尊贤， </td>
+    <td>Respect for self and country,<br></td>
+  </tr>
+  <tr>
+    <td>友爱兄弟、同辈及学弟，<br></td>
+    <td>Respect for parents and elders,<br></td>
+  </tr>
+  <tr>
+    <td>尊重他人资产 </td>
+    <td>Respect for siblings, peers and juniors, and<br>respect for property</td>
+  </tr>
+  <tr>
+    <td>我谨记在心，我的言行会直接或间接影响他人。<br></td>
+    <td>In all that I say or do, I bear in mind that it affects and influences others <br>directly or indirectly</td>
+  </tr>
+  <tr>
+    <td>我愿以爱心，作为服务人群的信念，并时时尊重他人的权益。<br></td>
+    <td>What I do, I do through love and service, and with regard to the rights of others.<br></td>
+  </tr>
+  <tr>
+    <td>最后，我誓言，凡是值得我做的事，我愿心怀喜悦，达致完美。<br></td>
+    <td>Lastly I believe that what is worth doing should be done well and cheerfully.</td>
+  </tr>
+</tbody>
+</table>
