@@ -5,12 +5,14 @@ description: ""
 ---
 # School Management Committee
 
+<center>
+
 ### 海星中学学校管理委员会
 
 **SCHOOL MANAGEMENT COMMITTEE OF MARIS STELLA HIGH SCHOOL**
 
-<center>
+
 	
 <b>WEBPAGE UNDER CONSTRUCTION</b>
 	
-</center>	
+</center>
