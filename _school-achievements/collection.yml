@@ -1,4 +1,5 @@
 collections:
   school-achievements:
     output: true
-    order: []
+    order:
+      - Primary School Achievements/.keep
