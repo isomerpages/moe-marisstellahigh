@@ -2,4 +2,5 @@ collections:
   school-achievements:
     output: true
     order:
+      - Primary School Achievements/2022.md
       - Primary School Achievements/.keep
