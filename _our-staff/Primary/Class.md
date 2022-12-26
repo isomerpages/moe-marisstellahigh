@@ -4,13 +4,6 @@ permalink: /about-mshs/primary/our-staff/class/
 description: ""
 third_nav_title: Primary
 ---
-[PRIMARY 1](#PRIMARY 1)
-[PRIMARY 2](#PRIMARY 2)
-[PRIMARY 3](#PRIMARY 3)
-
-[PRIMARY 4](#PRIMARY 4)
-[PRIMARY 5](#PRIMARY 5)
-[PRIMARY 6](#PRIMARY 6)
 
 <table>
 <thead>
@@ -20,15 +13,25 @@ PRIMARY 1
 </a></p>
 
 </td>
-    <td>Primary 2</td>
-    <td>Primary 3</td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%202">
+PRIMARY 2
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%203">
+PRIMARY 3
+</a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Primary 4</td>
-    <td>Primary 5</td>
-    <td>Primary 6</td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%204">
+PRIMARY 4
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%205">
+PRIMARY 5
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%206">
+PRIMARY 6
+</a></p></td>
   </tr>
 </tbody>
 </table>
