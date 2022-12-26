@@ -15,7 +15,7 @@ third_nav_title: Primary
 <table>
 <thead>
   <tr>
-    <td>[PRIMARY 1](#https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201)</td>
+    <td>[PRIMARY 1](https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201)</td>
     <td>[PRIMARY 1](#PRIMARY 1)</td>
     <td>[PRIMARY 1](#PRIMARY 1)</td>
   </tr>
