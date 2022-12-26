@@ -12,6 +12,22 @@ third_nav_title: Primary
 [PRIMARY 5](#PRIMARY 5)
 [PRIMARY 6](#PRIMARY 6)
 
+<table>
+<thead>
+  <tr>
+    <td>[PRIMARY 1](#https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201)</td>
+    <td>[PRIMARY 1](#PRIMARY 1)</td>
+    <td>[PRIMARY 1](#PRIMARY 1)</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>[PRIMARY 1](#PRIMARY 1)</td>
+    <td>[PRIMARY 1](#PRIMARY 1)</td>
+    <td>[PRIMARY 1](#PRIMARY 1)</td>
+  </tr>
+</tbody>
+</table>
 
 
 **<font size=5>PRIMARY 1</font><a name="PRIMARY 1"></a>**
