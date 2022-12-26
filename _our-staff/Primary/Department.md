@@ -4,20 +4,24 @@ permalink: /about-mshs/primary/our-staff/department/
 description: ""
 third_nav_title: Primary
 ---
-[KEY PERSONNEL](#KEY PERSONNEL)
+
 
 <table>
 <thead>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/school%leaders">SCHOOL LEADERS
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCHOOL%20LEADERS">SCHOOL LEADERS
 </a></p>
 </td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/key%personnel">KEY PERSONNEL
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#KEY%20PERSONNEL">KEY PERSONNEL
 </a></p></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ENGLISH">ENGLISH
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CHINESE">CHINESE
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#MATHEMATICS">MATHEMATICS
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCIENCE">SCIENCE
+</a></p></td>
     <td></td>
   </tr>
 </thead>
