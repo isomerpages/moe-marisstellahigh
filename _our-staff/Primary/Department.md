@@ -4,8 +4,6 @@ permalink: /about-mshs/primary/our-staff/department/
 description: ""
 third_nav_title: Primary
 ---
-
-
 <table>
 <thead>
   <tr>
@@ -22,17 +20,24 @@ third_nav_title: Primary
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCIENCE">SCIENCE
 </a></p></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#PE%20AND%20AESTHETICS">PE AND AESTHETICS
+</a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#BICULTURAL%20PROGRAMME">BICULTURAL PROGRAMME
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CCE%20AND%20NE">CCE AND NE
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ICT">ICT
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#STUDENT%20MANAGEMENT">STUDENT MANAGEMENT
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">ALLIED EDUCATORS
+</a></p></td>
     <td></td>
   </tr>
 </tbody>
