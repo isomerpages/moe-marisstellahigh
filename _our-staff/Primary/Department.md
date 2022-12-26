@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Primary
 ---
 <table>
-<thead>
+<tbody>
   <tr>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCHOOL%20LEADERS">SCHOOL LEADERS
 </a></p>
@@ -16,19 +16,19 @@ third_nav_title: Primary
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CHINESE">CHINESE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#MATHEMATICS">MATHEMATICS
+	</tr>
+<tr>		
+	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#MATHEMATICS">MATHEMATICS
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCIENCE">SCIENCE
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#PE%20AND%20AESTHETICS">PE AND AESTHETICS
 </a></p></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#BICULTURAL%20PROGRAMME">BICULTURAL PROGRAMME
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CCE%20AND%20NE">CCE AND NE
+	</tr>		
+<tr>
+	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CCE%20AND%20NE">CCE AND NE
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ICT">ICT
 </a></p></td>
@@ -36,7 +36,9 @@ third_nav_title: Primary
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">ALLIED EDUCATORS
+	</tr>
+<tr>
+	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">ALLIED EDUCATORS
 </a></p></td>
     <td></td>
   </tr>
