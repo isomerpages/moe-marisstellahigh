@@ -4,7 +4,10 @@ permalink: /about-mshs/primary/our-staff/department/
 description: ""
 third_nav_title: Primary
 ---
-### SCHOOL LEADERS
+
+
+**<font size=5>SCHOOL LEADERS</font><a name="SCHOOL LEADERS"></a>**
+
 
 <table>
 <thead>
@@ -34,8 +37,8 @@ third_nav_title: Primary
 </table>
 
 
-### KEY PERSONNEL
 
+**<font size=5>KEY PERSONNEL</font><a name="KEY PERSONNEL"></a>**
 
 <table>
 <thead>
@@ -140,7 +143,8 @@ third_nav_title: Primary
 </tbody>
 </table>
 
-### ENGLISH
+
+**<font size=5>ENGLISH</font><a name="ENGLISH"></a>**
 
 <table>
 <thead>
@@ -222,8 +226,8 @@ third_nav_title: Primary
 </table>
 
 
-### CHINESE
 
+**<font size=5>CHINESE</font><a name="CHINESE"></a>**
 
 <table>
 <thead>
@@ -325,8 +329,8 @@ third_nav_title: Primary
 </table>
 
 
-### MATHEMATICS
 
+**<font size=5>MATHEMATICS</font><a name="MATHEMATICS"></a>**
 
 <table>
 <thead>
@@ -403,8 +407,8 @@ third_nav_title: Primary
 </tbody>
 </table>
 
-### SCIENCE
 
+**<font size=5>SCIENCE</font><a name="SCIENCE"></a>**
 
 <table>
 <thead>
@@ -461,7 +465,10 @@ third_nav_title: Primary
 </tbody>
 </table>
 
-PE AND AESTHETICS
+
+**<font size=5>PE AND AESTHETICS</font><a name="PE AND AESTHETICS"></a>**
+
+
 
 <table>
 <thead>
@@ -534,8 +541,10 @@ PE AND AESTHETICS
 </tbody>
 </table>
 
-BICULTURAL PROGRAMME
---------------------
+
+
+**<font size=5>BICULTURAL PROGRAMME</font><a name="BICULTURAL PROGRAMME"></a>**
+
 
 <table>
 <thead>
@@ -604,8 +613,9 @@ BICULTURAL PROGRAMME
 </tbody>
 </table>
 
-CCE AND NE
-----------
+
+
+**<font size=5>CCE AND NE</font><a name="CCE AND NE"></a>**
 
 <table>
 <thead>
@@ -714,8 +724,8 @@ CCE AND NE
 </tbody>
 </table>
 
-ICT
----
+
+**<font size=5>ICT</font><a name="ICT"></a>**
 
 <table>
 <thead>
@@ -780,8 +790,10 @@ ICT
 </tbody>
 </table>
 
-STUDENT MANAGEMENT
-------------------
+
+
+**<font size=5>STUDENT MANAGEMENT</font><a name="STUDENT MANAGEMENT"></a>**
+
 
 <table>
 <thead>
@@ -838,8 +850,9 @@ STUDENT MANAGEMENT
 </tbody>
 </table>
 
-ALLIED EDUCATORS
-----------------
+
+
+**<font size=5>ALLIED EDUCATORS</font><a name="ALLIED EDUCATORS"></a>**
 
 <table>
 <thead>
@@ -872,8 +885,8 @@ ALLIED EDUCATORS
 </tbody>
 </table>
 
-EXECUTIVE AND ADMINISTRATIVE STAFF
-----------------------------------
+
+**<font size=5>EXECUTIVE AND ADMINISTRATIVE STAFF</font><a name="EXECUTIVE AND ADMINISTRATIVE STAFF"></a>**
 
 <table>
 <thead>
