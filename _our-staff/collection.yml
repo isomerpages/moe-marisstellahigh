@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - Primary/Department.md
       - Primary/Class.md
       - Primary/.keep
