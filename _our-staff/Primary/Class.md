@@ -15,16 +15,20 @@ third_nav_title: Primary
 <table>
 <thead>
   <tr>
-    <td><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201">Primary 1</td>
-    <td>[PRIMARY 1](#PRIMARY 1)</td>
-    <td>[PRIMARY 1](#PRIMARY 1)</td>
+    <th><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201">
+PRIMARY 1
+</a></p>
+
+</th>
+    <th>Primary 2</th>
+    <th>Primary 3</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>[PRIMARY 1](#PRIMARY 1)</td>
-    <td>[PRIMARY 1](#PRIMARY 1)</td>
-    <td>[PRIMARY 1](#PRIMARY 1)</td>
+    <td>Primary 4</td>
+    <td>Primary 5</td>
+    <td>Primary 6</td>
   </tr>
 </tbody>
 </table>
