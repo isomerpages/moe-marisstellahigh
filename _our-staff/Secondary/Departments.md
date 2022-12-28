@@ -505,8 +505,7 @@ third_nav_title: Secondary
 </tbody>
 </table>
 
-**<font size=5>HUMANITIES</font><a name="HUMANITIES 
-"></a>**
+**<font size=5>HUMANITIES</font><a name="HUMANITIES"></a>**
 
 
 <table>
