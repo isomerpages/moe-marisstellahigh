@@ -23,18 +23,27 @@ third_nav_title: Parents Support Group
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#MESSAGE%20FROM%20PSG%20EXCO">MESSAGE FROM PSG EXCO
+</a></p>
+</td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#BRIEF%20HISTORY">BRIEF HISTORY
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#PSG%20PHILOSOPHY">PSG PHILOSOPHY
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#PSG%20GUIDELINES">PSG GUIDELINES
+</a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#RELIGIOUS%20EDUCATION%20(RE)">RELIGIOUS EDUCATION (RE)
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#MARIST%20BOOK%20LAB%20(MBL)">MARIST BOOK LAB (MBL)
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#MORNING%20DUTY%20(MD)%20&%20RECESS%20DUTY%20(RD)">MORNING DUTY (MD) & RECESS DUTY (RD)
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/our-partners/parent-support-group/psg-handbook/#RAINBOW%20READING%20CLUB%20(RRC)">RAINBOW READING CLUB (RRC)
+</a></p></td>
   </tr>
 </tbody>
 </table>
