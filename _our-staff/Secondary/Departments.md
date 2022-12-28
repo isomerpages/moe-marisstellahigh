@@ -745,8 +745,7 @@ third_nav_title: Secondary
 </table>
 
 **<font size=5>ICT STAFF
-</font><a name="ICT STAFF
-"></a>**
+</font><a name="ICT STAFF"></a>**
 
 <table>
 <thead>
