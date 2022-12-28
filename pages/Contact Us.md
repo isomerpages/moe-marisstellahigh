@@ -21,12 +21,12 @@ Singapore 368051
 
 
 <p><a href="https://www.instagram.com/marisstellahighschool/?hl=en">
-<img style="width:10%" src="/images/Contact%20Us/instagram_PNG11.png">
+<img style="width:5%" src="/images/Contact%20Us/instagram_PNG11.png">
 </a></p>
 
 
-<p><a href="https://www.instagram.com/marisstellahighschool/?hl=en">
-<img style="width:10%" src="/images/Contact%20Us/marisstella-homepage-facebookicon.png">
+<p><a href="https://www.facebook.com/marisstellahighschool">
+<img style="width:5%" src="/images/Contact%20Us/marisstella-homepage-facebookicon.png">
 </a></p>
 
 
