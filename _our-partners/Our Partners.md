@@ -3,7 +3,7 @@ title: Our Partners
 permalink: /about-mshs/our-partners/
 description: ""
 ---
-## Our Partners
+# Our Partners
 
 ### MARIS STELLA HIGH SCHOOL ALUMNI
 
