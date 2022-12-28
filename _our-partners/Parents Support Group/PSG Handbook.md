@@ -215,3 +215,27 @@ PSG members work in collaboration with the teachers to ensure that the students 
     
 *   Ensure that the students adhere to orderly behaviour.
 *   In case of bad weather, PSG members have to assist the teachers to redirectthe boys to the sheltered areas.
+
+
+---
+
+**<font size=5>RAINBOW READING CLUB (RRC)
+</font><a name="RAINBOW READING CLUB (RRC)"></a>**
+
+This programme targets weak readers in P1 and P2 who need support to bridge the gap in their reading proficiency for English and/or Chinese. The program aims to equip them first with beginning literacy and thereafter build reading fluency and vocabulary as well as to inculcate good reading habits and develop their interest in the language.  
+
+  
+
+There are 3 English Rainbow classes each week. The scheduled timings are Tuesdays, Wednesdays andFridays, from 7.00 - 7.30 a.m. for P1 and P2 pupils. Two pupils are assigned to each PSG parent. Parents and the students read story books together (story books are provided by the school). In addition, some oral and comprehension exercises are given to the pupils from time to time. Pupils who make good progress may graduate from the programme.
+
+  
+
+For Chinese Rainbow which is for P2 boys, there will be a story-telling session, which is conducted in groups of 3 to 5, twice a week. The scheduled timings are Mondays and Thursdays from 7.00 - 7.30 a.m. The PSG members read interesting and fun Chinese story books to the boys and encourage them to speak. In addition, PSG parents will conduct games and activities from time to time to motivate them in reading.
+
+  
+
+Parents can help on a day that suits them, in the English and/or Chinese sessions. The teacher-in-charge needs about a month to assess and identify the pupils who need help in reading.  Rainbow normally starts in February and ends in October.
+
+  
+
+PSG parents bond with the boys whom they are helping. As the boys increase fluency in the language through reading, they become more confident and enthusiastic using the language and their self-esteem is enhanced. PSG parents derive immense satisfaction when they see the boys progress as a result of their participation in the programme.
