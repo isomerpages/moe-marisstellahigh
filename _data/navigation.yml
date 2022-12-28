@@ -1,6 +1,37 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-mshs/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-mshs/principals-message
+      - title: Saint Marcellin Champagnat
+        url: /about-mshs/saint-marcellin-champagnat
+      - title: School History
+        url: /about-mshs/school-history
+      - title: Vision,Mission,Motto & Values
+        url: /about-mshs/vision-mission-motto-and-values
+      - title: School Crest, Song And Creed
+        url: /about-mshs/school-crest-school-song-and-creed
+      - title: School Management Committee
+        url: /about-mshs/school-management-committee
+      - title: School Achievements
+        url: /about-mshs/primary/school-achievements/2022/
+      - title: Our Staff
+        url: /about-mshs/primary/our-staff/class/
+      - title: Our Partners
+        url: /about-mshs/our-partners
+      - title: Contact Us
+        url: /about-mshs/contact-us
+  - title: Programmes
+    url: /permalink
+    sublinks: []
+  - title: School Happenings
+    url: /permalink
+    sublinks: []
+  - title: Useful Links and Bio
+    url: /permalink
+    sublinks: []
+  - title: Admission
+    url: /permalink
+    sublinks: []
