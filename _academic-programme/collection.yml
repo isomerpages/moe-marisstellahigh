@@ -1,5 +1,4 @@
 collections:
   academic-programme:
     output: true
-    order:
-      - Primary.md
+    order: []
