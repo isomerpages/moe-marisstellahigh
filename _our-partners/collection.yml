@@ -2,5 +2,5 @@ collections:
   our-partners:
     output: true
     order:
-      - Parents Support Group/.keep
       - Our Partners.md
+      - Parents Support Group/.keep
