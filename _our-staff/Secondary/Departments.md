@@ -647,8 +647,7 @@ third_nav_title: Secondary
 </table>
 
 
-**<font size=5>ALLIED EDUCATORS
-</font><a name="ALLIED EDUCATORS
+**<font size=5>ALLIED EDUCATORS</font><a name="ALLIED EDUCATORS
 "></a>**
 
 <table>
