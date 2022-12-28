@@ -10,23 +10,34 @@ third_nav_title: Secondary
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SCHOOL%20LEADERS">SCHOOL LEADERS
 </a></p>
 </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#KEY%20PERSONNEL">KEY PERSONNEL
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SENIOR%20/%20LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ENGLISH%20">ENGLISH
+</a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#CHINESE%20">CHINESE
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#MATHEMATICS%20">MATHEMATICS
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SCIENCE%20">SCIENCE
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#HUMANITIES%20">HUMANITIES
+</a></p></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#PE%20,%20AESTHETICS%20AND%20ICT">PE, AESTHETICS AND ICT
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">EXECUTIVE AND ADMINISTRATIVE STAFF
+</a></p></td>
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ICT%20STAFF">ICT STAFF
+</a></p></td>
   </tr>
 </tbody>
 </table>
