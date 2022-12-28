@@ -3,6 +3,8 @@ title: Our Partners
 permalink: /about-mshs/our-partners/
 description: ""
 ---
+## Our Partners
+
 ### MARIS STELLA HIGH SCHOOL ALUMNI
 
 
@@ -13,4 +15,4 @@ For more information, refer to the MSHS Alumni website [here](http://www.mshsal
 ### MARIS STELLA HIGH SCHOOL PARENT SUPPORT GROUP
 
 
-The Maris Stella High School Parent Support Group (MSHS PSG) consists of parent volunteers who volunteer time and resources to serve Marists and the school. In doing so, it serves as a link amongst parents, and between parents and school. Being a member of the MSHS PSG provides an opportunity for parents to be involved in their son's growth and development in their formative secondary school years. We support the school's effort to nurture aspiring learners and contribute to the dynamic environment of the school. There are various ways to volunteer your time, effort and resources. We welcome parents to join us and be part of our boys' school life experience. 
+The Maris Stella High School Parent Support Group (MSHS PSG) consists of parent volunteers who volunteer time and resources to serve Marists and the school. In doing so, it serves as a link amongst parents, and between parents and school. Being a member of the MSHS PSG provides an opportunity for parents to be involved in their son's growth and development in their formative secondary school years. We support the school's effort to nurture aspiring learners and contribute to the dynamic environment of the school. There are various ways to volunteer your time, effort and resources. We welcome parents to join us and be part of our boys' school life experience.
