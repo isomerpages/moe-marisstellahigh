@@ -4,21 +4,6 @@ permalink: /about-mshs/our-partners/parent-support-group/psg-handbook/
 description: ""
 third_nav_title: Parents Support Group
 ---
-[MESSAGE FROM PSG EXCO](#MESSAGE FROM PSG EXCO)
-
-[BRIEF HISTORY](#BRIEF HISTORY)
-
-[PSG PHILOSOPHY](#PSG PHILOSOPHY)
-
-[PSG GUIDELINES](#PSG GUIDELINES)
-
-[RELIGIOUS EDUCATION (RE)](#RELIGIOUS EDUCATION (RE))
-
-[MARIST BOOK LAB (MBL)](#MARIST BOOK LAB (MBL))
-
-[MORNING DUTY (MD) & RECESS DUTY (RD)](#MORNING DUTY (MD) & RECESS DUTY (RD))
-
-[RAINBOW READING CLUB (RRC)](#RAINBOW READING CLUB (RRC))
 
 <table>
 <thead>
