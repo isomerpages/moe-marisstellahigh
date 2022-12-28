@@ -570,9 +570,7 @@ third_nav_title: Secondary
 </table>
 
 
-**<font size=5>PE, AESTHETICS AND ICT
-</font><a name="PE, AESTHETICS AND ICT
-"></a>**
+**<font size=5>PE, AESTHETICS AND ICT</font><a name="PE, AESTHETICS AND ICT"></a>**
 
 <table>
 <thead>
