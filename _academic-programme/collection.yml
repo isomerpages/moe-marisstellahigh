@@ -2,6 +2,7 @@ collections:
   academic-programme:
     output: true
     order:
+      - Primary/Music.md
       - Primary/Art.md
       - Primary/Science.md
       - Primary/Mathematics.md
