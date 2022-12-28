@@ -29,7 +29,7 @@ Singapore 368051</td>
 </table>
 
 
-https://goo.gl/maps/Nu2qSZfCYt71jDZp7
+[https://goo.gl/maps/Nu2qSZfCYt71jDZp7](https://goo.gl/maps/Nu2qSZfCYt71jDZp7)
 
 
 Take note that the entrance to the Secondary section is now located along Bartley Walk.
