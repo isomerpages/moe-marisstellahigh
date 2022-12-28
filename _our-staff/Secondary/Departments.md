@@ -4,21 +4,7 @@ permalink: /about-mshs/secondary/our-staff/departments/
 description: ""
 third_nav_title: Secondary
 ---
-[SCHOOL LEADERS](#SCHOOL LEADERS)
 
-[KEY PERSONNEL](#KEY PERSONNEL)
-
-[SENIOR/LEAD TEACHERS](#SENIOR/LEAD TEACHERS)
-
-[HUMANITIES](#HUMANITIES)
-
-[PE, AESTHETICS AND ICT](#PE, AESTHETICS AND ICT)
-
-[ALLIED EDUCATORS](#ALLIED EDUCATORS)
-
-[EXECUTIVE AND ADMINISTRATIVE STAFF](#EXECUTIVE AND ADMINISTRATIVE STAFF)
-
-[ICT STAFF](#ICT STAFF)
 
 
 <table>
@@ -29,7 +15,7 @@ third_nav_title: Secondary
 </td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#KEY%20PERSONNEL">KEY PERSONNEL
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SENIOR%20/%20LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SENIOR/LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ENGLISH%20">ENGLISH
 </a></p></td>
@@ -43,11 +29,11 @@ third_nav_title: Secondary
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SCIENCE%20">SCIENCE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#HUMANITIES%20">HUMANITIES
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#HUMANITIES">HUMANITIES
 </a></p></td>
   </tr>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#PE%20,%20AESTHETICS%20AND%20ICT">PE, AESTHETICS AND ICT
+    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#PE,%20AESTHETICS%20AND%20ICT">PE, AESTHETICS AND ICT
 </a></p></td>
     <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
 </a></p></td>
