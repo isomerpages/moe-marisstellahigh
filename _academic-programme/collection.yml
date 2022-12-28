@@ -1,4 +1,5 @@
 collections:
   academic-programme:
     output: true
-    order: []
+    order:
+      - Primary/.keep
