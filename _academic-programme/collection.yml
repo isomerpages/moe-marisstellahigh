@@ -2,6 +2,7 @@ collections:
   academic-programme:
     output: true
     order:
+      - Primary/Chinese.md
       - Primary/English.md
       - Primary/.keep
       - Primary/Academic Programme.md
