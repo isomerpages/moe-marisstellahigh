@@ -25,7 +25,7 @@ third_nav_title: Primary
 <img src="/images/Academic%20Programme/Primary/Science.jpg" style="width:183px;height:240px;margin-right:15px;" align = "left">
 </a></p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/academic-programme/art/">
 <img src="/images/Academic%20Programme/Primary/Art.jpg" style="width:183px;height:240px;margin-right:15px;" align = "left">
