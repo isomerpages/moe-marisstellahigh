@@ -128,3 +128,90 @@ The school-PSG partnership aims to achieve one common goal – that of providing
   
 
 5.    Thank you everyone for your support and cooperation as we continue our journey To Serve With Love.
+
+
+
+---
+
+**<font size=5>RELIGIOUS EDUCATION (RE)
+</font><a name="RELIGIOUS EDUCATION (RE)"></a>**
+
+
+As a Catholic School, Maris Stella High School (Primary) offers Religious Education (RE) classes where the boys can learn about the Catholic faith.
+
+  
+
+Parent volunteers conduct weekly RE lessons from 7 am to 7.20 am before school starts. The parents adopt the “Walking with Jesus” syllabus and make it fun by incorporating videos, songs and craft. Many of these parents are catechists in their respective parishes.
+
+  
+
+First Friday masses, and special masses like New Year’s Day mass, Founder’s Day mass, exam masses and Thanksgiving mass are planned throughout the school calendar year. The parents also serve as cantors, musicians, preparation of mass presentations, sacristan duties and helping Marists with the mass readings.
+
+  
+
+The love for sharing of the Catholic faith brought the parents together, and it is indeed the working of the Holy Spirit that seals the bonds among the parents; reaping the reward of witnessing Marists grow spiritually to godly gentlemen after God’s heart.
+
+---
+
+**<font size=5>MARIST BOOK LAB (MBL)
+</font><a name="MARIST BOOK LAB (MBL)"></a>**
+
+The Marist Book Lab in MSHS (Primary) is a modern, air-conditioned facility using barcode technology for the loan and return of books. There are English and Chinese books in various genres that the boys are encouraged to borrow and read. The PSG Librarian’s primary role is to lend support and assistance to the staff of Teacher Librarians.
+
+  
+
+The general duties include the following: 
+
+1.  To help maintain the general tidiness and cleanliness of the library.
+2.  To assist in the borrowing and returning of all books.
+3.  To identify and assist in the repairing of damaged books.
+4.  To assist the Librarian in preparing new books for loan.
+5.  To assist in the shelving of books.
+6.  To assist in the supervision and carrying out of library activities.  
+    Examples: Bingo games, story-telling, Sudoku, art and craft demonstrations, etc.
+7.  To help the Librarian manage pupils behaviour and maintain orderliness in the library during recess.  
+    
+8.  To assist in decorating the MBL.
+
+
+---
+
+**<font size=5>MORNING DUTY (MD) & RECESS DUTY (RD)
+</font><a name="MORNING DUTY (MD) & RECESS DUTY (RD)"></a>**
+
+PSG members work in collaboration with the teachers to ensure that the students adhere to orderly behaviour in the morning and during the 2 recesses. Duties will be assigned to the PSG members by the PSG coordinator-in-charge.
+
+  
+
+**Morning Duty & Recess Duty PSG Guidelines:**     
+
+<u>Morning Duty</u>  
+
+*   The duration for the morning duty is about 30 min, from 7 a.m. to 7.30 a.m.  
+    
+*   Ensure all students leave the classroom by 7.15 a.m., bring along a storybook and ask them to proceed to the hall for their morning reading.  
+    
+
+<u>Recess Duty</u>
+
+*   The duration for the recess duty is an hour. The first recess is for P1, P2 and P5 students, from 9.45 a.m. to 10.15 a.m. The second recess session is for P3, P4 and P6 students, from 10.15 a.m. to 10.45 a.m.  
+    
+*   Ensure that all the students leave the classrooms during recess.  Only the appointed recess ICs and duty boys are allowed to stay in the classrooms.  
+    
+*   Ensure that the students do not play in the areas other than the designated places. This is to minimise disturbance to other students who are still having lessons.  
+    
+*   Ensure that the students return to their classroom when recess ends.  
+    
+
+<u>Both Duties</u>  
+
+*   Provide assistance to the teachers patrolling the area.  
+    
+*   Provide assistance to the students in need, especially the lower primary students.  
+    
+*   In case of accidents, PSG members are to notify the teachers-in-charge.  
+    
+*   Encourage the students to save electricity by switching off the lights and fans in the classroom before leaving for morning reading or recess.  
+    
+*   Ensure that the students adhere to orderly behaviour.
+*   In case of bad weather, PSG members have to assist the teachers to redirectthe boys to the sheltered areas.
