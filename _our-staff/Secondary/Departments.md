@@ -4,7 +4,7 @@ permalink: /about-mshs/secondary/our-staff/departments/
 description: ""
 third_nav_title: Secondary
 ---
-[SCHOOL LEADERS](#SCHOOL LEADERS)
+[SCHOOL LEADERS](#SCHOOLLEADERS)
 
 [KEY PERSONNEL](#KEY PERSONNEL)
 
