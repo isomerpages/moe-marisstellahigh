@@ -5,6 +5,6 @@ collections:
       - Secondary/.keep
       - Secondary/Class.md
       - Secondary/Departments.md
-      - Primary/Department.md
-      - Primary/Class.md
       - Primary/.keep
+      - Primary/Class.md
+      - Primary/Department.md
