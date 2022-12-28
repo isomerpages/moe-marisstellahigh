@@ -2,9 +2,9 @@ collections:
   our-staff:
     output: true
     order:
-      - Secondary/Departments.md
-      - Secondary/Class.md
       - Secondary/.keep
+      - Secondary/Class.md
+      - Secondary/Departments.md
       - Primary/Department.md
       - Primary/Class.md
       - Primary/.keep
