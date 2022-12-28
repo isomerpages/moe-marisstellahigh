@@ -60,8 +60,7 @@ third_nav_title: Secondary
 </table>
 
 **<font size=5>SCHOOL LEADERS
-</font><a name="SCHOOL LEADERS
-"></a>**
+</font><a name="SCHOOL LEADERS"></a>**
 
 
 <table>
@@ -92,8 +91,7 @@ third_nav_title: Secondary
 </table>
 
 **<font size=5>KEY PERSONNEL
-</font><a name="KEY PERSONNEL
-"></a>**
+</font><a name="KEY PERSONNEL"></a>**
 
 
 <table>
@@ -188,8 +186,7 @@ third_nav_title: Secondary
 </table>
 
 **<font size=5>SENIOR/LEAD TEACHERS
-</font><a name="SENIOR/LEAD TEACHERS
-"></a>**
+</font><a name="SENIOR/LEAD TEACHERS"></a>**
 
 <table>
 <thead>
