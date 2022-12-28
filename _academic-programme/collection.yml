@@ -2,5 +2,6 @@ collections:
   academic-programme:
     output: true
     order:
+      - Secondary/.keep
       - Primary/Academic Programme.md
       - Primary/.keep
