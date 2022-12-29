@@ -165,3 +165,17 @@ A certificate of recognition will be presented to students upon completion of th
 2)    语特证书  
 
 完成两年的语特课程后，学生将获颁证书以资肯定。
+
+
+![](/images/Academic%20Programme/Secondary/chinese%201.jpg)
+
+
+Online Chinese Literature Talk by Mr Denon Lim Denan on 12th Aug 2020   
+
+林得楠先生线上文学讲座 ―― “我的诗情我的诗”
+
+![](/images/Academic%20Programme/Secondary/chinese%202.jpg)
+
+Lessons are now conducted in our newly refurnished CLEP Room.
+
+![](/images/Academic%20Programme/Secondary/chinese%203.jpg)
