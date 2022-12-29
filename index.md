@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Maris Stella High School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -14,3 +14,4 @@ sections:
       button: Click Here
       url: /admission/secondary/admission
 ---
+
