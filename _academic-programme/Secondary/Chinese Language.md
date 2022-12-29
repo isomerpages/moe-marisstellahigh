@@ -94,7 +94,7 @@ third_nav_title: Secondary
 
 #### CHINESE LANGUAGE ELECTIVE PROGRAMME 华文语文特选课程
 
-#### **NTRODUCTION** **介绍**
+#### **INTRODUCTION** **介绍**
 
 The Chinese Language Elective Programme at Secondary Level is introduced by the Ministry of Education to be implemented from 2020. Maris Stella High School aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop these students to become effectively bilingual so as to better serve the needs of our nation.
 
