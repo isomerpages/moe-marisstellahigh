@@ -24,14 +24,42 @@ links:
       - title: Contact Us
         url: /about-mshs/contact-us
   - title: Programmes
-    url: /permalink
-    sublinks: []
+    url: /programmes/primary/academic-programme
+    sublinks:
+      - title: Academic Programme
+        url: /programmes/primary/academic-programme
+      - title: Bicultural Programme
+        url: /permalink
+      - title: Faith Formation
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: CCA
+        url: /permalink
+      - title: ICT
+        url: /permalink
   - title: School Happenings
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: News
+        url: /permalink
+      - title: Announcements
+        url: /permalink
   - title: Useful Links and Bio
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: For Students
+        url: /permalink
+      - title: For Staff
+        url: /permalink
+      - title: For Parents
+        url: /permalink
   - title: Admission
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Admission
+        url: /permalink
+      - title: Direct School Admission (DSA)
+        url: /permalink
+      - title: FAQs
+        url: /permalink
