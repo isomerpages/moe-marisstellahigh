@@ -93,8 +93,8 @@ All Marist Student Leaders are encouraged to develop their leadership skills in 
   
 Our student leaders are called to action each day, by being firmly grounded in the Marist values and the five practices of exemplary leadership, as Values-Driven, Service-Oriented Leaders of Faith, Vision and Service.
 
-*   [Sexuality Education](https://marisstellahigh-moe-edu-sg-admin.cwp.sg/programmes/secondary/cce/sexuality-education)
-*   [Bicultural Programme](https://marisstellahigh-moe-edu-sg-admin.cwp.sg/programmes/secondary/bicultural-programme)  
+*   [Sexuality Education](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cce/sexuality-education)
+*   [Bicultural Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/bicultural-programme/)  
     
 *   Internationalisation Programme
 
@@ -102,4 +102,4 @@ Our student leaders are called to action each day, by being firmly grounded in t
 
 **Faith Formation**  
 
-As a Catholic school, we are guided by the Marist values and ethos. The Faith Formation experiences aim to develop Marists to be gentlemen with a strong sense of spirituality and belief, and to emulate the values exemplified by Mother Mary. Click on [this link](https://marisstellahigh-moe-edu-sg-admin.cwp.sg/programmes/secondary/faith-formation) to find out more about the Faith Formation experiences offered at Maris Stella High.
+As a Catholic school, we are guided by the Marist values and ethos. The Faith Formation experiences aim to develop Marists to be gentlemen with a strong sense of spirituality and belief, and to emulate the values exemplified by Mother Mary. Click on [this link](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/faith-formation/) to find out more about the Faith Formation experiences offered at Maris Stella High.
