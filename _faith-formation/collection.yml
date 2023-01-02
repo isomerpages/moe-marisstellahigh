@@ -2,4 +2,5 @@ collections:
   faith-formation:
     output: true
     order:
+      - Faith Formation (Secondary).md
       - Faith Formation (Primary).md
