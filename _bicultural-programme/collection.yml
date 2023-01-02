@@ -2,4 +2,5 @@ collections:
   bicultural-programme:
     output: true
     order:
+      - Bicultural Programme (Secondary).md
       - Bicultural Programme (Primary).md
