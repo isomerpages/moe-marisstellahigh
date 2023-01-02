@@ -25,12 +25,12 @@ description: ""
 *   Weekly RE Lessons  
     
 
-*   Tuesdays: P1 and P4 students  
+    *   Tuesdays: P1 and P4 students  
     
-*   Wednesdays: P2 and P5 students  
+    *   Wednesdays: P2 and P5 students  
     
-*   Thursdays: P3 and P6 students  
+    *   Thursdays: P3 and P6 students  
     
-*   Fridays: Praise and Worship sessions or First Friday masses in the chapel
+    *   Fridays: Praise and Worship sessions or First Friday masses in the chapel
 
 **Article:** [Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
