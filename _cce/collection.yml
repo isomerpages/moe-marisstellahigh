@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Secondary/Sexuality Education.md
       - Secondary/CCE.md
       - Secondary/.keep
