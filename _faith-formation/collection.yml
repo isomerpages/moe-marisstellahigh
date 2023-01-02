@@ -1,4 +1,5 @@
 collections:
   faith-formation:
     output: true
-    order: []
+    order:
+      - Faith Formation (Primary).md
