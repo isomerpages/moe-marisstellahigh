@@ -7,14 +7,14 @@ description: ""
 
 ![](/images/Faith%20Formation/faith%20formation.jpg)
 
-The Faith Formation Programme aims to:  
+**The Faith Formation Programme aims to:**
 
 *   Deepen the Catholic faith of Marists; and
 *   Contribute to the moral and social development of Marists.
 
   
 
-To achieve these goals, the following programmes are offered:   
+**To achieve these goals, the following programmes are offered:**   
 
 *   Bilingual Morning Prayers led by Student Prayer Leaders  
     
@@ -33,4 +33,4 @@ To achieve these goals, the following programmes are offered: 
     
 *   Fridays: Praise and Worship sessions or First Friday masses in the chapel
 
-Article: [Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
+**Article:** [Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
