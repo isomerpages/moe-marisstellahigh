@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Primary/Life's Lesson.md
       - Primary/Learning Support.md
       - Primary/The Marcellin Way.md
       - Primary/.keep
