@@ -2,15 +2,15 @@ collections:
   cce:
     output: true
     order:
-      - Primary/Student Management.md
-      - Primary/Values in Action (VIA).md
-      - Primary/Sexuality Education.md
-      - Primary/National Education.md
-      - Primary/Form Teacher Guidance Programme (FTGP).md
-      - Primary/Life's Lesson.md
-      - Primary/Learning Support.md
-      - Primary/The Marcellin Way.md
       - Primary/.keep
+      - Primary/The Marcellin Way.md
+      - Primary/Learning Support.md
+      - Primary/Life's Lesson.md
+      - Primary/Form Teacher Guidance Programme (FTGP).md
+      - Primary/National Education.md
+      - Primary/Sexuality Education.md
+      - Primary/Values in Action (VIA).md
+      - Primary/Student Management.md
       - Secondary/.keep
       - Secondary/CCE.md
       - Secondary/Sexuality Education.md
