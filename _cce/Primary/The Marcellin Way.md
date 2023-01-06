@@ -12,12 +12,12 @@ The school’s Character and Citizenship Education (CCE) programme aim to nurtur
   
 To achieve these goals, the following programmes are offered:  
 
-*   [Character and Citizenship Education (CCE) Curriculum – STAR](https://marisstellahigh.moe.edu.sg/programmes/primary/cce/form-teacher-guidance-programme-ftgp)
-*   [National Education](https://marisstellahigh.moe.edu.sg/programmes/primary/cce/national-education)  
+*   [Character and Citizenship Education (CCE) Curriculum – STAR](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cce/form-teacher-guidance-programme-ftgp/)
+*   [National Education](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cce/national-education/)  
     
-*   [Sexuality Education](https://marisstellahigh.moe.edu.sg/programmes/primary/cce/sexuality-education)
-*   [Values in Action – Caritas Programme](https://marisstellahigh.moe.edu.sg/programmes/primary/cce/values-in-action-via)
-*   [Student Leadership](https://marisstellahigh.moe.edu.sg/programmes/primary/cce/student-management)
+*   [Sexuality Education](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cce/sexuality-education/)
+*   [Values in Action – Caritas Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cce/values-in-action-via/)
+*   [Student Leadership](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cce/student-management/)
 *   Education and Career Guidance  
     
 *   Social Studies Curriculum
