@@ -64,3 +64,27 @@ c.  Character and Citizenship Education (CCE)
 
 7\. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
+
+![](/images/CCE/Primary/pg%204.jpg)
+
+![](/images/CCE/Primary/pg%205.jpg)
+
+![](/images/CCE/Primary/pg%206.jpg)
+
+![](/images/CCE/Primary/pg%207.jpg)
+
+**Information For Parents:**  
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/Primary/Annex%20A.pdf). The completed opt-out form is to be submitted by 2/9/2022.
+
+  
+
+10.  Parents can contact the school at <a href="mailto:msh@moe.edu.sg">msh@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+11\. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
