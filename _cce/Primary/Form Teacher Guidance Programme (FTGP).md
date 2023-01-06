@@ -6,6 +6,9 @@ third_nav_title: Primary
 ---
 # Form Teacher Guidance Programme (FTGP)
 
+![](/images/CCE/Primary/FTGP.jpg)
+
+
 **To achieve these goals, the following programmes are offered:**
 
 <u>STAR Programme</u>  
