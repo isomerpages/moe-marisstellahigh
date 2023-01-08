@@ -2,31 +2,31 @@ collections:
   cca:
     output: true
     order:
-      - CCA (Primary)/Science Club.md
-      - CCA (Primary)/Robotics Club.md
-      - CCA (Primary)/Maths Society.md
-      - CCA (Primary)/International Chess Club.md
-      - CCA (Primary)/Infocomm Technology (Media Production).md
-      - CCA (Primary)/Environmental Science Club.md
-      - CCA (Primary)/English Drama Society.md
-      - CCA (Primary)/Chinese Writers' Club.md
-      - CCA (Primary)/Chinese Speech and Drama Club.md
-      - CCA (Primary)/Chinese Chess Club.md
-      - CCA (Primary)/Art Club.md
-      - CCA (Primary)/String Ensemble.md
-      - CCA (Primary)/School Brass Band.md
-      - CCA (Primary)/Scouts.md
-      - CCA (Primary)/Wushu.md
-      - CCA (Primary)/Taekwando.md
-      - CCA (Primary)/Table Tennis.md
-      - CCA (Primary)/Softball.md
-      - CCA (Primary)/Rockwall Climbing.md
-      - CCA (Primary)/Multi Sports Club.md
-      - CCA (Primary)/Modular Sports (CCA).md
-      - CCA (Primary)/Bowling.md
-      - CCA (Primary)/Basketball.md
-      - CCA (Primary)/Badminton.md
       - CCA (Primary)/.keep
       - CCA (Primary)/CCA (Primary).md
+      - CCA (Primary)/Badminton.md
+      - CCA (Primary)/Basketball.md
+      - CCA (Primary)/Bowling.md
+      - CCA (Primary)/Modular Sports (CCA).md
+      - CCA (Primary)/Multi Sports Club.md
+      - CCA (Primary)/Rockwall Climbing.md
+      - CCA (Primary)/Softball.md
+      - CCA (Primary)/Table Tennis.md
+      - CCA (Primary)/Taekwando.md
+      - CCA (Primary)/Wushu.md
+      - CCA (Primary)/Scouts.md
+      - CCA (Primary)/School Brass Band.md
+      - CCA (Primary)/String Ensemble.md
+      - CCA (Primary)/Art Club.md
+      - CCA (Primary)/Chinese Chess Club.md
+      - CCA (Primary)/Chinese Speech and Drama Club.md
+      - CCA (Primary)/Chinese Writers' Club.md
+      - CCA (Primary)/English Drama Society.md
+      - CCA (Primary)/Environmental Science Club.md
+      - CCA (Primary)/Infocomm Technology (Media Production).md
+      - CCA (Primary)/International Chess Club.md
+      - CCA (Primary)/Maths Society.md
+      - CCA (Primary)/Robotics Club.md
+      - CCA (Primary)/Science Club.md
       - CCA (Secondary)/.keep
       - CCA (Secondary)/CCA (Secondary).md
