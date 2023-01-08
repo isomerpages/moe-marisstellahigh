@@ -56,7 +56,7 @@ description: ""
 </a></p>
 
 <br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+
 
 **UNIFORMED GROUPS**
 
@@ -65,7 +65,7 @@ description: ""
 </a></p>
 
 <br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+
 
 **PERFORMING ARTS**
 
@@ -79,7 +79,7 @@ description: ""
 </a></p>
 
 <br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+
 
 **CLUBS AND SOCIETIES**
 
