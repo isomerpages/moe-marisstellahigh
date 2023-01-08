@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Rockwall Climbing.md
       - CCA (Primary)/Multi Sports Club.md
       - CCA (Primary)/Modular Sports (CCA).md
       - CCA (Primary)/Bowling.md
