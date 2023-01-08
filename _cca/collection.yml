@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Environmental Science Club.md
       - CCA (Primary)/English Drama Society.md
       - CCA (Primary)/Chinese Writers' Club.md
       - CCA (Primary)/Chinese Speech and Drama Club.md
