@@ -4,8 +4,6 @@ permalink: /programmes/primary/cca/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
 # CCA
 **SPORTS**
 
@@ -121,7 +119,7 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25.3%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 
