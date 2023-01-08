@@ -46,7 +46,7 @@ description: ""
 
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Taekwando.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Taekwando.jpg" style="width:24.8%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
