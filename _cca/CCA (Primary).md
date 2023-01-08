@@ -7,7 +7,7 @@ description: ""
 **SPORTS**
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Badminton.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Badminton.jpg" style="width:25.5%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="link">
