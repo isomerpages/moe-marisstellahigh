@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Scouts.md
       - CCA (Primary)/Wushu.md
       - CCA (Primary)/Taekwando.md
       - CCA (Primary)/Table Tennis.md
