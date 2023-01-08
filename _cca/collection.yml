@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Chinese Writers' Club.md
       - CCA (Primary)/Chinese Speech and Drama Club.md
       - CCA (Primary)/Chinese Chess Club.md
       - CCA (Primary)/Art Club.md
