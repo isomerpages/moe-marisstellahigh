@@ -88,7 +88,7 @@ description: ""
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25.3%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -103,7 +103,7 @@ description: ""
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/English%20Drama%20Society.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/English%20Drama%20Society.jpg" style="width:24.8%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -118,7 +118,7 @@ description: ""
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25.3%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -133,5 +133,5 @@ description: ""
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:24.8%;margin-right:15px;" align = "left">
 </a></p>
