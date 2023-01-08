@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 **SPORTS**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/badminton/">
-<img src="/images/CCA/Primary/Badminton.jpg" style="width:25.5%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Badminton.jpg" style="width:25.3%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/basketball/">
