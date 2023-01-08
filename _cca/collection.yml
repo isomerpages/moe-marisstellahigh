@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Robotics Club.md
       - CCA (Primary)/Maths Society.md
       - CCA (Primary)/International Chess Club.md
       - CCA (Primary)/Infocomm Technology (Media Production).md
