@@ -38,7 +38,7 @@ third_nav_title: CCA (Primary)
 <br><br><br><br><br><br><br><br>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/softball/">
-<img src="/images/CCA/Primary/Softball.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Softball.jpg" style="width:25.2%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/table-tennis/">
