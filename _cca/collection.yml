@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary Soul)/.keep
       - CCA (Primary).md
       - CCA (Secondary).md
