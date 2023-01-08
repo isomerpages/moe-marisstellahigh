@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA (Primary)/Badminton.md
       - CCA (Primary)/.keep
       - CCA (Primary)/CCA (Primary).md
       - CCA (Secondary)/.keep
