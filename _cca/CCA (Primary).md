@@ -61,7 +61,7 @@ description: ""
 **UNIFORMED GROUPS**
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Scouts.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -71,11 +71,11 @@ description: ""
 
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/School%20Brass%20Band.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/String%20Ensemble.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -88,46 +88,50 @@ description: ""
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
-</a></p>
-
-<br><br><br><br><br><br><br><br>
-
-<p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
-</a></p>
-
-
-<p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Chinese%20Speech%20and%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Chinese%20Writers'%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/English%20Drama%20Society.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Environmental%20Science%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
 <p><a href="link">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Infocomm%20Technology%20(Media%20Production).jpg" style="width:25%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="link">
+<img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+</a></p>
+
+
+<p><a href="link">
+<img src="/images/CCA/Primary/Maths%20Society.jpg" style="width:25%;margin-right:15px;" align = "left">
+</a></p>
+
+<br><br><br><br><br><br><br><br>
+
+<p><a href="link">
+<img src="/images/CCA/Primary/Robotics%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="link">
+<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
