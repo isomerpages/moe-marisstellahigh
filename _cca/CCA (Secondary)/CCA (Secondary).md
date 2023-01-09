@@ -13,12 +13,12 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/athletics-secondary-4-only/">
-<img src="/images/CCA/Secondary/Athletics.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Athletics.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/badminton/">
-<img src="/images/CCA/Secondary/Badminton.jpg" style="width:25.2%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Badminton.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -28,7 +28,7 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/bowling/">
-<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.2%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.1%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -48,7 +48,7 @@ third_nav_title: CCA (Secondary)
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/wushu/">
-<img src="/images/CCA/Secondary/Wushu.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Wushu.jpg" style="width:24.1%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -61,23 +61,23 @@ third_nav_title: CCA (Secondary)
 
 **UNIFORMED GROUPS**
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/CCA/Primary/Modular%20CCA%20(Sports).jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/national-cadet-corps-sea/">
+<img src="/images/CCA/Secondary/NCC.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/multi-sports-club/">
-<img src="/images/CCA/Primary/Multi%20Sports%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/national-police-cadet-corps/">
+<img src="/images/CCA/Secondary/NPCC.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/rockwall-climbing/">
-<img src="/images/CCA/Primary/Rockwall%20Climbing.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/singapore-scouts/">
+<img src="/images/CCA/Secondary/Scouts.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/CCA/Primary/Modular%20CCA%20(Sports).jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/st-john-brigade/">
+<img src="/images/CCA/Secondary/St%20John%20Brigade.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -86,32 +86,32 @@ third_nav_title: CCA (Secondary)
 
 **PERFORMING ARTS**
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/CCA/Primary/Modular%20CCA%20(Sports).jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/chinese-orchestra/">
+<img src="/images/CCA/Secondary/Chinese%20Orchestra.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/multi-sports-club/">
-<img src="/images/CCA/Primary/Multi%20Sports%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/symphonic-band/">
+<img src="/images/CCA/Secondary/Symphonic%20Band.jpg" style="width:24.7%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
 **CLUBS AND SOCIETIES**
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/CCA/Primary/Modular%20CCA%20(Sports).jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/chinese-literary-society/">
+<img src="/images/CCA/Secondary/Chinese%20Literary%20Society.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/multi-sports-club/">
-<img src="/images/CCA/Primary/Multi%20Sports%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/english-literary-society/">
+<img src="/images/CCA/Secondary/English%20Literary%20Society.jpg" style="width:24.9%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/CCA/Primary/Modular%20CCA%20(Sports).jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/marist-digital-media-club/">
+<img src="/images/CCA/Secondary/Marist%20Digital%20Media%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/multi-sports-club/">
-<img src="/images/CCA/Primary/Multi%20Sports%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/marist-robotics-and-programming-club/">
+<img src="/images/CCA/Secondary/Marist%20Robotics%20and%20Programming%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
