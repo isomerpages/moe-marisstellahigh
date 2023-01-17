@@ -87,7 +87,7 @@ third_nav_title: CCA (Secondary)
 **PERFORMING ARTS**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/chinese-orchestra/">
-<img src="/images/CCA/Secondary/Chinese%20Orchestra.jpg" style="width:25.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Chinese%20Orchestra.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/symphonic-band/">
