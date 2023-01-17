@@ -9,7 +9,7 @@ third_nav_title: CCA (Secondary)
 **PHYSICAL SPORTS**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/archery/">
-<img src="/images/CCA/Secondary/Archery.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Archery.jpg" style="width:24.9%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/athletics-secondary-4-only/">
@@ -28,7 +28,7 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/bowling/">
-<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.2%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.3%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -43,12 +43,12 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/taekwando/">
-<img src="/images/CCA/Secondary/Taekwando.jpg" style="width:24.6%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Taekwando.jpg" style="width:24.7%;margin-right:15px;" align = "left">
 </a></p>
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/wushu/">
-<img src="/images/CCA/Secondary/Wushu.jpg" style="width:24.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Wushu.jpg" style="width:24.2%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -62,7 +62,7 @@ third_nav_title: CCA (Secondary)
 **UNIFORMED GROUPS**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/national-cadet-corps-sea/">
-<img src="/images/CCA/Secondary/NCC.jpg" style="width:25.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/NCC.jpg" style="width:25.2%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/national-police-cadet-corps/">
@@ -87,7 +87,7 @@ third_nav_title: CCA (Secondary)
 **PERFORMING ARTS**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/chinese-orchestra/">
-<img src="/images/CCA/Secondary/Chinese%20Orchestra.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Chinese%20Orchestra.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/symphonic-band/">
