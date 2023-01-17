@@ -23,4 +23,4 @@ third_nav_title: For Students (Primary)
 
 **Learning Portal**
 
-*   [Student Learning Space (SLS)](https://marisstellahigh.moe.edu.sg/useful-links-and-info/primary/for-students/student-learning-space-sls)
+*   [Student Learning Space (SLS)](https://staging.d2r0kwuamjw0vo.amplifyapp.com/useful-links-and-info/primary/for-students/student-learning-space-sls/)
