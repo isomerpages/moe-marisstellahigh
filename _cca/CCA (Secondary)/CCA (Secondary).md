@@ -13,12 +13,12 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/athletics-secondary-4-only/">
-<img src="/images/CCA/Secondary/Athletics.jpg" style="width:25.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Athletics.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/badminton/">
-<img src="/images/CCA/Secondary/Badminton.jpg" style="width:25.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Badminton.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -28,7 +28,7 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/bowling/">
-<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Bowling.jpg" style="width:24.2%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -43,7 +43,7 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/taekwando/">
-<img src="/images/CCA/Secondary/Taekwando.jpg" style="width:24.5%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/Taekwando.jpg" style="width:24.6%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -66,7 +66,7 @@ third_nav_title: CCA (Secondary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/national-police-cadet-corps/">
-<img src="/images/CCA/Secondary/NPCC.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Secondary/NPCC.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 
