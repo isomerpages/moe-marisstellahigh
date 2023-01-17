@@ -4,3 +4,9 @@ permalink: /useful-links-and-info/primary/for-students/school-bus-services/
 description: ""
 third_nav_title: For Students (Primary)
 ---
+# School Bus Services
+
+**Renhurn Bus Service**
+
+Tel: 6789 3775<br>
+HP: 9367 7366 (Mr Alex Toh)
