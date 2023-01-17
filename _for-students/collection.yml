@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - For Students (Primary)/.keep
       - For Students (Primary).md
