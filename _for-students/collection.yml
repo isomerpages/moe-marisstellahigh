@@ -2,8 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - For Students (Secondary)/For Students.md
-      - For Students (Secondary)/.keep
       - For Students (Primary)/.keep
       - For Students (Primary)/For Students.md
       - For Students (Primary)/Books, Uniform and Name Tag.md
@@ -13,3 +11,5 @@ collections:
       - For Students (Primary)/School Calendar.md
       - For Students (Primary)/School Rules.md
       - For Students (Primary)/Student Learning Space.md
+      - For Students (Secondary)/.keep
+      - For Students (Secondary)/For Students.md
