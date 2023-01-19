@@ -8,19 +8,17 @@ third_nav_title: For Students (Secondary)
 
 #### Book
 
+**Bookshop: Pacific Bookstores Pte Ltd 太平洋书局私人有限公司**
+
 <table>
 <thead>
-  <tr>
-    <th>Bookshop: </th>
-    <th colspan="2">Pacific Bookstores Pte Ltd 太平洋书局私人有限公司</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td>Bookshop Operating Hours:</td>
     <td>Mon/ Wed/ Thu/ Fri</td>
     <td>7.00am to 3.00pm</td>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td></td>
     <td>Tue</td>
