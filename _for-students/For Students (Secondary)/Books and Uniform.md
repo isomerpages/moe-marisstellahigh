@@ -41,8 +41,8 @@ third_nav_title: For Students (Secondary)
 
 #### SCHOOL UNIFORM
 
-Shanghai School Uniform  
-Sales Outlet: 63 Ubi Ave 1, #04-09, Singapore 408937
+**Shanghai School Uniform  
+Sales Outlet: 63 Ubi Ave 1, #04-09, Singapore 408937**
 
 <table>
 <thead>
