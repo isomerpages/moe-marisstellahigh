@@ -5,7 +5,7 @@ description: ""
 ---
 # Frequently Asked Questions
 
-<u>Admission</u>
+<u><b>ADMISSION</b></u>
 
 **1. What is the new 2021 PSLE score for admission into Maris Stella High School?**
 
@@ -36,3 +36,34 @@ The appeal process will be made known via our school website nearer to the relea
 **6. How do I apply to the school via Direct Schools Admission (DSA)?**
 
 DSA application typically begins around May every year. Updated details will be published on the Ministry of Education website, as well as our school website, closer to that period.
+
+<u><b>ACADEMIC</b></u>
+
+**7. Must my son/ward take Higher Chinese Language (HCL) while in the school?**
+
+At Secondary 1, all of our students are offered the chance to take HCL. While the school offers the option to do so, it is not compulsory and a student may indicate his preference of taking either HCL or CL.
+
+**8. Can my son/ward choose to drop HCL if he cannot cope with the subject?**
+
+Yes, he can. However, students who have started HCL in Secondary 1 are encouraged to continue doing so until Secondary 3, where they will take the O-Level CL examination, before making a decision to continue or not. This is because learning a language takes time.
+
+**9. Does the school offer Normal (Academic) or Normal (Technical) courses of study?**
+
+No, the school offers only the Express course of study.
+
+**10. Does the school have Subject-Based Banding?** 
+
+As our school offers only the Express course of study, we do not have Subject-Based Banding. This is being piloted in schools with Express, NA and NT streams and will eventually be implemented in schools with the 3 streams.
+
+
+<u><b>SCHOOL PROGRAMMES</b></u>
+
+**11. What are the signature programmes offered at Maris Stella?**
+
+The signature programmes offered at Maris Stella include:
+
+*   [Brother Chanel Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/bicultural-programme/)
+*   [Spiritual Formation](https://marisstellahigh.moe.edu.sg/programmes/secondary/catholic-education) **(LINK DOES NOT WORK)**
+*   [The Marcellin Way](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cce/)
+*   [Chinese Language Elective Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/academic-programme/chinese-language/)
+*   [ICT Programme (for lower secondary)](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/ict/)
