@@ -67,3 +67,37 @@ The signature programmes offered at Maris Stella include:
 *   [The Marcellin Way](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cce/)
 *   [Chinese Language Elective Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/academic-programme/chinese-language/)
 *   [ICT Programme (for lower secondary)](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/ict/)
+
+**12. What is the school experience like for a non-Catholic student?**
+
+The school offers a variety of signature programmes, as described above.  
+
+Additionally, as a Catholic school, we inculcate universal values of love, integrity, and humility as well as respecting the dignity of others. All students will have the opportunity to deepen their understanding of these values and Catholic traditions through certain seasonal activities, such as assembly programmes held during the season of Lent (leading up to Easter). Additional Catholic programmes such as camps and masses are organised for the spiritual development of Catholic students; non-Catholics are welcome to attend these optional activities.
+
+**13\. What are the types of CCA offered at Maris Stella?**
+
+The school offers a variety of CCAs in Physical Sports, Uniformed Groups, Performing Arts, Clubs and Societies.
+
+For more information on CCAs, please refer to this [page](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cca/).
+
+<u><b>GENERAL ENQUIRIES</b></u>
+
+**14. Does my son/ward need a laptop when he joins the school?**
+
+Under the National Digital Literacy Programme, every secondary school student will own a school-prescribed personal learning device. They will receive more information about this in the course of their Secondary 1 year.
+
+**15\. What are the school hours like in Maris Stella?**
+
+School starts at 7.30 a.m. and ends every day at 1.45 p.m. for lower secondary students. For upper secondary students, school ends at 3.15 p.m. on Thursdays. On some afternoons, students may attend enrichment or supplementary programmes.
+
+**16\. What are the public transport services available to reach Maris Stella?**
+
+The nearest MRT station to Maris Stella is Bartley MRT Station, which is located on the Circle Line.
+
+The bus services available are 93, 129 and 158.
+
+<u><b>OTHERS</b></u>
+
+**17\. What are the schools affiliated with Maris Stella?**
+
+Our school is affiliated with Maris Stella High School (Primary) and Catholic Junior College. Students who apply to Catholic Junior College have 2 affiliation bonus points.
