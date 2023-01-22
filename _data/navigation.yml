@@ -29,37 +29,35 @@ links:
       - title: Academic Programme
         url: /programmes/primary/academic-programme
       - title: Bicultural Programme
-        url: /permalink
+        url: /programmes/primary/bicultural-programme/
       - title: Faith Formation
-        url: /permalink
+        url: /programmes/primary/faith-formation/
       - title: CCE
-        url: /permalink
+        url: /programmes/primary/cce/the-marcellin-way/
       - title: CCA
-        url: /permalink
+        url: /programmes/primary/cca/
       - title: ICT
-        url: /permalink
+        url: /programmes/primary/ict/
   - title: School Happenings
     url: /permalink
     sublinks:
       - title: News
-        url: /permalink
+        url: /school-happenings/primary/news/
       - title: Announcements
-        url: /permalink
+        url: /school-happenings/primary/announcements/
   - title: Useful Links and Info
     url: /permalink
     sublinks:
       - title: For Students
-        url: /permalink
+        url: /useful-links-and-info/primary/for-students/
       - title: For Staff
-        url: /permalink
+        url: /useful-links-and-info/primary/for-staff/
       - title: For Parents
-        url: /permalink
+        url: /useful-links-and-info/primary/for-parents/
   - title: Admission
     url: /permalink
     sublinks:
       - title: Admission
-        url: /permalink
-      - title: Direct School Admission (DSA)
-        url: /permalink
+        url: /admission/primary/primary-1-admission/
       - title: FAQs
-        url: /permalink
+        url: /admission/secondary/faqs/
