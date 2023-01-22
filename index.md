@@ -10,8 +10,7 @@ sections:
       background: /images/hero-banner.png
   - infobar:
       title: Latest Happenings
-      description: Secondary 1 E-Registration and Appeal Process
+      description: More information on 2022 GCE O-Level Exam Result Release.
       button: Click Here
-      url: /admission/secondary/admission
+      url: /school-happenings/secondary/announcements/
 ---
-
