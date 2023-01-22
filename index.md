@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/maris stella homepage.gif
   - infobar:
       title: Latest Happenings
       description: More information on 2022 GCE O-Level Exam Result Release.
