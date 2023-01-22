@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Admission (Primary)/Waitlist Application.md
       - Admission (Primary)/Primary 1 Admission.md
       - Admission (Primary)/.keep
