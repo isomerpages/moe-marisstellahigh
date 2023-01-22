@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - For Parents (Primary)/.keep
       - For Parents (Primary).md
       - For Parents (Secondary).md
