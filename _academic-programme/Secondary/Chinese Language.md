@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # Chinese Language
 
 <img src="/images/Academic%20Programme/Secondary/chinese_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 
 **部门宗旨：**
