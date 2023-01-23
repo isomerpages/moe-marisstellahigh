@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # Science
 
 <img src="/images/Academic%20Programme/Secondary/science_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 **The Science Department aims to:**
 
@@ -41,6 +41,11 @@ third_nav_title: Secondary
 
 **TALENT DEVELOPMENT PROGRAMME**
 
-![](/images/Academic%20Programme/Secondary/Science_v2.jpg)
 
-![](/images/Academic%20Programme/Secondary/Science_v3.jpg)
+<img src="/images/Academic%20Programme/Secondary/Science_v2.jpg"  
+     style="width:65%">
+
+
+
+<img src="/images/Academic%20Programme/Secondary/Science_v3.jpg"  
+     style="width:65%">
