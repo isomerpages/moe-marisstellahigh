@@ -5,7 +5,10 @@ description: ""
 ---
 # Faith Formation
 
-![](/images/Faith%20Formation/faith%20formation.jpg)
+
+<img src="/images/Faith%20Formation/faith%20formation.jpg"  
+     style="width:75%">
+
 
 **The Faith Formation Programme aims to:**
 
