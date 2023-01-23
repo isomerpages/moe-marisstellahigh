@@ -4,13 +4,13 @@ permalink: /about-mshs/school-history/
 description: ""
 ---
 # School History
-<center>
+
 	
 ### 永恒的海星精神  
 
 ### THE MARIS STELLA SPIRIT PREVAILS 
 	
-</center>	
+
 
 海星中学创办于1958年，从当初“一所没有校园的学校”发展为今天这样一所规模庞大、设施完善的现代化学府，海星一直带着创办人孙光汉修士的信念与梦想与时并进着。
 
