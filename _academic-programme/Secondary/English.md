@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # English
 
 <img src="/images/Academic%20Programme/Secondary/english_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 
 **The English Language and Literature Department aims to:**
