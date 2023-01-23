@@ -7,7 +7,7 @@ third_nav_title: Primary
 # Chinese
 
 <img src="/images/Academic%20Programme/Primary/Chinese%20Language%201.jpg"  
-     style="width:55%">
+     style="width:45%">
 
 
 **华文部致力于**：  
