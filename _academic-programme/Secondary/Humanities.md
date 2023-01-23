@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # Humanities
 
 <img src="/images/Academic%20Programme/Secondary/humanities_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 **The Humanities** **Department** **aims to:** 
 
