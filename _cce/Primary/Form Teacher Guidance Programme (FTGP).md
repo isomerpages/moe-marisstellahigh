@@ -6,7 +6,10 @@ third_nav_title: Primary
 ---
 # Form Teacher Guidance Programme (FTGP)
 
-![](/images/CCE/Primary/FTGP.jpg)
+
+<img src="/images/CCE/Primary/FTGP.jpg"  
+     style="width:75%">
+
 
 
 **To achieve these goals, the following programmes are offered:**
