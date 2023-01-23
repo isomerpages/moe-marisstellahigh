@@ -4,7 +4,6 @@ permalink: /about-mshs/our-partners/parent-support-group/psg-handbook/
 description: ""
 third_nav_title: Parents Support Group
 ---
-
 <table>
 <thead>
   <tr>
@@ -99,17 +98,17 @@ The school-PSG partnership aims to achieve one common goal – that of providing
 
         (a) PSG Members are allowed to be in school strictly only on the day(s) and during the time(s) of duty;
 
-        (b) PSG Members shall prominently display the PSG passes using the PSG lanyards provided when in school for duty. PSG Members who are                   not on duty shall not enter the school premises using the PSG passes/lanyards and shall instead obtain a Visitor’s Pass from the General                       Office;
+        (b) PSG Members shall prominently display the PSG passes using the PSG lanyards provided when in school for duty. PSG Members who are not on duty shall not enter the school premises using the PSG passes/lanyards and shall instead obtain a Visitor’s Pass from the General                       Office;
 
-        (c) When in school for duty, PSG Members shall make their way directly to the assigned duty areas and remain there until the end of duty                           time.  At no time shall PSG Members venture to any other parts of the school;
+        (c) When in school for duty, PSG Members shall make their way directly to the assigned duty areas and remain there until the end of duty time.  At no time shall PSG Members venture to any other parts of the school;
 
-        (d) PSG Members who drive and park in school while performing PSG duties must ensure that valid car decals are prominently displayed on                    PSG Members’ cars and shall park only in the designated parking areas;
+        (d) PSG Members who drive and park in school while performing PSG duties must ensure that valid car decals are prominently displayed on PSG Members’ cars and shall park only in the designated parking areas;
 
-        (e) PSG Members shall be appropriately attired as well as modestly dressed while on duty, both while in the school premises as well as when                   volunteering for school activities held outside of the school (e.g. Learning Journeys, SwimSafer);
+        (e) PSG Members shall be appropriately attired as well as modestly dressed while on duty, both while in the school premises as well as when volunteering for school activities held outside of the school (e.g. Learning Journeys, SwimSafer);
 
-        (f) PSG Members must not use their duty time in school for informal Parent-Teacher meetings. To discuss his/her child’s progress in school,                      PSG Member shall make separate arrangements to meet with the teachers;
+        (f) PSG Members must not use their duty time in school for informal Parent-Teacher meetings. To discuss his/her child’s progress in school, PSG Member shall make separate arrangements to meet with the teachers;
 
-        (g) If and when carrying out duties for a particular class, PSG Members must take care of all the children in that class and not focus on his/her                   own child or a specific group of children; and
+        (g) If and when carrying out duties for a particular class, PSG Members must take care of all the children in that class and not focus on his/her own child or a specific group of children; and
 
         (h) In the course of performing our duty, PSG Members must <u>not</u> attempt to discipline any child.  Potential disciplinary problems, if any, shall be referred to the PSG Sub-Group Head or school/class teacher.     
 
@@ -123,7 +122,7 @@ The school-PSG partnership aims to achieve one common goal – that of providing
 
          (c) discuss or divulge any information or activities that occur in school;
 
-         (d) accept any form of social and/or media interviews on behalf of the school or the PSG except with prior approval granted by authorised                        school personnel;
+         (d) accept any form of social and/or media interviews on behalf of the school or the PSG except with prior approval granted by authorised school personnel;
 
          (e) use their position in the PSG to promote any commercial products or political candidates or parties.
 
