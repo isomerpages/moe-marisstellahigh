@@ -4,7 +4,7 @@ permalink: /programmes/secondary/faith-formation/
 description: ""
 ---
 # Faith Formation
-'
+
 
 <img src="/images/Faith%20Formation/Religious%20Education.jpg"  
      style="width:75%">
