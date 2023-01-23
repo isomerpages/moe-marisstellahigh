@@ -8,7 +8,7 @@ third_nav_title: Secondary
 
 
 <img src="/images/Academic%20Programme/Secondary/d&t_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 
 **The Design and Technology** **Department** **aims to:**
