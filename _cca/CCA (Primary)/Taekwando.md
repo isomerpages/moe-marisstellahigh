@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Taekwando
 
 <img src="/images/CCA/Primary/Taekwando_D1R0436.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Taekwondo CCA aims to:** 
 
