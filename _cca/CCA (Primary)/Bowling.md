@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 
 
 <img src="/images/CCA/Primary/Bowling_D1R1412.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Bowling CCA aims to:** 
 
