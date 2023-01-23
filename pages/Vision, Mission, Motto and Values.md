@@ -4,11 +4,11 @@ permalink: /about-mshs/vision-mission-motto-and-values/
 description: ""
 ---
 # Vision, Mission, Motto and Values
-<center>
+
 
 ### 愿景
 ### VISION
-###   
+ 
 
 凡我海星学子，当为恪守信念、富有远见、服务人群的谦谦君子。
 
@@ -17,7 +17,7 @@ Every Marist, a Gentleman of Faith, Vision and Service.
   
   
 
-###   
+
 
 ### 使命
 
@@ -31,7 +31,6 @@ The holistic development of each Marist that blends faith, culture and life, wit
 
   
 
-###   
 
 ### 校训
 
@@ -89,4 +88,4 @@ The holistic development of each Marist that blends faith, culture and life, wit
     <td><center>In the Way of Mary</center></td>
   </tr>
 </tbody>
-</table>	
+</table>
