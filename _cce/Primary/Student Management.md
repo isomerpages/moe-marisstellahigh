@@ -6,7 +6,10 @@ third_nav_title: Primary
 ---
 # Student Management
 
-![](/images/CCE/Primary/Student%20management.jpg)
+
+<img src="/images/CCE/Primary/Student%20management.jpg"  
+     style="width:75%">
+
 
 The Student Management Committee aims to:  
 
