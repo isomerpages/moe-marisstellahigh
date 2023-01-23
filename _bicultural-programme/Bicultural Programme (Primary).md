@@ -5,7 +5,10 @@ description: ""
 ---
 # Bicultural Programme
 
-![](/images/Bicultural%20Programme/Primary/Biculutural.jpg)
+
+<img src="/images/Bicultural%20Programme/Primary/Biculutural.jpg"  
+     style="width:65%">
+
 
 **双文化部致力于：**  
 
@@ -20,7 +23,7 @@ description: ""
 
 
 <img src="/images/Bicultural%20Programme/Primary/Bicultural%20Diagram.jpg"  
-     style="width:75%">
+     style="width:70%">
 
 6年的双文化计划以儒家"正心修身齐家治国平天下"的概念为基础，建构适合各年段的集体活动，培养品德兴趣与能力。  
   
