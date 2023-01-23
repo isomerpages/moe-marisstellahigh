@@ -167,7 +167,7 @@ A certificate of recognition will be presented to students upon completion of th
 完成两年的语特课程后，学生将获颁证书以资肯定。
 
 
-![](/images/Academic%20Programme/Secondary/chinese%201.jpg)
+
 <img src="/images/Academic%20Programme/Secondary/chinese%201.jpg"  
      style="width:55%">
 
