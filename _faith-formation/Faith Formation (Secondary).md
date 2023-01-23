@@ -5,7 +5,10 @@ description: ""
 ---
 # Faith Formation
 '
-![](/images/Faith%20Formation/Religious%20Education.jpg)
+
+<img src="/images/Faith%20Formation/Religious%20Education.jpg"  
+     style="width:75%">
+
 
 **The Faith Formation Programme aims to:** 
 
