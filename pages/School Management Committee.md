@@ -5,7 +5,7 @@ description: ""
 ---
 # School Management Committee
 
-<center>
+
 
 ### 海星中学学校管理委员会
 
@@ -15,4 +15,3 @@ description: ""
 	
 <b>WEBPAGE UNDER CONSTRUCTION</b>
 	
-</center>
