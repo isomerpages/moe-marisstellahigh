@@ -6,7 +6,10 @@ third_nav_title: Primary
 ---
 # Values in Action (VIA)
 
-![](/images/CCE/Primary/Value%20in%20action.jpg)
+
+<img src="/images/CCE/Primary/Value%20in%20action.jpg"  
+     style="width:75%">
+
 
 **To achieve these goals, the following programmes are offered:**
 
