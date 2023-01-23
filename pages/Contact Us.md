@@ -20,14 +20,17 @@ Fax: (65) 6282 7905&nbsp;
 Singapore 368051
 
 
-<p><a href="https://www.instagram.com/marisstellahighschool/?hl=en">
-<img style="width:5%" src="/images/Contact%20Us/instagram_PNG11.png">
-</a></p>
 
 
-<p><a href="https://www.facebook.com/marisstellahighschool">
-<img style="width:5%" src="/images/Contact%20Us/marisstella-homepage-facebookicon.png">
-</a></p>
+<img src="/images/Contact%20Us/instagram_PNG11.png" style="width:5%;margin-right:15px;" align = "left">
+
+
+<img src="/images/Contact%20Us/marisstella-homepage-facebookicon.png" style="width:5%;margin-right:15px;" align = "left">
+
+
+<br><br>
+
+
 
 
 [Bus Numbers: 28, 93, 129, 158; 100, 135, 155](https://www.facebook.com/marisstellahighschool/?ref=bookmarks)
