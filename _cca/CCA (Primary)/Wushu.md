@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Wushu
 
 <img src="/images/CCA/Primary/Wushu_D1R0570.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Wushu CCA aims to:** 
 
