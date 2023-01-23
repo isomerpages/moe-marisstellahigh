@@ -34,13 +34,13 @@ third_nav_title: CCA (Primary)
 
 *   2019 18th National School Games Tenpin Bowling Championships 
 
-*   Overall Junior – 1st Runner Up
-*   Singles Junior – 1st Runner Up
-*   Doubles Junior – 2nd Runner Up  
+    *   Overall Junior – 1st Runner Up
+    *   Singles Junior – 1st Runner Up
+    *   Doubles Junior – 2nd Runner Up  
     
-*   Team Junior – 1st Runner Up  
+    *   Team Junior – 1st Runner Up  
     
-*   Overall Senior – 2nd Runner Up
+    *   Overall Senior – 2nd Runner Up
 
   
 
