@@ -7,7 +7,7 @@ third_nav_title: Primary
 # Music
 
 <img src="/images/Academic%20Programme/Primary/Music_v3.jpg"  
-     style="width:55%">
+     style="width:45%">
 
 
 **The Aesthetics (Music) Department** **aims to:**
