@@ -8,7 +8,7 @@ third_nav_title: Secondary
 
 
 <img src="/images/Academic%20Programme/Secondary/pe_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 
 **The Physical Education (PE)** **Department** **aims to:**
