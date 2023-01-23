@@ -42,7 +42,7 @@ third_nav_title: Secondary
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/academic-programme/design-and-technology/">
-<img src="/images/Academic%20Programme/Secondary/D&T%20(sec).jpg" style="width:183px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/Academic%20Programme/Secondary/D&T%20(sec).jpg" style="width:183px;height:239px;margin-right:15px;" align = "left">
 </a></p>
 
 
