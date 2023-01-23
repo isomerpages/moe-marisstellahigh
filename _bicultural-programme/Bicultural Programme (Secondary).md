@@ -6,7 +6,10 @@ description: ""
 # BROTHER CHANEL BICULTURAL PROGRAMME 孙光汉修士双文化特选课程
 
 
-![](/images/Bicultural%20Programme/Secondary/bicultural%20(sec).jpg)
+
+<img src="/images/Bicultural%20Programme/Secondary/bicultural%20(sec).jpg"  
+     style="width:65%">
+
 
 “兼通双语，传承文化”是特选中学的使命。我校的双文化特选课程以我校创办人孙光汉修士的名字命名，称为BROTHER CHANEL BICULTURAL PROGRAMME。为确保学生们能够在国际舞台上维持竞争力，我们积极培养有能力和中国以及西方国家进行交流的双语双文化人才，培养兼具东西方视野和触角，既能心系祖国，又能放眼天下的人才。海星中学的特选旗舰项目一直在致力于塑造学生，在四年的海星学生生活中，达到如下目标：  
   
