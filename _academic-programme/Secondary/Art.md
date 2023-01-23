@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # Art
 
 <img src="/images/Academic%20Programme/Secondary/arts_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
 **The Art** **Department** **aims to:**
 
