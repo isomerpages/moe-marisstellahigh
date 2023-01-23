@@ -6,7 +6,10 @@ third_nav_title: Primary
 ---
 # National Education
 
-![](/images/CCE/Primary/National-Education.jpg)
+
+<img src="/images/CCE/Primary/National-Education.jpg"  
+     style="width:75%">
+
 
 **To achieve these goals, the following programmes are offered:**  
 
