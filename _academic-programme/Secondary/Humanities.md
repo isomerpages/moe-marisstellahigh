@@ -29,7 +29,7 @@ We adopt an Inquiry-Based Learning Approach in our teaching of the Humanities. I
 
 
 <img src="/images/Academic%20Programme/Secondary/humanities_v2.jpg"  
-     style="width:35%">
+     style="width:30%">
 		 
 In the study of Humanities, our students are actively engaged in inquiry. This is best seen in a component called Geographical & Historical Investigations (GI and HI respectively).  
 
