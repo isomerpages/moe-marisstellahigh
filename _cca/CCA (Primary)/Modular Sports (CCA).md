@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 
 
 <img src="/images/CCA/Primary/Modular_sports.jpeg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Modular CCA (Sports) aims to:** 
 
