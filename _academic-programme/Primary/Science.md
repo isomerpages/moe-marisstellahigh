@@ -8,10 +8,10 @@ third_nav_title: Primary
 
 
 <img src="/images/Academic%20Programme/Primary/science_v3.png"  
-     style="width:55%">
+     style="width:45%">
 
 
-**The Science** **Department** **aims to:**
+**The Science Department aims to:**
 
 *   Equip Marists with essential scientific skills and attitudes through inquiry in a joyful learning environment; and
 *   Develop desirable character traits such as integrity, creativity and determination and adaptability in each Marist.
