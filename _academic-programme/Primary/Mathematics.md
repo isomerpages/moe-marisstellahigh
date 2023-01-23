@@ -7,7 +7,7 @@ third_nav_title: Primary
 # Mathematics
 
 <img src="/images/Academic%20Programme/Primary/math_v3.png" 
-     style="width:55%">
+     style="width:45%">
 
 **The Mathematics** Department aims to:
 
