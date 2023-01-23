@@ -8,7 +8,7 @@ third_nav_title: Secondary
 
 
 <img src="/images/Academic%20Programme/Secondary/maths_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 **The Mathematics Department aims to:**
 
