@@ -8,9 +8,9 @@ third_nav_title: Secondary
 
 
 <img src="/images/Academic%20Programme/Secondary/music_v1.png"  
-     style="width:55%">
+     style="width:45%">
 
-**The Music** **Department** **aims to:**
+**The Music Department aims to:**
 
 *   Broaden and challenge student's perception of what music is and can be;
 *   Provide Marists with a platform to perform and develop their existing music skills; and  
