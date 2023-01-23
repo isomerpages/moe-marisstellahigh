@@ -8,7 +8,7 @@ third_nav_title: Primary
 
 
 <img src="/images/Academic%20Programme/Primary/english_v3.png"  
-     style="width:55%">
+     style="width:45%">
 
 **The English Language Department aims to:**
 
