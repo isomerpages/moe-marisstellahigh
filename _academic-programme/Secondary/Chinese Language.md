@@ -94,7 +94,7 @@ third_nav_title: Secondary
 
 #### CHINESE LANGUAGE ELECTIVE PROGRAMME 华文语文特选课程
 
-#### **INTRODUCTION** **介绍**
+#### **INTRODUCTION 介绍**
 
 The Chinese Language Elective Programme at Secondary Level is introduced by the Ministry of Education to be implemented from 2020. Maris Stella High School aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop these students to become effectively bilingual so as to better serve the needs of our nation.
 
@@ -106,7 +106,7 @@ The Chinese Language Elective Programme at Secondary Level is introduced by the 
 
 新加坡海星中学是九所开办中学语特课程的学校之一。
 
-#### **CURRICULUM CONTENT**  **课程内容**
+#### **CURRICULUM CONTENT 课程内容**
 
 The duration of the programme is two years. All students enrolled in CLEP-Sec must offer O-Level Literature in Chinese, in either full or elective (non-IP schools), or a school-based CL Literature (IP schools).
 
@@ -114,7 +114,7 @@ The duration of the programme is two years. All students enrolled in CLEP-Sec mu
 
   
 
-#### **PROGRAMME ACTIVITIES**  **深广活动**
+#### **PROGRAMME ACTIVITIES 深广活动**
 
 Students from the CLEP-Sec centres will jointly attend two signature activities organised by MOE.
 
@@ -128,7 +128,7 @@ Students will also participate in school-based activities and programmes such as
 中学语特学生也将有机会参加由学校举办的一系列活动例如文学讲座、作家座谈会、深广课程、专题研究等。
 
 
-#### **ELIGIBILITY**  **录取资格**
+#### **ELIGIBILITY 录取资格**
 
 At the end of Secondary 2, students must obtain at least:  
 
@@ -142,7 +142,7 @@ At the end of Secondary 2, students must obtain at least:
 
 #### **PROGRAMME INCENTIVES**  **奖励措施**
 
-**Chinese Language Elective Scholarship (CLES)**
+**<u>Chinese Language Elective Scholarship (CLES)</u>**
 
 CLEP-Sec students who are Singapore citizens and achieved outstanding performance in lower secondary will be considered for the CLES awarded by MOE.
 
@@ -151,7 +151,7 @@ CLEP-Sec students who are Singapore citizens and achieved outstanding performanc
 *   Subsidy for overseas immersion trip will be given.
 *   The renewal of the CLES is subject to the recipient’s Secondary 3 examination performance and conduct.
 
-**CLEP-Sec Certificate**
+**<u>CLEP-Sec Certificate</u>**
 
 A certificate of recognition will be presented to students upon completion of the 2-year programme.
 
@@ -168,14 +168,18 @@ A certificate of recognition will be presented to students upon completion of th
 
 
 ![](/images/Academic%20Programme/Secondary/chinese%201.jpg)
+<img src="/images/Academic%20Programme/Secondary/chinese%201.jpg"  
+     style="width:55%">
 
 
 Online Chinese Literature Talk by Mr Denon Lim Denan on 12th Aug 2020   
 
 林得楠先生线上文学讲座 ―― “我的诗情我的诗”
 
-![](/images/Academic%20Programme/Secondary/chinese%202.jpg)
+<img src="/images/Academic%20Programme/Secondary/chinese%202.jpg"  
+     style="width:55%">
 
 Lessons are now conducted in our newly refurnished CLEP Room.
 
-![](/images/Academic%20Programme/Secondary/chinese%203.jpg)
+<img src="/images/Academic%20Programme/Secondary/chinese%203.jpg"  
+     style="width:55%">
