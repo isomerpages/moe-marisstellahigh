@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 
 
 <img src="/images/CCA/Primary/Table%20Tennis_D1R1092.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Table Tennis CCA aims to:** 
 
