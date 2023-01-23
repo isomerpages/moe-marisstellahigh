@@ -6,7 +6,9 @@ third_nav_title: Primary
 ---
 # Learning Support
 
-![](/images/CCE/Primary/Student%20management.jpg)
+<img src="/images/CCE/Primary/Student%20management.jpg"  
+     style="width:75%">
+
 
 The Learning Support Intervention Programme aims to:  
 
