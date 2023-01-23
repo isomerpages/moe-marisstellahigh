@@ -7,9 +7,9 @@ third_nav_title: Primary
 # Art
 
 <img src="/images/Academic%20Programme/Primary/Art_v3.jpg"  
-     style="width:55%">
+     style="width:45%">
 
-**The Aesthetics (Art)** **Department** **aims to:**
+**The Aesthetics (Art) Department aims to:**
 
 *   Develop a holistic curriculum that nurtures Marists to appreciate and explore different materials and art forms so that they can observe and perceive their world with increased awareness and aesthetics sensitivity.
 
