@@ -6,7 +6,10 @@ third_nav_title: Primary
 ---
 # Life's Lesson
 
-![](/images/CCE/Primary/good%20wheelchair%203.jpg)
+
+<img src="/images/CCE/Primary/good%20wheelchair%203.jpg"  
+     style="width:75%">
+
 
 On 8 November 2017, as part of the Project CARE programme, 34 of us, P6 Marists, visited the Saint Theresa’s Home, a Nursing Home for the elderly, established in 1935 by the Little Sisters of the Poor.
 
