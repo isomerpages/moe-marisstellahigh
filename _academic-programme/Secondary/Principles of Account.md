@@ -6,7 +6,10 @@ third_nav_title: Secondary
 ---
 # Principles of Account
 
-![](/images/Academic%20Programme/Secondary/POA.jpg)
+
+<img src="/images/Academic%20Programme/Secondary/POA.jpg"  
+     style="width:45%">
+
 
 **The Principles of Accounts Department aims to:**
 
