@@ -7,10 +7,10 @@ third_nav_title: Primary
 # Physical Education
 
 <img src="/images/Academic%20Programme/Primary/PE.jpg"  
-     style="width:55%">
+     style="width:45%">
 
 
-**The PE** **Department** **aims to:**
+**The PE Department aims to:**
 
 *   Provide a positive and joyful PE learning experience so that Marists will enjoy and value sustained active and healthy lifestyle;
 *   Acquire a range of movement skills, dispositions and knowledge in Physical Education for Marists to build confidence and motivation to participate in a variety of physical activities.
