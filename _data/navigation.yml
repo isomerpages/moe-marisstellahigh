@@ -46,7 +46,7 @@ links:
       - title: Announcements
         url: /school-happenings/primary/announcements/
   - title: Useful Links and Info
-    url: /permalink
+    url: /school-happenings/primary/news/
     sublinks:
       - title: For Students
         url: /useful-links-and-info/primary/for-students/
@@ -55,7 +55,7 @@ links:
       - title: For Parents
         url: /useful-links-and-info/primary/for-parents/
   - title: Admission
-    url: /permalink
+    url: /admission/primary/primary-1-admission/
     sublinks:
       - title: Admission
         url: /admission/primary/primary-1-admission/
