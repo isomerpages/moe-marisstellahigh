@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # English Drama Society
 
 <img src="/images/CCA/Primary/English%20Language%20Society_D1R0588.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The English Drama Society CCA aims to:** 
