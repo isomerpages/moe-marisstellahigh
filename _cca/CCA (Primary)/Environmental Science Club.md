@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Environmental Science Club
 
 <img src="/images/CCA/Primary/Science%20Garden%20Club_D1R0725.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Environmental Science Club CCA aims to:** 
