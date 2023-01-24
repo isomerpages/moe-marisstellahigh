@@ -9,7 +9,10 @@ description: ""
 
 Three of our secondary one Marists have been shortlisted in the finals of the Annual Science Buskers Festival this year. Hosted by A\*STAR and Science Centre Singapore, this competition aims to promote the learning of science in an engaging way. Check out Timothy, Ian and Christopher in the school's Facebook page as they explore how acid reacts with carbonate and metal.
 
-![](/images/News/Primary/science%20buskers%20festival.jpg)
+
+<img src="/images/News/Primary/science%20buskers%20festival.jpg"  
+     style="width:55%">
+
 
 The competition has commenced and we hope that you can show your support by voting for the team online at [bit.ly/busk2020!](http://bit.ly/busk2020!) Voting closes 5 August 2020.
 
@@ -17,7 +20,9 @@ The competition has commenced and we hope that you can show your support by voti
 
 **National Day 2018 Celebrations**
 
-![](/images/News/Primary/National%20Day%202018.jpg)
+
+<img src="/images/News/Primary/National%20Day%202018.jpg"  
+     style="width:85%">
 
 
 On 8 August 2018, both the primary and secondary sections came together for our combined National Day Parade. The morning rain did not  
@@ -41,8 +46,7 @@ On 15 February 2018, teacher and student representatives from our school attende
 
 **<u>Primary Section:</u>** 
 
-Accompanying teachers: Ms Noradlina, Mdm Siti Mardhiah and Mr Eugene Wong 
-
+Accompanying teachers: Ms Noradlina, Mdm Siti Mardhiah and Mr Eugene Wong <br>
 Student representatives: Primary 5D and Lucas Seow of Primary 5B  
 
   
