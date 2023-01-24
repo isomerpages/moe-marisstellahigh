@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # String Ensemble
 
 <img src="/images/CCA/Primary/String%20Ensemble_D1R1328.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The String Ensemble CCA aims to:** 
