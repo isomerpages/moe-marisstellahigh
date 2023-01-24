@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # International Chess Club
 
 <img src="/images/CCA/Primary/International%20Chess%20Club_D1R0670.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The International Chess Club CCA aims to:**
