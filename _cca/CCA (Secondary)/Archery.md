@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Archery
 
 <img src="/images/CCA/Secondary/archery_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Archery Club aims to:** 
