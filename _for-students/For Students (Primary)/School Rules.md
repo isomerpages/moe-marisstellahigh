@@ -56,7 +56,7 @@ All Marists are to contribute to make the environment conducive for meaningful
 
 
 <img src="/images/Useful%20Links%20and%20Info/Primary/school%20attire.jpg"  
-     style="width:65%">
+     style="width:45%">
 
  **<u>Hairstyle</u>**
 
@@ -73,7 +73,7 @@ All Marists are to contribute to make the environment conducive for meaningful
 
 
 <img src="/images/Useful%20Links%20and%20Info/Primary/hairstyle.jpg"  
-     style="width:65%">
+     style="width:45%">
 
 
 **<u>Shoes and Socks</u>**
@@ -82,7 +82,10 @@ All Marists are to contribute to make the environment conducive for meaningful
     
 2.  Wear laced shoes with no velcro parts, except for the P1s.
 
-![](/images/Useful%20Links%20and%20Info/Primary/shoes%20and%20socks.jpg)
+
+<img src="/images/Useful%20Links%20and%20Info/Primary/shoes%20and%20socks.jpg"  
+     style="width:45%">
+
 
  **<u>Necklace and Ring</u>**  
 
