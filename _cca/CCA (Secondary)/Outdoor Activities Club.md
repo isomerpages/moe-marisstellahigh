@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Outdoor Activities Club
 
 <img src="/images/CCA/Secondary/ODAC_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Outdoor Activities Club aims to:**
