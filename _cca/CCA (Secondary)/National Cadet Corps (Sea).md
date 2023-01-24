@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # National Cadet Corps (Sea)
 
 <img src="/images/CCA/Secondary/NCC_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The National Cadet Corps (Sea) aims to:**
