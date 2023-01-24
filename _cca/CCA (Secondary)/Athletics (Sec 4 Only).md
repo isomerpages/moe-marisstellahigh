@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Athletics
 
 <img src="/images/CCA/Secondary/Athletics_1.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Athletics CCA aims to:** 
