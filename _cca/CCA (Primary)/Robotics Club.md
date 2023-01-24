@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Robotics Club
 
 <img src="/images/CCA/Primary/Robotics%20Club_D1R1240.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Robotics Club CCA aims to:** 
