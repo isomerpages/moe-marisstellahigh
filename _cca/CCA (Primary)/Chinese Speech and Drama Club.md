@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/chinese-speech-and-drama-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Chinese Speech and Drama Club
+# Chinese Literary Drama Club
 
 <img src="/images/CCA/Primary/Chinese%20Speech%20and%20Drama%20Club_D1R1384.jpg"  
      style="width:45%">
