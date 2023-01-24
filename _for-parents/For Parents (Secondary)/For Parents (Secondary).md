@@ -13,7 +13,7 @@ third_nav_title: For Parents (Secondary)
 *   [School Facebook](https://www.facebook.com/marisstellahighschool)
 *   [School Instagram](https://www.instagram.com/marisstellahighschool/)
 *   [School Yearbook 2021](https://issuu.com/sandesignz/docs/mshs_yb2021) (flipped version for online viewing)
-*   [School Yearbook 202](https://drive.google.com/file/d/1KB7t4xqLciK8RMqwymz_fg6xtlwKqChD/view?usp=sharing)1 (for downloading)
+*   [School Yearbook 2021](https://drive.google.com/file/d/1KB7t4xqLciK8RMqwymz_fg6xtlwKqChD/view?usp=sharing) (for downloading)
 
   
 
