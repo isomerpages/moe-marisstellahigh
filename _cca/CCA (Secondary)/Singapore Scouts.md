@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Singapore Scouts
 
 <img src="/images/CCA/Secondary/scout_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Phantom Scout Troop aims to:**
