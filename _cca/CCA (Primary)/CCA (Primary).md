@@ -93,15 +93,13 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/chinese-speech-and-drama-club/">
-<img src="/images/CCA/Primary/Chinese%20Speech%20and%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/chinese-literary-drama-club/">
+<img src="/images/CCA/Primary/Chinese%20Literary%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/chinese-writers-club/">
-<img src="/images/CCA/Primary/Chinese%20Writers'%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
-</a></p>
+
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/english-drama-society/">
 <img src="/images/CCA/Primary/English%20Drama%20Society.jpg" style="width:24.9%;margin-right:15px;" align = "left">
@@ -123,16 +121,21 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 
+<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/robotics-club/">
+<img src="/images/CCA/Primary/Robotics%20Club.jpg" style="width:25.2%;margin-right:15px;" align = "left">
+</a></p>
+
+
+
+<br><br><br><br><br><br><br><br>
+
+**OTHERS (SELECTED STUDENTS)**
+
+
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/maths-society/">
 <img src="/images/CCA/Primary/Maths%20Society.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
 
-<br><br><br><br><br><br><br><br>
-
-<p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/robotics-club/">
-<img src="/images/CCA/Primary/Robotics%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
-</a></p>
-
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/science-club/">
-<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:24.8%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:24.9%;margin-right:15px;" align = "left">
 </a></p>
