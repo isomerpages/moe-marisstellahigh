@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Badminton
 
 <img src="/images/CCA/Secondary/Badminton_1.jpg"  
-     style="width:75%">
+     style="width:55%">
 
 
 **The Badminton CCA aims to:** 
