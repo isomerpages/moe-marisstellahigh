@@ -5,7 +5,9 @@ description: ""
 ---
 # ICT
 
-![](/images/ICT/Secondary/_D1R7060.jpg)
+
+<img src="/images/ICT/Secondary/_D1R7060.jpg"  
+     style="width:55%">
 
 
 
@@ -22,5 +24,3 @@ To achieve these goals, the following programmes are offered:
 *   Google Applications for Education
 *   Microbit programming
 *   [Upper Secondary O-Level Computing](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/academic-programme/computing/)
-
-
