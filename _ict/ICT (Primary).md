@@ -5,7 +5,10 @@ description: ""
 ---
 # ICT
 
-![](/images/ICT/Primary/ICT.jpg)
+
+<img src="/images/ICT/Primary/ICT.jpg"  
+     style="width:55%">
+
 
 **The ICT Department aims to:**  
 
