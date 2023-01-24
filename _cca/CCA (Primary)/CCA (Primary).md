@@ -32,7 +32,7 @@ third_nav_title: CCA (Primary)
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/rockwall-climbing/">
-<img src="/images/CCA/Primary/Rockwall%20Climbing.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Rockwall%20Climbing.jpg" style="width:24.9%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -42,7 +42,7 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/table-tennis/">
-<img src="/images/CCA/Primary/Table%20Tennis.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Table%20Tennis.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -85,11 +85,11 @@ third_nav_title: CCA (Primary)
 **CLUBS AND SOCIETIES**
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/art-club/">
-<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Art%20Club.jpg" style="width:25.1%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/chinese-chess-club/">
-<img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25.3%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25.2%;margin-right:15px;" align = "left">
 </a></p>
 
 
@@ -107,7 +107,7 @@ third_nav_title: CCA (Primary)
 
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/environmental-science-club/">
-<img src="/images/CCA/Primary/Environmental%20Science%20Club.jpg" style="width:25.1%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Environmental%20Science%20Club.jpg" style="width:25.2%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
@@ -137,5 +137,5 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 <p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/primary/cca/science-club/">
-<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:24.9%;margin-right:15px;" align = "left">
+<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:25%;margin-right:15px;" align = "left">
 </a></p>
