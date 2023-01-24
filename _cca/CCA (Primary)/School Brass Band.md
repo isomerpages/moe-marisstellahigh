@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 
 
 <img src="/images/CCA/Primary/Brass%20Band%20Pic1.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The School Brass Band CCA aims to:** 
 
