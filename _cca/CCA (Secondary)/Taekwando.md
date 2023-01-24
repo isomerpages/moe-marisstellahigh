@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Taekwando
 
 <img src="/images/CCA/Secondary/TKD.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Taekwondo CCA aims to:**
 
