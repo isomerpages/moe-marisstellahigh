@@ -8,7 +8,7 @@ third_nav_title: CCA (Primary)
 
 
 <img src="/images/CCA/Primary/Chinese%20Chess%20Club_D1R0531.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **中国象棋学会的目标：**  
