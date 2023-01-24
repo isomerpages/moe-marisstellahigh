@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Science Club
 
 <img src="/images/CCA/Primary/Science%20Club_D1R0477.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Science Club CCA aims to:**
