@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Basketball
 
 <img src="/images/CCA/Secondary/Basketball_1.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Basketball CCA aims to:** 
