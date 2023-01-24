@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Infocomm Technology (Media Production)
 
 <img src="/images/CCA/Primary/Photography%20and%20Videography%20Club_D1R0715.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Infocomm Technology (Media Production) CCA aims to:** 
