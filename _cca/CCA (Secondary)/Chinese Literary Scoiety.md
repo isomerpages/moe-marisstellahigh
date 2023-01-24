@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Chinese Literary Society
 
 <img src="/images/CCA/Secondary/CLDDS.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **学会愿景**：  
