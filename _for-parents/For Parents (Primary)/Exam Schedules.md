@@ -19,7 +19,7 @@ third_nav_title: For Parents (Primary)
     <td><a href="/files/Useful%20Links%20and%20Info/Primary/2022%20P3%20Assessment%20Format.pdf">2022 P3 Assessment Format.pdf</a><br></td>
   </tr>
   <tr>
-    <td><a href=/files/Useful%20Links%20and%20Info/Primary/2022%20P3%20Semester%201%20Content.pdf">2022 P3 Semester 1 Content.pdf</a><br></td>
+    <td><a href="/files/Useful%20Links%20and%20Info/Primary/2022%20P3%20Semester%201%20Content.pdf">2022 P3 Semester 1 Content.pdf</a><br></td>
   </tr>
   <tr>
     <td><a href="/files/Useful%20Links%20and%20Info/Primary/2022%20P4%20Assessment%20Format.pdf">2022 P4 Assessment Format.pdf</a><br></td>
