@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # National Police Cadet Corps
 
 <img src="/images/CCA/Secondary/NPCC-parade_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The National Police Cadet Corps (NPCC) aims to:**
