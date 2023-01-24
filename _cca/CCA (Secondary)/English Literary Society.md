@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # English Literary Society
 
 <img src="/images/CCA/Secondary/ELS2.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The English Literary Society aims to:**
