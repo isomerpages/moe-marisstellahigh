@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Marist Digital Media Club
 
 <img src="/images/CCA/Secondary/MDMC_v2.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Marist Digital Media Club aims to:**
