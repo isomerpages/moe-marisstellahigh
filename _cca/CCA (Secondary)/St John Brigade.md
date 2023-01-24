@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # St John Brigade
 
 <img src="/images/CCA/Secondary/SJB.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The St John Brigade aims to:** 
