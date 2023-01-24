@@ -7,7 +7,7 @@ third_nav_title: CCA (Primary)
 # Maths Society
 
 <img src="/images/CCA/Primary/Math%20Club_D1R1051.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Maths Society aims to:** 
