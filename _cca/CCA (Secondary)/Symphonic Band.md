@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Symphonic Band
 
 <img src="/images/CCA/Secondary/band2.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 **The Symphonic Band aims to:**
 
