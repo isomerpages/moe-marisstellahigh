@@ -7,7 +7,7 @@ third_nav_title: CCA (Secondary)
 # Softball
 
 <img src="/images/CCA/Secondary/softball_v1.png"  
-     style="width:75%">
+     style="width:45%">
 
 
 **The Softball CCA aims to:** 
