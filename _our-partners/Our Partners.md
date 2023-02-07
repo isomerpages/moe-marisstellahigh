@@ -10,7 +10,7 @@ description: ""
 
 The MSHS Alumni is a network of Marist Brothers, educators and students. This network of Marists aims to foster friendly association among its members, promote the cultivation of virtue and learning amongst members, seek mutual welfare for members, and lastly, render assistance in the development of the alma mater.
 
-For more information, refer to the MSHS Alumni website [here](http://www.mshsalumni.com/sg/index.php). <font size=5>LINK DOES NOT WORK</font>
+For more information, refer to the MSHS Alumni website [here].(https://www.mshsalumni.com)
 
 ### MARIS STELLA HIGH SCHOOL PARENT SUPPORT GROUP
 
