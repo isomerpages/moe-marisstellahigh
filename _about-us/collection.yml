@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest, School Song and Creed.md
       - School History.md
       - School Management Committee.md
       - Saint Marcellin Champagnat.md
