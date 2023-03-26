@@ -1,5 +1,4 @@
 collections:
   ict:
     output: true
-    order:
-      - ICT (Secondary).md
+    order: []
