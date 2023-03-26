@@ -4,11 +4,10 @@ permalink: /programmes/secondary/ict/
 description: ""
 third_nav_title: Secondary
 ---
-
 # ICT
 
 
-<img src="/images/ICT/Secondary/_D1R7060.jpg"  
+<img src="/images/Academic%20Programme/Secondary/_D1R7060.jpg"  
      style="width:55%">
 
 
