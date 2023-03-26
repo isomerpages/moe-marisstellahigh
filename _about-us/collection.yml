@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School History.md
       - School Management Committee.md
       - Saint Marcellin Champagnat.md
       - Principal's Message.md
