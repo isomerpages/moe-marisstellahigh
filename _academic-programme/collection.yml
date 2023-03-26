@@ -2,7 +2,6 @@ collections:
   academic-programme:
     output: true
     order:
-      - Primary/ICT (Primary).md
       - Primary/.keep
       - Primary/Academic Programme.md
       - Primary/English.md
@@ -12,6 +11,7 @@ collections:
       - Primary/Art.md
       - Primary/Music.md
       - Primary/Physical Education.md
+      - Primary/ICT (Primary).md
       - Secondary/ICT (Secondary).md
       - Secondary/.keep
       - Secondary/Academic Programme.md
