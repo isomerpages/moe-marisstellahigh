@@ -7,7 +7,7 @@ third_nav_title: Secondary
 # ICT
 
 
-<img src="/images/Academic%20Programme/Secondary/ict.jpg"  
+<img src="/images/Academic%20Programme/Secondary/ict_v1.jpg"  
      style="width:55%">
 
 
