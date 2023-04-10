@@ -34,9 +34,12 @@ Having faith, vision, and service are fundamental to great leadership and living
 
 I was a beneficiary of Marist education. Being the 6th Principal of my alma mater is an honor for me as a Marist. Together with parents, alumni, and partners, I look forward to educating the next generation of Marists!
 
+Boy Eng Seng (Mr)
+
+Principal
+
 
 ## 校长寄语
-
 
   
 
@@ -53,3 +56,5 @@ I was a beneficiary of Marist education. Being the 6th Principal of my alma mate
 我是海星教育的受益者。作为母校的第六任校长，我深感荣幸。我将与家长、校友和其他合作伙伴共同努力，培育下一代的海星学子.
 
 **煌煌海星, 永放光明!**
+
+白永成校长
