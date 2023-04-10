@@ -539,8 +539,8 @@ third_nav_title: Primary
     <td> HOD / PE</td>
   </tr>
   <tr>
-    <td>Mohammad Rizal Bin Kamid (Mr)<br></td>
-    <td>SH / PE</td>
+    <td>Lim Kern Wei Randall (Mr)<br></td>
+    <td>HOD/ CCA</td>
   </tr>
   <tr>
     <td>Wong Loong Ju Jeffrey (Mr)</td>
@@ -548,10 +548,6 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td>Ang Hui Zhen Charmaine (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Ho Jia Le Larissa (Ms)</td>
     <td>Teacher</td>
   </tr>
   <tr>
@@ -579,20 +575,8 @@ third_nav_title: Primary
     <td>Teacher</td>
   </tr>
   <tr>
-    <td>Sin Kia Yee Wendy (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
     <td>Vinodkumar S/O Murugan (Mr)</td>
     <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Wong Chee Wai Eugene (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td> Seow Mei Ying Madeline (Mrs)</td>
-    <td> Teacher</td>
   </tr>
 </tbody>
 </table>
@@ -659,11 +643,19 @@ third_nav_title: Primary
     <td>Teacher</td>
   </tr>
   <tr>
-    <td>Tan Yi Fang (Ms)</td>
+    <td>Toh Peng Peng (Ms)</td>
     <td>Teacher</td>
   </tr>
   <tr>
     <td>Xie Meng (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+	 <tr>
+    <td>Yong Ren Cui (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+	 <tr>
+    <td>Zhu RuoYe (Mdm)</td>
     <td>Teacher</td>
   </tr>
 </tbody>
