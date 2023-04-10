@@ -3,13 +3,7 @@ title: School History
 permalink: /about-mshs/school-history/
 description: ""
 ---
-
-# School History
-
-	
-### 永恒的海星精神  
-
-### THE MARIS STELLA SPIRIT PREVAILS 
+<center><h3>永恒的海星精神<br>THE MARIS STELLA SPIRIT PREVAILS</h3></center>
 	
 
 
@@ -21,11 +15,11 @@ description: ""
 
   
 
-From its founding in 1958, where it was “a school without a home”, Maris Stella High School has flourished into a large, modern school constantly improving and renewing itself while keeping faith with the dream of its founder, Brother Joche Chanel Soon.
+From its founding in 1958, where it was “a school without a home”, Maris Stella High School has flourished into a large, modern school constantly improving and renewing itself while keeping faith with the dream of its founder, Brother Joche&nbsp;Chanel Soon.
 
 The current school site expanded to cater to the learning needs of more students through the building of the Primary Section in 1976. As one of the pioneer SAP schools since 1979, Maris Stella High School prides itself on providing a holistic and interesting programme for students to be culturally sensitive and effectively bilingual. The hallmark of the Marist education is the dedication to holistic development and excellence as well as the effective enculturation of bilingual students who are ready for the 21st century.  
 
-   
+&nbsp;  
 
 * * *
 
@@ -49,7 +43,7 @@ Soon the school expanded and more classrooms were needed. As St. Stephen's Prima
 
 In the pursuit of having our own school premises, Brother Chanel worked tirelessly to raise funds from various people such as the businessmen from the Singapore Chinese Chamber of Commerce and Industry. His dogged determination to raise sufficient funds and the staff’s dedication and loyalty to educating Marists made those difficult years memorable ones. It brought out the best in the staff who together with the Principal, overcame many problems. Needless to say, the students contributed no less to the success story of the school with their consistent 100% passes in the Government Examinations.
 
-A new phase in the history of Maris Stella High School began in 1966 when we moved to our own school compound at Mount Vernon Road. A grand celebration was held in 1967 to mark the official opening of the new school, which had fifteen classrooms and a four-storey science block. Development now came swiftly. 1968 saw the completion of the second phase, an adjoining block consisting of the Lee Kuo Chuan Hall, a canteen, a library and administration offices.  
+A new phase in the history of Maris Stella High School began in 1966 when we moved to our own school compound at Mount Vernon Road. A grand celebration was held in 1967 to mark the official opening of the new school, which had fifteen classrooms and a four-storey science block. Development now came swiftly. 1968 saw the completion of the second phase, an adjoining block consisting of the Lee Kuo Chuan Hall, a canteen, a library and administration offices.&nbsp;&nbsp;
 
 * * *
 
