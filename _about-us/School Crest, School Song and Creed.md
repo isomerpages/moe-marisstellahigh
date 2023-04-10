@@ -3,25 +3,13 @@ title: School Crest, School Song and Creed
 permalink: /about-mshs/school-crest-school-song-and-creed/
 description: ""
 ---
-
 # School Crest, School Song and Creed
-<center>
-
-### 海星校徽
-
-### SCHOOL CREST
-
-</center>	
+<center><b>海星校徽<br>SCHOOL CREST</b></center>	
 
 
-<img src="/images/School%20Crest,%20Song%20and%20Creed/MSHSLogo_edited11Aug2010.gif"  
-     style="width:45%">
+<img src="/images/School%20Crest,%20Song%20and%20Creed/MSHSLogo_edited11Aug2010.gif" style="width:45%">
 
-<center>
-		 
-_Marist "M". The international crest of the Marist Brothers is the A.M. Monogram._		 
-	
-</center>
+<center>Marist "M". The international crest of the Marist Brothers is the A.M. Monogram.</center>
 
 
 
@@ -40,13 +28,7 @@ The Church through the ages has accommodated this text to the Coronation of the 
 字母上端12颗星星的设计灵感来自《若望默示录》第十二章："那时，天上出现了一个大异兆：有一个女人，身披太阳，脚踏月亮，头戴十二颗星的荣冠。" 天主教会使用这段文字为圣母加冕，因此星星象征着圣母救世。世界各地由圣母昆仲会开办的学校，多数皆使用星星和“A.M.”这个字母组合作为自己校徽的一部分。
 
 
-<center>
-	
-### 海星校歌  
-
-### SCHOOL SONG	
-
-</center>	
+<center><b>海星校歌 <br>SCHOOL SONG</b></center>	
 
 
 ![](/images/School%20Crest,%20Song%20and%20Creed/MSHSSong.png)
@@ -103,13 +85,7 @@ The Church through the ages has accommodated this text to the Coronation of the 
 </tbody>
 </table>
 
-<center>
-
-### 海星信条
-
-### SCHOOL CREED
-	
-</center>
+<center><b>海星信条<br>SCHOOL CREED</b></center>
 
 <table>
 <thead>
