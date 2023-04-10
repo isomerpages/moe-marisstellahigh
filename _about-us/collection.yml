@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
+      - Saint Marcellin Champagnat.md
+      - School Management Committee.md
       - Vision, Mission, Motto and Values.md
       - School Crest, School Song and Creed.md
       - School History.md
-      - School Management Committee.md
-      - Saint Marcellin Champagnat.md
-      - Principal's Message.md
