@@ -376,81 +376,89 @@ third_nav_title: Primary
 
 **<font size="5">MATHEMATICS</font><a name="MATHEMATICS"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-3bno"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-3bno"><span style="color:#222;background-color:transparent">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Cheong Gui Ying (Ms)</td>
-    <td>LH / Mathematics</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Yew Su Fong (Mdm)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> HOD / Mathematics</span></td>
   </tr>
   <tr>
-    <td> Yew Su Fong (Mdm)</td>
-    <td> LH / Mathematics</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Tan-Chua Lee Hwee Linda (Mrs)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> ST / Mathematics</span></td>
   </tr>
   <tr>
-    <td> Tan-Chua Lee Hwee Linda (Mrs)</td>
-    <td> ST / Mathematics</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Chu Qiu Ling Charlene (Mdm)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Chu Qiu Ling Charlene (Mdm)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Fatmah Haider Bageshe Siti (Mdm)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Fatmah Haider Bageshe Siti (Mdm)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Foo Tuck Heng (Mr)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Foo Tuck Heng (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Hernidiana Mansor (Mdm)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span><br></td>
   </tr>
   <tr>
-    <td>Hernidiana Mansor (Mdm)</td>
-    <td>Teacher<br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Jan Teo Min </span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Teacher </span></td>
   </tr>
   <tr>
-    <td>Koh Ee Beng (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Koh Ee Beng (Mr)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td> Lek Kah Han Brandon (Mr)</td>
-    <td> Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Lek Kah Han Brandon (Mr)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Teacher</span></td>
   </tr>
   <tr>
-    <td>Teo-Lim Bee Hong Pauline (Mrs)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Lim Yi Min Yvonne (Ms)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Teacher</span></td>
   </tr>
   <tr>
-    <td> Lim Yi Min Yvonne (Ms)</td>
-    <td> Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Nurmayah Bte Mohamed Isa (Mdm)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Nurmayah Bte Mohamed Isa (Mdm)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Reuben Dominic Phay (Mr)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td> Reuben Dominic Phay (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Sim-Phang Shin Chee Melinda (Mrs)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Sim-Phang Shin Chee Melinda (Mrs)</td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Teo-Lim Bee Hong Pauline (Mrs)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Toh-Lai Wei Xuan (Mrs)<br></td>
-    <td>Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Toh-Lai Wei Xuan (Mrs)</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td> Wong Wen Yi Selene (Mrs)</td>
-    <td> Teacher</td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Yeo Szu San (Ms)</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Teacher</span></td>
   </tr>
 </tbody>
 </table>
-
 
 **<font size="5">SCIENCE</font><a name="SCIENCE"></a>**
 
@@ -490,7 +498,11 @@ third_nav_title: Primary
     <td>Leong Mei Lian Jacelyn (Mdm)</td>
     <td>Teacher</td>
   </tr>
-  <tr>
+	<tr>
+		<td>Lye Jia Yi Adeline (Ms)
+	</td><td>Teacher</td>
+	</tr>
+	<tr>
     <td>Sharmini Jayasughavanagopal (Ms)</td>
     <td>Teacher</td>
   </tr>
@@ -499,7 +511,7 @@ third_nav_title: Primary
     <td>Teacher</td>
   </tr>
   <tr>
-    <td>Quek-Ng Li Qin Ashley (Mrs)</td>
+    <td>Yong Ren Cui (Ms)</td>
     <td>Teacher</td>
   </tr>
   <tr>
