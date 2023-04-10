@@ -3,29 +3,28 @@ title: Principal's Message
 permalink: /about-mshs/principals-message/
 description: ""
 ---
-
 # Principal's Message
 
 
 
 
 
-<img src="/images/Principal's%20Message/Mr-boy-226x300_photo.jpg" style="width:183px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/boy%20eng%20seng.jpeg" style="width:183px;height:240px;margin-right:15px;" align="left">
 
 
-The most important question to ask when choosing a school is not what you will get, but what you will **become**. We at Maris Stella produce gentlemen who are men of **faith**, **vision**, and **service**.
-
-  
-
-**Faith** is trust without reservation. Our faith gives us conviction and confidence. It does not take us out of our problems but it takes us through them.
+The most important question to ask when choosing a school is not what you will get, but what you will&nbsp;**become**. We at Maris Stella produce gentlemen who are men of&nbsp;**faith**,&nbsp;**vision**, and&nbsp;**service**.
 
   
 
-**Vision** is seeing what is yet to come. Our vision gives us hope and a sense of purpose. It drives us forward and fuels our passion.
+**Faith**&nbsp;is trust without reservation. Our faith gives us conviction and confidence. It does not take us out of our problems but it takes us through them.
 
   
 
-**Service** is the act of adding value to others. Our service is the result of our faith and vision. It brings us deep joy and satisfaction.
+**Vision**&nbsp;is seeing what is yet to come. Our vision gives us hope and a sense of purpose. It drives us forward and fuels our passion.
+
+  
+
+**Service**&nbsp;is the act of adding value to others. Our service is the result of our faith and vision. It brings us deep joy and satisfaction.
 
   
 
@@ -43,11 +42,11 @@ I was a beneficiary of Marist education. Being the 6th Principal of my alma mate
 
 选择学校时最重要的考量不是你会得到什么，而是你会成为什么。在海星，你会成为一个恪守信念、富有远见、服务人群的谦谦君子。
 
-信念是毫无保留的信任。我们的信念给我们力量和信心。它虽然不会除去人生中的所有问题，但是它会带我们度过难关。 
+信念是毫无保留的信任。我们的信念给我们力量和信心。它虽然不会除去人生中的所有问题，但是它会带我们度过难关。&nbsp;
 
 远见引导我们的人生愿景。我们的愿景给我们希望和使命感。它时时刻刻推动我们前进，激发着我们。
 
-服务是为他人而奉献和付出。我们的服务是我们的信念和愿景的果实。它给我们带来说不出的喜悦和满足。 
+服务是为他人而奉献和付出。我们的服务是我们的信念和愿景的果实。它给我们带来说不出的喜悦和满足。&nbsp;
 
 一个恪守信念、富有远见和拥有服务人群精神的学子必成大器。生活也会过得充实和有意义。这就是海星的教育愿景。
 
