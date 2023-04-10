@@ -3,7 +3,7 @@ url: https://marisstellahigh.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#303494"
-  secondary-color: "#000000"
+  secondary-color: "#240aad"
   media-colors:
     - title: media-color-one
       color: "#49759a"
