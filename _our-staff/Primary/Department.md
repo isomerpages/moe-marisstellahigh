@@ -45,7 +45,7 @@ third_nav_title: Primary
 </tbody>
 </table>
 
-**<font size=5>SCHOOL LEADERS</font><a name="SCHOOL LEADERS"></a>**
+**<font size="5">SCHOOL LEADERS</font><a name="SCHOOL LEADERS"></a>**
 
 
 <table>
@@ -77,196 +77,201 @@ third_nav_title: Primary
 
 
 
-**<font size=5>KEY PERSONNEL</font><a name="KEY PERSONNEL"></a>**
+**<font size="5">KEY PERSONNEL</font><a name="KEY PERSONNEL"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-ykyb"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-ykyb"><span style="color:#222;background-color:transparent">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Tan Kha Ghee (Mrs)<br></td>
-    <td>School Staff Developer (SSD)</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Kha Ghee (Mrs)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">School Staff Developer (SSD)</span></td>
   </tr>
   <tr>
-    <td> Zhang Su Mei (Mdm)</td>
-    <td>HOD / Chinese </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Zhang Su Mei (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / Chinese </span></td>
   </tr>
   <tr>
-    <td>Chiam Ru Qi (Ms)</td>
-    <td>HOD / Science</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chiam Ru Qi (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / Science</span></td>
   </tr>
   <tr>
-    <td>Wee Chun Tor Laverne (Mdm)</td>
-    <td>HOD / Bicultural Programme </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Wee Chun Tor Laverne (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / Bicultural Programme </span></td>
   </tr>
   <tr>
-    <td> Zhou Wencong (Mr)</td>
-    <td> HOD / CCE</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Lim Kern Wei Randall</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / CCA </span></td>
   </tr>
   <tr>
-    <td>Ng Kim Neo Helen (Ms)<br></td>
-    <td>HOD / ICT</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Zhou Wencong (Mr)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> HOD / CCE</span></td>
   </tr>
   <tr>
-    <td>Ow Yong Choo Ee Joel (Mr)</td>
-    <td>HOD / PE </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Kim Neo Helen (Ms)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / ICT</span></td>
   </tr>
   <tr>
-    <td>Ng Swee Lin Sharon Florence (Ms)</td>
-    <td>HOD / Student Management<br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">  Yew Su Fong (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">  HOD / Mathematics</span></td>
   </tr>
   <tr>
-    <td> Tan Oon Hang (Mdm) </td>
-    <td> Year Head (P1-2) </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ow Yong Choo Ee Joel (Mr)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD / PE </span></td>
   </tr>
   <tr>
-    <td> Tan Lee Keng Michelle (Ms)</td>
-    <td> Year Head (P3-4)</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Swee Lin Sharon Florence (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">HOD </span><br></td>
   </tr>
   <tr>
-    <td> Lee Chia Wei Alvin (Mr) </td>
-    <td> Year Head (P5-6) </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Tan Oon Hang (Mdm) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Year Head (P1-2) </span></td>
   </tr>
   <tr>
-    <td>Low Sear Weeh (Mrs)<br></td>
-    <td>LH / English</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Tan Lee Keng Michelle (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Year Head (P3-4)</span></td>
   </tr>
   <tr>
-    <td>Sivagami Alagappan (Mdm) </td>
-    <td> LH/ English</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Lee Chia Wei Alvin (Mr) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Year Head (P5-6) </span></td>
   </tr>
   <tr>
-    <td>Tee Ying Chuen (Mdm)<br></td>
-    <td>LH / Chinese</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Sear Weeh (Mrs)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LH / English</span></td>
   </tr>
   <tr>
-    <td> Cheong Gui Ying (Ms)</td>
-    <td> LH / Mathematics</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sivagami Alagappan (Mdm) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LH / English</span></td>
   </tr>
   <tr>
-    <td> Yew Su Fong (Mdm)</td>
-    <td> LH / Mathematics</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tee Ying Chuen (Mdm)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LH / Chinese</span></td>
   </tr>
   <tr>
-    <td>Chow Ying Xuan Grace (Ms) </td>
-    <td> LH / Science</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chow Ying Xuan Grace (Ms) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LH / Science</span></td>
   </tr>
   <tr>
-    <td>Chiang Lay Hoon (Mdm) </td>
-    <td> SH / Bicultural Programme</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chiang Lay Hoon (Mdm) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SH / Bicultural Programme</span></td>
   </tr>
   <tr>
-    <td>Noradlina Bte Mohamed (Ms)<br></td>
-    <td>SH / CCE &amp; NE Coordinator</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Noradlina Bte Mohamed (Ms)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SH / CCE &amp; NE Coordinator</span></td>
   </tr>
   <tr>
-    <td> Wong Yuyi Jeremy (Mr)</td>
-    <td>SH / CCE</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ng Kai Shi (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SH / ICT</span></td>
   </tr>
   <tr>
-    <td> Ng Kai Shi (Mdm)</td>
-    <td> SH / ICT</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ang-Teo Sai Hiang Helen (Mrs)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SH / Student Management</span></td>
+  </tr>
+</tbody>
+</table>
+
+**<font size="5">ENGLISH</font><a name="ENGLISH"></a>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ykyb"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-ykyb"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Sear Weeh (Mrs)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LH / English</span></td>
   </tr>
   <tr>
-    <td>Mohammad Rizal Bin Kamid (Mr)<br></td>
-    <td>SH / PE</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Sivagami Alagappan (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LH / English</span></td>
   </tr>
   <tr>
-    <td>Ang-Teo Sai Hiang Helen (Mrs)<br></td>
-    <td>SH / Student Management</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ong Hui Ming Ann (Mrs)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LT / CCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Wong Chee Wai Eugene (Mr)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ST / EL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Abigail Abraham (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Amrit Kaur Langeana (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Jenna Gan Ting Ann (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Jolene Tan Jie En (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> June Sim Ming Yin (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Lau Hui Wen (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Nguen Kee (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">May San Priscilla Yam (Mdm)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Seah Jia Xin Anna (Ms)</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teoh Yian Pin (Ms)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Shi Hui (Ms) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Teacher</span></td>
   </tr>
 </tbody>
 </table>
 
 
-**<font size=5>ENGLISH</font><a name="ENGLISH"></a>**
 
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Low Sear Weeh (Mrs)<br></td>
-    <td>LH / English</td>
-  </tr>
-  <tr>
-    <td> Sivagami Alagappan (Mdm)</td>
-    <td> LH / English</td>
-  </tr>
-  <tr>
-    <td> Ong Hui Ming Ann (Mrs)</td>
-    <td>LT / CCE</td>
-  </tr>
-  <tr>
-    <td> Abigail Abraham (Ms)</td>
-    <td> Teacher</td>
-  </tr>
-  <tr>
-    <td> Amrit Kaur Langeana (Ms)</td>
-    <td>Teacher </td>
-  </tr>
-  <tr>
-    <td> Hailwa Moree (Mdm)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
-    <td>Teacher </td>
-  </tr>
-  <tr>
-    <td> Jenna Gan Ting Ann (Ms)</td>
-    <td> Teacher</td>
-  </tr>
-  <tr>
-    <td>Jolene Tan Jie En (Ms)</td>
-    <td> Teacher</td>
-  </tr>
-  <tr>
-    <td> June Sim Ming Yin (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td> Lau Hui Wen (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Lau Nguen Kee (Ms)</td>
-    <td> Teacher</td>
-  </tr>
-  <tr>
-    <td>May San Priscilla Yam (Mdm)<br></td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Rahaini Subhan Binte Mohamed Sulor (Mdm)<br></td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Rusydiana Kusni (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Seah Jia Xin Anna (Ms)<br></td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Su Fang Yee (Mdm)<br></td>
-    <td>Teacher</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-**<font size=5>CHINESE</font><a name="CHINESE"></a>**
+**<font size="5">CHINESE</font><a name="CHINESE"></a>**
 
 <table>
 <thead>
@@ -341,7 +346,7 @@ third_nav_title: Primary
     <td>Teacher</td>
   </tr>
   <tr>
-    <td>Tan Yi Fang (Ms)</td>
+    <td>Toh Peng Peng (Ms)</td>
     <td> Teacher</td>
   </tr>
   <tr>
@@ -361,7 +366,7 @@ third_nav_title: Primary
     <td> Teacher</td>
   </tr>
   <tr>
-    <td> Lee Xiu Mei Gracia (Ms)</td>
+    <td> Zhu RuoYe (Mdm)</td>
     <td> Teacher</td>
   </tr>
 </tbody>
@@ -369,7 +374,7 @@ third_nav_title: Primary
 
 
 
-**<font size=5>MATHEMATICS</font><a name="MATHEMATICS"></a>**
+**<font size="5">MATHEMATICS</font><a name="MATHEMATICS"></a>**
 
 <table>
 <thead>
@@ -447,7 +452,7 @@ third_nav_title: Primary
 </table>
 
 
-**<font size=5>SCIENCE</font><a name="SCIENCE"></a>**
+**<font size="5">SCIENCE</font><a name="SCIENCE"></a>**
 
 <table>
 <thead>
@@ -505,7 +510,7 @@ third_nav_title: Primary
 </table>
 
 
-**<font size=5>PE AND AESTHETICS</font><a name="PE AND AESTHETICS"></a>**
+**<font size="5">PE AND AESTHETICS</font><a name="PE AND AESTHETICS"></a>**
 
 
 
@@ -582,7 +587,7 @@ third_nav_title: Primary
 
 
 
-**<font size=5>BICULTURAL PROGRAMME</font><a name="BICULTURAL PROGRAMME"></a>**
+**<font size="5">BICULTURAL PROGRAMME</font><a name="BICULTURAL PROGRAMME"></a>**
 
 
 <table>
@@ -654,7 +659,7 @@ third_nav_title: Primary
 
 
 
-**<font size=5>CCE AND NE</font><a name="CCE AND NE"></a>**
+**<font size="5">CCE AND NE</font><a name="CCE AND NE"></a>**
 
 <table>
 <thead>
@@ -764,7 +769,7 @@ third_nav_title: Primary
 </table>
 
 
-**<font size=5>ICT</font><a name="ICT"></a>**
+**<font size="5">ICT</font><a name="ICT"></a>**
 
 <table>
 <thead>
@@ -831,7 +836,7 @@ third_nav_title: Primary
 
 
 
-**<font size=5>STUDENT MANAGEMENT</font><a name="STUDENT MANAGEMENT"></a>**
+**<font size="5">STUDENT MANAGEMENT</font><a name="STUDENT MANAGEMENT"></a>**
 
 
 <table>
@@ -891,7 +896,7 @@ third_nav_title: Primary
 
 
 
-**<font size=5>ALLIED EDUCATORS</font><a name="ALLIED EDUCATORS"></a>**
+**<font size="5">ALLIED EDUCATORS</font><a name="ALLIED EDUCATORS"></a>**
 
 <table>
 <thead>
@@ -925,7 +930,7 @@ third_nav_title: Primary
 </table>
 
 
-**<font size=5>EXECUTIVE AND ADMINISTRATIVE STAFF</font><a name="EXECUTIVE AND ADMINISTRATIVE STAFF"></a>**
+**<font size="5">EXECUTIVE AND ADMINISTRATIVE STAFF</font><a name="EXECUTIVE AND ADMINISTRATIVE STAFF"></a>**
 
 <table>
 <thead>
