@@ -37,14 +37,14 @@ third_nav_title: For Students (Secondary)
 </table>
 
 ## 2023 BOOKLISTS
---------------
+
 
 [](https://marisstellahigh.moe.edu.sg/qql/slot/u199/2020/2020%20Booklist/MSHS(S)-Secondary%202(Exp)%20-%202020.pdf)
 
-*   [Secondary 1](https://marisstellahigh.moe.edu.sg/qql/slot/u199/2023/booklist/2023%20S1%20Booklist.pdf)
-*   [Secondary 2](https://marisstellahigh.moe.edu.sg/qql/slot/u199/2023/booklist/2023%20sec%202%20booklist.pdf)
-*   [Secondary 3](https://marisstellahigh.moe.edu.sg/qql/slot/u199/2023/booklist/2023%20sec%203%20booklist.pdf)
-*   [Secondary 4](https://marisstellahigh.moe.edu.sg/qql/slot/u199/2023/booklist/2023%20sec%204%20booklist.pdf)
+*   [Secondary 1](/files/2023%20s1%20booklist.pdf)
+*   [Secondary 2](/files/2023%20sec%202%20booklist.pdf)
+*   [Secondary 3](/files/2023%20sec%203%20booklist.pdf)
+*   [Secondary 4](files/2023%20sec%204%20booklist.pdf)
 
 ## SCHOOL UNIFORM
 
