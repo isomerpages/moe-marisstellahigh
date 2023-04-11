@@ -3,11 +3,9 @@ title: Faith Formation (Primary)
 permalink: /programmes/primary/faith-formation/
 description: ""
 ---
-# Faith Formation
 
 
-<img src="/images/Faith%20Formation/faith%20formation.jpg"  
-     style="width:75%">
+<img src="/images/Faith%20Formation/faith%20formation.jpg" style="width:75%">
 
 
 **The Faith Formation Programme aims to:**
@@ -17,7 +15,7 @@ description: ""
 
   
 
-**To achieve these goals, the following programmes are offered:**   
+**To achieve these goals, the following programmes are offered:**&nbsp;  
 
 *   Bilingual Morning Prayers led by Student Prayer Leaders  
     
@@ -36,4 +34,4 @@ description: ""
     
     *   Fridays: Praise and Worship sessions or First Friday masses in the chapel
 
-**Article:** [Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
+**Article:**&nbsp;[Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
