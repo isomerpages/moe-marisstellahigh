@@ -4,7 +4,6 @@ permalink: /programmes/primary/cce/student-management/
 description: ""
 third_nav_title: Primary
 ---
-# Student Management
 
 
 <img src="/images/CCE/Primary/Student%20management.jpg" style="width:75%">
