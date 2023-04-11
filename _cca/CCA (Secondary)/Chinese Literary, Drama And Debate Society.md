@@ -36,7 +36,7 @@ third_nav_title: CCA (Secondary)
   
 **网页链接：**  
 
-*   &nbsp;Instagram:&nbsp;[https://www.instagram.com/mshs\_cldds/](https://www.instagram.com/mshs_cldds/)
+*   &nbsp;Instagram:&nbsp;[https://www.instagram.com/mshs\_cldds/](https://www.instagram.com/marisstellahighschool/)
 
 
 #### Training Schedule
