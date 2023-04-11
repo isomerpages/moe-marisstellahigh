@@ -5,10 +5,7 @@ description: ""
 third_nav_title: CCA (Secondary)
 ---
 
-# Chinese Literary Society
-
-<img src="/images/CCA/Secondary/CLDDS.jpg"  
-     style="width:45%">
+<img src="/images/CCA/Secondary/CLDDS.jpg" style="width:45%">
 
 
 **学会愿景**：  
@@ -30,17 +27,17 @@ third_nav_title: CCA (Secondary)
 
 **活动项目：**
 
-*   参与本校华文部主办的全国中学生华语短片制作赛，学员从中学习如何撰写剧本，掌握拍摄、剪辑技巧   
+*   参与本校华文部主办的全国中学生华语短片制作赛，学员从中学习如何撰写剧本，掌握拍摄、剪辑技巧&nbsp;  
     
-*   中文写作培训，培养写作人才参加全国各类作文赛 
-*   培训辩论、相声高手，参加全国中学辩论赛、相声比赛、脱口秀比赛等   
+*   中文写作培训，培养写作人才参加全国各类作文赛&nbsp;
+*   培训辩论、相声高手，参加全国中学辩论赛、相声比赛、脱口秀比赛等&nbsp;  
     
 *   自2008年开始戏剧培训，参加青年节艺术展演汇戏剧组、劲爆剧场等比赛
 
   
 **网页链接：**  
 
-*    Instagram: [https://www.instagram.com/mshs\_cldds/](https://www.instagram.com/mshs_cldds/)
+*   &nbsp;Instagram:&nbsp;[https://www.instagram.com/mshs\_cldds/](https://www.instagram.com/mshs_cldds/)
 
 
 #### Training Schedule
