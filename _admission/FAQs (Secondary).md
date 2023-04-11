@@ -15,7 +15,8 @@ Answer: No. For unsuccessful DSA-Sec applicants, their Primary Schools will issu
 
 Answer: Yes. You can apply up to 2 talent areas in the same school. The child will only be given one Confirmed Offer out of the 2 and he must commit to the given talent area if he is eventually admitted to MSHS via DSA. He is not allowed to transfer to another school.
 
-4. My son’s primary school does not offer the CCA but he trains with a club. Can he still apply? 
+4.     My son’s primary school does not offer the CCA but he trains with a club. Can he still apply?
+
 
 Answer: We do have P6s who are not part of their primary school CCA applying for DSA. In the DSA application portal, there is a section for you to indicate external activities that are not in his school record. It will be good to let us know his training frequency, the academy he is in and any competition experience he might have.
 
