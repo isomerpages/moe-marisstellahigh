@@ -10,20 +10,16 @@ description: ""
 <br><br>
 
 <img src="/images/biculturediagram2023.png" align="left" style="width:50%">
-<img src="/images/Bicultural%20Programme/Primary/Biculutural.jpg" align="right" style="width:50%">
+<img src="/images/Bicultural%20Programme/Primary/Biculutural.jpg" align="right" style="width:50%"><br><br><br><br><br>
 
-</p><hr style="height:30pt; visibility:hidden;"><h4>海星中学特有的10年双文化特选课程分两个阶段: </h4>
-
-	
-<h4>海星中学特有的10年双文化特选课程分两个阶段: </h4>
-
-<div style="line-height:200%;">
+</p><div style="line-height:200%;">
         <br>
-    </div>
-		
-| 
-*     
-    学生在小学六年里将会‘走近’文化。他们将通过学校安排的活动接触到各个不同的传统中华文化，并从中了解相应的价值观。  
+    </div><h4>海星中学特有的10年双文化特选课程分两个阶段: </h4><div style="line-height:200%;">
+        <br>
+
+
+
+*   学生在小学六年里将会‘走近’文化。他们将通过学校安排的活动接触到各个不同的传统中华文化，并从中了解相应的价值观。  
       
     
 *   中学四年里，学生将‘走进’文化。他们有机会按照自己的兴趣加深他们对传统中华文化的知识和技能。
@@ -117,8 +113,4 @@ Talent Development Curriculum
 *   Exchange Programmes (local hosting and overseas immersion）
 
   
-<img style="width:300px" src="/images/bicultureprogram22023.png">
-
-
-
-
+<img style="width:500px" src="/images/bicultureprogram22023.png"></div>
