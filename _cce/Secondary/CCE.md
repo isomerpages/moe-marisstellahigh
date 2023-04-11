@@ -8,7 +8,7 @@ third_nav_title: Secondary
 
 #### THE MARCELLIN WAY
 
-The Student Development Team plans and implements our 10-year Marcellin Way programme to achieve our Marist student outcomes.  The Marcellin Way, anchored on Marist values and the Marist style of education, are experiences that seek to build the character of Marists.  These values and qualities were expressed in the life and experiences of Saint Marcellin Champagnat who started the Marist Brothers in 1817.  The effort and perseverance of our school’s founder Brother Chanel Soon and our early pioneers are immortalised in our school motto  勤   勉   忠   勇. Our Marist values and school motto continue to be relevant in an ever-changing and dynamic world. They define our philosophy, beliefs and approach to education. We teach our students with and about compassion and love, the cornerstone of our Catholic faith.  Indeed, the Marcellin Way programme promotes in our students a life of Faith, Vision and Service to others.
+The Student Development Team plans and implements our 10-year Marcellin Way programme to achieve our Marist student outcomes.&nbsp; The Marcellin Way, anchored on Marist values and the Marist style of education, are experiences that seek to build the character of Marists.&nbsp; These values and qualities were expressed in the life and experiences of Saint Marcellin Champagnat who started the Marist Brothers in 1817.&nbsp; The effort and perseverance of our school’s founder Brother Chanel Soon and our early pioneers are immortalised in our school motto&nbsp;&nbsp;勤 &nbsp;&nbsp;勉 &nbsp;&nbsp;忠 &nbsp;&nbsp;勇. Our Marist values and school motto continue to be relevant in an ever-changing and dynamic world. They define our philosophy, beliefs and approach to education. We teach our students with and about compassion and love, the cornerstone of our Catholic faith.&nbsp; Indeed, the Marcellin Way programme promotes in our students a life of Faith, Vision and Service to others.
 
 
 There are two main programmes, namely Character and Citizenship Education (CCE) and Faith Formation. Through these two programmes, the authentic learning experiences aim to inculcate values and build competencies that will mould Marists to be good individuals, with the tenacity and adaptability to navigate the unknown future, and who are of service within school and the wider community.
@@ -49,7 +49,7 @@ Sec 2: Serving the elderly at St Theresa's Home
   
 Sec 3: Class-initiated projects with various community sectors (Elderly, Children with special needs etc)  
   
-Sec 4: Level-wide community project (e.g. community sports event for the seniors - _Goldympics 2019_)  
+Sec 4: Level-wide community project (e.g. community sports event for the seniors -&nbsp;_Goldympics 2019_)  
 
   
 
@@ -81,7 +81,7 @@ In addition to in-class lessons and discussions, the student leaders, who are al
 
   
 
-A key boy-centric experience for all Marists is the Cohort Camps. Camps  promote self-discovery and are good platforms for Marists to step out of their comfort zone, develop teamwork, resilience, and adaptability. The focus of each camp is different, tailored to meet the needs of Marists at each developmental stage. The Cohort Camps utilise a kinaesthetic boy-centric approach to ensure optimised learning. Secondary 3 Marists go through the nation-wide MOE Outward Bound Singapore (OBS) Challenge Programme, which provides them with the opportunity to interact with peers from other schools. Secondary 4 Marists go through a Youth Commitment Workshop to strengthen their mindset to overcome setbacks and motivate themselves towards success, equipping them with personal and life skills important for their future pathways.
+A key boy-centric experience for all Marists is the Cohort Camps. Camps&nbsp; promote self-discovery and are good platforms for Marists to step out of their comfort zone, develop teamwork, resilience, and adaptability. The focus of each camp is different, tailored to meet the needs of Marists at each developmental stage. The Cohort Camps utilise a kinaesthetic boy-centric approach to ensure optimised learning. Secondary 3 Marists go through the nation-wide MOE Outward Bound Singapore (OBS) Challenge Programme, which provides them with the opportunity to interact with peers from other schools. Secondary 4 Marists go through a Youth Commitment Workshop to strengthen their mindset to overcome setbacks and motivate themselves towards success, equipping them with personal and life skills important for their future pathways.
 
 **Student Leadership**
 
@@ -93,7 +93,7 @@ All Marist Student Leaders are encouraged to develop their leadership skills in 
   
 Our student leaders are called to action each day, by being firmly grounded in the Marist values and the five practices of exemplary leadership, as Values-Driven, Service-Oriented Leaders of Faith, Vision and Service.
 
-*   [Sexuality Education](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/cce/sexuality-education)
+*   [Sexuality Education](/programmes/primary/cce/sexuality-education/)
 *   [Bicultural Programme](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/bicultural-programme/)  
     
 *   Internationalisation Programme
@@ -102,4 +102,4 @@ Our student leaders are called to action each day, by being firmly grounded in t
 
 **Faith Formation**  
 
-As a Catholic school, we are guided by the Marist values and ethos. The Faith Formation experiences aim to develop Marists to be gentlemen with a strong sense of spirituality and belief, and to emulate the values exemplified by Mother Mary. Click on [this link](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/faith-formation/) to find out more about the Faith Formation experiences offered at Maris Stella High.
+As a Catholic school, we are guided by the Marist values and ethos. The Faith Formation experiences aim to develop Marists to be gentlemen with a strong sense of spirituality and belief, and to emulate the values exemplified by Mother Mary. Click on&nbsp;[this link](https://staging.d2r0kwuamjw0vo.amplifyapp.com/programmes/secondary/faith-formation/)&nbsp;to find out more about the Faith Formation experiences offered at Maris Stella High.
