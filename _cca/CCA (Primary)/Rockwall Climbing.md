@@ -6,8 +6,7 @@ third_nav_title: CCA (Primary)
 ---
 # Rockwall Climbing
 
-<img src="/images/CCA/Primary/Sports%20Climbing_D1R0816.jpg"  
-     style="width:45%">
+<img src="/images/CCA/Primary/Sports%20Climbing_D1R0816.jpg" style="width:45%">
 
 
 **The Rockwall Climbing CCA aims to:**
@@ -18,18 +17,15 @@ third_nav_title: CCA (Primary)
 
   
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   Comprehensive training programmes to prepare Marists for the GECKO Speed Climbing Competition and National Primary School Sport Climbing Championship 2018 P3 Learning for Life Programme (LLP)  
+*   Comprehensive training programmes to prepare Marists for National Primary Schools Sport Climbing Championship  
     
 *   Inter-school Invitational Boulder Carnivals  
+      
     
-*   Inter-CCA Learning Exchanges
-*   VIA Projects
 
-  
-
-**Marists are given the opportunities to participate in the following competitions:** 
+**Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
 *   National Primary School Sport Climbing Championship
 
@@ -37,4 +33,10 @@ third_nav_title: CCA (Primary)
 
 **Marists have performed well in the following competitions:**
 
-*   To be updated.
+*   National Primary Schools Sport Climbing Championship  
+    
+
+*   Senior Boys Division Team - 1st&nbsp;&nbsp;
+*   Senior Boys Division Individual - 7th&nbsp;&nbsp;
+*   Junior Boys Division Team - 2nd&nbsp;&nbsp;
+*   Junior Novice Boys - Gold
