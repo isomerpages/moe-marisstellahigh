@@ -371,152 +371,166 @@ third_nav_title: Secondary
 **<font size="5">MATHEMATICS
 </font><a name="MATHEMATICS"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-v41i">Name</th>
+    <th class="tg-v41i">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Khong Siew Chin, Jillian (Ms)</td>
-    <td>HOD / Mathematics</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Khong Siew Chin, Jillian (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">HOD / Mathematics</span></td>
   </tr>
   <tr>
-    <td>Koh Yew Kiat (Mr)</td>
-    <td>HOD / CCA</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Yew Kiat (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">HOD / CCA</span></td>
   </tr>
   <tr>
-    <td>Chang Yueh Fong (Ms) </td>
-    <td>ST / Mathematics</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ye Wenhui (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">SH / Mathematics</span></td>
   </tr>
   <tr>
-    <td>Ng Li Ping (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Dawn Ng Li Li (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Ng Yong Min (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Kah Lam (Mr) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Nur Badriah Mirza Abdul Matin (Ms) </td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Li Ping (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Png Chin Yuen Marianne (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Yong Min (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Praveen Kumar s/o Vadevelu (Mr) </td>
-    <td>Teacher </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nur Badriah Mirza Abdul Matin (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Susan Neo Choo Geok (Mrs)</td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Png Chin Yuen Marianne (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Thanesh Manoselvam (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Praveen Kumar s/o Vadevelu (Mr) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Wu Yao Quan (Mr)</td>
-    <td>Teacher </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Susan Neo Choo Geok (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Thanesh Manoselvam (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wu Yao Quan (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
 </tbody>
 </table>
 
-
 **<font size="5">SCIENCE
 </font><a name="SCIENCE"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-l2bf">Name</th>
+    <th class="tg-l2bf">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ong Siok Lee (Mrs)</td>
-    <td>HOD / Science</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Ong Siok Lee (Mrs)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / Science</span></td>
   </tr>
   <tr>
-    <td>Foo Chin Wei (Mr)</td>
-    <td>HOD / CCE</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Foo Chin Wei (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / CCE</span></td>
   </tr>
   <tr>
-    <td>Chia Kian Boon Edwin (Mr)</td>
-    <td>SH / Physics</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Chia Kian Boon Edwin (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">SH / Physics</span></td>
   </tr>
   <tr>
-    <td>Lucy Yeo (Ms)</td>
-    <td>ST / Chemistry</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lucy Yeo (Ms)</span></td>
+    <td class="tg-tsok"><span style="background-color:transparent">ST </span><span style="color:#222;background-color:transparent">/ Chemistry</span></td>
   </tr>
   <tr>
-    <td>Dominic Varella (Mr) </td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Dominic Varella (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Eugene Lee Kee Ming (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Eugene Lee Kee Ming (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Farrah Diba Mohamed Tahar (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Farrah Diba Mohamed Tahar (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Goh Kok Li (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Kok Li (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Lee Kim Hong (Ms) </td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Shiao Pey (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Lee Shiao Pey (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lum Wai Mei (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Lim Wei Hao (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Ngo Mei Zhi Mabel (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Lum Wai Mei (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Seah Sheng Zhi (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Ngo Mei Zhi Mabel (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Sim Wei Min Stephanie (Mrs) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Seah Sheng Zhi (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tao Yi Jun (Ms) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Sim Wei Min Stephanie (Mrs) </td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tay Woon Ping (Mdm) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Tao Yi Jun (Ms) </td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Charlotte Lim Sock Hoon (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Flexi Adjunct</span></td>
   </tr>
   <tr>
-    <td>Tay Woon Ping (Mdm) </td>
-    <td>Teacher </td>
-  </tr>
-  <tr>
-    <td>Teo Seck Tuan (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Charlotte Lim Sock Hoon (Ms)</td>
-    <td>Flexi Adjunct</td>
-  </tr>
-  <tr>
-    <td>Lee Soo Hoon Patricia (Mrs) </td>
-    <td>Flexi Adjunct </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Soo Hoon Patricia (Mrs) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Flexi Adjunct </span></td>
   </tr>
 </tbody>
 </table>
@@ -524,139 +538,165 @@ third_nav_title: Secondary
 **<font size="5">HUMANITIES</font><a name="HUMANITIES"></a>**
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-l2bf">Name</th>
+    <th class="tg-l2bf">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Kamaludin B Bahadin (Mr)</td>
-    <td>HOD / Humanities</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Kamaludin B Bahadin (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / Humanities</span></td>
   </tr>
   <tr>
-    <td>Goy Wee Peng Edmund (Mr)</td>
-    <td>School Staff Developer (SSD)</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goy Wee Peng Edmund (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">School Staff Developer (SSD)</span></td>
   </tr>
   <tr>
-    <td>Shariffa Aminah (Ms)</td>
-    <td>Year Head</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Seah Ching San, Paul (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / Student Management &amp; Talent Development</span></td>
   </tr>
   <tr>
-    <td>Tan Xian Jing (Mr)</td>
-    <td>SH / CCE</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Xian Jing (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">SH / CCE</span></td>
   </tr>
   <tr>
-    <td>Seah Ching San, Paul (Mr)</td>
-    <td>SH / Student Management</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Jeremy Wong Yuyi</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">SH/ Student Well-Being </span></td>
   </tr>
   <tr>
-    <td>Wong Xiu Yan (Ms)</td>
-    <td>ST / Social Studies</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Wong Xiu Yan (Ms)</span></td>
+    <td class="tg-tsok"><span style="background-color:transparent">ST </span><span style="color:#222;background-color:transparent">/ Social Studies</span></td>
   </tr>
   <tr>
-    <td>Chia Ming Ying Terence Ryan (Mr)</td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Chia-Ming Ying Terence Ryan (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Mohamed Fairoz Bin Nordin (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Mohamed Fairoz Bin Nordin (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Tan Kok Wah (Mr)</td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Shantini d/o Karunagaran (Ms) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Tan Mei Ling Mandy (Mrs)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Kok Wah (Mr)</span><br></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Xie Zhi Hao (Mr) </td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Mei Ling Mandy (Mrs)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Zarifah Binte Mohamed Yusop (Ms)</td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Siew Yean (Ms) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Xie Zhi Hao (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
 </tbody>
 </table>
 
-
 **<font size="5">PE, AESTHETICS AND ICT</font><a name="PE, AESTHETICS AND ICT"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-l2bf">Name</th>
+    <th class="tg-l2bf">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Suresh s/o Sivakadacham (Mr)</td>
-    <td>HOD / PE &amp; AES</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Suresh s/o Sivakadacham (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / PE &amp; AES</span></td>
   </tr>
   <tr>
-    <td>Low Hwang Chee (Mr)</td>
-    <td>HOD / ICT </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Low Hwang Chee (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">HOD / ICT </span></td>
   </tr>
   <tr>
-    <td>Sylvia Roche (Mrs)</td>
-    <td>Year Head</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Sylvia Roche (Mrs)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Year Head</span></td>
   </tr>
   <tr>
-    <td>Chong Shao Hong (Mr)</td>
-    <td>SH / PE</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Chong Shao Hong (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">SH / PE</span></td>
   </tr>
   <tr>
-    <td>Tan Lin Chuan (Mr)</td>
-    <td>Assistant Year Head</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Lin Chuan (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Assistant Year Head</span><br></td>
   </tr>
   <tr>
-    <td>Fernandez Jeremy Joel (Mr) </td>
-    <td>Assistant Year Head</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Fernandez Jeremy Joel (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Assistant Year Head</span></td>
   </tr>
   <tr>
-    <td>Alex Yeo Han Rong (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Nicholas Ong (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Assistant Year Head (Covering) </span></td>
   </tr>
   <tr>
-    <td>Ho Wei Sin (Ms)</td>
-    <td>Teacher </td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Alex Yeo Han Rong (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Koh Kim Huat Nicholas (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Ho Wei Sin (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Lee Hui Min Germaine (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Koh Kim Huat Nicholas (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Nicholas Ong (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Hui Min Germaine (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Quek Ke Li (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Quek Ke Li (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Risliana Mohd Idris Moey (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Risliana Mohd Idris Moey (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Sim Mei Lin Diana (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Sim Mei Lin Diana (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
   <tr>
-    <td>Tan Yew Meng Daniel (Mr)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Poo Hong (Mr) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher </span></td>
   </tr>
   <tr>
-    <td>Toh Wern-Ai Chloe (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Yew Meng Daniel (Mr)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Toh Wern-Ai Chloe (Ms)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teacher</span></td>
   </tr>
 </tbody>
 </table>
@@ -688,63 +728,72 @@ third_nav_title: Secondary
     <td>Lim Pei Ying (Mdm)</td>
     <td>Allied Educator / Science</td>
   </tr>
-  <tr>
-    <td>Nor Rafidah (Ms)</td>
-    <td>Allied Educator / PE </td>
-  </tr>
 </tbody>
 </table>
 
 
 **<font size="5">EXECUTIVE AND ADMINISTRATIVE STAFF</font><a name="EXECUTIVE AND ADMINISTRATIVE STAFF"></a>**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th class="tg-v41i">Name</th>
+    <th class="tg-v41i">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ang Lye Kim (Ms)</td>
-    <td>Admin Manager</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Lye Kim (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Admin Manager</span></td>
   </tr>
   <tr>
-    <td>Kelvinder Singh Jagal (Mr)</td>
-    <td>Admin Manager </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kelvinder Singh Jagal (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Admin Manager </span></td>
   </tr>
   <tr>
-    <td>Tham Chee Chung Andrew (Mr)</td>
-    <td>Operations Manager </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tham Chee Chung Andrew (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Operations Manager </span></td>
   </tr>
   <tr>
-    <td>Eu Siew Lian (Mdm)</td>
-    <td>Technical Support Officer / AVA</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eu Siew Lian (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Technical Support Officer / AVA</span></td>
   </tr>
   <tr>
-    <td>Mak Yeow Nam (Mr)</td>
-    <td>Technical Support Officer / D&amp;T</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mak Yeow Nam (Mr)</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Technical Support Officer / D&amp;T</span></td>
   </tr>
   <tr>
-    <td>Nurhidayati (Ms)</td>
-    <td>Technical Support Officer / Lab </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Shi Jin (Mr)  </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Technical Support Officer / Lab  </span></td>
   </tr>
   <tr>
-    <td>Siti Nur Atikah Ishak (Ms)</td>
-    <td>Corporate Support Officer</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nurhidayati Binte Supri (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Technical Support Officer / Lab </span></td>
   </tr>
   <tr>
-    <td>Tham Lai Tong Geraldine (Ms) </td>
-    <td>Corporate Support Officer</td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Png Chui Peng Lydia (Mdm) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer </span></td>
   </tr>
   <tr>
-    <td>Wan Buck Ching Julia (Ms) </td>
-    <td>Corporate Support Officer </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Siti Nur Atikah Ishak (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer</span></td>
   </tr>
   <tr>
-    <td>Lim Hwee Ngoh (Mdm)</td>
-    <td>Support Staff / Receptionist </td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tham Lai Tong Geraldine (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wan Buck Ching Julia (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer </span></td>
   </tr>
 </tbody>
 </table>
@@ -769,7 +818,7 @@ third_nav_title: Secondary
     <td>Desktop Engineer</td>
   </tr>
   <tr>
-    <td>Wong Keng Ren Bryen (Mr) </td>
+    <td>Samaala Sukhmaran (Ms) </td>
     <td>Desktop Engineer</td>
   </tr>
   <tr>
