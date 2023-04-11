@@ -7,8 +7,7 @@ third_nav_title: CCA (Primary)
 # Softball
 
 
-<img src="/images/CCA/Primary/Softball_D1R0960.jpg"  
-     style="width:45%">
+<img src="/images/CCA/Primary/Softball_D1R0960.jpg" style="width:45%">
 
 **The Softball CCA aims to:**
 
@@ -18,23 +17,23 @@ third_nav_title: CCA (Primary)
     
 *   Promote the game at the recreational and competitive level.
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
 *   Comprehensive training sessions to prepare Marists for National Inter-School Softball Championships (Senior) – P5 and P6 and National Inter-School Softball Championships (Junior) – P3 and P4
 
   
 
-**Marists are given the opportunities to participate in the following competitions:** 
+**Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
 *   National Inter-School Softball Championships (Junior) – P3 and P4  
     
 *   National Inter-School Softball Championships (Senior) – P5 and P6  
     
 
-  
+**Marists have performed well in the following competition:**&nbsp;
 
-**Marists have performed well in the following competition:** 
-
-*   National Inter-School Softball Championship (Senior) – 1st Runner-Up
+*   2022 National School Games Softball Senior Division - Champion
+*   2022 National School Games Softball&nbsp;Junior Division - Tier 1: Overall 3rd in position
+*   National Inter-School Softball Championship (Senior) – 1st&nbsp;Runner-Up
 *   National Inter-School Softball Championship (Junior) – Champion
 *   SBSA 12U Softball Carnival 2019 (Boys) - Champion
