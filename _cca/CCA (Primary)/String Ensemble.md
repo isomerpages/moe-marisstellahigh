@@ -6,29 +6,22 @@ third_nav_title: CCA (Primary)
 ---
 # String Ensemble
 
-<img src="/images/CCA/Primary/String%20Ensemble_D1R1328.jpg"  
-     style="width:45%">
+<img src="/images/CCA/Primary/String%20Ensemble_D1R1328.jpg" style="width:45%">
 
 
-**The String Ensemble CCA aims to:** 
+**The String Ensemble CCA aims to:**&nbsp;
 
-*   Allow Marists to learn and apply music skills to the different instruments (violin, viola, cello and double bass);
-*   Inculcate core values and build character such as integrity, confidence, diligent, teamwork, discipline and perseverance; and  
-    
-*   Inculcate core values and build character such as integrity, confidence, diligent, teamwork, discipline and perseverance.
+*   Allow Marists to&nbsp;develop musical skills of detailed listening, awareness of blend and colour and ensemble coordination
+*   Inculcate Marist Values ( Presence, Simplicity, Family Spirit and Love of Work) and develop positive M.A.R.I.S.T (Motivated, Adventurous, Resilient, Inquiring, Self-disciplined, Team Player) learning dispositions
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   Comprehensive training programmes to prepare Marists for the Singapore Youth Festival 2018  
-    
-*   Performances at SMRT open house  
-    
-*   Performances in the School events (e.g. Founder’s Day, Adopt-A-Station)
+*   Comprehensive training programmes to prepare Marists for the Singapore Youth Festival
+*   Trainings to prepare Marists for various performance opportunities
 
   
 
-**Marists are given the opportunities to participate in the following events:** 
+**Marists are given the opportunities to participate in the following events:**&nbsp;
 
-*   Adopt-A-Station programme  
-    
-*   Various school events such as Founder’s Day Concert and Assemblies
+*   Various school events (eg. Founder’s Day, Teachers’ Day and CCA Open House)
+*   Community performances, competitions, collaborations and string exchanges
