@@ -170,7 +170,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 In your submission, please provide information such as position played in the sports, belt attainment in taekwondo, wushu specialisation, instrument played and grade level - whichever is applicable for the talent area that you are applying. This information will help in the shortlisting process and the arrangement of video conference selection exercise schedule.  
 
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
+<b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b>  
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from years 1-4.
 
