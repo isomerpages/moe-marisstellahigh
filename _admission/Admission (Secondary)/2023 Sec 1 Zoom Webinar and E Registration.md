@@ -9,7 +9,7 @@ third_nav_title: Admission (Secondary)
 
 To welcome our Secondary 1 Marists of 2023 and their parents to the school, we will be holding a webinar on **Thursday, 22 December 2022**. During this webinar, we will share important information about the school, the programmes that Marists will go through, the Secondary One Orientation Programme, and other administrative matters. This webinar will be part 1 of a series of talks that we will hold for the parents of Secondary One Marists.&nbsp;
 
-The e-registration form will be made available **during the webinar** and subsequently available through ***Parent's Gateway after the briefing.**
+The e-registration form will be made available **during the webinar** and subsequently available through **Parent's Gateway after the briefing.**
 
   
 
