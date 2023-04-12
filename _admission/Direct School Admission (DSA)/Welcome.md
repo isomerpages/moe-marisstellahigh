@@ -29,7 +29,7 @@ third_nav_title: Direct School Admission (DSA)
 
 For more information on the school and the DSA process, refer to the following sub-pages:  
 
-*   [MSHS Experience](https://marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/mshs-experience)
-*   [Past Achievements](https://marisstellahigh.moe.edu.sg/about-mshs/secondary/school-achievements)
-*   [DSA Process](https://marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/dsa-process)
-*   [FAQs](https://marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/faqs)
+*   [MSHS Experience](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/mshs-experience/)
+*   [Past Achievements](https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/school-achievements/2022/)
+*   [DSA Process](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/dsa-process/)
+*   [FAQs](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/faqs/)
