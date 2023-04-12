@@ -4,8 +4,8 @@ permalink: /admission/secondary/direct-school-admission-dsa/faqs/
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
-FREQUENTLY ASKED QUESTIONS (DSA)
---------------------------------
+# FREQUENTLY ASKED QUESTIONS (DSA)
+
 
 1.     What is the minimum AL score for entry into MSHS via DSA?
 
@@ -90,4 +90,4 @@ Answer: At Secondary 1, all of our students are offered the chance to take Highe
 
   
 
-_General FAQs can also be found on the [FAQs page](https://marisstellahigh.moe.edu.sg/admission/secondary/faqs) of the school website._
+_General FAQs can also be found on the [FAQs page](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/faqs/) of the school website._
