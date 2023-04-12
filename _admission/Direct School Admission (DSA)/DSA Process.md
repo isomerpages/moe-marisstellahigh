@@ -137,3 +137,83 @@ Other than participation in school-wide activities which aim to deepen the under
 
 5.&nbsp;&nbsp;Students given a&nbsp;_<b>Confirmed Offer</b>_&nbsp;are guaranteed a place in the school provided they qualify for the&nbsp;<b>Express course</b>&nbsp;of study.
 
+<table>
+<thead>
+  <tr>
+    <th>Important Dates</th>
+    <th> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>X XXX, 11am to  X XXX 2023, 3pm</td>
+    <td>Submission of online DSA Application Form</td>
+  </tr>
+  <tr>
+    <td>By XX XXX 2023</td>
+    <td>School to send e-mail notification to shortlisted applicants.</td>
+  </tr>
+  <tr>
+    <td>XX XXX - XX XXX 2023</td>
+    <td>In-person selection exercise for shortlisted applicants.</td>
+  </tr>
+  <tr>
+    <td>By XX XXX 2023</td>
+    <td>School to inform shortlisted applicants of the selection outcome.</td>
+  </tr>
+</tbody>
+</table>
+
+### HOW TO APPLY
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from XX XXX 2023, 11am to XX XXX 2023, 3pm. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).  
+
+In your submission, please provide information such as position played in the sports, belt attainment in taekwondo, wushu specialisation, instrument played and grade level - whichever is applicable for the talent area that you are applying. This information will help in the shortlisting process and the arrangement of video conference selection exercise schedule.  
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from years 1-4.
+
+**For further enquiries, please email&nbsp;[koh\_yew\_kiat@schools.gov.sg](mailto:koh_yew_kiat@schools.gov.sg).**
+
+### APPLICATION DEADLINE
+
+
+**XX XXX 2023, 3pm**
+
+### USEFUL MOE WEBLINKS
+
+<table>
+<thead>
+  <tr>
+    <td>DSA-Sec Main Webpage</td>
+    <td><a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Instructions on Application<br>(Mainstream students)</td>
+    <td><a href="https://go.gov.sg/dsa-sec-application">https://go.gov.sg/dsa-sec-application</a></td>
+  </tr>
+  <tr>
+    <td>Instructions on Application<br>(Non-mainstream Students)</td>
+    <td><a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></td>
+  </tr>
+  <tr>
+    <td>Direct to DSA-Sec Portal<br>(Mainstream Students)<br></td>
+    <td><a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a></td>
+  </tr>
+  <tr>
+    <td>Direct to DSA-Sec Portal <br>(Non-mainstream Students)<br><br></td>
+    <td><a href="https://go.gov.sg/apply-dsa-sec-nms">https://go.gov.sg/apply-dsa-sec-nms</a></td>
+  </tr>
+  <tr>
+    <td>DSA-Sec iFAQs</td>
+    <td><a href="https://go.gov.sg/dsa-secfaqs">https://go.gov.sg/dsa-secfaqs</a></td>
+  </tr>
+  <tr>
+    <td>DSA-Sec School Finder</td>
+    <td><a href="https://go.gov.sg/dsa-secschfinder">https://go.gov.sg/dsa-secschfinder</a></td>
+  </tr>
+</tbody>
+</table>
