@@ -22,8 +22,8 @@ Posted students/parents of posted students, please register for the online zoom 
 <table>
 <thead>
   <tr>
-    <th>8.45am - 9.00am</th>
-    <th>Parents to join the webinar</th>
+    <td>8.45am - 9.00am</td>
+    <td>Parents to join the webinar</td>
   </tr>
 </thead>
 <tbody>
