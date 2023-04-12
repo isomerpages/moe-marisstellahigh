@@ -22,14 +22,14 @@ For students who would like to appeal to join Maris Stella High School as a Seco
 *   Applications are not assessed based on a first-come-first-served basis.
     
 
-*   Applications will be considered void if the information submitted is not supported correctly by the official documents.&nbsp;
+    *   Applications will be considered void if the information submitted is not supported correctly by the official documents.&nbsp;
     
-*   Scanned copies of the following documents are required for the appeal application:
+    *   Scanned copies of the following documents are required for the appeal application:
     
 
-*   PSLE Results Slip (with AL Score)
+         *   PSLE Results Slip (with AL Score)
     
-*   School Choice Verification Slip
+         *   School Choice Verification Slip
     
 
 *   Shortlisted applicants will be notified for a follow-up interview and documents to bring to school.
