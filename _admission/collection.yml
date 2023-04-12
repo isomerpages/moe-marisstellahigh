@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Direct School Admission (DSA)/School Achievements.md
       - Direct School Admission (DSA)/.keep
       - Admission (Primary)/.keep
       - Admission (Primary)/Primary 1 Admission.md
