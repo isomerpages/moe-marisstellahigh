@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
-      - Admission (Secondary)/Textbooks and Uniform.md
-      - Admission (Secondary)/2023 Secondary 1 Appeal.md
-      - Admission (Secondary)/2023 Sec 1 Zoom Webinar and E Registration.md
       - Admission (Secondary)/.keep
+      - Admission (Secondary)/2023 Sec 1 Zoom Webinar and E Registration.md
+      - Admission (Secondary)/2023 Secondary 1 Appeal.md
+      - Admission (Secondary)/Textbooks and Uniform.md
       - FAQs (Secondary).md
       - Admission (Primary)/.keep
       - Admission (Primary)/Primary 1 Admission.md
