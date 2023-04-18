@@ -7,36 +7,36 @@ third_nav_title: Secondary
 <table>
 <thead>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SCHOOL%20LEADERS">SCHOOL LEADERS
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#SCHOOL%20LEADERS">SCHOOL LEADERS
 </a></p>
 </td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#KEY%20PERSONNEL">KEY PERSONNEL
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#KEY%20PERSONNEL">KEY PERSONNEL
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SENIOR/LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#SENIOR/LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ENGLISH%20">ENGLISH
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#ENGLISH%20">ENGLISH
 </a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#CHINESE%20">CHINESE
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#CHINESE%20">CHINESE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#MATHEMATICS%20">MATHEMATICS
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#MATHEMATICS%20">MATHEMATICS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#SCIENCE%20">SCIENCE
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#SCIENCE%20">SCIENCE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#HUMANITIES">HUMANITIES
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#HUMANITIES">HUMANITIES
 </a></p></td>
   </tr>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#PE,%20AESTHETICS%20AND%20ICT">PE, AESTHETICS AND ICT
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#PE,%20AESTHETICS%20AND%20ICT">PE, AESTHETICS AND ICT
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">EXECUTIVE AND ADMINISTRATIVE STAFF
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">EXECUTIVE AND ADMINISTRATIVE STAFF
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/departments/#ICT%20STAFF">ICT STAFF
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#ICT%20STAFF">ICT STAFF
 </a></p></td>
   </tr>
 </tbody>
