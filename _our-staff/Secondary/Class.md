@@ -7,18 +7,18 @@ third_nav_title: Secondary
 <table>
 <thead>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/class/#SECONDARY%201">SECONDARY 1
+    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%201">SECONDARY 1
 </a></p>
 </td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/class/#SECONDARY%202">SECONDARY 2
+    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%202">SECONDARY 2
 </a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/class/#SECONDARY%203">SECONDARY 3
+    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%203">SECONDARY 3
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/our-staff/class/#SECONDARY%204">SECONDARY 4
+    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%204">SECONDARY 4
 </a></p></td>
   </tr>
 </tbody>
