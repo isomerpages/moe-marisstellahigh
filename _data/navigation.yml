@@ -39,7 +39,7 @@ links:
       - title: ICT
         url: programmes/primary/ict
   - title: School Happenings
-    url: /permalink
+    url: /school-happenings/primary/news/
     sublinks:
       - title: News
         url: /school-happenings/primary/news/
@@ -54,7 +54,7 @@ links:
       - title: CCA
         url: /programmes/primary/cca/
   - title: Useful Links
-    url: /school-happenings/primary/news/
+    url: /useful-links-and-info/primary/for-students/
     sublinks:
       - title: For Students
         url: /useful-links-and-info/primary/for-students/
