@@ -90,4 +90,4 @@ Answer: At Secondary 1, all of our students are offered the chance to take Highe
 
   
 
-_General FAQs can also be found on the&nbsp;[FAQs page](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/faqs/)&nbsp;of the school website._
+_General FAQs can also be found on the&nbsp;[FAQs page](/admission/faqs/)&nbsp;of the school website._
