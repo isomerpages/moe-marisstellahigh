@@ -7,28 +7,28 @@ third_nav_title: Primary
 <table>
 <thead>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%201">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%201">
 PRIMARY 1
 </a></p>
 
 </td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%202">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%202">
 PRIMARY 2
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%203">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%203">
 PRIMARY 3
 </a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%204">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%204">
 PRIMARY 4
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%205">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%205">
 PRIMARY 5
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/class/#PRIMARY%206">
+    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%206">
 PRIMARY 6
 </a></p></td>
   </tr>
