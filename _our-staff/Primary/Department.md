@@ -7,38 +7,38 @@ third_nav_title: Primary
 <table>
 <tbody>
   <tr>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCHOOL%20LEADERS">SCHOOL LEADERS
+    <td><p><a href="/about-mshs/primary/our-staff/department/#SCHOOL%20LEADERS">SCHOOL LEADERS
 </a></p>
 </td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#KEY%20PERSONNEL">KEY PERSONNEL
+    <td><p><a href="/about-mshs/primary/our-staff/department/#KEY%20PERSONNEL">KEY PERSONNEL
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ENGLISH">ENGLISH
+    <td><p><a href="/about-mshs/primary/our-staff/department/#ENGLISH">ENGLISH
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CHINESE">CHINESE
+    <td><p><a href="/about-mshs/primary/our-staff/department/#CHINESE">CHINESE
 </a></p></td>
 	</tr>
 <tr>		
-	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#MATHEMATICS">MATHEMATICS
+	<td><p><a href="/about-mshs/primary/our-staff/department/#MATHEMATICS">MATHEMATICS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#SCIENCE">SCIENCE
+    <td><p><a href="/about-mshs/primary/our-staff/department/#SCIENCE">SCIENCE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#PE%20AND%20AESTHETICS">PE AND AESTHETICS
+    <td><p><a href="/about-mshs/primary/our-staff/department/#PE%20AND%20AESTHETICS">PE AND AESTHETICS
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#BICULTURAL%20PROGRAMME">BICULTURAL PROGRAMME
+    <td><p><a href="/about-mshs/primary/our-staff/department/#BICULTURAL%20PROGRAMME">BICULTURAL PROGRAMME
 </a></p></td>
 	</tr>		
 <tr>
-	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#CCE%20AND%20NE">CCE AND NE
+	<td><p><a href="/about-mshs/primary/our-staff/department/#CCE%20AND%20NE">CCE AND NE
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ICT">ICT
+    <td><p><a href="/about-mshs/primary/our-staff/department/#ICT">ICT
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#STUDENT%20MANAGEMENT">STUDENT MANAGEMENT
+    <td><p><a href="/about-mshs/primary/our-staff/department/#STUDENT%20MANAGEMENT">STUDENT MANAGEMENT
 </a></p></td>
-    <td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
+    <td><p><a href="/about-mshs/primary/our-staff/department/#ALLIED%20EDUCATORS">ALLIED EDUCATORS
 </a></p></td>
 	</tr>
 <tr>
-	<td><p><a href="https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/primary/our-staff/department/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">ALLIED EDUCATORS
+	<td><p><a href="/about-mshs/primary/our-staff/department/#EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF">ALLIED EDUCATORS
 </a></p></td>
     <td></td>
   </tr>
