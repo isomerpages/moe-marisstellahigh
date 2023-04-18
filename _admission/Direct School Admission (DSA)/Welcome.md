@@ -29,7 +29,7 @@ third_nav_title: Direct School Admission (DSA)
 
 For more information on the school and the DSA process, refer to the following sub-pages:  
 
-*   [MSHS Experience](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/mshs-experience/)
-*   [Past Achievements](https://staging.d2r0kwuamjw0vo.amplifyapp.com/about-mshs/secondary/school-achievements/2022/)
-*   [DSA Process](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/dsa-process/)
-*   [FAQs](https://staging.d2r0kwuamjw0vo.amplifyapp.com/admission/secondary/direct-school-admission-dsa/faqs/)
+*   [MSHS Experience](/admission/secondary/direct-school-admission-dsa/mshs-experience/)
+*   [Past Achievements](/about-mshs/secondary/school-achievements/2022/)
+*   [DSA Process](/admission/secondary/direct-school-admission-dsa/dsa-process/)
+*   [FAQs](/admission/secondary/direct-school-admission-dsa/faqs/)
