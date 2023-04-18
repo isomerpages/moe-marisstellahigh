@@ -14,17 +14,17 @@ third_nav_title: Secondary
 </a></p></td>
     <td><p><a href="/about-mshs/secondary/our-staff/departments/#SENIOR/LEAD%20TEACHERS">SENIOR/LEAD TEACHERS
 </a></p></td>
-    <td><p><a href="/about-mshs/secondary/our-staff/departments/#ENGLISH%20">ENGLISH
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#ENGLISH">ENGLISH
 </a></p></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><p><a href="/about-mshs/secondary/our-staff/departments/#CHINESE%20">CHINESE
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#CHINESE">CHINESE
 </a></p></td>
-    <td><p><a href="/about-mshs/secondary/our-staff/departments/#MATHEMATICS%20">MATHEMATICS
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#MATHEMATICS">MATHEMATICS
 </a></p></td>
-    <td><p><a href="/about-mshs/secondary/our-staff/departments/#SCIENCE%20">SCIENCE
+    <td><p><a href="/about-mshs/secondary/our-staff/departments/#SCIENCE">SCIENCE
 </a></p></td>
     <td><p><a href="/about-mshs/secondary/our-staff/departments/#HUMANITIES">HUMANITIES
 </a></p></td>
