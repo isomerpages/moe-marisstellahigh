@@ -14,58 +14,42 @@ description: ""
 
 #### 海星中学特有的10年双文化特选课程分两个阶段：
 
-
-
 *   学生在小学六年里将会‘走近’文化。他们将通过学校安排的活动接触到各个不同的传统中华文化，并从中了解相应的价值观。  
-      
-    
-*   中学四年里，学生将‘走进’文化。他们有机会按照自己的兴趣加深他们对传统中华文化的知识和技能。
-
   
+*   中学四年里，学生将‘走进’文化。他们有机会按照自己的兴趣加深他们对传统中华文化的知识和技能。
 
 通过文化校园及课程，孙光汉修士双文化特选课程分为文化普及和优才培育课程。每个海星学子会学习弟子规和小白龙文化校本，拥有丰富的文化熏陶。他们在各年级也有浓厚的华族文化体验。各年级的文化体验如下：  
 
-  
 
-<b>一年级</b>
+**一年级**
 
 *   武术
 
-  
-
-<b>二年级</b>
+**二年级**
 
 *   华乐、书法
 *   绘本制作小书，培养社交情绪技能
 
-  
-
-<b>三年级</b>
+**三年级**
 
 *   戏剧
 *   欣赏华语演出，发展华文华语的应用与思维的能力
 
-  
-
-<b>四年级</b>
+**四年级**
 
 *   象棋
 *   进一步认识新加坡特色，并学习以华文华语介绍本土文化，加强国家归属感与自豪感
 
   
-<b>五年级</b>
+**五年级**
 
 *   国画课
 *   漫画书设计，培养双语能力
 
-  
-
-<b>六年级</b>
+**六年级**
 
 *   牛车水学习之旅，进一步强化本土文化的认知
 *   品茶泡茶，初探中国茶文化，体验文人雅士的闲情逸致
-
-  
 
 优才培育课程让海星学子发挥他们的才华，他们也在专业导师的带领下进行特定的课程。活动如下：  
 
@@ -74,9 +58,7 @@ description: ""
 *   武术
 *   海外浸入及小小导览员
 
-  
-
-<b>Objectives:</b>
+**Objectives:**
 
 Through our Brother Chanel Programme, we strive to nurture effectively bilingual Marists who will be active learners and proficient users of both languages. Marists will have a deeper appreciation of and live out the Chinese culture as well as demonstrate cultural sensitivity. With a strong national identity and global perspective, Marist will become Gentlemen who will serve Singapore in the future. As a full school, we have a 10-year SAP programme that is distinctive to Maris Stella High School.  
   
@@ -101,7 +83,7 @@ Talent Development Curriculum
 
   
 
-<b>Programmes include:</b>
+**Programmes include:**
   
 
 *   Chinese Literary Drama Club
