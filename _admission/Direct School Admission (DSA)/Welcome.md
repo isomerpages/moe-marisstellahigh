@@ -4,7 +4,7 @@ permalink: /admission/secondary/direct-school-admission-dsa/welcome/
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
-# 2022 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL
+# 2023 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL
 
 
   
@@ -18,7 +18,7 @@ third_nav_title: Direct School Admission (DSA)
 </a></p>
 
 
-<center> JOIN US FOR OUR DSA SHARING SESSION<br> 20 MAY 2022 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center>
+<center> JOIN US FOR OUR DSA SHARING SESSION<br> 19 MAY 2023 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcO3rUl8tmCl6xCYybLUqbwubE8mnn3pVaoKudXId-n83Wxzk0yG_otlVfpV1iDQ/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
