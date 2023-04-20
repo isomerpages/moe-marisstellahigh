@@ -6,35 +6,15 @@ third_nav_title: For Students (Secondary)
 ---
 ## BOOKS
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Bookshop Operating Hours:</th>
-    <th colspan="2" class="tg-0lax">Mon/ Wed/ Thu/ Fri7.00am to 3.00pm</th>
-    <th colspan="2" class="tg-0lax">7.00am to 3.00pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2" class="tg-0lax"></td>
-    <td colspan="2" class="tg-0lax">Tue</td>
-    <td colspan="2" class="tg-0lax">6.45am to 2.45pm</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-0lax">Lunch</td>
-    <td colspan="2" class="tg-0lax">12.00pm to 1.00pm</td>
-  </tr>
-</tbody>
-</table>
+Bookshop: Pacific Bookstores Pte Ltd 太平洋书局私人有限公司
+
+|   |   |   |
+|:-:|---|---|
+| Bookshop Operating Hours:  | Mon/ Wed/ Thu/ Fri  | 7.00am to 3.00pm  |
+|   | Tue  | 6.45am to 2.45pm  |
+|   | Lunch  | 12.00pm to 1.00pm  |
+|   |   |   |
+
 
 ## 2023 BOOKLISTS
 
