@@ -41,7 +41,7 @@ third_nav_title: CCA (Primary)
 <br><br><br><br><br><br><br><br>
 
 <p><a href="/programmes/primary/cca/table-tennis/">
-<img src="/images/CCA/Primary/Table%20Tennis.jpg" style="width:25.1%;margin-right:15px;" align="left">
+<img src="/images/tabletennis.jpg" style="width:26.4%;margin-right:15px;" align="left">
 </a></p>
 
 
