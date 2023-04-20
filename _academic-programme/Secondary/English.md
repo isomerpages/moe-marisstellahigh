@@ -6,15 +6,14 @@ third_nav_title: Secondary
 ---
 # English
 
-<img src="/images/Academic%20Programme/Secondary/english_v1.png"  
-     style="width:45%">
+<img src="/images/Academic%20Programme/Secondary/english_v1.png" style="width:45%">
 
 
 **The English Language and Literature Department aims to:**
 
-*   Develop Marists to be empathetic and confident communicators in the English Language; 
-*   Teach Marists the skills and strategies to be discerning readers and be increasingly competent in the use of the English Language through the use of pedagogically sound instructional strategies;  
-*   Nurture Marists to be creative inquirers by exploring the use of the English Language through participating in enrichment programmes and competitions. 
+*   Develop Marists to be&nbsp;empathetic and confident communicators in the English Language;&nbsp;
+*   Teach Marists the skills and strategies to be discerning readers and be increasingly competent in the use of the English Language through the use of pedagogically sound instructional strategies;&nbsp;&nbsp;
+*   Nurture Marists to be creative inquirers by exploring the use of the English Language through participating in enrichment programmes and competitions.&nbsp;
 
   
 
@@ -27,7 +26,7 @@ third_nav_title: Secondary
 *   MSHS 10-Word Story Challenge  
     
 *   EL Learning Festival
-*   Lower Secondary Creative Writing Programme 
+*   Lower Secondary Creative Writing Programme&nbsp;
 *   Secondary 1 Poetry Showcase
 *   Upper Secondary Theatre Experience  
     
@@ -40,16 +39,13 @@ third_nav_title: Secondary
     
 *   National Schools Literature Festival  
     
-*   Unity Young Writer's Festival & Competition (UWF) 2019
+*   Unity Young Writer's Festival &amp; Competition (UWF) 2019
 *   YMCA Plain English Speaking Awards
 *   Project VOICE Student Workshop
 *   Honorary Mention for original poem in UWF 2019
 
   
 
-**Take a look at some good work by our Secondary One students:** 
+**Take a look at some good work by our Secondary One students:**&nbsp;
 
-*   [Food Memories](https://sites.google.com/mshs.edu.sg/2020-s1el/food-memories) (Personal Recounts) <font size=5>LINK DOES NOT WORK)</font>
-*   [Natural Curiosities](https://sites.google.com/mshs.edu.sg/2020-s1el/natural-curiosities) (Factual Recounts in podcast format) <font size=5>LINK DOES NOT WORK)</font>
-*   [Best Fictional Friends](https://sites.google.com/mshs.edu.sg/2020-s1el/bff-best-fictional-friends) (Narratives) <font size=5>LINK DOES NOT WORK)</font>
-*   [Extensive Reading Programme](https://docs.google.com/presentation/d/1XrgeUz9VboNAh2K8FOpxm8jCBfRIXSJWvTL6P1E5f6w/edit?usp=sharing) (Book Reviews)
+*   [Extensive Reading Programme](https://docs.google.com/presentation/d/1XrgeUz9VboNAh2K8FOpxm8jCBfRIXSJWvTL6P1E5f6w/edit?usp=sharing)&nbsp;(Book Reviews)
