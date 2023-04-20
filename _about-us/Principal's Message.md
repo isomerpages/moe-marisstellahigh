@@ -9,7 +9,7 @@ description: ""
 
 
 
-<img src="/images/boy%20eng%20seng.jpeg" style="width:183px;height:240px;margin-right:15px;" align="left">
+<img src="/images/boy%20eng%20seng.jpeg" style="width:240px;height:240px;margin-right:15px;" align="left">
 
 
 The most important question to ask when choosing a school is not what you will get, but what you will&nbsp;**become**. We at Maris Stella produce gentlemen who are men of&nbsp;**faith**,&nbsp;**vision**, and&nbsp;**service**.
