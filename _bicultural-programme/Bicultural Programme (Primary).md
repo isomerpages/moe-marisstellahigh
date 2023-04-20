@@ -10,7 +10,7 @@ description: ""
 <br><br>
 
 <img src="/images/biculturediagram2023.png" align="left" style="width:50%">
-<img src="/images/Bicultural%20Programme/Primary/Biculutural.jpg" align="right" style="width:50%"><br><br><br><br><br>
+<img src="/images/Bicultural%20Programme/Primary/Biculutural.jpg" align="right" style="width:50%"><br><br><br><br><br><br>
 
 </p><div style="line-height:200%;">
         <br>
