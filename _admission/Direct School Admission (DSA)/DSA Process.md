@@ -14,7 +14,7 @@ To apply via Direct School Admission (DSA) Exercise for Admission to Secondary O
 
 
 
-*   _Academic_&nbsp;_entry requirements (PSLE Score) eligible for Express course of study and must offer Chinese as Mother Tongue Language_
+*   _Academic_&nbsp;_entry requirements (PSLE Score) eligible for Posting Group 3 and must offer Chinese as Mother Tongue Language_
 *   _Requirements stated for the area of talent that he is interested in_
 
 
