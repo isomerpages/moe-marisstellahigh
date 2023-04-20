@@ -9,43 +9,63 @@ third_nav_title: For Parents (Primary)
 **SEMESTER 1**
 
 <table>
-<thead>
-  <tr>
-    <th>Filename</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><a href="/files/2023%20p3%20assessment%20format.pdf">2023 P3 Assessment Format.pdf</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="/files/2023%20p3%20semester%201%20content.pdf">2023 P3 Semester 1 Content.pdf</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="/files/2023%20p4%20assessment%20format.pdf">2023 P4 Assessment Format.pdf</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="/files/2023%20p4%20semester%201%20content.pdf">2023 P4 Semester 1 Content.pdf</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="/files/2023%20p5%20assessment%20formatwith%20changes%20for%20p5%20hcl%20wa2.pdf">2023 P5 Assessment Format.pdf</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="/files/2023%20p5%20semester%201%20content.pdf">2023 P5 Semester 1 Content.pdf</a></td>
-  </tr>
-	  <tr>
-    <td><a href="/files/2023%20p6%20assessment%20format.pdf">2023 P6 Assessment Format.pdf</a><br></td>
-  </tr>
-		  <tr>
-    <td><a href="/files/2023%20p6%20semester%201%20content.pdf">2023 P6 Semester 1 Content.pdf</a><br></td>
-  </tr>
-			  <tr>
-    <td><a href="/files/2023%20term%201%20assessment%20schedule.pdf">2023 Term 1 Assessment Schedule.pdf</a><br></td>
-  </tr>
-				  <tr>
-    <td><a href="/files/2023%20term%202%20assessment%20schedule.pdf">2023 Term 2 Assessment Schedule.pdf</a><br></td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Filename</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="/files/2023%20p3%20assessment%20format.pdf">2023 P3 Assessment Format.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p3%20semester%201%20content.pdf">2023 P3 Semester 1 Content.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p4%20assessment%20format.pdf">2023 P4 Assessment Format.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p4%20semester%201%20content.pdf">2023 P4 Semester 1 Content.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p5%20assessment%20formatwith%20changes%20for%20p5%20hcl%20wa2.pdf">2023 P5 Assessment Format.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p5%20semester%201%20content.pdf">2023 P5 Semester 1 Content.pdf</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p6%20assessment%20format.pdf">2023 P6 Assessment Format.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20p6%20semester%201%20content.pdf">2023 P6 Semester 1 Content.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20term%201%20assessment%20schedule.pdf">2023 Term 1 Assessment Schedule.pdf</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/files/2023%20term%202%20assessment%20schedule.pdf">2023 Term 2 Assessment Schedule.pdf</a><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 **Semester 2**
