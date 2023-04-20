@@ -59,3 +59,5 @@ At Maris Stella High School, the&nbsp;_eTeens_&nbsp;programme to be implemented 
 11 \. Parents may opt their children out of the Sexuality Education and/or&nbsp;_eTeens_&nbsp;programmes by MOE-approved external providers.
 
 12 \. Parents who wish to opt their children out of the&nbsp;**Sexuality Education programme**&nbsp;need to complete an opt-out form. This form will be sent to parents at the start of the year through Parents Gateway. The opt-out form can be completed online and is also downloadable [here.](/files/sed%20opt-out%20form%20a%202023.pdf) A hardcopy of the form, duly completed and signed, can be submitted to the school office.
+
+13 \. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be sent to parents at the start of the year through Parents Gateway. The opt-out form can be completed online and is also downloadable [here.](/files/eteens%20parents%20opt-out%20form%20form%20b%20-%20only%20for%20s3s.pdf) A hardcopy of the form, duly completed and signed, can be submitted to the school office.
