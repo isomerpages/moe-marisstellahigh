@@ -45,3 +45,11 @@ ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)
 7 \. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 At Maris Stella High School, the following lessons from the Sexuality Education Programme that will be taught can be found [here.](/files/mshs%20sexuality%20education%20programme%202022.pdf)
+
+<u>**_eTeens_**&nbsp;**PROGRAMME**:</u>
+
+8 \. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. This year, the mass talk segment will be delivered online via Zoom.
+
+9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+
+At Maris Stella High School, the&nbsp;_eTeens_&nbsp;programme to be implemented in this year can be found [here.](/files/mshs%20eteens%20programme%202022.pdf)
