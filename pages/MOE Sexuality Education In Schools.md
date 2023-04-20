@@ -28,3 +28,12 @@ description: ""
 &nbsp;You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) **PAGE NOT FOUND**&nbsp;for more information on MOE Sexuality Education. 
  
 **OVERVIEW OF MARIS STELLA HIGH SCHOOL SEXUALITY EDUCATION PROGRAMME**
+
+4 \. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law.
+
+You may click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) **PAGE NOT FOUND**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+
+5 \. The subjects that incorporate topics on sexuality include:
+
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>
+ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)
