@@ -141,5 +141,5 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 <p><a href="/programmes/primary/cca/science-club/">
-<img src="/images/CCA/Primary/Science%20Club.jpg" style="width:25%;margin-right:15px;" align="left">
+<img src="/images/scienceclub.jpg" style="width:26.7%;margin-right:15px;" align="left">
 </a></p>
