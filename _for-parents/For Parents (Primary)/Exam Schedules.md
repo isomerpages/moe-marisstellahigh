@@ -6,7 +6,7 @@ third_nav_title: For Parents (Primary)
 ---
 # Exam Schedules
 
-## SEMESTER 1
+**SEMESTER 1**
 
 <table>
 <thead>
