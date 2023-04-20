@@ -93,7 +93,7 @@ All Marist Student Leaders are encouraged to develop their leadership skills in 
   
 Our student leaders are called to action each day, by being firmly grounded in the Marist values and the five practices of exemplary leadership, as Values-Driven, Service-Oriented Leaders of Faith, Vision and Service.
 
-*   [Sexuality Education](/programmes/primary/cce/sexuality-education/)
+*   [Sexuality Education](/cce-secondary-sex-ed/)
 *   [Bicultural Programme](/programmes/secondary/bicultural-programme/)  
     
 *   Internationalisation Programme
