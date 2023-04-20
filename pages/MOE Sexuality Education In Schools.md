@@ -53,3 +53,9 @@ At Maris Stella High School, the following lessons from the Sexuality Education 
 9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
 
 At Maris Stella High School, the&nbsp;_eTeens_&nbsp;programme to be implemented in this year can be found [here.](/files/mshs%20eteens%20programme%202022.pdf)
+
+**INFORMATION FOR PARENTS**
+
+11 \. Parents may opt their children out of the Sexuality Education and/or&nbsp;_eTeens_&nbsp;programmes by MOE-approved external providers.
+
+12 \. Parents who wish to opt their children out of the&nbsp;**Sexuality Education programme**&nbsp;need to complete an opt-out form. This form will be sent to parents at the start of the year through Parents Gateway. The opt-out form can be completed online and is also downloadable [here.](/files/sed%20opt-out%20form%20a%202023.pdf) A hardcopy of the form, duly completed and signed, can be submitted to the school office.
