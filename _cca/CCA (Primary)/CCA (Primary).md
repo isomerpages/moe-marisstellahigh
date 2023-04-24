@@ -88,12 +88,13 @@ third_nav_title: CCA (Primary)
 
 **CLUBS AND SOCIETIES**
 
-<p><a href="/programmes/primary/cca/chinese-literary-drama-club/">
-<img src="/images/CCA/Primary/Chinese%20Literary%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align="left">
-</a></p>
 
 <p><a href="/programmes/primary/cca/chinese-chess-club/">
 <img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25.2%;margin-right:15px;" align="left">
+</a></p>
+
+<p><a href="/programmes/primary/cca/chinese-literary-drama-club/">
+<img src="/images/CCA/Primary/Chinese%20Literary%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/programmes/primary/cca/english-drama-society/">
