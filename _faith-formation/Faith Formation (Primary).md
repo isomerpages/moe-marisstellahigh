@@ -3,8 +3,6 @@ title: Faith Formation (Primary)
 permalink: /programmes/primary/faith-formation/
 description: ""
 ---
-
-
 <img src="/images/Faith%20Formation/faith%20formation.jpg" style="width:75%">
 
 
@@ -34,4 +32,3 @@ description: ""
     
     *   Fridays: Praise and Worship sessions or First Friday masses in the chapel
 
-**Article:**&nbsp;[Importance of A Catholic Education](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/) (LINK DOES NOT WORK)
