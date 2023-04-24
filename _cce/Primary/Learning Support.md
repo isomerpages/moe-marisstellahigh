@@ -22,5 +22,3 @@ To achieve these goals, the following programmes are offered:
 *   Learning Support Programme (LSP)  
     
 *   Learning Support for Maths (LSM)
-
-  
