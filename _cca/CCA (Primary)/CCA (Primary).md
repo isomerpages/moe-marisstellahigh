@@ -79,13 +79,12 @@ third_nav_title: CCA (Primary)
 </a></p>
 
 <p><a href="/programmes/primary/cca/art-club/">
-<img src="/images/artsncrafts.png" style="width:25%;margin-right:15px;" align="left">
+<img src="/images/artsncrafts.png" style="width:26%;margin-right:15px;" align="left">
 </a></p>
 
 <br><br><br><br><br><br><br><br>
 
 
-<br><br><br><br><br><br><br><br>
 
 **CLUBS AND SOCIETIES**
 
