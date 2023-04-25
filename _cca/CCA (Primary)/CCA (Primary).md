@@ -71,7 +71,7 @@ third_nav_title: CCA (Primary)
 
 
 
-<p><a href="/programmes/primary/cca/school-brass-band/">
+<p><a href="/programmes/primary/cca/brass-band/">
 <img src="/images/CCA/Primary/brass-band.png" style="width:25.5%;margin-right:15px;" align="left">
 </a></p>
 
