@@ -70,8 +70,9 @@ third_nav_title: CCA (Primary)
 **PERFORMING ARTS**
 
 
+
 <p><a href="/programmes/primary/cca/school-brass-band/">
-<img src="/images/CCA/Primary/School%20Brass%20Band.jpg" style="width:25%;margin-right:15px;" align="left">
+<img src="/images/CCA/Primary/brass-band.png" style="width:25.5%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/programmes/primary/cca/string-ensemble/">
