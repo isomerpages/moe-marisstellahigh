@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/brass-band/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# School Brass Band
+# Brass Band
 
 
 <img src="/images/CCA/Primary/Brass%20Band%20Pic1.jpg" style="width:45%">
