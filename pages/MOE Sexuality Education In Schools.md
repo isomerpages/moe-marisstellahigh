@@ -9,7 +9,7 @@ description: ""
 
 2 \. The goals of Sexuality Education are:
 
-(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
+(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
 
 (ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
@@ -25,13 +25,13 @@ description: ""
 
 (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-&nbsp;You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) **PAGE NOT FOUND**&nbsp;for more information on MOE Sexuality Education. 
+&nbsp;You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education. 
  
 **OVERVIEW OF MARIS STELLA HIGH SCHOOL SEXUALITY EDUCATION PROGRAMME**
 
 4 \. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law.
 
-You may click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) **PAGE NOT FOUND**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach#:~:text=Sexuality%20Education%20in%20schools%20promotes,transmitted%20diseases%20or%20teenage%20pregnancies) for more information on the scope of Sexuality Education in the school curriculum.
 
 5 \. The subjects that incorporate topics on sexuality include:
 
