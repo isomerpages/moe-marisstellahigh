@@ -7,8 +7,7 @@ third_nav_title: Secondary
 # Music
 
 
-<img src="/images/Academic%20Programme/Secondary/music_v1.png"  
-     style="width:45%">
+<img src="/images/Academic%20Programme/Secondary/music_v1.png" style="width:45%">
 
 **The Music Department aims to:**
 
@@ -45,4 +44,4 @@ O-Level Music (Upper Secondary Music Programme)
 
 Music Elective Programme (MEP)  
 
-*   Students interested in this programme can visit [this website](https://www.moe.gov.sg/education/programmes/elective-programmes) for more details. (LINK DOES NOT WORK)
+*   Students interested in this programme can visit&nbsp;[this website](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)&nbsp;for more details. (LINK DOES NOT WORK)
