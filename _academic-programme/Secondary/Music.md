@@ -44,4 +44,4 @@ O-Level Music (Upper Secondary Music Programme)
 
 Music Elective Programme (MEP)  
 
-*   Students interested in this programme can visit&nbsp;[this website](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)&nbsp;for more details. (LINK DOES NOT WORK)
+*   Students interested in this programme can visit&nbsp;[this website](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)&nbsp;for more details. 
