@@ -36,7 +36,7 @@ third_nav_title: CCA (Secondary)
   
 **网页链接：**  
 
-*   &nbsp;Instagram:&nbsp;[https://www.instagram.com/mshs_cldds/](https://www.instagram.com/mshs_cldds/)
+*   &nbsp;Instagram:&nbsp;[https://instagram.com/mshs_cls](https://instagram.com/mshs_cls)
 
 #### Training Schedule
 
