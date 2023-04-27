@@ -16,10 +16,13 @@ third_nav_title: CCA (Primary)
 
 **To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   Comprehensive training programmes to prepare Marists for the Singapore Youth Festival 2018
+*   Comprehensive training programmes to prepare Marists for the Singapore Youth Festival 2024
 
   
 
 **Marists are given the opportunities to participate in the following event:**&nbsp;
 
-*   Octoburst! Concert at The Esplanade
+*   Founder's Day
+*   National Day 
+*   School Performance
+*   Teachers' Day
