@@ -12,8 +12,7 @@ third_nav_title: CCA (Primary)
 **The Rockwall Climbing CCA aims to:**
 
 *   Provide a platform for Marists to constantly grow their physical and mental strength;
-*   Develop team spirit and resilience through vigorous training required to compete in an extreme sport; and
-*   Develop team spirit and resilience through vigorous training required to compete in an extreme sport.
+*   Inculcate good sportsmanship and values of team spirit, discipline and resilience through vigorous training required to compete in an extreme sport
 
   
 
