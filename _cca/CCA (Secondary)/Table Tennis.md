@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/table-tennis/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Table Tennis
 
-<img src="/images/CCA/Secondary/tabletennis_v1.png"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/tabletennis_v1.png" style="width:45%">
 
 
 **The Table Tennis CCA aims to:**
