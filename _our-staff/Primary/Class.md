@@ -4,38 +4,6 @@ permalink: /about-mshs/primary/our-staff/class/
 description: ""
 third_nav_title: Primary
 ---
-<table>
-<thead>
-  <tr>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%201">
-PRIMARY 1
-</a></p>
-
-</td>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%202">
-PRIMARY 2
-</a></p></td>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%203">
-PRIMARY 3
-</a></p></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%204">
-PRIMARY 4
-</a></p></td>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%205">
-PRIMARY 5
-</a></p></td>
-    <td><p><a href="/about-mshs/primary/our-staff/class/#PRIMARY%206">
-PRIMARY 6
-</a></p></td>
-  </tr>
-</tbody>
-</table>
-
-
 **<font size="5">PRIMARY 1</font><a name="PRIMARY 1"></a>**
 
 <style type="text/css">
