@@ -4,10 +4,7 @@ permalink: /programmes/primary/cca/table-tennis/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
-
-<img src="/images/tabletennisinfo.jpg" style="width:45%">
+<img align="right" src="/images/tabletennisinfo.jpg" style="width:45%">
 
 **The Table Tennis CCA aims to:**&nbsp;
 
