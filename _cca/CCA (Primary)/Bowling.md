@@ -26,8 +26,7 @@ third_nav_title: CCA (Primary)
 **Marist bowlers have done the school proud and achieved the following:**&nbsp;
 
 *   2022 National School Games Bowling Championship
-
-*   Senior Division Overall Schools (Boys) 2nd Runner-Up
-*   Junior Division Overall Schools (Boys) Champion
+    *   Senior Division Overall Schools (Boys) 2nd Runner-Up
+    *   Junior Division Overall Schools (Boys) Champion
 
 **Note:**&nbsp;Bowling CCA trainings take place at Jforte Bowl, Kovan. Training sessions takes place once a week for CCA members and twice weekly for school team bowlers. Bowling is a co-paying CCA.
