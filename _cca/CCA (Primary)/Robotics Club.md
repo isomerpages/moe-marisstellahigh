@@ -4,13 +4,12 @@ permalink: /programmes/primary/cca/robotics-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Robotics Club
-
-<img src="/images/CCA/Primary/Robotics%20Club_D1R1240.jpg"  
-     style="width:45%">
 
 
-**The Robotics Club CCA aims to:** 
+<img align="right" src="/images/CCA/Primary/Robotics%20Club_D1R1240.jpg" style="width:45%">
+
+
+**The Robotics Club CCA aims to:**&nbsp;
 
 *   Equip Marists (ranging from beginners to advanced learners) with the necessary skills to construct various robots using Lego Mindstorm EV3 Core sets;
 *   Instil Marists with the needed knowledge, skills and techniques to program the sets to complete missions;
@@ -24,13 +23,13 @@ third_nav_title: CCA (Primary)
 
   
 
-**To achieve the CCA’s goals, the following programme are offered:** 
+**To achieve the CCA’s goals, the following programme are offered:**&nbsp;
 
 *   Comprehensive training programmes using Lego Mindstorm EV3 system
 
   
 
-**Marists are given the opportunities to participate in the following competitions:** 
+**Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
 *   2019 Asia Pacific Youth Robotics Competition  
     
@@ -39,7 +38,7 @@ third_nav_title: CCA (Primary)
 
   
 
-**Marists have performed well in the following competition:** 
+**Marists have performed well in the following competition:**&nbsp;
 
 *   2019 National Robotics Competition  
     
