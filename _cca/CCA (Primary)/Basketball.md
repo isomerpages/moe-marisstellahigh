@@ -4,10 +4,7 @@ permalink: /programmes/primary/cca/basketball/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
-
-<img src="/images/CCA/Primary/Basketball_D1R1018.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Primary/Basketball_D1R1018.jpg" style="width:45%">
 
 
 **The Basketball CCA aims to:**&nbsp;
