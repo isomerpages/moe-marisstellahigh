@@ -4,9 +4,9 @@ permalink: /programmes/primary/cca/chinese-literary-drama-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Chinese Literary Drama Club
 
-<img src="/images/CCA/Primary/Chinese%20Speech%20and%20Drama%20Club_D1R1384.jpg" style="width:45%">
+
+<img align="right" src="/images/CCA/Primary/Chinese%20Speech%20and%20Drama%20Club_D1R1384.jpg" style="width:45%">
 
 
 **海星华文演艺学会致力于：**&nbsp;  
