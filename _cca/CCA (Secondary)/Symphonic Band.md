@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/symphonic-band/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Symphonic Band
 
-<img src="/images/CCA/Secondary/band2.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/band2.jpg" style="width:45%">
 
 **The Symphonic Band aims to:**
 
