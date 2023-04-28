@@ -83,11 +83,6 @@ third_nav_title: CCA (Primary)
 <img src="/images/artsncrafts.png" style="width:26%;margin-right:15px;" align="left">
 </a></p>
 
-<br><br><br><br><br><br><br><br>
-
-<p><a href="/programmes/primary/cca/chinese-literary-drama-club/">
-<img src="/images/CCA/Primary/Chinese%20Literary%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align="left">
-</a></p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
@@ -99,19 +94,19 @@ third_nav_title: CCA (Primary)
 <img src="/images/CCA/Primary/Chinese%20Chess%20Club.jpg" style="width:25.2%;margin-right:15px;" align="left">
 </a></p>
 
-
+<p><a href="/programmes/primary/cca/chinese-literary-drama-club/">
+<img src="/images/CCA/Primary/Chinese%20Literary%20Drama%20Club.jpg" style="width:25%;margin-right:15px;" align="left">
+</a></p>
 
 <p><a href="/programmes/primary/cca/english-drama-society/">
 <img src="/images/CCA/Primary/English%20Drama%20Society.jpg" style="width:24.9%;margin-right:15px;" align="left">
 </a></p>
 
+<br><br><br><br><br><br><br><br>
+
 <p><a href="/programmes/primary/cca/environmental-science-club/">
 <img src="/images/CCA/Primary/Environmental%20Science%20Club.jpg" style="width:25.2%;margin-right:15px;" align="left">
 </a></p>
-
-<br><br><br><br><br><br><br><br>
-
-
 
 <p><a href="/programmes/primary/cca/infocomm-technology-media-production/">
 <img src="/images/CCA/Primary/Infocomm%20Technology%20(Media%20Production).jpg" style="width:25%;margin-right:15px;" align="left">
@@ -121,20 +116,11 @@ third_nav_title: CCA (Primary)
 <img src="/images/CCA/Primary/International%20Chess%20Club.jpg" style="width:25.1%;margin-right:15px;" align="left">
 </a></p>
 
-
+<br><br><br><br><br><br><br><br>
 
 <p><a href="/programmes/primary/cca/robotics-club/">
 <img src="/images/CCA/Primary/Robotics%20Club.jpg" style="width:25.2%;margin-right:15px;" align="left">
 </a></p>
-
-
-
-
-
-
-
-
-
 
 
 <br><br><br><br><br><br><br><br>
