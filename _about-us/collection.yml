@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test/test.md
-      - Test/.keep
       - Principal's Message.md
       - Saint Marcellin Champagnat.md
       - School History.md
