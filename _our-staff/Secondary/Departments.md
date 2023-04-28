@@ -97,8 +97,8 @@ third_nav_title: Secondary
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k81l"><span style="color:#222;background-color:transparent">Sylvia Roche (Mrs)</span></td>
-    <td class="tg-k81l"><span style="color:#222;background-color:transparent">Year Head</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Sylvia Roche (Mrs)</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Year Head</span></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goy Wee Peng Edmund (Mr)</span></td>
