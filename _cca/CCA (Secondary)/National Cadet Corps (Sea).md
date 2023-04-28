@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/national-cadet-corps-sea/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# National Cadet Corps (Sea)
 
-<img src="/images/CCA/Secondary/NCC_v1.png"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/NCC_v1.png" style="width:45%">
 
 
 **The National Cadet Corps (Sea) aims to:**
