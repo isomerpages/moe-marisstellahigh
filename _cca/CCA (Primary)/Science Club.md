@@ -4,9 +4,9 @@ permalink: /programmes/primary/cca/science-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Science Club
 
-<img src="/images/scienceclubinfo.jpg" style="width:45%">
+
+<img align="right" src="/images/scienceclubinfo.jpg" style="width:45%">
 
 **The Science Club CCA aims to:**
 
