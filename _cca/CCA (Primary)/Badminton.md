@@ -4,21 +4,20 @@ permalink: /programmes/primary/cca/badminton/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Badminton
 
 
-<img src="/images/CCA/Primary/Badminton_D1R1153.jpg"  
-     style="width:45%">
+
+<img src="/images/CCA/Primary/Badminton_D1R1153.jpg" style="width:45%">
 
 
-**The Badminton CCA aims to:** 
+**The Badminton CCA aims to:**&nbsp;
 
 *   Promote the game and develop individual potential in the sport;
 *   Inculcate the values of sportsmanship, fair-play, teamwork and discipline during training and competitions; and  
     
 *   Forge camaraderie in the team and build a resilient team.
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
 *   P2 Badminton Enrichment Programme
 *   P3 Learning for Life Programme (LLP)
@@ -30,7 +29,7 @@ third_nav_title: CCA (Primary)
 
   
 
-**Marists are given the opportunities to participate in the following competitions:** 
+**Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
 *   National School Games North Zone Championships Junior Division  
     
@@ -38,6 +37,6 @@ third_nav_title: CCA (Primary)
 
   
 
-**Marists have performed well in the following competitions:** 
+**Marists have performed well in the following competitions:**&nbsp;
 
 *   To be updated.
