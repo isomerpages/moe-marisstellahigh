@@ -4,9 +4,7 @@ permalink: /programmes/primary/cca/taekwando/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
-<img src="/images/CCA/Primary/Taekwando_D1R0436.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Primary/Taekwando_D1R0436.jpg" style="width:45%">
 
 **The Taekwondo CCA aims to:**&nbsp;
 
