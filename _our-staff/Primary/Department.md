@@ -147,3 +147,89 @@ third_nav_title: Primary
   </tr>
 </tbody>
 </table>
+
+### ENGLISH
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Low Sear Weeh (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">LH / English</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sivagami Alagappan (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">LH / English</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Hui Ming Ann (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">LT / CCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wong Chee Wai Eugene (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">ST / EL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Abigail Abraham (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amrit Kaur Langeana (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jenna Gan Ting Ann (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jolene Tan Jie En (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">June Sim Ming Yin (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lau Hui Wen (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lau Nguen Kee (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">May San Priscilla Yam (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Jia Xin Anna (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teoh Yian Pin (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Shi Hui (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+</tbody>
+</table>
