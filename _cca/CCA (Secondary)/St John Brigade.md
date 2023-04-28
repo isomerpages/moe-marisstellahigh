@@ -4,26 +4,25 @@ permalink: /programmes/secondary/cca/st-john-brigade/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# St John Brigade
-
-<img src="/images/CCA/Secondary/SJB.jpg"  
-     style="width:45%">
 
 
-**The St John Brigade aims to:** 
+<img align="right" src="/images/CCA/Secondary/SJB.jpg" style="width:45%">
 
-*   Groom our cadets to be Marist Gentlemen of Faith, Vision and Service by engaging them in purposeful and engaging activities;   
+
+**The St John Brigade aims to:**&nbsp;
+
+*   Groom our cadets to be Marist Gentlemen of Faith, Vision and Service by engaging them in purposeful and engaging activities;&nbsp;  
     
 *   Develop a spirit of camaraderie amongst the cadets and officers with the support of our Alumni who serve as trainers and mentors to our cadets; and  
     
-*   Provide a holistic 4-year CCA journey with the incorporation of enrichment activities such as air rifle, archery, kayaking, Total Defence lessons and heritage trails.   
+*   Provide a holistic 4-year CCA journey with the incorporation of enrichment activities such as air rifle, archery, kayaking, Total Defence lessons and heritage trails.&nbsp;  
     
 
   
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   March Orientation Camp   
+*   March Orientation Camp&nbsp;  
     
 *   Sec 3 Advanced Non-Commissioned Officers (NCO) Camp  
     
