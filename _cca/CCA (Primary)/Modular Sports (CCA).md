@@ -4,10 +4,7 @@ permalink: /programmes/primary/cca/modular-sports-cca/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
-
-<img src="/images/CCA/Primary/Modular_sports.jpeg" style="width:45%">
+<img align="right" src="/images/CCA/Primary/Modular_sports.jpeg" style="width:45%">
 
 **The Modular CCA (Sports) aims to:**&nbsp;
 
