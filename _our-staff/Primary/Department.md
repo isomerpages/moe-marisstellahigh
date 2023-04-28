@@ -772,3 +772,237 @@ third_nav_title: Primary
 
 ### ICT
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Kim Neo Helen (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">HOD / ICT</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Kai Shi (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">SH / ICT</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tay-Ang Poh Qin (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">ST / SCI </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wong Loong Ju Jeffrey (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">ST / PE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">June Sim Ming Yin (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Ee Beng (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Mei Xian Angelia (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong-Ng Jia Wen (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Pereira Erica Stella (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Reuben Dominic Phay (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sharmini Jayasughavanagopal (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Siti Muliyanti Binte Ab Rahman (Miss)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Toh-Lai Wei Xuan (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Zhang Huiyun (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Zhang Miao (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+</tbody>
+</table>
+
+### STUDENT MANAGEMENT
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang-Teo Sai Hiang Helen (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">SH / Student Management</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amrit Kaur Langeana (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chu Qiu Ling Charlene (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jan Teo Min (Ms) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Jingge Jeanne (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seow Mei Ying Madeline (Mrs)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Leng Leong (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tay Ying Ying (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teoh Yian Pin (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Vinodkumar S/O Murugan (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yap Kevin (Mr) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yeo Szu San (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Teacher</span></td>
+  </tr>
+</tbody>
+</table>
+
+### ALLIED EDUCATORS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sim Mei Geok Shirley (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Senior School Counsellor</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Priscilla Yong  (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">School Counsellor</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clement Dominic Gomez (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Allied Educator / Science</span></td>
+  </tr>
+</tbody>
+</table>
+
+### EXECUTIVE AND ADMINISTRATIVE STAFF
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-j1fo{color:#1F497D;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Cheryl Chan (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Administration Manager</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Yong Huat (Mr)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Operations Manager</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Check Boon Redzuan (Mr) </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Administrative Executive</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Huey Chyi Carol (Ms)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Administrative Executive</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j1fo"><span style="color:#222;background-color:transparent">Chng Soke Chye Lucy (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Choo Thing (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tumirah Binte Roslan (Mdm)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Corporate Support Officer</span></td>
+  </tr>
+</tbody>
+</table>
