@@ -4,12 +4,11 @@ permalink: /programmes/primary/cca/wushu/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Wushu
 
-<img src="/images/CCA/Primary/Wushu_D1R0570.jpg"  
-     style="width:45%">
 
-**The Wushu CCA aims to:** 
+<img src="/images/CCA/Primary/Wushu_D1R0570.jpg" style="width:45%">
+
+**The Wushu CCA aims to:**&nbsp;
 
 *   Improve skills, fitness and agility of Marists;
 *   Build a team towards martial arts skill excellence;
@@ -18,19 +17,19 @@ third_nav_title: CCA (Primary)
 *   Inculcate the value of teamwork.  
     
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
 *   Maris Wushu School Team
 *   Maris Wushu Modular Programme
 
   
 
-**Marists are given the opportunities to participate in the following competitions:**   
+**Marists are given the opportunities to participate in the following competitions:**&nbsp;  
 
 *   National Primary Schools Wushu Championships
 
   
 
-**Marists have performed well in the following competitions:** 
+**Marists have performed well in the following competitions:**&nbsp;
 
 *   To be updated.
