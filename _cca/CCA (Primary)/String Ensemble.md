@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/string-ensemble/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# String Ensemble
+
 
 <img src="/images/CCA/Primary/String%20Ensemble_D1R1328.jpg" style="width:45%">
 
