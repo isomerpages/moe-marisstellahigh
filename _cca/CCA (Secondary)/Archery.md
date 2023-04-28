@@ -4,23 +4,22 @@ permalink: /programmes/secondary/cca/archery/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Archery
-
-<img src="/images/CCA/Secondary/archery_v1.png"  
-     style="width:45%">
 
 
-**The Archery Club aims to:** 
+<img align="right" src="/images/CCA/Secondary/archery_v1.png" style="width:45%">
+
+
+**The Archery Club aims to:**&nbsp;
 
 *   Build archers’ physical strength and mental discipline. Each well-executed shot is an encapsulation of concentration, dexterity and grace;
-*   Refine and develop the archers’ skills continually to ensure that they are equipped to participate in competitions at various levels in both individual and team events; 
-*   Groom archers to exemplify qualities of true Sportsmen and be ever mindful of the importance of fairness, respect, and a sense of fellowship with one's competitors; and 
-*   Develop desirable character traits such as determination and diligence, and build a resilient and united team.   
+*   Refine and develop the archers’ skills continually to ensure that they are equipped to participate in competitions at various levels in both individual and team events;&nbsp;
+*   Groom archers to exemplify qualities of true Sportsmen and be ever mindful of the importance of fairness, respect, and a sense of fellowship with one's competitors; and&nbsp;
+*   Develop desirable character traits such as determination and diligence, and build a resilient and united team.&nbsp;  
     
 
 **To achieve the CCA’s goals, the following programmes are offered:**  
 
-*   Physical Fitness Training – to have a set of physical exercises tailored for archers, for example, exercises that strengthen upper body muscles, improve stamina, flexibility, hand-leg coordination etc.   
+*   Physical Fitness Training – to have a set of physical exercises tailored for archers, for example, exercises that strengthen upper body muscles, improve stamina, flexibility, hand-leg coordination etc.&nbsp;  
     
 *   Shooting Technique Training - to establish a keen sensitivity for fine motor action in every shot  
     
