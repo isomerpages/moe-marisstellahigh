@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/rockwall-climbing/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Rockwall Climbing
+
 
 <img src="/images/CCA/Primary/Sports%20Climbing_D1R0816.jpg" style="width:45%">
 
