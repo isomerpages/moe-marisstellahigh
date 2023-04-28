@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/national-police-cadet-corps/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# National Police Cadet Corps
 
-<img src="/images/CCA/Secondary/NPCC-parade_v1.png"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/NPCC-parade_v1.png" style="width:45%">
 
 
 **The National Police Cadet Corps (NPCC) aims to:**
@@ -39,16 +38,16 @@ third_nav_title: CCA (Secondary)
     
 *   Opportunities to be selected for various parade – Annual Parade, NDP, SYF  
     
-*   MSHS NPCC Overseas and Service Learning Trips such as Mount Kinabalu Climb (2010 & 2013), Taman Negara Adventure (2011), Krabi Adventure (2012), 4D3N Bali Adventure & VIA Trip (2014), 5D4N Vietnam Cultural & Experiential Trip (2015)  
+*   MSHS NPCC Overseas and Service Learning Trips such as Mount Kinabalu Climb (2010 &amp; 2013), Taman Negara Adventure (2011), Krabi Adventure (2012), 4D3N Bali Adventure &amp; VIA Trip (2014), 5D4N Vietnam Cultural &amp; Experiential Trip (2015)  
     
-*   NPCC HQ activities / programmes (.22 Revolver shooting), Police Heritage Visit, Training Village Visit, Home Team Gallery, Civil Defence Course, SANA course, Law and Enforcement, CSI, Sec 2 ATC / Sec 3 STC @ Pulau Ubin, Inter Unit Shooting / Campcraft / Drill Competitions   
+*   NPCC HQ activities / programmes (.22 Revolver shooting), Police Heritage Visit, Training Village Visit, Home Team Gallery, Civil Defence Course, SANA course, Law and Enforcement, CSI, Sec 2 ATC / Sec 3 STC @ Pulau Ubin, Inter Unit Shooting / Campcraft / Drill Competitions&nbsp;  
     
 
   
 
 **Marists are given the opportunities to participate in the following competitions:**  
 
-*   Inter-Unit .22 Revolver Shooting Competition   
+*   Inter-Unit .22 Revolver Shooting Competition&nbsp;  
     
 *   Inter-Unit Campcraft Competition
 
