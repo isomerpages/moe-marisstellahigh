@@ -4,15 +4,14 @@ permalink: /programmes/secondary/cca/english-literary-society/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# English Literary Society
 
-<img src="/images/CCA/Secondary/ELS2.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/ELS2.jpg" style="width:45%">
 
 
 **The English Literary Society aims to:**
 
-*   Develop members' critical thinking and language skills through Debate and Scrabble;   
+*   Develop members' critical thinking and language skills through Debate and Scrabble;&nbsp;  
     
 *   Cultivate members’ talent and achieve excellence in their passion; and  
     
@@ -42,7 +41,7 @@ third_nav_title: CCA (Secondary)
 *   Raffles Debate Academy U-14 Debating Championships
 *   Hua Yi Debate Championships
 
-**<u>Scrabble</u>**  
+**<u>Scrabble</u>**&nbsp;&nbsp;
 
 *   Inter-School Scrabble Championships  
     
