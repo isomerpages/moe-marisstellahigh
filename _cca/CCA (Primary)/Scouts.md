@@ -4,10 +4,7 @@ permalink: /programmes/primary/cca/scouts/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-
-
-
-<img src="/images/CCA/Primary/Cub%20Scout.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Primary/Cub%20Scout.jpg" style="width:45%">
 
 
 **The Scouts CCA aims to:**&nbsp;
