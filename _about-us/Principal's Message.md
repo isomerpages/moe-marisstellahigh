@@ -34,8 +34,7 @@ Having faith, vision, and service are fundamental to great leadership and living
 
 I was a beneficiary of Marist education. Being the 6th Principal of my alma mater is an honor for me as a Marist. Together with parents, alumni, and partners, I look forward to educating the next generation of Marists!
 
-Boy Eng Seng (Mr)
-
+Boy Eng Seng (Mr) <br>
 Principal
 
 
