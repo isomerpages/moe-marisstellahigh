@@ -4,11 +4,10 @@ permalink: /programmes/primary/cca/chinese-chess-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Chinese Chess Club
 
 
-<img src="/images/CCA/Primary/Chinese%20Chess%20Club_D1R0531.jpg"  
-     style="width:45%">
+
+<img src="/images/CCA/Primary/Chinese%20Chess%20Club_D1R0531.jpg" style="width:45%">
 
 
 **中国象棋学会的目标：**  
@@ -41,12 +40,12 @@ third_nav_title: CCA (Primary)
 
 **学生在以下比赛中表现杰出：**  
 
-*   第十四届茶阳杯全国小学象棋校际赛 (2017)   
+*   第十四届茶阳杯全国小学象棋校际赛 (2017)&nbsp;  
     
 
     *   公开组优胜奖
 
-*   校内象棋比赛   
+*   校内象棋比赛&nbsp;  
     
 
     *   三、四年级组的会员获得第一至第五名
