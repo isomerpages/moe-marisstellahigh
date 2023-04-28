@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/taekwando/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Taekwando
+
 
 <img src="/images/CCA/Primary/Taekwando_D1R0436.jpg" style="width:45%">
 
@@ -43,5 +43,3 @@ third_nav_title: CCA (Primary)
     *   POOMSAE (TEAM) – JUNIOR DIVISION (POOM 1) Achievement: 2nd position
     *   POOMSAE (INDIVIDUAL) – JUNIOR DIVISION (POOM 1) Achievement: 2nd and 6th position
     *   POOMSAE (INDIVIDUAL) – JUNIOR DIVISION (GREEN 6) Achievement: 6th position
-
-  
