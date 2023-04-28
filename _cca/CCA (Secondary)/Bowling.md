@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/bowling/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Bowling
 
-<img src="/images/CCA/Secondary/Bowling_1.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/Bowling_1.jpg" style="width:45%">
 
 
 **The Bowling team aims to:**
@@ -16,14 +15,14 @@ third_nav_title: CCA (Secondary)
     
 *   Strengthen eye-hand coordination, stimulate mental alertness and concentration; and  
     
-*   Build camaraderie and resilience as a team.   
+*   Build camaraderie and resilience as a team.&nbsp;  
     
 
   
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*   Secondary School League   
+*   Secondary School League&nbsp;  
     
 *   National Age Group
 *   National Schools Championship 'B' Division
