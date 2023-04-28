@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/marist-digital-media-club/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Marist Digital Media Club
 
-<img src="/images/CCA/Secondary/MDMC_v2.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/MDMC_v2.jpg" style="width:45%">
 
 
 **The Marist Digital Media Club aims to:**
@@ -42,7 +41,7 @@ third_nav_title: CCA (Secondary)
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*   Canon Photo Marathon   
+*   Canon Photo Marathon&nbsp;  
     
 *   Singapore Youth Festival Arts Exhibition (Biennial)  
     
