@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/outdoor-activities-club/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Outdoor Activities Club
 
-<img src="/images/CCA/Secondary/ODAC_v1.png"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/ODAC_v1.png" style="width:45%">
 
 
 **The Outdoor Activities Club aims to:**
@@ -21,15 +20,15 @@ third_nav_title: CCA (Secondary)
 *   Comprehensive training programme with a focus on fitness training, and outdoor adventure skills
 *   1 Star and 2 Star Kayaking Certification
 *   Level 1 Sports Climbing Certification
-*   ODAC Annual Camp 
+*   ODAC Annual Camp&nbsp;
 *   Values-in-Action Programme
 
   
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*   National Schools Bouldering / Speed Climbing / Sports Climbing Competitions  
-*   Inter-Schools Sports Climbing Competitions  
+*   National Schools Bouldering / Speed Climbing / Sports Climbing Competitions&nbsp;&nbsp;
+*   Inter-Schools Sports Climbing Competitions&nbsp;&nbsp;
 *   Inter-Schools Adventure Race
 
 
