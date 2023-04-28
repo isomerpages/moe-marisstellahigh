@@ -4,13 +4,12 @@ permalink: /programmes/secondary/cca/athletics-secondary-4-only/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Athletics
-
-<img src="/images/CCA/Secondary/Athletics_1.jpg"  
-     style="width:45%">
 
 
-**The Athletics CCA aims to:** 
+<img align="right" src="/images/CCA/Secondary/Athletics_1.jpg" style="width:45%">
+
+
+**The Athletics CCA aims to:**&nbsp;
 
 *   Inculcate the core values of loyalty, respect, resilience and determination in Marists through training and competition;
 *   Deepen the Marists’ passion for the sport;  
@@ -20,10 +19,10 @@ third_nav_title: CCA (Secondary)
 
   
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   Physical fitness training, including runs, drills and strength exercises 
-*   CCA Team Bonding Day 
+*   Physical fitness training, including runs, drills and strength exercises&nbsp;
+*   CCA Team Bonding Day&nbsp;
 *   CCA Values in Action Project
 
 
