@@ -4,26 +4,6 @@ permalink: /about-mshs/secondary/our-staff/class/
 description: ""
 third_nav_title: Secondary
 ---
-<table>
-<thead>
-  <tr>
-    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%201">SECONDARY 1
-</a></p>
-</td>
-    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%202">SECONDARY 2
-</a></p></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%203">SECONDARY 3
-</a></p></td>
-    <td><p><a href="/about-mshs/secondary/our-staff/class/#SECONDARY%204">SECONDARY 4
-</a></p></td>
-  </tr>
-</tbody>
-</table>
-
 **<font size="5">SECONDARY 1</font><a name="SECONDARY 1"></a>**
 
 <style type="text/css">
