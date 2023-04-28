@@ -4,20 +4,19 @@ permalink: /programmes/primary/cca/environmental-science-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Environmental Science Club
-
-<img src="/images/CCA/Primary/Science%20Garden%20Club_D1R0725.jpg"  
-     style="width:45%">
 
 
-**The Environmental Science Club CCA aims to:** 
+<img align="right" src="/images/CCA/Primary/Science%20Garden%20Club_D1R0725.jpg" style="width:45%">
+
+
+**The Environmental Science Club CCA aims to:**&nbsp;
 
 *   Develop character traits such as self-reliance, resilience, cooperation, and qualities of leadership among Marists;
 *   Inculcate the importance of acting responsibly and respectfully in the environment around them; and  
     
 *   Instil a love for flora and fauna.
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
 *   Adopt a plot in the Science Garden
 *   Plant your own plant/seed using recycled bottles
@@ -35,6 +34,6 @@ third_nav_title: CCA (Primary)
 
   
 
-**Marists are given the opportunities to participate in the following competition:** 
+**Marists are given the opportunities to participate in the following competition:**&nbsp;
 
 *   Community Garden Edibles Competition
