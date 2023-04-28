@@ -4,7 +4,6 @@ permalink: /about-mshs/school-management-committee/
 description: ""
 ---
 
-# School Management Committee
 
 
 
