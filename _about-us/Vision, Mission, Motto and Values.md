@@ -4,7 +4,6 @@ permalink: /about-mshs/vision-mission-motto-and-values/
 description: ""
 ---
 
-# Vision, Mission, Motto and Values
 
 
 ### 愿景
@@ -35,7 +34,7 @@ The holistic development of each Marist that blends faith, culture and life, wit
 
 ### 校训
 
-### MOTTO 
+### MOTTO&nbsp;
 <table>
 <thead>
   <tr>
