@@ -4,7 +4,7 @@ permalink: /programmes/secondary/cca/chinese-literary-society/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-<img src="/images/CCA/Secondary/CLDDS.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Secondary/CLDDS.jpg" style="width:45%">
 
 
 **学会愿景**：  
