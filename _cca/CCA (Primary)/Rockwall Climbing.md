@@ -35,7 +35,7 @@ third_nav_title: CCA (Primary)
 *   National Primary Schools Sport Climbing Championship  
     
 
-*   Senior Boys Division Team - 1st&nbsp;&nbsp;
-*   Senior Boys Division Individual - 7th&nbsp;&nbsp;
-*   Junior Boys Division Team - 2nd&nbsp;&nbsp;
-*   Junior Novice Boys - Gold
+    *   Senior Boys Division Team - 1st&nbsp;&nbsp;
+    *   Senior Boys Division Individual - 7th&nbsp;&nbsp;
+    *   Junior Boys Division Team - 2nd&nbsp;&nbsp;
+    *   Junior Novice Boys - Gold
