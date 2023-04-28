@@ -3,7 +3,7 @@ title: School Crest, School Song and Creed
 permalink: /about-mshs/school-crest-school-song-and-creed/
 description: ""
 ---
-# School Crest, School Song and Creed
+
 <center><b>海星校徽<br>SCHOOL CREST</b></center>	
 
 
