@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/wushu/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Wushu
 
-<img src="/images/CCA/Secondary/Wushu_1.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/Wushu_1.jpg" style="width:45%">
 
 **The Wushu CCA aims to:**
 
