@@ -4,14 +4,13 @@ permalink: /programmes/primary/cca/scouts/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-# Scout
 
 
-<img src="/images/CCA/Primary/Cub%20Scout.jpg"  
-     style="width:45%">
+
+<img src="/images/CCA/Primary/Cub%20Scout.jpg" style="width:45%">
 
 
-**The Scouts CCA aims to:** 
+**The Scouts CCA aims to:**&nbsp;
 
 *   Inculcate the values of discipline, respect, trust and resilience;
 *   Provide opportunities for Marists to work in teams;  
@@ -21,7 +20,7 @@ third_nav_title: CCA (Primary)
 *   Develop the sense of empathy through serving the community.  
     
 
-**To achieve the CCA’s goals, the following programmes are offered:** 
+**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
 *   Develop the sense of empathy through serving the community
 *   Volunteer services to the elderly
@@ -32,7 +31,7 @@ third_nav_title: CCA (Primary)
       
     
 
-**Marists have performed well in the following competitions:** 
+**Marists have performed well in the following competitions:**&nbsp;
 
 *   Akela Award 2020
 *   Frank Cooper Sands Award 2019 - Gold
