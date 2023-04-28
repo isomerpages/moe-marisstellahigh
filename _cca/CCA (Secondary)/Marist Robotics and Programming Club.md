@@ -4,10 +4,9 @@ permalink: /programmes/secondary/cca/marist-robotics-and-programming-club/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-# Marist Robotics and Programming Club
 
-<img src="/images/CCA/Secondary/robotics_v2.jpg"  
-     style="width:45%">
+
+<img align="right" src="/images/CCA/Secondary/robotics_v2.jpg" style="width:45%">
 
 
 **The Marist Robotics and Programming Club aims to:**
