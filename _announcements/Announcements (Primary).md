@@ -7,11 +7,11 @@ description: ""
 
 **CATHOLIC EDUCATION SUNDAY MASS 13 SEPT 2020**
 
-As a Catholic school, we have been celebrating Catholic Education Sunday since 2017.  In the past three years, Catholic schools celebrated with different parishes across Singapore.    
+As a Catholic school, we have been celebrating Catholic Education Sunday since 2017.&nbsp; In the past three years, Catholic schools celebrated with different parishes across Singapore.&nbsp;&nbsp;  
 
   
 
-Staff and students from our school joined the community at the Church of the Immaculate Heart of Mary, serving as lectors, singing in the choirs and assisting in various ways.  Parish priests have been very supportive and increasingly, parishes embrace our Catholic Schools as part of the larger Catholic Community in Singapore.  
+Staff and students from our school joined the community at the Church of the Immaculate Heart of Mary, serving as lectors, singing in the choirs and assisting in various ways.&nbsp; Parish priests have been very&nbsp;supportive and increasingly, parishes embrace our Catholic Schools as part of the larger Catholic Community in Singapore.&nbsp;&nbsp;
 
 This year, owing to the Covid-19 safety measures that have been put in place, we will celebrate Catholic Education Sunday differently. All Catholic schools in Singapore will come together to celebrate Catholic Education Sunday with an online Mass.
 
@@ -21,16 +21,16 @@ Join us for this celebration! All are welcome!
 
   
 
-Date: 13 September 2020 <br>
-Time: From 8 am onwards <br>
-Link: [catholic.sg/edu](http://catholic.sg/edu) **LINK DOES NOT WORK**
+Date: 13 September 2020&nbsp;<br>
+Time: From 8 am onwards&nbsp;<br>
+Link:&nbsp;[catholic.sg/edu](http://catholic.sg/edu) 
 
 ![](/images/Announcements/Primary/Catholic%20Education%20Sunday%20Mass.jpg)
 
 **PRIMARY ONE REGISTRATION UNDER PHASE 2B FOR CATHOLIC CHILDREN (23-24 JULY 2020)**
 
 
-To find out more about Catholic education in Singapore, please click on the [link](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/). **LINK DOES NOT WORK**
+To find out more about Catholic education in Singapore, please click on the&nbsp;[link](https://catholicnews.sg/2020/07/16/importance-of-a-catholic-education/). **LINK DOES NOT WORK**
 
 ![](/images/Announcements/Primary/Mural.png)
 
@@ -38,14 +38,14 @@ To find out more about Catholic education in Singapore, please click on the [li
 
 ![](/images/Announcements/Primary/Stellar%20Marist.jpg)
 
-Maris Stella High School celebrates the 60th Anniversary of its founding with a tapestry of song, music and stories. Feel the energy of the Marist Spirit as we take you through a musical journey that hark back to days gone by. Be enthralled by special appearances of ex-Marists Cavin Soh (Mediacorp Artiste), Moses Lim (“Under One Roof") and Tan Yanwei (Local Artiste).  Listen to the Marist story that began in 1958.  It is a narrative intertwined with the history of Singapore.  Our Symphonic Band, Chinese Orchestra and String Ensemble will provide a potpourri of familiar tunes and favourites. We invite all Marists, together with their families and friends, to come home to the Marist Family and be part of our celebration.  We promise you a Stellar evening!
+Maris Stella High School celebrates the 60th Anniversary of its founding with a tapestry of song, music&nbsp;and&nbsp;stories. Feel the energy of the Marist Spirit as we take you&nbsp;through&nbsp;a musical journey that&nbsp;hark&nbsp;back to days gone by. Be enthralled by special appearances of ex-Marists Cavin Soh (Mediacorp Artiste), Moses Lim (“Under One Roof") and Tan Yanwei (Local Artiste).&nbsp; Listen to the Marist story that began in 1958.&nbsp; It is a narrative intertwined with the history of Singapore.&nbsp; Our Symphonic Band, Chinese Orchestra and String Ensemble will provide a potpourri of familiar tunes and&nbsp;favourites. We invite all Marists, together with their families and friends, to come home to the Marist Family and be part of our celebration.&nbsp; We promise you a Stellar evening!
 
   
 
-Event:                   Stellar Marist!  
-Date:                     Saturday 30 June 2018  
-Time:                     5.00 p.m. to 6.30 p.m.  
-Venue:                 Shaw Foundation Symphony Stage, Singapore Botanic Gardens
+Event:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stellar Marist!  
+Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Saturday 30 June 2018  
+Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5.00 p.m. to 6.30 p.m.  
+Venue:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Shaw Foundation Symphony Stage, Singapore Botanic Gardens
 
 
 为了庆祝建校六十周年，海星中学将为广大的海星学子们呈献一场户外演出。我们将用美妙的音符和悦耳的乐曲，以丰富多彩的方式来讲述海星的建校历程，让观众，尤其是曾经在海星校园留下点点滴滴的海星学子们，缅怀他们的青春岁月。  
@@ -64,25 +64,25 @@ Venue:                 Shaw Foundation Symphony Stage, Singapore Botani
 
   
 
-活动名称：  海星中学六十周年校庆户外演出<br>
-日期：            2018年6月30日 （星期六）  
-时间：            5.00pm 到 6.30pm  
-地点：            新加坡植物园邵氏基金音乐台
+活动名称：&nbsp; 海星中学六十周年校庆户外演出<br>
+日期：&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018年6月30日 （星期六）  
+时间：&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.00pm 到 6.30pm  
+地点：&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 新加坡植物园邵氏基金音乐台
 
 
 **60TH ANNIVERSARY REUNION DINNER   海星中学六十周年校庆晚宴**
 
 
-To commemorate the 60th anniversary of our founding, Maris Stella High School Alumni and the School will be organising a reunion dinner for Marists.  Indeed, the Marist family consists of many generations of students who share the same heritage and history.  It is this common experience that we want to celebrate.  Come and reunite with your old school mates and teachers and relive the friendships and memories that made Maris Stella High School such a special place in your lives.  The venue of the dinner has been changed to the Ritz Carlton, instead of the school grounds.  Come home to the Marist Spirit.
+To commemorate the 60th anniversary of our founding, Maris Stella High School Alumni and the School will be&nbsp;organising&nbsp;a reunion dinner for Marists.&nbsp; Indeed, the Marist family consists of many generations of students who share the same heritage and history.&nbsp; It is this common experience that we want to celebrate.&nbsp; Come and reunite with your old school mates and teachers and relive the friendships and memories that made Maris Stella High School such a special place in your lives.&nbsp; The venue of the dinner has been changed to the Ritz Carlton, instead of the school grounds.&nbsp; Come home to the Marist Spirit.
 
   
 
-Event:                   60th Anniversary Reunion Dinner<br>
-Date:                     28 July 2018 (Saturday)  <br>
-Time:                     6.30pm to 10.00pm  
-Venue:                 The Ritz Carlton (Grand Ballroom)  
-                                7 Raffles Avenue  
-                                Singapore 039799  
+Event:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60th Anniversary Reunion Dinner<br>
+Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;28 July 2018 (Saturday)  <br>
+Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6.30pm to 10.00pm  
+Venue:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Ritz Carlton (Grand Ballroom)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 Raffles Avenue  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Singapore 039799  
 
   
 
@@ -90,7 +90,7 @@ Cost per ticket: $150/-
 
   
 
-Please make your bookings by completing the google form at the link below.  Book early to avoid disappointment.
+Please make your bookings by completing the&nbsp;google&nbsp;form at the link below.&nbsp; Book early to avoid disappointment.
 
 [bit.ly/mshs\_60th\_dinner](http://bit.ly/mshs_60th_dinner%C2%A0)
 
@@ -99,7 +99,7 @@ Please make your bookings by completing the google form at the link below.  B
 
   
 
-          为了庆祝海星中学建校六十周年，海星中学与校友会，共同携手举办一场海星中学六十周年校庆晚宴。六十年的学校历史及深厚的文化底蕴与传统，凝聚与团结了一代又一代的海星学子们。在此，我们诚挚地邀请你们参加此次盛会，与旧日的伙伴与师长们团聚，重温往昔的欢乐时光，续写彼此的深情厚谊。
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 为了庆祝海星中学建校六十周年，海星中学与校友会，共同携手举办一场海星中学六十周年校庆晚宴。六十年的学校历史及深厚的文化底蕴与传统，凝聚与团结了一代又一代的海星学子们。在此，我们诚挚地邀请你们参加此次盛会，与旧日的伙伴与师长们团聚，重温往昔的欢乐时光，续写彼此的深情厚谊。
 
   
 
@@ -111,19 +111,19 @@ Please make your bookings by completing the google form at the link below.  B
 
   
 
-            具体详情如下：
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 具体详情如下：
 
-·         活动名称：海星中学六十周年校庆晚宴  
+·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;活动名称：海星中学六十周年校庆晚宴  
 
-·         日期：2018年7月28日 （星期六）  
+·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;日期：2018年7月28日 （星期六）  
 
-·         时间：6.30pm 到 10.00pm  
+·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;时间：6.30pm 到 10.00pm  
 
-·         地点：新加坡丽思·卡尔顿酒店大宴会厅  
+·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;地点：新加坡丽思·卡尔顿酒店大宴会厅  
 
-·         地址：莱佛士大道7号，邮区号码：039799  
+·&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 地址：莱佛士大道7号，邮区号码：039799  
 
-·         费用：150新币/每人  
+·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;费用：150新币/每人  
 
   
 
