@@ -63,7 +63,7 @@ third_nav_title: CCA (Primary)
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/table-tennis/">
 <img src="/images/table%20tennis%20photo.jpeg" alt="table tennis" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/taekwando/">
+		<td class="tg-0lax"><a href="/programmes/primary/cca/taekwondo/">
 <img src="/images/taekwando_d1r0436.jpeg" alt="taekwondo" width="272" height="153"></a></td>
 		<td class="tg-0lax"><a href="/programmes/primary/cca/wushu/">
 <img src="/images/wushu_d1r0570.jpeg" alt="wushu" width="272" height="153"></a></td>
