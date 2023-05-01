@@ -63,7 +63,7 @@ third_nav_title: Secondary
 <img src="/images/computer-science_v1.png" alt="computing" width="272" height="153"></a></td>
 		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
 <img src="/images/d&amp;t_v1.png" alt="dnt" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/computing/">
+		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/music/">
 <img src="/images/music_v1.png" alt="music" width="272" height="153"></a></td>
 </tr>
 	<tr>
