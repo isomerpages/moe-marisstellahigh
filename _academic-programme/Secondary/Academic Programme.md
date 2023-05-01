@@ -4,8 +4,7 @@ permalink: /programmes/secondary/academic-programme/
 description: ""
 third_nav_title: Secondary
 ---
-![]()
-![](/images/maths_v1.png)
+
 ![](/images/science_v1.png)
 ![](/images/humanities_v1.png)
 ![](/images/arts_v1.png)
@@ -27,8 +26,8 @@ third_nav_title: Secondary
 <thead>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/english/"><center><h3>English<br>英文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/chinese/"><center><h3>Chinese<br>华文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/chinese-language/"><center><h3>Chinese Language<br>华文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -38,13 +37,13 @@ third_nav_title: Secondary
 <img src="/images/english_v1.png" alt="english">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/academic-programme/mathematics/">
+      <a href="/programmes/secondary/academic-programme/chinese-language/">
         <img src="/images/chinese_v1.png" alt="chinese language" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
-        <img src="/images/math_v3.png" style="max-width: 100%; height: auto;">
+      <a href="/programmes/secondary/academic-programme/mathematics/">
+        <img src="/images/maths_v1.png" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
