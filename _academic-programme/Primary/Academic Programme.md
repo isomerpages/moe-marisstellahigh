@@ -61,3 +61,32 @@ third_nav_title: Primary
 <img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a></td>
 </tr></tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/english/"><center><h3>English<br>英文</h3></center></a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/chinese/"><center><h3>Chinese<br>华文</h3></center></a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="url">link text</a></td>
+    <td class="tg-0lax"><a href="url">link text</a></td>
+    <td class="tg-0lax"><a href="url">link text</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="url">link text</a></td>
+  </tr>
+</tbody>
+</table>
