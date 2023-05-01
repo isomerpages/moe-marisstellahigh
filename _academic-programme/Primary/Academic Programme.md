@@ -15,9 +15,9 @@ third_nav_title: Primary
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>English<br>英文</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Chinese<br>华文</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Mathematics<br>数学</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/english/"><center><h3>English<br>英文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/chinese/"><center><h3>Chinese<br>华文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -38,9 +38,9 @@ third_nav_title: Primary
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Science<br>科学</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Art<br>美术</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Music<br>音乐</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/science/"><center><h3>Science<br>科学</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/art/"><center><h3>Art<br>美术</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/music/"><center><h3>Music<br>音乐</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
@@ -54,7 +54,7 @@ third_nav_title: Primary
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Physical Education<br>体育</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
