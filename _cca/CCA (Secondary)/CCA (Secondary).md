@@ -5,10 +5,7 @@ description: ""
 third_nav_title: CCA (Secondary)
 ---
 <center><h1>Physical Sports</h1></center>
-![](/images/ncc_v1.png)
-![](/images/npcc-parade_v1.png)
-![](/images/scout_v1.png)
-![](/images/st%20john%20brigade.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -95,34 +92,35 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/brass-band/"><center><h3>Brass Band<br>铜乐队</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/string-ensemble/"><center><h3>String Ensemble<br>弦乐队</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/art-club/"><center><h3>Arts and Craft<br>美术学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/brass-band/"><center><h3>National Cadet Corps (Sea)<br>学生军团（海军）
+</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/string-ensemble/"><center><h3>National Police Cadet Corps<br>学生警团</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/art-club/"><center><h3>Singapore Scouts<br>童军</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
       <a href="/programmes/primary/cca/brass-band/">
-<img src="/images/brass%20band%20pic1.jpeg" alt="brass band">
+<img src="/images/ncc_v1.png" alt="NCC">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/string-ensemble/">
-        <img src="/images/string%20ensemble_d1r1328.jpeg" alt="string ensemble" style="max-width: 100%; height: auto;">
+        <img src="/images/npcc-parade_v1.png" alt="NPCC" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
       <a href="/programmes/primary/cca/art-club/">
-        <img src="/images/art%20club_d1r0786.jpeg" style="max-width: 100%; height: auto;">
+        <img src="/images/scout_v1.png" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-literary-drama-club/"><center><h3>Chinese Literary Drama Club<br>中文戏剧学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-literary-drama-club/"><center><h3>St John Brigade<br>圣约翰救伤队</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/chinese-literary-drama-club/">
-<img src="/images/chinese%20speech%20and%20drama%20club_d1r1384.jpeg" alt="chinese speech and drama" width="272" height="153">
+<img src="/images/st%20john%20brigade.jpeg" alt="chinese speech and drama" width="272" height="153">
 </a></td>
   </tr>
   </tbody>
