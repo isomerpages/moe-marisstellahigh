@@ -38,40 +38,26 @@ third_nav_title: Primary
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Indian Cultural Society</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Interact Club</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Malay Cultural Society</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Science<br></h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Art<br></h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Music<br></h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
-<img src="/images/indian%20cultural%20society.png" alt="Indian Cultural Society" width="272" height="153">
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
+<img src="/images/science_v3.png" alt="science" width="272" height="153">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
-<img src="/images/interact%20club.png" alt="Interact Club" style="max-width: 100%; height: auto;">
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/art/">
+<img src="/images/art%20%20%20.jpeg" alt="art" style="max-width: 100%; height: auto;">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
-<img src="/images/malay%20cultural%20society.png" alt="Malay Cultural Society" width="272" height="153">
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/music/">
+<img src="/images/music%20.jpeg" alt="music" width="272" height="153">
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Pixel Labs</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Science and Math Council</h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Technology Council</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Physical Education<br></h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
-<img src="/images/pixellabs.png" alt="Pixel Labs" width="272" height="153"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
-<img src="/images/science%20_%20mathematics%20council.png" alt="Science and Math Council" style="max-width: 100%; height: auto;"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
-<img src="/images/technology%20council.png" alt="Technology Council" width="272" height="153"></a></td>
-  </tr>
-  <tr>
-		<td class="tg-0lax" style="width: 33.33%"><center><h3>AC Uniformed Groups</h3></center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
-<img src="/images/ac%20uniformed%20groups.png" alt="AC Uniformed Groups" width="272" height="153"></a></td>
-  </tr>
-</tbody>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
+<img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a></td>
+</tr></tbody>
 </table>
