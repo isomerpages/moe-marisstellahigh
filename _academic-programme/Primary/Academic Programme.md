@@ -27,12 +27,12 @@ third_nav_title: Primary
 <img src="/images/english_v3.png" alt="english">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/academic-programme/mathematics/">
+      <a href="/programmes/primary/academic-programme/chinese/">
         <img src="/images/chinese%20language.jpeg" alt="chinese language" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
+      <a href="/programmes/primary/academic-programme/mathematics/">
         <img src="/images/math_v3.png" style="max-width: 100%; height: auto;">
       </a>
     </td>
