@@ -109,33 +109,33 @@ third_nav_title: CCA (Primary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Brass Band<br>铜乐队</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>String Ensemble<br>弦乐队</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Arts and Craft<br>美术学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/brass-band/"><center><h3>Brass Band<br>铜乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/string-ensemble/"><center><h3>String Ensemble<br>弦乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/art-club/"><center><h3>Arts and Craft<br>美术学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/badminton/">
+      <a href="/programmes/primary/cca/brass-band/">
 <img src="/images/brass%20band%20pic1.jpeg" alt="brass band">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/basketball/">
+      <a href="/programmes/primary/cca/string-ensemble/">
         <img src="/images/string%20ensemble_d1r1328.jpeg" alt="string ensemble" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/bowling/">
+      <a href="/programmes/primary/cca/art-club/">
         <img src="/images/art%20club_d1r0786.jpeg" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Chinese Literary Drama Club<br>中文戏剧学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-literary-drama-club/"><center><h3>Chinese Literary Drama Club<br>中文戏剧学会</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/modular-sports-cca/">
+    <td class="tg-0lax"><a href="/programmes/primary/cca/chinese-literary-drama-club/">
 <img src="/images/chinese%20speech%20and%20drama%20club_d1r1384.jpeg" alt="modular cca" width="272" height="153">
 </a></td>
   </tr>
