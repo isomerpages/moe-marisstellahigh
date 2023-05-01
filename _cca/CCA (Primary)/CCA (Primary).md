@@ -57,7 +57,7 @@ third_nav_title: CCA (Primary)
   </tr>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/taekwando/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/taekwondo/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
 		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/wushu/"><center><h3>Wushu<br>武术</h3></center></a></td>
   </tr>
   <tr>
