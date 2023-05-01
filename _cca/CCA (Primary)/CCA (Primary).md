@@ -4,7 +4,7 @@ permalink: /programmes/primary/cca/
 description: ""
 third_nav_title: CCA (Primary)
 ---
-### Sports
+<center><h1>Sports</h1></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -69,3 +69,5 @@ third_nav_title: CCA (Primary)
 <img src="/images/wushu_d1r0570.jpeg" alt="wushu" width="272" height="153"></a></td>
 </tr></tbody>
 </table>
+
+### 
