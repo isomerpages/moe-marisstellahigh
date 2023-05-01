@@ -70,4 +70,28 @@ third_nav_title: CCA (Primary)
 </tr></tbody>
 </table>
 
-### 
+<center><h1>Uniformed Groups</h1></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="table-layout: fixed; width: 100%;">
+<thead>
+  <tr>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/scouts/"><center><h3>Scouts<br>童子军</h3></center></a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">
+      <a href="/programmes/primary/cca/scouts/">
+<img src="/images/cub%20scout.jpeg" alt="scouts">
+    </a></td>
+	</tr>
+ </tbody>
+</table>
