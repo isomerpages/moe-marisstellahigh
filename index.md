@@ -2,7 +2,7 @@
 layout: homepage
 title: Maris Stella High School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/sgp_maris_stella_high_school_crest.png
 permalink: /
 notification: ""
 sections:
