@@ -46,7 +46,7 @@ third_nav_title: Secondary
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/science/"><center><h3>Science<br>科学</h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/humanities/"><center><h3>Humanities<br>人文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/music/"><center><h3>Music<br>音乐</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/art/"><center><h3>Art<br>美术</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/science/">
@@ -55,7 +55,7 @@ third_nav_title: Secondary
     <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/humanities/">
 <img src="/images/humanities_v1.png" alt="humanities" style="max-width: 100%; height: auto;">
 </a></td>
-    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/music/">
+    <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/art/">
 <img src="/images/arts_v1.png" alt="arts" width="272" height="153">
 </a></td>
   </tr>
