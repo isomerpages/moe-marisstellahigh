@@ -69,7 +69,7 @@ third_nav_title: CCA (Primary)
 <img src="/images/wushu_d1r0570.jpeg" alt="wushu" width="272" height="153"></a></td>
 </tr></tbody>
 </table>
-
+<br><br>
 <center><h1>Uniformed Groups</h1></center>
 
 <style type="text/css">
@@ -95,5 +95,5 @@ third_nav_title: CCA (Primary)
 	</tr>
  </tbody>
 </table>
-
+<br><br>
 <center><h1>Performing and Visual Arts</h1></center>
