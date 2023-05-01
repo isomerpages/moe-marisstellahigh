@@ -30,8 +30,6 @@ links:
         url: /programmes/primary/academic-programme
       - title: Bicultural Programme
         url: /programmes/primary/bicultural-programme/
-      - title: Faith Formation
-        url: /programmes/primary/faith-formation/
       - title: CCE
         url: /programmes/primary/cce/the-marcellin-way/
       - title: CCA
@@ -45,6 +43,8 @@ links:
         url: /school-happenings/primary/news/
       - title: Announcements
         url: /school-happenings/primary/announcements/
+      - title: Faith Formation
+        url: /programmes/primary/faith-formation/
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
