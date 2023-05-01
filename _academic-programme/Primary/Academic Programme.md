@@ -38,9 +38,9 @@ third_nav_title: Primary
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Science<br></h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Art<br></h3></center></td>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Music<br></h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Science<br>科学</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Art<br>美术</h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Music<br>音乐</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
@@ -54,7 +54,7 @@ third_nav_title: Primary
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><center><h3>Physical Education<br></h3></center></td>
+    <td class="tg-0lax" style="width: 33.33%"><center><h3>Physical Education<br>体育</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
