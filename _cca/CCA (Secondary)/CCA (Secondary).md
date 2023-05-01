@@ -171,37 +171,35 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 50%"><a href="programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
-		<td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-literary-society/"><center><h3>Chinese Literary Society<br>华文学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/english-literary-society/"><center><h3>English Literary Society<br>英文学会</h3></center></a></td>
+		<td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-digital-media-club/"><center><h3>Marist Digital Media Club<br>海星数码传媒学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="programmes/primary/cca/maths-society/">
-<img src="/images/math%20club_d1r1051.jpeg" alt="math society">
+      <a href="/programmes/secondary/cca/chinese-literary-society/">
+<img src="/images/cldds%20.jpeg" alt="chinese literary society">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/science-club/">
-        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height: auto;">
+      <a href="/programmes/secondary/cca/english-literary-society/">
+        <img src="/images/els2%20%20.jpeg" alt="english literary society" style="max-width: 100%; height: auto;">
       </a>
     </td>
 		<td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/science-club/">
-        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height: auto;">
+      <a href="/programmes/secondary/cca/marist-digital-media-club/">
+        <img src="/images/mdmc_v2.jpeg" alt="digital media club" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
 	<tr>
-    <td class="tg-0lax" style="width: 50%"><a href="programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-robotics-and-programming-club/"><center><h3>Marist Robotics and Programming Club<br>海星机器人学会</h3></center></a></td>
   </tr>
-
-</tbody><tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="programmes/primary/cca/maths-society/">
-<img src="/images/math%20club_d1r1051.jpeg" alt="math society">
+      <a href="/programmes/secondary/cca/marist-robotics-and-programming-club/">
+<img src="/images/robotics_v2.jpeg" alt="math society">
     </a></td>
   </tr>
   </tbody>
