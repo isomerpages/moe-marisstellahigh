@@ -120,13 +120,13 @@ third_nav_title: CCA (Secondary)
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/secondary/cca/st-john-brigade/">
-<img src="/images/st%20john%20brigade.jpeg" alt="chinese speech and drama" width="272" height="153">
+<img src="/images/st%20john%20brigade.jpeg" alt="st john brigade" width="272" height="153">
 </a></td>
   </tr>
   </tbody>
 </table>
 <br><br>
-<center><h1>Clubs and Societies</h1></center>
+<center><h1>Performing Arts</h1></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -139,48 +139,26 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-chess-club/"><center><h3>Chinese Chess Club<br>中国象棋学会</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/english-drama-society/"><center><h3>English Drama Society<br>英文演艺学会</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/environmental-science-club/"><center><h3>Environmental Science Club<br>环境科学社</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-orchestra/"><center><h3>Chinese Orchestra<br>华乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50"><a href="/programmes/secondary/cca/symphonic-band/"><center><h3>Symphonic Band<br>交响乐队</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/chinese-chess-club/">
-<img src="/images/chinese%20chess%20club_d1r0531.jpeg" alt="chinese chess club">
+      <a href="/programmes/secondary/cca/chinese-orchestra/">
+<img src="/images/chinese%20orchestra.jpeg" alt="chinese orchestra">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/english-drama-society/">
-        <img src="/images/english%20language%20society_d1r0588.jpeg" alt="english drama society" style="max-width: 100%; height: auto;">
+      <a href="/programmes/secondary/cca/symphonic-band/">
+        <img src="/images/symphonic%20band.jpeg" alt="symphonic band" style="max-width: 100%; height: auto;">
       </a>
     </td>
-    <td class="tg-0lax">
-      <a href="/programmes/primary/cca/environmental-science-club/">
-        <img src="/images/science%20garden%20club_d1r0725.jpeg" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/infocomm-technology-media-production/"><center><h3>Infocomm Technology (Media Product)<br>资讯通讯科技社</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/international-chess-club/"><center><h3>International Chess Club<br>国际象棋学会</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/robotics-club/"><center><h3>Robotics Club<br>机器人技术学会</h3></center></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/infocomm-technology-media-production/">
-<img src="/images/photography%20and%20videography%20club_d1r0715.jpeg" alt="infocomm technology" width="272" height="153">
-</a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/international-chess-club/">
-<img src="/images/international%20chess%20club_d1r0670.jpeg" alt="international chess club" width="272" height="153">
-</a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/robotics-club/">
-<img src="/images/robotics%20club_d1r1240.jpeg" alt="Robotics" width="272" height="153">
-</a></td>
   </tr>
   </tbody>
 </table>
 <br><br>
-<center><h1>Others (Selected Students)</h1></center>
+<center><h1>Clubs and Societies</h1></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
