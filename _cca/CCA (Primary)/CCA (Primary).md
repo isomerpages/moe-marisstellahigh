@@ -83,7 +83,7 @@ third_nav_title: CCA (Primary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/scouts/"><center><h3>Scouts<br>童子军</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/scouts/"><center><h3>Scouts<br>童子军</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
