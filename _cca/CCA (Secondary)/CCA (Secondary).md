@@ -173,6 +173,7 @@ third_nav_title: CCA (Secondary)
   <tr>
     <td class="tg-0lax" style="width: 50%"><a href="programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
     <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
+		<td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -186,6 +187,22 @@ third_nav_title: CCA (Secondary)
         <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height: auto;">
       </a>
     </td>
+		<td class="tg-0lax" style="text-align: center;">
+      <a href="/programmes/primary/cca/science-club/">
+        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height: auto;">
+      </a>
+    </td>
+  </tr>
+	<tr>
+    <td class="tg-0lax" style="width: 50%"><a href="programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
+  </tr>
+
+</tbody><tbody>
+  <tr>
+    <td class="tg-0lax">
+      <a href="programmes/primary/cca/maths-society/">
+<img src="/images/math%20club_d1r1051.jpeg" alt="math society">
+    </a></td>
   </tr>
   </tbody>
 </table>
