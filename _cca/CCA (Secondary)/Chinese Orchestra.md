@@ -4,9 +4,7 @@ permalink: /programmes/secondary/cca/chinese-orchestra/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
-<img align="right" src="/images/CCA/Secondary/CO2.jpg" style="width:75%">
+<img align="right" src="/images/CCA/Secondary/CO2.jpg" style="width:50%">
 
 
 **The Chinese Orchestra aims to:**&nbsp;
