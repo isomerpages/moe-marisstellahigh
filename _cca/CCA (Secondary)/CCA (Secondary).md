@@ -17,62 +17,62 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Archery<br>射箭</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>Athletics (Sec 4 only)<br>田径</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Badminton<br>羽球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/archery/"><center><h3>Archery<br>射箭</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/athletics-secondary-4-only/"><center><h3>Athletics (Sec 4 only)<br>田径</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/badminton/"><center><h3>Badminton<br>羽球</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/badminton/">
+      <a href="/programmes/secondary/cca/archery/">
 <img src="/images/archery_v1.png" alt="archery">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/basketball/">
+      <a href="/programmes/secondary/cca/athletics-secondary-4-only/">
         <img src="/images/athletics.jpeg" alt="athletics" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/bowling/">
+      <a href="/programmes/secondary/cca/badminton/">
         <img src="/images/badminton.jpeg" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Basketball<br>篮球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/rockwall-climbing/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/softball/"><center><h3>Softball<br>垒球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/basketball/"><center><h3>Basketball<br>篮球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/bowling/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/softball/"><center><h3>Softball<br>垒球</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/modular-sports-cca/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/basketball/">
 <img src="/images/basketball.jpeg" alt="basketball" width="272" height="153">
 </a></td>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/rockwall-climbing/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/bowling/">
 <img src="/images/bowling.jpeg" alt="bowling" style="max-width: 100%; height: auto;">
 </a></td>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/softball/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/softball/">
 <img src="/images/softball_v1.png" alt="softball" width="272" height="153">
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/taekwando/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/wushu/"><center><h3>Wushu<br>武术</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/taekwando/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/wushu/"><center><h3>Wushu<br>武术</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/table-tennis/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/table-tennis/">
 <img src="/images/tabletennis_v1.png" alt="table tennis" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/taekwando/">
+		<td class="tg-0lax"><a href="/programmes/secondary/cca/taekwando/">
 <img src="/images/taekwondo.jpeg" alt="taekwondo" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/wushu/">
+		<td class="tg-0lax"><a href="/programmes/secondary/cca/wushu/">
 <img src="/images/wushu%20.jpeg" alt="wushu" width="272" height="153"></a></td>
 </tr>
 	<tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Outdoor Activities Club<br>户外运动</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/outdoor-activities-club/"><center><h3>Outdoor Activities Club<br>户外运动</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/table-tennis/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/outdoor-activities-club/">
 <img src="/images/odac_v1.png" alt="outdoor activities club" width="272" height="153"></a></td>
 </tr></tbody>
 </table>
