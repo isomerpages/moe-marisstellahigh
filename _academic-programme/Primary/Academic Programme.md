@@ -81,12 +81,12 @@ third_nav_title: Primary
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="url">link text</a></td>
-    <td class="tg-0lax"><a href="url">link text</a></td>
-    <td class="tg-0lax"><a href="url">link text</a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/"><center><h3>Science<br>科学</h3></center></a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/art/"><center><h3>Art<br>美术</h3></center></a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/music/"><center><h3>Music<br>音乐</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="url">link text</a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
   </tr>
 </tbody>
 </table>
