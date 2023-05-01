@@ -17,9 +17,9 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Badminton<br>羽球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>Basketball<br>篮球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Archery<br>射箭</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>Athletics (Sec 4 only)<br>田径</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Badminton<br>羽球</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -40,8 +40,8 @@ third_nav_title: CCA (Secondary)
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Modular Sports (CCA)<br>活跃体育</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/rockwall-climbing/"><center><h3>Rockwall Climbing<br>攀岩</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Basketball<br>篮球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/rockwall-climbing/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/softball/"><center><h3>Softball<br>垒球</h3></center></a></td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ third_nav_title: CCA (Secondary)
 <img src="/images/wushu%20.jpeg" alt="wushu" width="272" height="153"></a></td>
 </tr>
 	<tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Outdoor Activities Club<br>户外运动</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/table-tennis/">
