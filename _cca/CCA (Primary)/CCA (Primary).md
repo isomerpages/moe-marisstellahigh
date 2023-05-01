@@ -209,14 +209,14 @@ third_nav_title: CCA (Primary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 50%"><a href="programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
     <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="programmes/primary/cca/maths-society/">
+      <a href="/programmes/primary/cca/maths-society/">
 <img src="/images/math%20club_d1r1051.jpeg" alt="math society">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
