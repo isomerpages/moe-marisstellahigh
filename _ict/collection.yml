@@ -2,5 +2,5 @@ collections:
   ict:
     output: true
     order:
-      - Secondary.md
       - Primary.md
+      - Secondary.md
