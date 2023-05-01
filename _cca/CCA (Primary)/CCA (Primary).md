@@ -17,9 +17,9 @@ third_nav_title: CCA (Primary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/english/"><center><h3>English<br>英文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/chinese/"><center><h3>Chinese<br>华文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/english/"><center><h3>Badminton<br>羽球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/chinese/"><center><h3>Basketball<br>篮球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/mathematics/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -40,9 +40,9 @@ third_nav_title: CCA (Primary)
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/science/"><center><h3>Science<br>科学</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/art/"><center><h3>Art<br>美术</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/music/"><center><h3>Music<br>音乐</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/science/"><center><h3>Modular Sports (CCA)<br>活跃体育</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/art/"><center><h3>Rockwall Climbing<br>攀岩</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/music/"><center><h3>Softball<br>垒球</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
@@ -56,7 +56,9 @@ third_nav_title: CCA (Primary)
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Wushu<br>武术</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
