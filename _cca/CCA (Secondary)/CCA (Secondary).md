@@ -92,34 +92,34 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/brass-band/"><center><h3>National Cadet Corps (Sea)<br>学生军团（海军）
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-cadet-corps-sea/"><center><h3>National Cadet Corps (Sea)<br>学生军团（海军）
 </h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/string-ensemble/"><center><h3>National Police Cadet Corps<br>学生警团</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/art-club/"><center><h3>Singapore Scouts<br>童军</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-police-cadet-corps/"><center><h3>National Police Cadet Corps<br>学生警团</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/singapore-scouts/"><center><h3>Singapore Scouts<br>童军</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/brass-band/">
+      <a href="/programmes/secondary/cca/national-cadet-corps-sea/">
 <img src="/images/ncc_v1.png" alt="NCC">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/string-ensemble/">
+      <a href="/programmes/secondary/cca/national-police-cadet-corps/">
         <img src="/images/npcc-parade_v1.png" alt="NPCC" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/programmes/primary/cca/art-club/">
+      <a href="/programmes/secondary/cca/singapore-scouts/">
         <img src="/images/scout_v1.png" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-literary-drama-club/"><center><h3>St John Brigade<br>圣约翰救伤队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/st-john-brigade/"><center><h3>St John Brigade<br>圣约翰救伤队</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/chinese-literary-drama-club/">
+    <td class="tg-0lax"><a href="/programmes/secondary/cca/st-john-brigade/">
 <img src="/images/st%20john%20brigade.jpeg" alt="chinese speech and drama" width="272" height="153">
 </a></td>
   </tr>
