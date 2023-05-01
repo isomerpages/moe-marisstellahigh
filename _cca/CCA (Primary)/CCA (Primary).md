@@ -90,7 +90,7 @@ third_nav_title: CCA (Primary)
   <tr>
     <td class="tg-0lax">
       <a href="/programmes/primary/cca/scouts/">
-<img style="width:50%" src="/images/cub%20scout.jpeg" alt="scouts">
+<img style="width:40%" src="/images/cub%20scout.jpeg" alt="scouts">
     </a></td>
 	</tr>
  </tbody>
