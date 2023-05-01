@@ -97,10 +97,7 @@ third_nav_title: CCA (Primary)
 </table>
 <br><br>
 <center><h1>Performing and Visual Arts</h1></center>
-![](/images/brass%20band%20pic1.jpeg)
-![](/images/string%20ensemble_d1r1328.jpeg)
-![](/images/art%20club_d1r0786.jpeg)
-![](/images/chinese%20speech%20and%20drama%20club_d1r1384.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -112,34 +109,34 @@ third_nav_title: CCA (Primary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Badminton<br>羽球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>Basketball<br>篮球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/badminton/"><center><h3>Brass Band<br>铜乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/basketball/"><center><h3>String Ensemble<br>弦乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/bowling/"><center><h3>Arts and Craft<br>美术学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
       <a href="/programmes/primary/cca/badminton/">
-<img src="/images/badminton_d1r1153.jpeg" alt="badminton">
+<img src="/images/brass%20band%20pic1.jpeg" alt="brass band">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/basketball/">
-        <img src="/images/basketball_d1r1018.jpeg" alt="basketball" style="max-width: 100%; height: auto;">
+        <img src="/images/string%20ensemble_d1r1328.jpeg" alt="string ensemble" style="max-width: 100%; height: auto;">
       </a>
     </td>
     <td class="tg-0lax">
       <a href="/programmes/primary/cca/bowling/">
-        <img src="/images/bowling_d1r1412.jpeg" style="max-width: 100%; height: auto;">
+        <img src="/images/art%20club_d1r0786.jpeg" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Modular Sports (CCA)<br>活跃体育</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/modular-sports-cca/"><center><h3>Chinese Literary Drama Club<br>中文戏剧学会</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/modular-sports-cca/">
-<img src="/images/sports%20education%20programme-tn.jpeg" alt="modular cca" width="272" height="153">
+<img src="/images/chinese%20speech%20and%20drama%20club_d1r1384.jpeg" alt="modular cca" width="272" height="153">
 </a></td>
   </tr>
   </tbody>
