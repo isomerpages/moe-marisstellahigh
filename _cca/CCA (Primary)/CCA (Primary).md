@@ -221,7 +221,7 @@ third_nav_title: CCA (Primary)
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/science-club/">
-        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height: auto;">
+        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height:142px;">
       </a>
     </td>
   </tr>
