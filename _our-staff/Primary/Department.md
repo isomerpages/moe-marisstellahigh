@@ -113,18 +113,18 @@ third_nav_title: Primary
 
 | Name                             | Designation               |
 |----------------------------------|---------------------------|
-| Chiam Ru Qi (Ms)                 | HOD / Science             |
-| Chow Ying Xuan Grace (Ms)        | LH / Science              |
-| Noraisha Hamzah A (Mdm)          | ST / Science              |
-| Tay-Ang Poh Qin (Mrs)            | ST / Science              |
-| Alice Ng (Ms)                    | Teacher                   |
-| Chia Puay Hua (Mr)               | Teacher                   |
-| Leong Mei Lian Jacelyn (Mdm)     | Teacher                   |
-| Lye Jia Yi Adeline (Ms)          | Teacher                   |
+| Chiam Ru Qi (Ms) | HOD / Science             |
+| Chow Ying Xuan Grace (Ms) | LH / Science              |
+| Noraisha Hamzah A (Mdm) | ST / Science              |
+| Tay-Ang Poh Qin (Mrs) | ST / Science              |
+| Alice Ng (Ms) | Teacher                   |
+| Chia Puay Hua (Mr) | Teacher                   |
+| Leong Mei Lian Jacelyn (Mdm) | Teacher                   |
+| Lye Jia Yi Adeline (Ms) | Teacher                   |
 | Sharmini Jayasughavanagopal (Ms) | Teacher                   |
-| Tan Hui Ling Gwendolyn (Ms)      | Teacher                   |
-| Yong Ren Cui (Ms)                | Teacher                   |
-| Clement Dominic Gomez (Mr)       | Allied Educator / Science |
+| Tan Hui Ling Gwendolyn (Ms) | Teacher                   |
+| Yong Ren Cui (Ms) | Teacher                   |
+| Clement Dominic Gomez (Mr) | Allied Educator / Science |
 
 ### PE AND AESTHETICS
 
@@ -148,22 +148,22 @@ third_nav_title: Primary
 
 | Name                        | Designation                 |
 |-----------------------------|-----------------------------|
-| Wee Chun Tor Laverne (Mdm)  | HOD / Bicultural Programme  |
-| Chiang Lay Hoon (Mdm)       | SH / Bicultural Programme   |
+| Wee Chun Tor Laverne (Mdm) | HOD / Bicultural Programme  |
+| Chiang Lay Hoon (Mdm) | SH / Bicultural Programme   |
 | Ang Hui Zhen Charmaine (Ms) | Teacher                     |
-| Fang Meiling (Ms)           | Teacher                     |
-| Goh Mei Hui (Mdm)           | Teacher                     |
-| Koh Chek Seng (Mr)          | Teacher                     |
-| Mang Linlin (Mdm)           | Teacher                     |
-| Ma Yiwei (Mdm)              | Teacher                     |
-| Ng Beng Choo (Ms)           | Teacher                     |
-| Ng Chui Nee (Ms)            | Teacher                     |
-| Seah Yu Jie (Ms)            | Teacher                     |
-| Tan Poh Kian (Ms)           | Teacher                     |
-| Toh Peng Peng (Ms)          | Teacher                     |
-| Xie Meng (Mdm)              | Teacher                     |
-| Yong Ren Cui (Ms)           | Teacher                     |
-| Zhu RuoYe (Mdm)             | Teacher                     |
+| Fang Meiling (Ms) | Teacher                     |
+| Goh Mei Hui (Mdm) | Teacher                     |
+| Koh Chek Seng (Mr) | Teacher                     |
+| Mang Linlin (Mdm) | Teacher                     |
+| Ma Yiwei (Mdm) | Teacher                     |
+| Ng Beng Choo (Ms) | Teacher                     |
+| Ng Chui Nee (Ms) | Teacher                     |
+| Seah Yu Jie (Ms) | Teacher                     |
+| Tan Poh Kian (Ms) | Teacher                     |
+| Toh Peng Peng (Ms) | Teacher                     |
+| Xie Meng (Mdm) | Teacher                     |
+| Yong Ren Cui (Ms) | Teacher                     |
+| Zhu RuoYe (Mdm) | Teacher                     |
 
 ### CCE AND NE
 
