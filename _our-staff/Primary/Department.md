@@ -43,22 +43,22 @@ third_nav_title: Primary
 
 | Name                                     | Designation  |
 |------------------------------------------|--------------|
-| Low Sear Weeh (Mrs)                      | LH / English |
-| Sivagami Alagappan (Mdm)                 | LH / English |
-| Ong Hui Ming Ann (Mrs)                   | LT / CCE     |
-| Wong Chee Wai Eugene (Mr)                | ST / EL      |
-| Abigail Abraham (Ms)                     | Teacher      |
-| Amrit Kaur Langeana (Ms)                 | Teacher      |
-| Harsharenpal Kaur d/o Kuldip Singh (Mdm) | Teacher      |
-| Jenna Gan Ting Ann (Ms)                  | Teacher      |
-| Jolene Tan Jie En (Ms)                   | Teacher      |
-| June Sim Ming Yin (Ms)                   | Teacher      |
-| Lau Hui Wen (Ms)                         | Teacher      |
-| Lau Nguen Kee (Ms)                       | Teacher      |
-| May San Priscilla Yam (Mdm)              | Teacher      |
-| Seah Jia Xin Anna (Ms)                   | Teacher      |
-| Teoh Yian Pin (Ms)                       | Teacher      |
-| Tan Shi Hui (Ms)                         | Teacher      |
+| Low Sear Weeh (Mrs) | LH / English |
+| Sivagami Alagappan (Mdm) | LH / English |
+| Ong Hui Ming Ann (Mrs) | LT / CCE     |
+| Wong Chee Wai Eugene (Mr) | ST / EL      |
+| Abigail Abraham (Ms) | Teacher      |
+| Amrit Kaur Langeana (Ms) | Teacher      |
+| Harsharenpal Kaur d/o Kuldip Singh (Mdm) | Teacher     |
+| Jenna Gan Ting Ann (Ms)| Teacher      |
+| Jolene Tan Jie En (Ms) | Teacher      |
+| June Sim Ming Yin (Ms) | Teacher      |
+| Lau Hui Wen (Ms) | Teacher      |
+| Lau Nguen Kee (Ms) | Teacher      |
+| May San Priscilla Yam (Mdm) | Teacher      |
+| Seah Jia Xin Anna (Ms) | Teacher      |
+| Teoh Yian Pin (Ms) | Teacher      |
+| Tan Shi Hui (Ms) | Teacher      |
 
 ### CHINESE
 
