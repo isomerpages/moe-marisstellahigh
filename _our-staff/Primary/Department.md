@@ -35,7 +35,7 @@ third_nav_title: Primary
 | Tee Ying Chuen (Mdm) | LH / Chinese                 |
 | Chow Ying Xuan Grace (Ms) | LH / Science                 |
 | Chiang Lay Hoon (Mdm) | SH / Bicultural Programme    |
-| Noradlina Bte Mohamed (Ms) | SH / CCE & NE Coordinator    |
+| Noradlina Bte Mohamed (Ms) | SH / CCE &amp; NE Coordinator    |
 | Ng Kai Shi (Mdm) | SH / ICT                     |
 | Ang-Teo Sai Hiang Helen (Mrs) | SH / Student Management      |
 
@@ -61,6 +61,83 @@ third_nav_title: Primary
 | Seah Jia Xin Anna (Ms) | Teacher |
 | Teoh Yian Pin (Ms) | Teacher |
 | Tan Shi Hui (Ms)  | Teacher |
+
+abc
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Low Sear Weeh (Mrs)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td> Sivagami Alagappan (Mdm)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td> Ong Hui Ming Ann (Mrs)</td>
+    <td>LT / CCE</td>
+  </tr>
+  <tr>
+    <td>Wong Chee Wai Eugene (Mr)</td>
+    <td>ST / EL</td>
+  </tr>
+  <tr>
+    <td> Abigail Abraham (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td> Amrit Kaur Langeana (Ms)</td>
+    <td>Teacher </td>
+  </tr>
+  <tr>
+    <td>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
+    <td>Teacher </td>
+  </tr>
+  <tr>
+    <td>Jenna Gan Ting Ann (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jolene Tan Jie En (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>June Sim Ming Yin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lau Hui Wen (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lau Nguen Kee (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>May San Priscilla Yam (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seah Jia Xin Anna (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Teoh Yian Pin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Shi Hui (Ms) </td>
+    <td> Teacher</td>
+  </tr>
+</tbody>
+</table>
 
 ### CHINESE
 
@@ -172,26 +249,26 @@ third_nav_title: Primary
 | Name | Designation |
 | --- | --- |
 | Zhou Wencong (Mr) | HOD / CCE |
-| Noradlina Bte Mohamed (Ms) | SH / CCE & NE Coordinator |
+| Noradlina Bte Mohamed (Ms) | SH / CCE &amp; NE Coordinator |
 | Ong Hui Ming Ann (Mrs) | LT / CCE |
-|  Noraisha Hamzah A (Mdm) |  ST / SCI |
-|  Wong Chee Wai Eugene (Mr) |   ST / EL |
-|   Abigail Abraham (Ms) | Teacher  |
-|  Alice Ng (Ms) |  Teacher |
+| &nbsp;Noraisha Hamzah A (Mdm) | &nbsp;ST / SCI |
+| &nbsp;Wong Chee Wai Eugene (Mr) | &nbsp;&nbsp;ST / EL |
+| &nbsp;&nbsp;Abigail Abraham (Ms) | Teacher&nbsp; |
+| &nbsp;Alice Ng (Ms) | &nbsp;Teacher |
 | Chia Puay Hua (Mr) | Teacher |
-|  Fatmah Haider Bageshe Siti (Mdm) | Teacher |
-|  Foo Tuck Heng (Mr) |  Teacher |
+| &nbsp;Fatmah Haider Bageshe Siti (Mdm) | Teacher |
+| &nbsp;Foo Tuck Heng (Mr) | &nbsp;Teacher |
 | Harsharenpal Kaur d/o Kuldip Singh (Mdm) | Teacher |
-|  Hernidiana Mansor (Mdm) | Teacher |
+| &nbsp;Hernidiana&nbsp;Mansor (Mdm) | Teacher |
 | Illiyana Mohammad (Ms) | Teacher |
 | Jenna Gan Ting Ann (Ms) | Teacher |
 | Jolene Tan Jie En (Ms) | Teacher |
-|  Lau Hui Wen (Ms) | Teacher |
+| &nbsp;Lau Hui Wen (Ms) | Teacher |
 | Lek Kah Han Brandon (Mr) | Teacher |
 | Leong Mei Lian Jacelyn (Mdm) | Teacher |
-|  May San Priscilla Yam (Mdm) | Teacher |
+| &nbsp;May San Priscilla Yam (Mdm) | Teacher |
 | Nurmayah Bte Mohamed Isa (Mdm) | Teacher |
-|  Ng Seok Teng Clarissa (Ms) | Teacher  
+| &nbsp;Ng Seok Teng Clarissa (Ms) | Teacher  
  |
 | Tan Hui Ling Gwendolyn (Ms) | Teacher |
 
