@@ -8,36 +8,36 @@ third_nav_title: Primary
 
 | Name                   | Designation            |
 |------------------------|------------------------|
-| Boy Eng Seng (Mr)      | Principal              |
-| Benedict Lim (Mr)      | Vice-Principal         |
+| Boy Eng Seng (Mr) | Principal              |
+| Benedict Lim (Mr) | Vice-Principal         |
 | Choo-Lim Qing Yi (Mrs) | Vice-Principal         |
-| Lee Ko Yong (Mr)       | Vice-Principal (Admin) |
+| Lee Ko Yong (Mr) | Vice-Principal (Admin) |
 
 ### KEY PERSONNEL
 
 | Name                             | Designation                  |
 |----------------------------------|------------------------------|
-| Tan Kha Ghee (Mrs)               | School Staff Developer (SSD) |
-| Zhang Su Mei (Mdm)               | HOD / Chinese                |
-| Chiam Ru Qi (Ms)                 | HOD / Science                |
-| Wee Chun Tor Laverne (Mdm)       | HOD / Bicultural Programme   |
-|  Lim Kern Wei Randall            | HOD / CCA                    |
-| Zhou Wencong (Mr)                | HOD / CCE                    |
-| Ng Kim Neo Helen (Ms)            | HOD / ICT                    |
-| Yew Su Fong (Mdm)                | HOD / Mathematics            |
-| Ow Yong Choo Ee Joel (Mr)        | HOD / PE                     |
+| Tan Kha Ghee (Mrs) | School Staff Developer (SSD) |
+| Zhang Su Mei (Mdm) | HOD / Chinese                |
+| Chiam Ru Qi (Ms) | HOD / Science                |
+| Wee Chun Tor Laverne (Mdm) | HOD / Bicultural Programme   |
+|  Lim Kern Wei Randall | HOD / CCA                    |
+| Zhou Wencong (Mr) | HOD / CCE                    |
+| Ng Kim Neo Helen (Ms) | HOD / ICT                    |
+| Yew Su Fong (Mdm) | HOD / Mathematics            |
+| Ow Yong Choo Ee Joel (Mr) | HOD / PE                     |
 | Ng Swee Lin Sharon Florence (Ms) | HOD                          |
-| Tan Oon Hang (Mdm)               | Year Head (P1-2)             |
-| Tan Lee Keng Michelle (Ms)       | Year Head (P3-4)             |
-| Lee Chia Wei Alvin (Mr)          | Year Head (P5-6)             |
-| Low Sear Weeh (Mrs)              | LH / English                 |
-| Sivagami Alagappan (Mdm)         | LH / English                 |
-| Tee Ying Chuen (Mdm)             | LH / Chinese                 |
-| Chow Ying Xuan Grace (Ms)        | LH / Science                 |
-| Chiang Lay Hoon (Mdm)            | SH / Bicultural Programme    |
-| Noradlina Bte Mohamed (Ms)       | SH / CCE & NE Coordinator    |
-| Ng Kai Shi (Mdm)                 | SH / ICT                     |
-| Ang-Teo Sai Hiang Helen (Mrs)    | SH / Student Management      |
+| Tan Oon Hang (Mdm) | Year Head (P1-2)             |
+| Tan Lee Keng Michelle (Ms) | Year Head (P3-4)             |
+| Lee Chia Wei Alvin (Mr) | Year Head (P5-6)             |
+| Low Sear Weeh (Mrs) | LH / English                 |
+| Sivagami Alagappan (Mdm) | LH / English                 |
+| Tee Ying Chuen (Mdm) | LH / Chinese                 |
+| Chow Ying Xuan Grace (Ms) | LH / Science                 |
+| Chiang Lay Hoon (Mdm) | SH / Bicultural Programme    |
+| Noradlina Bte Mohamed (Ms) | SH / CCE & NE Coordinator    |
+| Ng Kai Shi (Mdm) | SH / ICT                     |
+| Ang-Teo Sai Hiang Helen (Mrs) | SH / Student Management      |
 
 ### ENGLISH
 
@@ -130,18 +130,18 @@ third_nav_title: Primary
 
 | Name                                  | Designation |
 |---------------------------------------|-------------|
-| Ow Yong Choo Ee Joel (Mr)             | HOD / PE    |
-| Lim Kern Wei Randall (Mr)             | HOD / CCA   |
-| Wong Loong Ju Jeffrey (Mr)            | ST / PE     |
-| Ang Hui Zhen Charmaine (Ms)           | Teacher     |
-| Illiyana Mohammad (Ms)                | Teacher     |
-| Yap Kevin (Mr)                        | Teacher     |
-| Ng Jingge Jeanne (Mdm)                | Teacher     |
-| Ng Seok Teng Clarissa (Ms)            | Teacher     |
-| Pereira Erica Stella (Ms)             | Teacher     |
-| Seow Mei Ying Madeline (Mrs)          | Teacher     |
+| Ow Yong Choo Ee Joel (Mr) | HOD / PE    |
+| Lim Kern Wei Randall (Mr) | HOD / CCA   |
+| Wong Loong Ju Jeffrey (Mr) | ST / PE     |
+| Ang Hui Zhen Charmaine (Ms) | Teacher     |
+| Illiyana Mohammad (Ms) | Teacher     |
+| Yap Kevin (Mr) | Teacher     |
+| Ng Jingge Jeanne (Mdm) | Teacher     |
+| Ng Seok Teng Clarissa (Ms) | Teacher     |
+| Pereira Erica Stella (Ms) | Teacher     |
+| Seow Mei Ying Madeline (Mrs) | Teacher     |
 | Siti Muliyanti Binte Ab Rahman (Miss) | Teacher     |
-| Vinodkumar S/O Murugan (Mr)           | Teacher     |
+| Vinodkumar S/O Murugan (Mr) | Teacher     |
 
 
 ### BICULTURAL PROGRAMME
@@ -197,45 +197,45 @@ third_nav_title: Primary
 
 | Name                                  | Designation |
 |---------------------------------------|-------------|
-| Ng Kim Neo Helen (Ms)                 | HOD / ICT   |
-| Ng Kai Shi (Mdm)                      | SH / ICT    |
-| Tay-Ang Poh Qin (Mrs)                 | ST / SCI    |
-| Wong Loong Ju Jeffrey (Mr)            | ST / PE     |
-| June Sim Ming Yin (Ms)                | Teacher     |
-| Koh Ee Beng (Mr)                      | Teacher     |
-| Ng Mei Xian Angelia (Ms)              | Teacher     |
-| Ong-Ng Jia Wen (Mrs)                  | Teacher     |
-| Pereira Erica Stella (Ms)             | Teacher     |
-| Reuben Dominic Phay (Mr)              | Teacher     |
-| Sharmini Jayasughavanagopal (Ms)      | Teacher     |
+| Ng Kim Neo Helen (Ms) | HOD / ICT   |
+| Ng Kai Shi (Mdm) | SH / ICT    |
+| Tay-Ang Poh Qin (Mrs) | ST / SCI    |
+| Wong Loong Ju Jeffrey (Mr) | ST / PE     |
+| June Sim Ming Yin (Ms) | Teacher     |
+| Koh Ee Beng (Mr) | Teacher     |
+| Ng Mei Xian Angelia (Ms) | Teacher     |
+| Ong-Ng Jia Wen (Mrs) | Teacher     |
+| Pereira Erica Stella (Ms) | Teacher     |
+| Reuben Dominic Phay (Mr) | Teacher     |
+| Sharmini Jayasughavanagopal (Ms) | Teacher     |
 | Siti Muliyanti Binte Ab Rahman (Miss) | Teacher     |
-| Toh-Lai Wei Xuan (Mrs)                | Teacher     |
-| Zhang Huiyun (Ms)                     | Teacher     |
-| Zhang Miao (Mr)                       | Teacher     |
+| Toh-Lai Wei Xuan (Mrs) | Teacher     |
+| Zhang Huiyun (Ms) | Teacher     |
+| Zhang Miao (Mr) | Teacher     |
 
 ### STUDENT MANAGEMENT
 
 | Name                          | Designation             |
 |-------------------------------|-------------------------|
 | Ang-Teo Sai Hiang Helen (Mrs) | SH / Student Management |
-| Amrit Kaur Langeana (Ms)      | Teacher                 |
-| Chu Qiu Ling Charlene (Mdm)   | Teacher                 |
-| Jan Teo Min (Ms)              | Teacher                 |
-| Ng Jingge Jeanne (Mdm)        | Teacher                 |
-| Seow Mei Ying Madeline (Mrs)  | Teacher                 |
-| Tan Leng Leong (Mr)           | Teacher                 |
-| Tay Ying Ying (Ms)            | Teacher                 |
-| Teoh Yian Pin (Ms)            | Teacher                 |
-| Vinodkumar S/O Murugan (Mr)   | Teacher                 |
-| Yap Kevin (Mr)                | Teacher                 |
-| Yeo Szu San (Ms)              | Teacher                 |
+| Amrit Kaur Langeana (Ms) | Teacher                 |
+| Chu Qiu Ling Charlene (Mdm) | Teacher                 |
+| Jan Teo Min (Ms) | Teacher                 |
+| Ng Jingge Jeanne (Mdm) | Teacher                 |
+| Seow Mei Ying Madeline (Mrs) | Teacher                 |
+| Tan Leng Leong (Mr) | Teacher                 |
+| Tay Ying Ying (Ms) | Teacher                 |
+| Teoh Yian Pin (Ms) | Teacher                 |
+| Vinodkumar S/O Murugan (Mr) | Teacher                 |
+| Yap Kevin (Mr) | Teacher                 |
+| Yeo Szu San (Ms) | Teacher                 |
 
 ### ALLIED EDUCATORS
 
 | Name                       | Designation               |
 |----------------------------|---------------------------|
-| Sim Mei Geok Shirley (Ms)  | Senior School Counsellor  |
-| Priscilla Yong  (Ms)       | School Counsellor         |
+| Sim Mei Geok Shirley (Ms) | Senior School Counsellor  |
+| Priscilla Yong  (Ms) | School Counsellor         |
 | Clement Dominic Gomez (Mr) | Allied Educator / Science |
 
 
@@ -243,10 +243,10 @@ third_nav_title: Primary
 
 | Name                         | Designation               |
 |------------------------------|---------------------------|
-| Cheryl Chan (Ms)             | Administration Manager    |
-| Seah Yong Huat (Mr)          | Operations Manager        |
-| Tan Check Boon Redzuan (Mr)  | Administrative Executive  |
-| Tan Huey Chyi Carol (Ms)     | Administrative Executive  |
-| Chng Soke Chye Lucy (Mdm)    | Corporate Support Officer |
-| Ong Choo Thing (Mdm)         | Corporate Support Officer |
-| Tumirah Binte Roslan (Mdm)   | Corporate Support Officer |
+| Cheryl Chan (Ms) | Administration Manager    |
+| Seah Yong Huat (Mr) | Operations Manager        |
+| Tan Check Boon Redzuan (Mr) | Administrative Executive  |
+| Tan Huey Chyi Carol (Ms) | Administrative Executive  |
+| Chng Soke Chye Lucy (Mdm) | Corporate Support Officer |
+| Ong Choo Thing (Mdm) | Corporate Support Officer |
+| Tumirah Binte Roslan (Mdm) | Corporate Support Officer |
