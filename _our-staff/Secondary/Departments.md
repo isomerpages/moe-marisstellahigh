@@ -90,10 +90,43 @@ third_nav_title: Secondary
 
 ### MATHEMATICS
 
-
+| Name                               | Designation       |
+|------------------------------------|-------------------|
+| Khong Siew Chin, Jillian (Ms)      | HOD / Mathematics |
+| Koh Yew Kiat (Mr)                  | HOD / CCA         |
+| Ye Wenhui (Ms)                     | SH / Mathematics  |
+| Dawn Ng Li Li (Ms)                 | Teacher           |
+| Koh Kah Lam (Mr)                   | Teacher           |
+| Ng Li Ping (Ms)                    | Teacher           |
+| Ng Yong Min (Mr)                   | Teacher           |
+| Nur Badriah Mirza Abdul Matin (Ms) | Teacher           |
+| Png Chin Yuen Marianne (Ms)        | Teacher           |
+| Praveen Kumar s/o Vadevelu (Mr)    | Teacher           |
+| Susan Neo Choo Geok (Mrs)          | Teacher           |
+| Thanesh Manoselvam (Mr)            | Teacher           |
+| Wu Yao Quan (Mr)                   | Teacher           |
 
 ### SCIENCE
 
+| Name                           | Designation    |
+|--------------------------------|----------------|
+| Ong Siok Lee (Mrs)             | HOD / Science  |
+| Foo Chin Wei (Mr)              | HOD / CCE      |
+| Chia Kian Boon Edwin (Mr)      | SH / Physics   |
+| Lucy Yeo (Ms)                  | ST / Chemistry |
+| Dominic Varella (Mr)           | Teacher        |
+| Eugene Lee Kee Ming (Mr)       | Teacher        |
+| Farrah Diba Mohamed Tahar (Ms) | Teacher        |
+| Goh Kok Li (Mr)                | Teacher        |
+| Lee Shiao Pey (Ms)             | Teacher        |
+| Lum Wai Mei (Ms)               | Teacher        |
+| Ngo Mei Zhi Mabel (Ms)         | Teacher        |
+| Seah Sheng Zhi (Mr)            | Teacher        |
+| Sim Wei Min Stephanie (Mrs)    | Teacher        |
+| Tao Yi Jun (Ms)                | Teacher        |
+| Tay Woon Ping (Mdm)            | Teacher        |
+| Charlotte Lim Sock Hoon (Ms)   | Flexi Adjunct  |
+| Lee Soo Hoon Patricia (Mrs)    | Flexi Adjunct  |
 
 ### HUMANITIES 
 
