@@ -130,17 +130,74 @@ third_nav_title: Secondary
 
 ### HUMANITIES 
 
+| Name                             | Designation                                   |
+|----------------------------------|-----------------------------------------------|
+| Kamaludin B Bahadin (Mr)         | HOD / Humanities                              |
+| Goy Wee Peng Edmund (Mr)         | School Staff Developer (SSD)                  |
+| Seah Ching San, Paul (Mr)        | HOD / Student Management & Talent Development |
+| Tan Xian Jing (Mr)               | SH / CCE                                      |
+| Jeremy Wong Yuyi                 | SH/ Student Well-Being                        |
+| Wong Xiu Yan (Ms)                | ST / Social Studies                           |
+| Chia-Ming Ying Terence Ryan (Mr) | Teacher                                       |
+| Mohamed Fairoz Bin Nordin (Mr)   | Teacher                                       |
+| Shantini d/o Karunagaran (Ms)    | Teacher                                       |
+| Tan Kok Wah (Mr)                 | Teacher                                       |
+| Tan Mei Ling Mandy (Mrs)         | Teacher                                       |
+| Tan Siew Yean (Ms)               | Teacher                                       |
+| Xie Zhi Hao (Mr)                 | Teacher                                       |
 
 ### PE, AESTHETICS AND ICT
 
-
+| Name                          | Designation                     |
+|-------------------------------|---------------------------------|
+| Suresh s/o Sivakadacham (Mr)  | HOD / PE & AES                  |
+| Low Hwang Chee (Mr)           | HOD / ICT                       |
+| Sylvia Roche (Mrs)            | Year Head                       |
+| Chong Shao Hong (Mr)          | SH / PE                         |
+| Tan Lin Chuan (Mr)            | Assistant Year Head             |
+| Fernandez Jeremy Joel (Mr)    | Assistant Year Head             |
+| Nicholas Ong (Mr)             | Assistant Year Head (Covering)  |
+| Alex Yeo Han Rong (Mr)        | Teacher                         |
+| Ho Wei Sin (Ms)               | Teacher                         |
+| Koh Kim Huat Nicholas (Mr)    | Teacher                         |
+| Lee Hui Min Germaine (Ms)     | Teacher                         |
+| Quek Ke Li (Ms)               | Teacher                         |
+| Risliana Mohd Idris Moey (Ms) | Teacher                         |
+| Sim Mei Lin Diana (Ms)        | Teacher                         |
+| Tan Poo Hong (Mr)             | Teacher                         |
+| Tan Yew Meng Daniel (Mr)      | Teacher                         |
+| Toh Wern-Ai Chloe (Ms)        | Teacher                         |
 
 ### ALLIED EDUCATORS
 
-
+| Name                       | Designation               |
+|----------------------------|---------------------------|
+| Chan Shen Tzy Lionel (Mr)  | Senior School Counsellor  |
+| Benjamin Png (Mr)          | ECG Counsellor            |
+| Lee Shang Xuan (Mr)        | Allied Educator / LBS     |
+| Lim Pei Ying (Mdm)         | Allied Educator / Science |
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF
 
-
+| Name                          | Designation                       |
+|-------------------------------|-----------------------------------|
+| Ang Lye Kim (Ms)              | Admin Manager                     |
+| Kelvinder Singh Jagal (Mr)    | Admin Manager                     |
+| Tham Chee Chung Andrew (Mr)   | Operations Manager                |
+| Eu Siew Lian (Mdm)            | Technical Support Officer / AVA   |
+| Mak Yeow Nam (Mr)             | Technical Support Officer / D&T   |
+| Ng Shi Jin (Mr)               | Technical Support Officer / Lab   |
+| Nurhidayati Binte Supri (Ms)  | Technical Support Officer / Lab   |
+| Png Chui Peng Lydia (Mdm)     | Corporate Support Officer         |
+| Siti Nur Atikah Ishak (Ms)    | Corporate Support Officer         |
+| Tham Lai Tong Geraldine (Ms)  | Corporate Support Officer         |
+| Wan Buck Ching Julia (Ms)     | Corporate Support Officer         |
 
 ### ICT STAFF
+
+| Name                   | Designation      |
+|------------------------|------------------|
+| Wong Teck Shim (Mr)    | ICT Manager      |
+| Nasharuddin Yusof (Mr) | Desktop Engineer |
+| Samaala Sukhmaran (Ms) | Desktop Engineer |
+| Ico Glen (Mr)          | ICT Trainer      |
