@@ -45,11 +45,30 @@ third_nav_title: Secondary
 
 ### SENIOR/LEAD TEACHERS
 
-
+| Name                         | Designation             |
+|------------------------------|-------------------------|
+| June Henry (Mrs)             | LT / English Literature |
+| Lucy Yeo (Ms)                | ST / Chemistry          |
+| Wong Xiu Yan (Ms)            | ST / Social Studies     |
+| Chong Yew Keng Audrey (Mrs)  | ST / CCE                |
 
 ### ENGLISH
 
-
+| Name                        | Designation              |
+|-----------------------------|--------------------------|
+| Sim Ai Ping, Shirley (Mrs)  | HOD/ English Language    |
+| Hannah Lois Ng (Ms)         | SH/ English Language     |
+| Zheng Kankan (Ms)           | SH / English Literature  |
+| June Henry (Mrs)            | LT / English Literature  |
+| Chong Yew Keng Audrey (Mrs) | ST / CCE                 |
+| Amrit Singh Gill (Mr)       | Teacher                  |
+| Goh Hwee Fang Vanessa (Ms)  | Teacher                  |
+| Jasmine Yeo (Mrs)           | Teacher                  |
+| Neo Lay Teng Windran (Ms)   | Teacher                  |
+| Tan Si Qian, Priscilla (Ms) | Teacher                  |
+| Tan Yen Leng (Ms)           | Teacher                  |
+| V Praveenkumar (Mr)         | Teacher                  |
+| Yoon Chee May Patricia (Ms) | Teacher                  |
 
 ### CHINESE
 
