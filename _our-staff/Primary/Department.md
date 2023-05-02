@@ -167,18 +167,86 @@ third_nav_title: Primary
 
 ### CCE AND NE
 
-
+| Name | Designation |
+| --- | --- |
+| Zhou Wencong (Mr) | HOD / CCE |
+| Noradlina Bte Mohamed (Ms) | SH / CCE & NE Coordinator |
+| Ong Hui Ming Ann (Mrs) | LT / CCE |
+|  Noraisha Hamzah A (Mdm) |  ST / SCI |
+|  Wong Chee Wai Eugene (Mr) |   ST / EL |
+|   Abigail Abraham (Ms) | Teacher  |
+|  Alice Ng (Ms) |  Teacher |
+| Chia Puay Hua (Mr) | Teacher |
+|  Fatmah Haider Bageshe Siti (Mdm) | Teacher |
+|  Foo Tuck Heng (Mr) |  Teacher |
+| Harsharenpal Kaur d/o Kuldip Singh (Mdm) | Teacher |
+|  Hernidiana Mansor (Mdm) | Teacher |
+| Illiyana Mohammad (Ms) | Teacher |
+| Jenna Gan Ting Ann (Ms) | Teacher |
+| Jolene Tan Jie En (Ms) | Teacher |
+|  Lau Hui Wen (Ms) | Teacher |
+| Lek Kah Han Brandon (Mr) | Teacher |
+| Leong Mei Lian Jacelyn (Mdm) | Teacher |
+|  May San Priscilla Yam (Mdm) | Teacher |
+| Nurmayah Bte Mohamed Isa (Mdm) | Teacher |
+|  Ng Seok Teng Clarissa (Ms) | Teacher  
+ |
+| Tan Hui Ling Gwendolyn (Ms) | Teacher |
 
 ### ICT
 
-
+| Name                                  | Designation |
+|---------------------------------------|-------------|
+| Ng Kim Neo Helen (Ms)                 | HOD / ICT   |
+| Ng Kai Shi (Mdm)                      | SH / ICT    |
+| Tay-Ang Poh Qin (Mrs)                 | ST / SCI    |
+| Wong Loong Ju Jeffrey (Mr)            | ST / PE     |
+| June Sim Ming Yin (Ms)                | Teacher     |
+| Koh Ee Beng (Mr)                      | Teacher     |
+| Ng Mei Xian Angelia (Ms)              | Teacher     |
+| Ong-Ng Jia Wen (Mrs)                  | Teacher     |
+| Pereira Erica Stella (Ms)             | Teacher     |
+| Reuben Dominic Phay (Mr)              | Teacher     |
+| Sharmini Jayasughavanagopal (Ms)      | Teacher     |
+| Siti Muliyanti Binte Ab Rahman (Miss) | Teacher     |
+| Toh-Lai Wei Xuan (Mrs)                | Teacher     |
+| Zhang Huiyun (Ms)                     | Teacher     |
+| Zhang Miao (Mr)                       | Teacher     |
 
 ### STUDENT MANAGEMENT
 
-
+| Name                          | Designation             |
+|-------------------------------|-------------------------|
+| Ang-Teo Sai Hiang Helen (Mrs) | SH / Student Management |
+| Amrit Kaur Langeana (Ms)      | Teacher                 |
+| Chu Qiu Ling Charlene (Mdm)   | Teacher                 |
+| Jan Teo Min (Ms)              | Teacher                 |
+| Ng Jingge Jeanne (Mdm)        | Teacher                 |
+| Seow Mei Ying Madeline (Mrs)  | Teacher                 |
+| Tan Leng Leong (Mr)           | Teacher                 |
+| Tay Ying Ying (Ms)            | Teacher                 |
+| Teoh Yian Pin (Ms)            | Teacher                 |
+| Vinodkumar S/O Murugan (Mr)   | Teacher                 |
+| Yap Kevin (Mr)                | Teacher                 |
+| Yeo Szu San (Ms)              | Teacher                 |
 
 ### ALLIED EDUCATORS
 
+| Name                       | Designation               |
+|----------------------------|---------------------------|
+| Sim Mei Geok Shirley (Ms)  | Senior School Counsellor  |
+| Priscilla Yong  (Ms)       | School Counsellor         |
+| Clement Dominic Gomez (Mr) | Allied Educator / Science |
 
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF
+
+| Name                         | Designation               |
+|------------------------------|---------------------------|
+| Cheryl Chan (Ms)             | Administration Manager    |
+| Seah Yong Huat (Mr)          | Operations Manager        |
+| Tan Check Boon Redzuan (Mr)  | Administrative Executive  |
+| Tan Huey Chyi Carol (Ms)     | Administrative Executive  |
+| Chng Soke Chye Lucy (Mdm)    | Corporate Support Officer |
+| Ong Choo Thing (Mdm)         | Corporate Support Officer |
+| Tumirah Binte Roslan (Mdm)   | Corporate Support Officer |
