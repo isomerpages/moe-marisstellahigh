@@ -72,6 +72,21 @@ third_nav_title: Secondary
 
 ### CHINESE
 
+| Name                        | Designation             |
+|-----------------------------|-------------------------|
+| Thong Wee Sin (Mr)          | HOD / Chinese Language  |
+| Florence Lim Jie Ru (Ms)    | HOD / SAP               |
+| Sui Lei (Mr)                | SH / Chinese Language   |
+| Han Lee Kwang (Mr)          | Teacher                 |
+| Heng Seng How (Mr)          | Teacher                 |
+| Jiang Zhiqiong (Ms)         | Teacher                 |
+| Lin Chunhai (Mr)            | Teacher                 |
+| Liu Dongmei (Mdm)           | Teacher                 |
+| Ong Cher Tat (Mr)           | Teacher                 |
+| Phang Szie Voon (Ms)        | Teacher                 |
+| Tan Ching Sing (Ms)         | Teacher                 |
+| Tan Sai Kee (Mdm)           | Teacher                 |
+| Yee Tai Yen, Terrance (Mr)  | Teacher                 |
 
 ### MATHEMATICS
 
