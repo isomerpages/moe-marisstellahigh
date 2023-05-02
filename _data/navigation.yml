@@ -28,8 +28,6 @@ links:
     sublinks:
       - title: Academic Programme
         url: /programmes/primary/academic-programme
-      - title: Bicultural Programme
-        url: /programmes/primary/bicultural-programme/
   - title: School Happenings
     url: /school-happenings/primary/news/
     sublinks:
@@ -45,6 +43,8 @@ links:
         url: /programmes/primary/cca/
       - title: ICT
         url: /programmes/primary/ict/
+      - title: Bicultural Programme
+        url: /programmes/primary/bicultural-programme/
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
