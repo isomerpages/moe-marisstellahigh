@@ -4,19 +4,6 @@ permalink: /programmes/primary/academic-programme/
 description: ""
 third_nav_title: Primary
 ---
-
-<img src="" alt="ict" width="272" height="153">
-
-  
-    <a href="/programmes/primary/academic-programme/physical-education/"><center></center></a>
-		<a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>ICT<br><br>信息与通信技术</h4></center></a>
-  
-
-
-
-<br><br><br><br>
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
