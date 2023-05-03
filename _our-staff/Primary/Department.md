@@ -35,7 +35,7 @@ third_nav_title: Primary
 | Tee Ying Chuen (Mdm) | LH / Chinese |
 | Chow Ying Xuan Grace (Ms) | LH / Science |
 | Chiang Lay Hoon (Mdm) | SH / Bicultural Programme |
-| Noradlina Bte Mohamed (Ms) | SH / CCE & NE Coordinator |
+| Noradlina Bte Mohamed (Ms) | SH / CCE &amp; NE Coordinator |
 | Ng Kai Shi (Mdm) | SH / ICT |
 | Ang-Teo Sai Hiang Helen (Mrs) | SH / Student Management |
 
@@ -252,3 +252,388 @@ third_nav_title: Primary
 | Tumirah Binte Roslan (Mdm) | Corporate Support Officer |
 
 ***
+
+### SCHOOL LEADERS
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Boy Eng Seng (Mr)</td>
+    <td>Principal</td>
+  </tr>
+  <tr>
+    <td>Benedict Lim (Mr)</td>
+    <td>Vice-Principal</td>
+  </tr>
+  <tr>
+    <td>Choo-Lim Qing Yi (Mrs)</td>
+    <td>Vice-Principal</td>
+  </tr>
+  <tr>
+    <td>Lee Ko Yong (Mr)</td>
+    <td>Vice-Principal (Admin)</td>
+  </tr>
+</tbody>
+</table>
+
+### KEY PERSONNEL
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Tan Kha Ghee (Mrs)</td>
+    <td>School Staff Developer (SSD)</td>
+  </tr>
+  <tr>
+    <td>Zhang Su Mei (Mdm)</td>
+    <td>HOD / Chinese</td>
+  </tr>
+  <tr>
+    <td>Chiam Ru Qi (Ms)</td>
+    <td>HOD / Science</td>
+  </tr>
+  <tr>
+    <td>Wee Chun Tor Laverne (Mdm)</td>
+    <td>HOD / Bicultural Programme</td>
+  </tr>
+  <tr>
+    <td>Lim Kern Wei Randall</td>
+    <td>HOD / CCA</td>
+  </tr>
+  <tr>
+    <td>Zhou Wencong (Mr)</td>
+    <td>HOD / CCE</td>
+  </tr>
+  <tr>
+    <td>Ng Kim Neo Helen (Ms)</td>
+    <td>HOD / ICT</td>
+  </tr>
+  <tr>
+    <td>Yew Su Fong (Mdm)</td>
+    <td>HOD / Mathematics</td>
+  </tr>
+  <tr>
+    <td>Ow Yong Choo Ee Joel (Mr)</td>
+    <td>HOD / PE</td>
+  </tr>
+  <tr>
+    <td>Ng Swee Lin Sharon Florence (Ms)</td>
+    <td>HOD</td>
+  </tr>
+  <tr>
+    <td>Tan Oon Hang (Mdm)</td>
+    <td>Year Head (P1-2)</td>
+  </tr>
+  <tr>
+    <td>Tan Lee Keng Michelle (Ms)</td>
+    <td>Year Head (P3-4)</td>
+  </tr>
+  <tr>
+    <td>Lee Chia Wei Alvin (Mr)</td>
+    <td>Year Head (P5-6)</td>
+  </tr>
+  <tr>
+    <td>Low Sear Weeh (Mrs)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td>Sivagami Alagappan (Mdm)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td>Tee Ying Chuen (Mdm)</td>
+    <td>LH / Chinese</td>
+  </tr>
+  <tr>
+    <td>Chow Ying Xuan Grace (Ms)</td>
+    <td>LH / Science</td>
+  </tr>
+  <tr>
+    <td>Chiang Lay Hoon (Mdm)</td>
+    <td>SH / Bicultural Programme</td>
+  </tr>
+  <tr>
+    <td>Noradlina Bte Mohamed (Ms)</td>
+    <td>SH / CCE &amp; NE Coordinator</td>
+  </tr>
+  <tr>
+    <td>Ng Kai Shi (Mdm)</td>
+    <td>SH / ICT</td>
+  </tr>
+  <tr>
+    <td>Ang-Teo Sai Hiang Helen (Mrs)</td>
+    <td>SH / Student Management</td>
+  </tr>
+</tbody>
+</table>
+
+### ENGLISH
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Low Sear Weeh (Mrs)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td>Sivagami Alagappan (Mdm)</td>
+    <td>LH / English</td>
+  </tr>
+  <tr>
+    <td>Ong Hui Ming Ann (Mrs)</td>
+    <td>LT / CCE</td>
+  </tr>
+  <tr>
+    <td>Wong Chee Wai Eugene (Mr)</td>
+    <td>ST / EL</td>
+  </tr>
+  <tr>
+    <td>Abigail Abraham (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Amrit Kaur Langeana (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jenna Gan Ting Ann (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jolene Tan Jie En (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>June Sim Ming Yin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lau Hui Wen (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lau Nguen Kee (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>May San Priscilla Yam (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seah Jia Xin Anna (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Teoh Yian Pin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Shi Hui (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### CHINESE
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Zhang Su Mei (Mdm)</td>
+    <td>HOD / Chinese</td>
+  </tr>
+  <tr>
+    <td>Tee Ying Chuen (Mdm)</td>
+    <td>LH / Chinese</td>
+  </tr>
+  <tr>
+    <td>Chua Kho Shin (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Fang Meiling (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Goh Mei Hui (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Koh Chek Seng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lee Xiu Mei Gracia (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Mang Linlin (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ma Yiwei (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Beng Choo (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Chui Nee (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Mei Xian Angelia (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ong-Ng Jia Wen (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ong Yin Lian (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seah Yu Jie (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Leng Leong (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Poh Kian (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Toh Peng Peng (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tong Hwee Kwan (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Xie Meng (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhang Huiyun (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhang Miao (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhu RuoYe (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### MATHEMATICS
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Yew Su Fong (Mdm)</td>
+    <td>HOD / Mathematics</td>
+  </tr>
+  <tr>
+    <td>Tan-Chua Lee Hwee Linda (Mrs)</td>
+    <td>ST / Mathematics</td>
+  </tr>
+  <tr>
+    <td>Chu Qiu Ling Charlene (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Fatmah Haider Bageshe Siti (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Foo Tuck Heng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Hernidiana Mansor (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jan Teo Min</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Koh Ee Beng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lek Kah Han Brandon (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lim Yi Min Yvonne (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Nurmayah Bte Mohamed Isa (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Reuben Dominic Phay (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Sim-Phang Shin Chee Melinda (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Teo-Lim Bee Hong Pauline (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Toh-Lai Wei Xuan (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yeo Szu San (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
