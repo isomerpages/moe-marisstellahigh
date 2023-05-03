@@ -4,7 +4,8 @@ permalink: /academic-programme/primary/ict-primary/
 description: ""
 third_nav_title: Primary
 ---
-![](/images/ictprimary-min.jpg)
+
+<img src="/images/ictprimary-min.jpg" style="width:45%">
 
 The ICT Department aims to:  
 *   Provide a vibrant ICT programme for Marists by ensuring that the school is on the cutting edge of technology through its integration in all aspects of teaching and learning;
@@ -14,7 +15,7 @@ The ICT Department aims to:
 
   
 
-To achieve the Department’s goals, the following programmes are offered:   
+To achieve the Department’s goals, the following programmes are offered:&nbsp;  
 
 *   Cyber Wellness Programme  
     
