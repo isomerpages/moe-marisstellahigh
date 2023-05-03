@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Primary
 ---
 
-
-
-
-
-<br><br><br><br><br>
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -65,11 +58,11 @@ third_nav_title: Primary
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
 <img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a></td>
 		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
-<img src="/images/d&amp;t_v1.png" alt="dnt" width="272" height="153"></a></td>
+<img src="/images/ictprimary-min.jpg" alt="ict" width="272" height="153"></a></td>
 </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>Design and Technology<br><br>工艺学</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h4>Physical Education<br><br>体育</h4></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>ICT<br><br>信息与通信技术</h4></center></a></td>
   </tr>
 </tbody>
 </table>
