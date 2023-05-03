@@ -55,7 +55,7 @@ third_nav_title: Primary
   </tr>
  <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
-<img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a></td>
+<img src="/images/physical%20education.jpeg" alt="PE" style="width:100%"></a></td>
 		<td class="tg-0lax"><a href="/academic-programme/primary/ict-primary/">
 <img src="/images/ictprimary-min.jpg" alt="ICT" style="width:86%"></a></td>
 </tr>
