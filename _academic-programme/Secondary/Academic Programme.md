@@ -67,12 +67,12 @@ third_nav_title: Secondary
 		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/music/"><center><h4>Music<br><br>音乐</h4></center></a></td>
   </tr>
 	<tr>
-    <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/computing/">
-<img src="/images/computer-science_v1.png" alt="computing" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
-<img src="/images/d&amp;t_v1.png" alt="dnt" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/music/">
-<img src="/images/music_v1.png" alt="music" width="272" height="153"></a></td>
+    <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/physical-education/">
+<img src="/images/pe_v1%20.png" alt="PE" width="272" height="153"></a></td>
+		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/food-and-consumer-education/">
+<img src="/images/food_consumer_v1.png" alt="Food and Consumer Education" width="272" height="153"></a></td>
+		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/principles-of-account/">
+<img src="/images/accounts.jpeg" alt="POA" width="272" height="153"></a></td>
 </tr>
 </tbody><tbody>
   <tr>
@@ -91,3 +91,5 @@ third_nav_title: Secondary
 	</tr>
 </tbody>
 </table>
+
+
