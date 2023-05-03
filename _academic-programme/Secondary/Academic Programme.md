@@ -80,5 +80,14 @@ third_nav_title: Secondary
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/food-and-consumer-education/"><center><h3>Food and Consumer Education<br><br>烹饪与营养学</h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/principles-of-account/"><center><h3>Principle of Accounts<br><br>会计</h3></center></a></td>
   </tr>
+	<tr>
+    <td class="tg-0lax">
+      <a href="/academic-programme/secondary/ict-secondary/">
+<img src="/images/ictsecondary.jpg" alt="ict">
+    </a></td>
+	</tr>
+		<tr>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/academic-programme/secondary/ict-secondary/"><center><h3>ICT<br><br>信息与通信技术</h3></center></a></td>
+	</tr>
 </tbody>
 </table>
