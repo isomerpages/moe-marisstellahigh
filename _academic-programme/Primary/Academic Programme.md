@@ -21,7 +21,7 @@ third_nav_title: Primary
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/academic-programme/chinese/">
-        <img src="/images/chinese%20language.jpeg" alt="chinese language" style="max-width: 100%; height: 98%;">
+        <img src="/images/chinese%20language.jpeg" alt="chinese language" style="max-width: 100%; height: 95%;">
       </a>
     </td>
     <td class="tg-0lax">
