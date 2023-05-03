@@ -15,13 +15,6 @@ third_nav_title: Secondary
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/english/"><center><h3>English<br>英文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/chinese-language/"><center><h3>Chinese Language<br>华文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/mathematics/"><center><h3>Mathematics<br>数学</h3></center></a></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
     <td class="tg-0lax">
       <a href="/programmes/secondary/academic-programme/english/">
 <img src="/images/english_v1.png" alt="english">
@@ -37,10 +30,12 @@ third_nav_title: Secondary
       </a>
     </td>
   </tr>
+</thead>
+<tbody>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/science/"><center><h3>Science<br>科学</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/humanities/"><center><h3>Humanities<br>人文</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/art/"><center><h3>Art<br>美术</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/english/"><center><h3>English<br><br>英文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/chinese-language/"><center><h3>Chinese Language<br><br>华文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/mathematics/"><center><h3>Mathematics<br><br>数学</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/science/">
@@ -54,11 +49,11 @@ third_nav_title: Secondary
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/computing/"><center><h3>Computing<br>电脑科技学</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h3>Design and Technology<br>工艺学</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/music/"><center><h3>Music<br>音乐</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/science/"><center><h3>Science<br><br>科学</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/humanities/"><center><h3>Humanities<br><br>人文</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/art/"><center><h3>Art<br><br>美术</h3></center></a></td>
   </tr>
-  <tr>
+ <tr>
     <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/computing/">
 <img src="/images/computer-science_v1.png" alt="computing" width="272" height="153"></a></td>
 		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
@@ -66,28 +61,24 @@ third_nav_title: Secondary
 		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/music/">
 <img src="/images/music_v1.png" alt="music" width="272" height="153"></a></td>
 </tr>
-	<tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/food-and-consumer-education/"><center><h3>Food and Consumer Education<br>烹饪与营养学</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/principles-of-account/"><center><h3>Principle of Accounts<br>会计</h3></center></a></td>
+  <tr>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/computing/"><center><h3>Computing<br><br>电脑科技学</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h3>Design and Technology<br><br>工艺学</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/music/"><center><h3>Music<br><br>音乐</h3></center></a></td>
   </tr>
-
+	<tr>
+    <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/computing/">
+<img src="/images/computer-science_v1.png" alt="computing" width="272" height="153"></a></td>
+		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
+<img src="/images/d&amp;t_v1.png" alt="dnt" width="272" height="153"></a></td>
+		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/music/">
+<img src="/images/music_v1.png" alt="music" width="272" height="153"></a></td>
+</tr>
 </tbody><tbody>
   <tr>
-    <td class="tg-0lax">
-      <a href="/programmes/secondary/academic-programme/physical-education/">
-<img src="/images/pe_v1%20.png" alt="PE">
-    </a></td>
-    <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/secondary/academic-programme/food-and-consumer-education/">
-        <img src="/images/food_consumer_v1.png" alt="chinese language" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
-    <td class="tg-0lax">
-      <a href="/programmes/secondary/academic-programme/principles-of-account/">
-        <img src="/images/accounts.jpeg" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/physical-education/"><center><h3>Physical Education<br><br>体育</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/food-and-consumer-education/"><center><h3>Food and Consumer Education<br><br>烹饪与营养学</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/principles-of-account/"><center><h3>Principle of Accounts<br><br>会计</h3></center></a></td>
   </tr>
 </tbody>
 </table>
