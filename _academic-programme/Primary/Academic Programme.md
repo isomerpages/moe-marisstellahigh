@@ -4,7 +4,6 @@ permalink: /programmes/primary/academic-programme/
 description: ""
 third_nav_title: Primary
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -22,7 +21,7 @@ third_nav_title: Primary
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/academic-programme/chinese/">
-        <img src="/images/chinese%20language.jpeg" alt="chinese language" style="max-width: 100%; height: auto;">
+        <img src="/images/chinese%20language.jpeg" alt="chinese language" style="max-width: 100%; height: 98%;">
       </a>
     </td>
     <td class="tg-0lax">
