@@ -17,7 +17,7 @@ third_nav_title: Primary
   <tr>
     <td class="tg-0lax">
       <a href="/programmes/primary/academic-programme/english/">
-<img src="/images/english_v3.png" alt="english">
+<img src="/images/english_v3.png" alt="english" style="max-width: 100%; height: 95%;">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/academic-programme/chinese/">
@@ -26,7 +26,7 @@ third_nav_title: Primary
     </td>
     <td class="tg-0lax">
       <a href="/programmes/primary/academic-programme/mathematics/">
-        <img src="/images/math_v3.png" style="max-width: 100%; height: auto;">
+        <img src="/images/math_v3.png" style="max-width: 100%; height: 95%;">
       </a>
     </td>
   </tr>
