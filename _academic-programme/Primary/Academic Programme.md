@@ -39,13 +39,13 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
-<img src="/images/science_v3.png" alt="science" width="272" height="153">
+<img src="/images/science_v3.png" alt="science" style="width:78%">
 </a></td>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/art/">
-<img src="/images/art%20%20%20.jpeg" alt="art" style="max-width: 100%; height: auto;">
+<img src="/images/art%20%20%20.jpeg" alt="art" style="width:100%">
 </a></td>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/music/">
-<img src="/images/music%20.jpeg" alt="music" width="272" height="153">
+<img src="/images/music%20.jpeg" alt="music" style="width:72%">
 </a></td>
   </tr>
   <tr>
