@@ -35,6 +35,8 @@ links:
         url: /school-happenings/primary/news/
       - title: Announcements
         url: /school-happenings/primary/announcements/
+      - title: Bicultural Programme
+        url: /programmes/primary/bicultural-programme/
       - title: Faith Formation
         url: /programmes/primary/faith-formation/
       - title: CCE
@@ -43,8 +45,6 @@ links:
         url: /programmes/primary/cca/
       - title: ICT
         url: /programmes/primary/ict/
-      - title: Bicultural Programme
-        url: /programmes/primary/bicultural-programme/
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
