@@ -637,3 +637,503 @@ third_nav_title: Primary
   </tr>
 </tbody>
 </table>
+
+### SCIENCE
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chiam Ru Qi (Ms)</td>
+    <td>HOD / Science</td>
+  </tr>
+  <tr>
+    <td>Chow Ying Xuan Grace (Ms)</td>
+    <td>LH / Science</td>
+  </tr>
+  <tr>
+    <td>Noraisha Hamzah A (Mdm)</td>
+    <td>ST / Science</td>
+  </tr>
+  <tr>
+    <td>Tay-Ang Poh Qin (Mrs)</td>
+    <td>ST / Science</td>
+  </tr>
+  <tr>
+    <td>Alice Ng (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Chia Puay Hua (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Leong Mei Lian Jacelyn (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lye Jia Yi Adeline (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Sharmini Jayasughavanagopal (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Hui Ling Gwendolyn (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yong Ren Cui (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Clement Dominic Gomez (Mr)</td>
+    <td>Allied Educator / Science</td>
+  </tr>
+</tbody>
+</table>
+
+### PE AND AESTHETICS
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ow Yong Choo Ee Joel (Mr)</td>
+    <td>HOD / PE</td>
+  </tr>
+  <tr>
+    <td>Lim Kern Wei Randall (Mr)</td>
+    <td>HOD / CCA</td>
+  </tr>
+  <tr>
+    <td>Wong Loong Ju Jeffrey (Mr)</td>
+    <td>ST / PE</td>
+  </tr>
+  <tr>
+    <td>Ang Hui Zhen Charmaine (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Illiyana Mohammad (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yap Kevin (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Jingge Jeanne (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Seok Teng Clarissa (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Pereira Erica Stella (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seow Mei Ying Madeline (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Siti Muliyanti Binte Ab Rahman (Miss)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Vinodkumar S/O Murugan (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### BICULTURAL PROGRAMME
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Wee Chun Tor Laverne (Mdm)</td>
+    <td>HOD / Bicultural Programme</td>
+  </tr>
+  <tr>
+    <td>Chiang Lay Hoon (Mdm)</td>
+    <td>SH / Bicultural Programme</td>
+  </tr>
+  <tr>
+    <td>Ang Hui Zhen Charmaine (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Fang Meiling (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Goh Mei Hui (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Koh Chek Seng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Mang Linlin (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ma Yiwei (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Beng Choo (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Chui Nee (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seah Yu Jie (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Poh Kian (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Toh Peng Peng (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Xie Meng (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yong Ren Cui (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhu RuoYe (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### CCE AND NE
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Zhou Wencong (Mr)</td>
+    <td>HOD / CCE</td>
+  </tr>
+  <tr>
+    <td>Noradlina Bte Mohamed (Ms)</td>
+    <td>SH / CCE &amp; NE Coordinator</td>
+  </tr>
+  <tr>
+    <td>Ong Hui Ming Ann (Mrs)</td>
+    <td>LT / CCE</td>
+  </tr>
+  <tr>
+    <td>Noraisha Hamzah A (Mdm)</td>
+    <td>ST / SCI</td>
+  </tr>
+  <tr>
+    <td>Wong Chee Wai Eugene (Mr)</td>
+    <td> ST / EL</td>
+  </tr>
+  <tr>
+    <td> Abigail Abraham (Ms)</td>
+    <td>Teacher </td>
+  </tr>
+  <tr>
+    <td> Alice Ng (Ms)</td>
+    <td> Teacher</td>
+  </tr>
+  <tr>
+    <td>Chia Puay Hua (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Fatmah Haider Bageshe Siti (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Foo Tuck Heng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Hernidiana Mansor (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Illiyana Mohammad (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jenna Gan Ting Ann (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jolene Tan Jie En (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lau Hui Wen (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Lek Kah Han Brandon (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Leong Mei Lian Jacelyn (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>May San Priscilla Yam (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Nurmayah Bte Mohamed Isa (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Seok Teng Clarissa (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Hui Ling Gwendolyn (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### ICT
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ng Kim Neo Helen (Ms)</td>
+    <td>HOD / ICT</td>
+  </tr>
+  <tr>
+    <td>Ng Kai Shi (Mdm)</td>
+    <td>SH / ICT</td>
+  </tr>
+  <tr>
+    <td>Tay-Ang Poh Qin (Mrs)</td>
+    <td>ST / SCI</td>
+  </tr>
+  <tr>
+    <td>Wong Loong Ju Jeffrey (Mr)</td>
+    <td>ST / PE</td>
+  </tr>
+  <tr>
+    <td>June Sim Ming Yin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Koh Ee Beng (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Mei Xian Angelia (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ong-Ng Jia Wen (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Pereira Erica Stella (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Reuben Dominic Phay (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Sharmini Jayasughavanagopal (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Siti Muliyanti Binte Ab Rahman (Miss)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Toh-Lai Wei Xuan (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhang Huiyun (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Zhang Miao (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### STUDENT MANAGEMENT
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ang-Teo Sai Hiang Helen (Mrs)</td>
+    <td>SH / Student Management</td>
+  </tr>
+  <tr>
+    <td>Amrit Kaur Langeana (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Chu Qiu Ling Charlene (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Jan Teo Min (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Ng Jingge Jeanne (Mdm)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Seow Mei Ying Madeline (Mrs)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tan Leng Leong (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Tay Ying Ying (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Teoh Yian Pin (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Vinodkumar S/O Murugan (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yap Kevin (Mr)</td>
+    <td>Teacher</td>
+  </tr>
+  <tr>
+    <td>Yeo Szu San (Ms)</td>
+    <td>Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+### ALLIED EDUCATORS
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Sim Mei Geok Shirley (Ms)</td>
+    <td>Senior School Counsellor</td>
+  </tr>
+  <tr>
+    <td>Priscilla Yong (Ms)</td>
+    <td>School Counsellor</td>
+  </tr>
+  <tr>
+    <td>Clement Dominic Gomez (Mr)</td>
+    <td>Allied Educator / Science</td>
+  </tr>
+</tbody>
+</table>
+
+### EXECUTIVE AND ADMINISTRATIVE STAFF
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Cheryl Chan (Ms)</td>
+    <td>Administration Manager</td>
+  </tr>
+  <tr>
+    <td>Seah Yong Huat (Mr)</td>
+    <td>Operations Manager</td>
+  </tr>
+  <tr>
+    <td>Tan Check Boon Redzuan (Mr)</td>
+    <td>Administrative Executive</td>
+  </tr>
+  <tr>
+    <td>Tan Huey Chyi Carol (Ms)</td>
+    <td>Administrative Executive</td>
+  </tr>
+  <tr>
+    <td>Chng Soke Chye Lucy (Mdm)</td>
+    <td>Corporate Support Officer</td>
+  </tr>
+  <tr>
+    <td>Ong Choo Thing (Mdm)</td>
+    <td>Corporate Support Officer</td>
+  </tr>
+  <tr>
+    <td>Tumirah Binte Roslan (Mdm)</td>
+    <td>Corporate Support Officer</td>
+  </tr>
+</tbody>
+</table>
