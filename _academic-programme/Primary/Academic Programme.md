@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Primary
 ---
 
-  
-  
-    <a href="/programmes/primary/academic-programme/physical-education/">
-<img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a>
 
 
 
@@ -66,17 +62,14 @@ third_nav_title: Primary
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/music/"><center><h4>Music<br><br>音乐</h4></center></a></td>
   </tr>
  <tr>
-    <td class="tg-0lax"><a href="/programmes/secondary/academic-programme/computing/">
-<img src="/images/computer-science_v1.png" alt="computing" width="272" height="153"></a></td>
+    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
+<img src="/images/physical%20education.jpeg" alt="PE" width="272" height="153"></a></td>
 		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/design-and-technology/">
 <img src="/images/d&amp;t_v1.png" alt="dnt" width="272" height="153"></a></td>
-		<td class="tg-0lax"><a href="/programmes/secondary/academic-programme/music/">
-<img src="/images/music_v1.png" alt="music" width="272" height="153"></a></td>
 </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/computing/"><center><h4>Computing<br><br>电脑科技学</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h3>Physical Education<br>体育</h3></center></a></td>
 		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>Design and Technology<br><br>工艺学</h4></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/music/"><center><h4>Music<br><br>音乐</h4></center></a></td>
   </tr>
 </tbody>
 </table>
