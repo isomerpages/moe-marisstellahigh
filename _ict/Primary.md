@@ -39,4 +39,3 @@ Marists have performed well in the following competitions:
     
 
 *   3D Hive – Champion
-
