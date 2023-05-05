@@ -149,8 +149,7 @@ Other than participation in school-wide activities which aim to deepen the under
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">4 May, 11am –</span></p><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
-  yellow;mso-highlight:yellow">31 </span><span style="mso-bidi-font-size:16.0pt;
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">31 </span><span style="mso-bidi-font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif">May 2023, 3pm</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -158,27 +157,24 @@ Other than participation in school-wide activities which aim to deepen the under
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">Submission of online DSA Application Form</span></p></td></tr><tr style="mso-yfti-irow:2;height:28.65pt"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt;height:28.65pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By 30<span style="background:yellow;mso-highlight:yellow"> June 202</span>3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By 30 June 2023</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt;height:28.65pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">School to send e-mail notification to shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">.</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
-  yellow;mso-highlight:yellow">26 June – <span style="mso-spacerun:yes">&nbsp;</span>25 August 202</span><span style="mso-bidi-font-size:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">26 June – <span style="mso-spacerun:yes">&nbsp;</span>25 August 202</span><span style="mso-bidi-font-size:
   16.0pt;font-family:&quot;Arial&quot;,sans-serif">3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
-  yellow;mso-highlight:yellow">In-person selection exercise for shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif;background:yellow;mso-highlight:yellow">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">In-person selection exercise for shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
   yellow;mso-highlight:yellow">.</span><span style="mso-bidi-font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
-  yellow;mso-highlight:yellow">By 11 September 202</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By 11 September 202</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-top:0mm;margin-right:-7.45pt;margin-bottom:
