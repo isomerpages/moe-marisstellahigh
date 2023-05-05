@@ -6,26 +6,97 @@ third_nav_title: Primary
 ---
 ### Primary 1
 
-| Class      | Name                                     |
-|------------|------------------------------------------|
-| 1 Aloysius | Harsharenpal Kaur d/o Kuldip Singh (Mdm) |
-| 1 Aloysius | Zhang Miao (Mr)                          |
-| 1 Benedict | May San Priscilla Yam (Mdm)              |
-| 1 Benedict | Goh Mei Hui (Mdm)                        |
-| 1 Charles  | Yeo Szu San (Ms)                         |
-| 1 Charles  | Pereira Erica Stella (Ms)                |
-| 1 Dominic  | Xie Meng (Mdm)                           |
-| 1 Dominic  | Nurmayah Bte Mohamed Isa (Mdm)           |
-| 1 Edward   | Joanne Lee (Mrs)                         |
-| 1 Edward   | Ong Bee Kian (Mdm)                       |
-| 1 Francis  | Toh-Lai Wei Xuan (Mrs)                   |
-| 1 Francis  | Chng Geena (Mdm)                         |
-| 1 Gabriel  | Ng Chui Nee (Ms)                         |
-| 1 Gabriel  | Seow Mei Ying Madeline (Mrs)             |
-| 1 Henry    | Seah Yu Jie (Ms)                         |
-| 1 Henry    | Teoh Yian Pin (Ms)                       |
-| 1 Ignatius | Hernidiana Mansor (Mdm)                  |
-| 1 Ignatius | Zhang Huiyun (Ms)                        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sc4m{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-sc4m"><span style="color:#323232">Class</span></th>
+    <th style="width: 50%" class="tg-sc4m"><span style="color:#323232">Name</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Aloysius</td>
+    <td style="width: 50%" class="tg-06je">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Aloysius</td>
+    <td style="width: 50%" class="tg-06je">Zhang Miao (Mr)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Benedict</td>
+    <td style="width: 50%" class="tg-06je">May San Priscilla Yam (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Benedict</td>
+    <td style="width: 50%" class="tg-06je">Goh Mei Hui (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Charles</td>
+    <td style="width: 50%" class="tg-06je">Yeo Szu San (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Charles</td>
+    <td style="width: 50%" class="tg-06je">Pereira Erica Stella (Ms)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je"> style="width: 50%"1 Dominic</td>
+    <td style="width: 50%" class="tg-06je">Xie Meng (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Dominic</td>
+    <td style="width: 50%" class="tg-06je">Nurmayah Bte Mohamed Isa (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Edward</td>
+    <td style="width: 50%" class="tg-06je">Joanne Lee (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Edward</td>
+    <td style="width: 50%" class="tg-06je">Ong Bee Kian (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Francis</td>
+    <td style="width: 50%" class="tg-06je">Toh-Lai Wei Xuan (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Francis</td>
+    <td style="width: 50%" class="tg-06je">Chng Geena (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Gabriel</td>
+    <td style="width: 50%" class="tg-06je">Ng Chui Nee (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Gabriel</td>
+    <td style="width: 50%" class="tg-06je">Seow Mei Ying Madeline (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Henry</td>
+    <td style="width: 50%" class="tg-06je">Seah Yu Jie (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Henry</td>
+    <td style="width: 50%" class="tg-06je">Teoh Yian Pin (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Ignatius</td>
+    <td style="width: 50%" class="tg-06je">Hernidiana Mansor (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-06je">1 Ignatius</td>
+    <td style="width: 50%" class="tg-06je">Zhang Huiyun (Ms)</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Primary 2
@@ -127,3 +198,4 @@ third_nav_title: Primary
 | 6 Francis  | Wee Chun Tor Laverne (Mdm)        |
 | 6 Gabriel  | Lee Chia Wei Alvin (Mr)           |
 | 6 Gabriel  | Noradlina Bte Mohamed (Ms)        |
+
