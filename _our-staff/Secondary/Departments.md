@@ -678,29 +678,38 @@ third_nav_title: Secondary
 
 ### ALLIED EDUCATORS
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Chan Shen Tzy Lionel (Mr)</td>
-    <td>Senior School Counsellor</td>
+    <td style="width: 50%" class="tg-0lax">Chan Shen Tzy Lionel (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
   </tr>
   <tr>
-    <td>Benjamin Png (Mr)</td>
-    <td>ECG Counsellor</td>
+    <td style="width: 50%" class="tg-0lax">Benjamin Png (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ECG Counsellor</td>
   </tr>
   <tr>
-    <td>Lee Shang Xuan (Mr)</td>
-    <td>Allied Educator / LBS</td>
+    <td style="width: 50%" class="tg-0lax">Lee Shang Xuan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Allied Educator / LBS</td>
   </tr>
   <tr>
-    <td>Lim Pei Ying (Mdm)</td>
-    <td>Allied Educator / Science</td>
+    <td style="width: 50%" class="tg-0lax">Lim Pei Ying (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
   </tr>
 </tbody>
 </table>
