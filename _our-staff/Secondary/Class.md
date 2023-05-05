@@ -16,7 +16,7 @@ third_nav_title: Secondary
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
     <th class="tg-clhh"><span style="color:#222;background-color:transparent">Class</span></th>
@@ -25,76 +25,76 @@ third_nav_title: Secondary
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Aloysius</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Hui Min Germaine (Ms)  </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Aloysius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Hui Min Germaine (Ms)  </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Aloysius</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Yee Tai Yen, Terrance (Mr)</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Aloysius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Yee Tai Yen, Terrance (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Benedict </span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Ngo Mei Zhi Mabel (Ms)</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Benedict </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Ngo Mei Zhi Mabel (Ms)</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Benedict</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Ye Wenhui (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Benedict</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Ye Wenhui (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Ling Mandy (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Ling Mandy (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
-    <td class="tg-tsok">Han Lee Kwang (Mr) </td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
+    <td style="width: 50%" class="tg-tsok">Han Lee Kwang (Mr) </td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Yoon Chee May (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Yoon Chee May (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Nicholas Ong (Mr)</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Nicholas Ong (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Edward</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Hwee Fang Vanessa (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Edward</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Hwee Fang Vanessa (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Edward</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Wong Yuyi Jeremy (Mr)</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Edward</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Wong Yuyi Jeremy (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Francis</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Ching Sing (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Francis</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Ching Sing (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Francis</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Amrit Singh Gill (Mr) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Francis</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Amrit Singh Gill (Mr) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Gabriel</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Neo Lay Teng Windran (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Gabriel</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Neo Lay Teng Windran (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Gabriel</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Dominic Varella (Mr)  </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Gabriel</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Dominic Varella (Mr)  </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Henry</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Kok Li (Mr) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Henry</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Kok Li (Mr) </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Henry</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Kok Wah (Mr)</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Henry</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Kok Wah (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Ignatius</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Teo Wei Min Stephanie (Ms)  </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Ignatius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Teo Wei Min Stephanie (Ms)  </span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Ignatius</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:transparent">Dawn Ng Li Li (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Ignatius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Dawn Ng Li Li (Ms) </span></td>
   </tr>
 </tbody>
 </table>
