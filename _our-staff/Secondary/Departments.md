@@ -14,7 +14,7 @@ third_nav_title: Secondary
 | Lee Ko Yong (Mr)    | Vice-Principal (Admin)  |
 
 ### KEY PERSONNEL
-
+		
 | Name                          | Designation                                   |
 |-------------------------------|-----------------------------------------------|
 | Sylvia Roche (Mrs)            | Year Head                                     |
@@ -203,9 +203,47 @@ third_nav_title: Secondary
 | Ico Glen (Mr)          | ICT Trainer      |
 
 ****
-
+		
 ### SCHOOL LEADERS
 
+		
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e3ki{border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-e3ki"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-e3ki"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0pky">Boy Eng Seng (Mr)</td>
+    <td style="width: 50%" class="tg-0pky">Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0pky">Tan Ching Huat (Mr)</td>
+    <td style="width: 50%" class="tg-0pky">Vice-Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Pan Jingliu (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Lee Ko Yong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal (Admin)</td>
+  </tr>
+</tbody>
+</table>
+		
 <table>
 <thead>
   <tr>
@@ -908,5 +946,3 @@ third_nav_title: Secondary
   </tr>
 </tbody>
 </table>
-
-
