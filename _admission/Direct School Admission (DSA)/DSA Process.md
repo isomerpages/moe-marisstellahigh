@@ -169,8 +169,7 @@ Other than participation in school-wide activities which aim to deepen the under
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">In-person selection exercise for shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
-  yellow;mso-highlight:yellow">.</span><span style="mso-bidi-font-size:16.0pt;
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">In-person selection exercise for shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">.</span><span style="mso-bidi-font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
