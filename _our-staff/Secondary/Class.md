@@ -111,77 +111,77 @@ third_nav_title: Secondary
 .tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Class</span></th>
+    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Sheng Zhi (Mr) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Sheng Zhi (Mr) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Pei Ying (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Pei Ying (Ms)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Benedict</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Dongmei (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Benedict</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Dongmei (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Benedict </span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jasmine Yeo (Mrs)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Benedict </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Jasmine Yeo (Mrs)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Charles</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sim Mei Lin Diana (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Charles</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Sim Mei Lin Diana (Ms)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Charles</span></td>
-    <td class="tg-brl1">Quek Ke Li (Ms) </td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Charles</span></td>
+    <td style="width: 50%" class="tg-brl1">Quek Ke Li (Ms) </td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Dominic</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Phang Szie Voon (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Dominic</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Phang Szie Voon (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Edward</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heng Seng How (Mr) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Edward</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Heng Seng How (Mr) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Francis</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Cher Tat (Mr)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Francis</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Cher Tat (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Francis</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Risliana Mohd Idris Moey (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Francis</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Risliana Mohd Idris Moey (Ms)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Gabriel</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Toh Wern-Ai Chloe (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Gabriel</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Toh Wern-Ai Chloe (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Gabriel </span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ho Wei Sin (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Gabriel </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Ho Wei Sin (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Henry</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mohamed Fairoz Nordin (Mr)</span> <span style="color:#222;background-color:transparent"> </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Henry</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Mohamed Fairoz Nordin (Mr)</span> <span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Henry</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Shao Hong (Mr)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Henry</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Shao Hong (Mr)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Ignatius</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Susan Neo-Chew Choo Guek (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Ignatius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Susan Neo-Chew Choo Guek (Ms) </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Ignatius </span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Chin Hong Rebecca (Ms)</span><br></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Ignatius </span><br></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Chin Hong Rebecca (Ms)</span><br></td>
   </tr>
 </tbody>
 </table>
