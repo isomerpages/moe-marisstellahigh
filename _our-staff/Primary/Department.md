@@ -350,24 +350,89 @@ third_nav_title: Primary
 
 ### MATHEMATICS
 
-| Name                              | Designation       |
-|-----------------------------------|-------------------|
-| Yew Su Fong (Mdm)                 | HOD / Mathematics |
-| Tan-Chua Lee Hwee Linda (Mrs)     | ST / Mathematics  |
-| Chu Qiu Ling Charlene (Mdm)       | Teacher           |
-| Fatmah Haider Bageshe Siti (Mdm)  | Teacher           |
-| Foo Tuck Heng (Mr)                | Teacher           |
-| Hernidiana Mansor (Mdm)           | Teacher           |
-| Jan Teo Min                       | Teacher           |
-| Koh Ee Beng (Mr)                  | Teacher           |
-| Lek Kah Han Brandon (Mr)          | Teacher           |
-| Lim Yi Min Yvonne (Ms)            | Teacher           |
-| Nurmayah Bte Mohamed Isa (Mdm)    | Teacher           |
-| Reuben Dominic Phay (Mr)          | Teacher           |
-| Sim-Phang Shin Chee Melinda (Mrs) | Teacher           |
-| Teo-Lim Bee Hong Pauline (Mrs)    | Teacher           |
-| Toh-Lai Wei Xuan (Mrs)            | Teacher           |
-| Yeo Szu San (Ms)                  | Teacher           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Yew Su Fong (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan-Chua Lee Hwee Linda (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Fatmah Haider Bageshe Siti (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Foo Tuck Heng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Jan Teo Min</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Lek Kah Han Brandon (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Lim Yi Min Yvonne (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Nurmayah Bte Mohamed Isa (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Reuben Dominic Phay (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Sim-Phang Shin Chee Melinda (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Teo-Lim Bee Hong Pauline (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Toh-Lai Wei Xuan (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Yeo Szu San (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+</tbody>
+</table>
 
 ### SCIENCE
 
