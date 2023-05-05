@@ -6,12 +6,41 @@ third_nav_title: Primary
 ---
 ### SCHOOL LEADERS
 
-| Name | Designation |
-|---|---|
-| Boy Eng Seng (Mr) | Principal |
-| Benedict Lim (Mr) | Vice-Principal |
-| Choo-Lim Qing Yi (Mrs) | Vice-Principal |
-| Lee Ko Yong (Mr) | Vice-Principal (Admin) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Boy Eng Seng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Benedict Lim (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Choo-Lim Qing Yi (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Lee Ko Yong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal (Admin)</td>
+  </tr>
+</tbody>
+</table>
 
 ### KEY PERSONNEL
 
