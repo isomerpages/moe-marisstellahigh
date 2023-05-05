@@ -243,6 +243,122 @@ third_nav_title: Secondary
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Goy Wee Peng Edmund (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">HOD/ English Language</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Thong Wee Sin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Ong Siok Lee (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Science</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Kamaludin B Bahadin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Humanities</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Suresh s/o Sivakadacham (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / PE &amp; Aesthetics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Koh Yew Kiat (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Foo Chin Wei (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Florence Lim Jie Ru (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD/ SAP</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Student Management &amp; Talent Development</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Lin Chuan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Jeremy Fernandez (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head (Covering)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Literature</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Sui Lei (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Chinese Language</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Ye Wenhui (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH/ Mathematics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Chia Kian Boon Edwin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Physics</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / PE</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / CCE</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
+    <td style="width: 50%" class="tg-0lax">SH/ Student Well-Being</td>
+  </tr>
+</tbody>
+</table>
 		
 <table>
 <thead>
