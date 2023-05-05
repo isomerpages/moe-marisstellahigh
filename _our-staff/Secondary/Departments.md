@@ -514,147 +514,164 @@ third_nav_title: Secondary
 
 ### HUMANITIES
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Kamaludin B Bahadin (Mr)</td>
-    <td>HOD / Humanities</td>
+    <td style="width: 50%" class="tg-0lax">Kamaludin B Bahadin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Humanities</td>
   </tr>
   <tr>
-    <td>Goy Wee Peng Edmund (Mr)</td>
-    <td>School Staff Developer (SSD)</td>
+    <td style="width: 50%" class="tg-0lax">Goy Wee Peng Edmund (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
   </tr>
   <tr>
-    <td>Seah Ching San, Paul (Mr)</td>
-    <td>HOD / Student Management &amp; Talent Development</td>
+    <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Student Management &amp; Talent Development</td>
   </tr>
   <tr>
-    <td>Tan Xian Jing (Mr)</td>
-    <td>SH / CCE</td>
+    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / CCE</td>
   </tr>
   <tr>
-    <td>Jeremy Wong Yuyi</td>
-    <td>SH/ Student Well-Being</td>
+    <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
+    <td style="width: 50%" class="tg-0lax">SH/ Student Well-Being</td>
   </tr>
   <tr>
-    <td>Wong Xiu Yan (Ms)</td>
-    <td>ST / Social Studies</td>
+    <td style="width: 50%" class="tg-0lax">Wong Xiu Yan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Social Studies</td>
   </tr>
   <tr>
-    <td>Chia-Ming Ying Terence Ryan (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Chia-Ming Ying Terence Ryan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Mohamed Fairoz Bin Nordin (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Mohamed Fairoz Bin Nordin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Shantini d/o Karunagaran (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Shantini d/o Karunagaran (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Kok Wah (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Kok Wah (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Mei Ling Mandy (Mrs)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Mei Ling Mandy (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Siew Yean (Ms)</td>
-    <td>Teacher</td>
+    <td class="tg-0lax">Tan Siew Yean (Ms)</td>
+    <td class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Xie Zhi Hao (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Xie Zhi Hao (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
 </table>
 
 ### PE, AESTHETICS AND ICT
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Suresh s/o Sivakadacham (Mr)</td>
-    <td>HOD / PE &amp; AES</td>
+    <td style="width: 50%" class="tg-0lax">Suresh s/o Sivakadacham (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / PE &amp; AES</td>
   </tr>
   <tr>
-    <td>Low Hwang Chee (Mr)</td>
-    <td>HOD / ICT</td>
+    <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
   </tr>
   <tr>
-    <td>Sylvia Roche (Mrs)</td>
-    <td>Year Head</td>
+    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head</td>
   </tr>
   <tr>
-    <td>Chong Shao Hong (Mr)</td>
-    <td>SH / PE</td>
+    <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">SH / PE</td>
   </tr>
   <tr>
-    <td>Tan Lin Chuan (Mr)</td>
-    <td>Assistant Year Head</td>
+    <td class="tg-0lax">Tan Lin Chuan (Mr)</td>
+    <td class="tg-0lax">Assistant Year Head</td>
   </tr>
   <tr>
-    <td>Fernandez Jeremy Joel (Mr)</td>
-    <td>Assistant Year Head</td>
+    <td style="width: 50%" class="tg-0lax">Fernandez Jeremy Joel (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
   </tr>
   <tr>
-    <td>Nicholas Ong (Mr)</td>
-    <td>Assistant Year Head (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head (Covering)</td>
   </tr>
   <tr>
-    <td>Alex Yeo Han Rong (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Alex Yeo Han Rong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Ho Wei Sin (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Ho Wei Sin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Koh Kim Huat Nicholas (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Koh Kim Huat Nicholas (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Lee Hui Min Germaine (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Lee Hui Min Germaine (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Quek Ke Li (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Quek Ke Li (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Risliana Mohd Idris Moey (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Risliana Mohd Idris Moey (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Sim Mei Lin Diana (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Sim Mei Lin Diana (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Poo Hong (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Poo Hong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Yew Meng Daniel (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Yew Meng Daniel (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Toh Wern-Ai Chloe (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Toh Wern-Ai Chloe (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
 </table>
