@@ -282,4 +282,3 @@ Students who are successfully admitted to the school via DSA are expected to hon
   mso-border-alt:solid black .5pt;padding:.65pt 5.75pt 0mm 5.4pt;height:20.55pt"><p class="MsoNormal" style="margin-bottom:0mm"><span style="mso-bidi-font-size:
   11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">https://go.gov.sg/dsa-secschfinder</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-fareast-font-family:DengXian;mso-bidi-font-family:Latha"></span></p></td></tr></tbody></table>
-
