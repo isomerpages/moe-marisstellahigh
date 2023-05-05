@@ -244,6 +244,9 @@ third_nav_title: Secondary
 </tbody>
 </table>
 
+
+### KEY PERSONNEL
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -356,142 +359,6 @@ third_nav_title: Secondary
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
     <td style="width: 50%" class="tg-0lax">SH/ Student Well-Being</td>
-  </tr>
-</tbody>
-</table>
-		
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Boy Eng Seng (Mr)</td>
-    <td>Principal</td>
-  </tr>
-  <tr>
-    <td>Tan Ching Huat (Mr)</td>
-    <td>Vice-Principal</td>
-  </tr>
-  <tr>
-    <td>Pan Jingliu (Mr)</td>
-    <td>Vice-Principal</td>
-  </tr>
-  <tr>
-    <td>Lee Ko Yong (Mr)</td>
-    <td>Vice-Principal (Admin)</td>
-  </tr>
-</tbody>
-</table>
-
-### KEY PERSONNEL
-
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Sylvia Roche (Mrs)</td>
-    <td>Year Head</td>
-  </tr>
-  <tr>
-    <td>Goy Wee Peng Edmund (Mr)</td>
-    <td>School Staff Developer (SSD)</td>
-  </tr>
-  <tr>
-    <td>Sim Ai Ping, Shirley (Mrs)</td>
-    <td>HOD/ English Language</td>
-  </tr>
-  <tr>
-    <td>Thong Wee Sin (Mr)</td>
-    <td>HOD / Chinese Language</td>
-  </tr>
-  <tr>
-    <td>Khong Siew Chin, Jillian (Ms)</td>
-    <td>HOD / Mathematics</td>
-  </tr>
-  <tr>
-    <td>Ong Siok Lee (Mrs)</td>
-    <td>HOD / Science</td>
-  </tr>
-  <tr>
-    <td>Kamaludin B Bahadin (Mr)</td>
-    <td>HOD / Humanities</td>
-  </tr>
-  <tr>
-    <td>Suresh s/o Sivakadacham (Mr)</td>
-    <td>HOD / PE &amp; Aesthetics</td>
-  </tr>
-  <tr>
-    <td>Koh Yew Kiat (Mr)</td>
-    <td>HOD / CCA</td>
-  </tr>
-  <tr>
-    <td>Foo Chin Wei (Mr)</td>
-    <td>HOD / CCE</td>
-  </tr>
-  <tr>
-    <td>Low Hwang Chee (Mr)</td>
-    <td>HOD / ICT</td>
-  </tr>
-  <tr>
-    <td>Florence Lim Jie Ru (Ms)</td>
-    <td>HOD/ SAP</td>
-  </tr>
-  <tr>
-    <td>Seah Ching San, Paul (Mr)</td>
-    <td>HOD / Student Management &amp; Talent Development</td>
-  </tr>
-  <tr>
-    <td>Tan Lin Chuan (Mr)</td>
-    <td>Assistant Year Head</td>
-  </tr>
-  <tr>
-    <td>Jeremy Fernandez (Mr)</td>
-    <td>Assistant Year Head</td>
-  </tr>
-  <tr>
-    <td>Nicholas Ong (Mr)</td>
-    <td>Assistant Year Head (Covering)</td>
-  </tr>
-  <tr>
-    <td>Hannah Lois Ng (Ms)</td>
-    <td>SH/ English Language</td>
-  </tr>
-  <tr>
-    <td>Zheng Kankan (Ms)</td>
-    <td>SH / English Literature</td>
-  </tr>
-  <tr>
-    <td>Sui Lei (Mr)</td>
-    <td>SH / Chinese Language</td>
-  </tr>
-  <tr>
-    <td>Ye Wenhui (Ms)</td>
-    <td>SH/ Mathematics</td>
-  </tr>
-  <tr>
-    <td>Chia Kian Boon Edwin (Mr)</td>
-    <td>SH / Physics</td>
-  </tr>
-  <tr>
-    <td>Chong Shao Hong (Mr)</td>
-    <td>SH / PE</td>
-  </tr>
-  <tr>
-    <td>Tan Xian Jing (Mr)</td>
-    <td>SH / CCE</td>
-  </tr>
-  <tr>
-    <td>Jeremy Wong Yuyi</td>
-    <td>SH/ Student Well-Being</td>
   </tr>
 </tbody>
 </table>
