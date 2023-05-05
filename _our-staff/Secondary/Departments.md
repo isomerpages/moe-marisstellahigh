@@ -164,29 +164,38 @@ third_nav_title: Secondary
 
 ### SENIOR/LEAD TEACHERS
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>June Henry (Mrs)</td>
-    <td>LT / English Literature</td>
+    <td style="width: 50%" class="tg-0lax">June Henry (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">LT / English Literature</td>
   </tr>
   <tr>
-    <td>Lucy Yeo (Ms)</td>
-    <td>ST / Chemistry</td>
+    <td style="width: 50%" class="tg-0lax">Lucy Yeo (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chemistry</td>
   </tr>
   <tr>
-    <td>Wong Xiu Yan (Ms)</td>
-    <td>ST / Social Studies</td>
+    <td style="width: 50%" class="tg-0lax">Wong Xiu Yan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Social Studies</td>
   </tr>
   <tr>
-    <td>Chong Yew Keng Audrey (Mrs)</td>
-    <td>ST / CCE</td>
+    <td style="width: 50%" class="tg-0lax">Chong Yew Keng Audrey (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">ST / CCE</td>
   </tr>
 </tbody>
 </table>
