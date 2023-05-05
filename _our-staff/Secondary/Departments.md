@@ -202,130 +202,74 @@ third_nav_title: Secondary
 
 ### ENGLISH
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Sim Ai Ping, Shirley (Mrs)</td>
-    <td>HOD/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">HOD/ English Language</td>
   </tr>
   <tr>
-    <td>Hannah Lois Ng (Ms)</td>
-    <td>SH/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
   </tr>
   <tr>
-    <td>Zheng Kankan (Ms)</td>
-    <td>SH / English Literature</td>
+    <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Literature</td>
   </tr>
   <tr>
-    <td>June Henry (Mrs)</td>
-    <td>LT / English Literature</td>
+    <td style="width: 50%" class="tg-0lax">June Henry (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">LT / English Literature</td>
   </tr>
   <tr>
-    <td>Chong Yew Keng Audrey (Mrs)</td>
-    <td>ST / CCE</td>
+    <td style="width: 50%" class="tg-0lax">Chong Yew Keng Audrey (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">ST / CCE</td>
   </tr>
   <tr>
-    <td>Amrit Singh Gill (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Amrit Singh Gill (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Goh Hwee Fang Vanessa (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Goh Hwee Fang Vanessa (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Jasmine Yeo (Mrs)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Jasmine Yeo (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Neo Lay Teng Windran (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Si Qian, Priscilla (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Si Qian, Priscilla (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Tan Yen Leng (Ms)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Tan Yen Leng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>V Praveenkumar (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">V Praveenkumar (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td>Yoon Chee May Patricia (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-</tbody>
-</table>
-
-### CHINESE
-
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Thong Wee Sin (Mr)</td>
-    <td>HOD / Chinese Language</td>
-  </tr>
-  <tr>
-    <td>Florence Lim Jie Ru (Ms)</td>
-    <td>HOD / SAP</td>
-  </tr>
-  <tr>
-    <td>Sui Lei (Mr)</td>
-    <td>SH / Chinese Language</td>
-  </tr>
-  <tr>
-    <td>Han Lee Kwang (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Heng Seng How (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Jiang Zhiqiong (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Lin Chunhai (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Liu Dongmei (Mdm)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Ong Cher Tat (Mr)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Phang Szie Voon (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Tan Ching Sing (Ms)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Tan Sai Kee (Mdm)</td>
-    <td>Teacher</td>
-  </tr>
-  <tr>
-    <td>Yee Tai Yen, Terrance (Mr)</td>
-    <td>Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Yoon Chee May Patricia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
 </table>
