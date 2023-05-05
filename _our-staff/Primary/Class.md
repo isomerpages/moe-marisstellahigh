@@ -101,44 +101,171 @@ third_nav_title: Primary
 
 ### Primary 2
 
-| Class      | Name                                  |
-|------------|---------------------------------------|
-| 2 Aloysius | Lau Hui Wen (Ms)                      |
-| 2 Aloysius | Jolene Tan Jie En (Ms)                |
-| 2 Benedict | Siti Muliyanti Binte Ab Rahman (Miss) |
-| 2 Benedict | Toh Peng Peng (Ms)                    |
-| 2 Charles  | June Sim Ming Yin (Ms)                |
-| 2 Charles  | Ng Jingge Jeanne (Mdm)                |
-| 2 Dominic  | Sim-Phang Shin Chee Melinda (Mrs)     |
-| 2 Dominic  | Chew Kim Moi (Mdm)                    |
-| 2 Edward   | Ong-Ng Jia Wen (Mrs)                  |
-| 2 Edward   | Ang Hui Zhen Charmaine (Ms)           |
-| 2 Francis  | Tan Oon Hang (Mdm)                    |
-| 2 Gabriel  | Tong Hwee Kwan (Ms)                   |
-| 2 Gabriel  | Ang-Teo Sai Hiang Helen (Mrs)         |
-| 2 Henry    | Lau Nguen Kee (Ms)                    |
-| 2 Henry    | Boon Swee Cho Alethea (Mrs)           |
-| 2 Ignatius | Ng Mei Xian Angelia (Ms)              |
-| 2 Ignatius | Teo-Lim Bee Hong Pauline (Mrs)        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Class</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Aloysius</td>
+    <td style="width: 50%" class="tg-0lax">Lau Hui Wen (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Aloysius</td>
+    <td style="width: 50%" class="tg-0lax">Jolene Tan Jie En (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Benedict</td>
+    <td style="width: 50%" class="tg-0lax">Siti Muliyanti Binte Ab Rahman (Miss)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Benedict</td>
+    <td style="width: 50%" class="tg-0lax">Toh Peng Peng (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Charles</td>
+    <td style="width: 50%" class="tg-0lax">June Sim Ming Yin (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Charles</td>
+    <td style="width: 50%" class="tg-0lax">Ng Jingge Jeanne (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Dominic</td>
+    <td style="width: 50%" class="tg-0lax">Sim-Phang Shin Chee Melinda (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Dominic</td>
+    <td style="width: 50%" class="tg-0lax">Chew Kim Moi (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Edward</td>
+    <td style="width: 50%" class="tg-0lax">Ong-Ng Jia Wen (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Edward</td>
+    <td style="width: 50%" class="tg-0lax">Ang Hui Zhen Charmaine (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Francis</td>
+    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
+    <td style="width: 50%" class="tg-0lax">Tong Hwee Kwan (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
+    <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Henry</td>
+    <td style="width: 50%" class="tg-0lax">Lau Nguen Kee (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Henry</td>
+    <td style="width: 50%" class="tg-0lax">Boon Swee Cho Alethea (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Ignatius</td>
+    <td style="width: 50%" class="tg-0lax">Ng Mei Xian Angelia (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Ignatius</td>
+    <td style="width: 50%" class="tg-0lax">Teo-Lim Bee Hong Pauline (Mrs)</td>
+  </tr>
+</tbody>
+</table>
 
 ### Primary 3
 
-| Class      | Name                         |
-|------------|------------------------------|
-| 3 Aloysius | Leong Mei Lian Jacelyn (Mdm) |
-| 3 Aloysius | Tan Poh Kian (Ms)            |
-| 3 Benedict | Chu Qiu Ling Charlene (Mdm)  |
-| 3 Benedict | Tan Lee Keng Michelle (Ms)   |
-| 3 Charles  | Lee Xiu Mei Gracia (Ms)      |
-| 3 Charles  | Chow Ying Xuan Grace (Ms)    |
-| 3 Dominic  | Yap Kevin (Mr)               |
-| 3 Dominic  | Low Sear Weeh (Mrs)          |
-| 3 Edward   | Foo Tuck Heng (Mr)           |
-| 3 Edward   | Ow Yong Choo Ee Joel (Mr)    |
-| 3 Francis  | Lye Jia Yi Adeline (Ms)      |
-| 3 Francis  | Lin Yi Jen (Mdm)             |
-| 3 Gabriel  | Tan Hui Ling Gwendolyn (Ms)  |
-| 3 Gabriel  | Zhu Ruo Ye (Mdm)             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Class</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
+    <td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
+    <td style="width: 50%" class="tg-0lax">Tan Poh Kian (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Benedict</td>
+    <td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Benedict</td>
+    <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Charles</td>
+    <td style="width: 50%" class="tg-0lax">Lee Xiu Mei Gracia (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Charles</td>
+    <td style="width: 50%" class="tg-0lax">Chow Ying Xuan Grace (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Dominic</td>
+    <td style="width: 50%" class="tg-0lax">Yap Kevin (Mr)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Dominic</td>
+    <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Edward</td>
+    <td style="width: 50%" class="tg-0lax">Foo Tuck Heng (Mr)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Edward</td>
+    <td style="width: 50%" class="tg-0lax">Ow Yong Choo Ee Joel (Mr)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Francis</td>
+    <td style="width: 50%" class="tg-0lax">Lye Jia Yi Adeline (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Francis</td>
+    <td style="width: 50%" class="tg-0lax">Lin Yi Jen (Mdm)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Gabriel</td>
+    <td style="width: 50%" class="tg-0lax">Tan Hui Ling Gwendolyn (Ms)</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">3 Gabriel</td>
+    <td style="width: 50%" class="tg-0lax">Zhu Ruo Ye (Mdm)</td>
+  </tr>
+</tbody>
+</table>
 
 ### Primary 4
 
@@ -198,4 +325,3 @@ third_nav_title: Primary
 | 6 Francis  | Wee Chun Tor Laverne (Mdm)        |
 | 6 Gabriel  | Lee Chia Wei Alvin (Mr)           |
 | 6 Gabriel  | Noradlina Bte Mohamed (Ms)        |
-
