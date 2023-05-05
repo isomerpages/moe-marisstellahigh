@@ -12,25 +12,25 @@ third_nav_title: Secondary
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e3ki{border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-sc4m{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th style="width: 50%" class="tg-e3ki"><span style="color:#323232">Name</span></th>
-    <th style="width: 50%" class="tg-e3ki"><span style="color:#323232">Designation</span></th>
+    <th class="tg-sc4m"><span style="font-weight:inherit;font-style:inherit;color:#323232">Name</span></th>
+    <th class="tg-sc4m"><span style="font-weight:inherit;font-style:inherit;color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="width: 50%" class="tg-0pky">Boy Eng Seng (Mr)</td>
-    <td style="width: 50%" class="tg-0pky">Principal</td>
+    <td style="width: 50%" class="tg-06je">Boy Eng Seng (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Principal</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0pky">Tan Ching Huat (Mr)</td>
-    <td style="width: 50%" class="tg-0pky">Vice-Principal</td>
+    <td style="width: 50%" class="tg-06je">Tan Ching Huat (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Vice-Principal</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Pan Jingliu (Mr)</td>
@@ -42,7 +42,6 @@ third_nav_title: Secondary
   </tr>
 </tbody>
 </table>
-
 
 ### KEY PERSONNEL
 
