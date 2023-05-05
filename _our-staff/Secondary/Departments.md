@@ -716,86 +716,104 @@ third_nav_title: Secondary
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ang Lye Kim (Ms)</td>
-    <td>Admin Manager</td>
+    <td style="width: 50%" class="tg-0lax">Ang Lye Kim (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Admin Manager</td>
   </tr>
   <tr>
-    <td>Kelvinder Singh Jagal (Mr)</td>
-    <td>Admin Manager</td>
+    <td style="width: 50%" class="tg-0lax">Kelvinder Singh Jagal (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Admin Manager</td>
   </tr>
   <tr>
-    <td>Tham Chee Chung Andrew (Mr)</td>
-    <td>Operations Manager</td>
+    <td style="width: 50%" class="tg-0lax">Tham Chee Chung Andrew (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Operations Manager</td>
   </tr>
   <tr>
-    <td>Eu Siew Lian (Mdm)</td>
-    <td>Technical Support Officer / AVA</td>
+    <td style="width: 50%" class="tg-0lax">Eu Siew Lian (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Technical Support Officer / AVA</td>
   </tr>
   <tr>
-    <td>Mak Yeow Nam (Mr)</td>
-    <td>Technical Support Officer / D&amp;T</td>
+    <td style="width: 50%" class="tg-0lax">Mak Yeow Nam (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Technical Support Officer / D&amp;T</td>
   </tr>
   <tr>
-    <td>Ng Shi Jin (Mr)</td>
-    <td>Technical Support Officer / Lab</td>
+    <td style="width: 50%" class="tg-0lax">Ng Shi Jin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Technical Support Officer / Lab</td>
   </tr>
   <tr>
-    <td>Nurhidayati Binte Supri (Ms)</td>
-    <td>Technical Support Officer / Lab</td>
+    <td style="width: 50%" class="tg-0lax">Nurhidayati Binte Supri (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Technical Support Officer / Lab</td>
   </tr>
   <tr>
-    <td>Png Chui Peng Lydia (Mdm)</td>
-    <td>Corporate Support Officer</td>
+    <td style="width: 50%" class="tg-0lax">Png Chui Peng Lydia (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td>Siti Nur Atikah Ishak (Ms)</td>
-    <td>Corporate Support Officer</td>
+    <td style="width: 50%" class="tg-0lax">Siti Nur Atikah Ishak (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td>Tham Lai Tong Geraldine (Ms)</td>
-    <td>Corporate Support Officer</td>
+    <td style="width: 50%" class="tg-0lax">Tham Lai Tong Geraldine (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td>Wan Buck Ching Julia (Ms)</td>
-    <td>Corporate Support Officer</td>
+    <td style="width: 50%" class="tg-0lax">Wan Buck Ching Julia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Corporate Support Officer</td>
   </tr>
 </tbody>
 </table>
 
 ### ICT STAFF
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x4dz{color:#484848;text-align:left;vertical-align:top}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th>Name</th>
-    <th>Designation</th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Wong Teck Shim (Mr)</td>
-    <td>ICT Manager</td>
+    <td style="width: 50%" class="tg-x4dz">Wong Teck Shim (Mr)</td>
+    <td style="width: 50%" class="tg-x4dz">ICT Manager</td>
   </tr>
   <tr>
-    <td>Nasharuddin Yusof (Mr)</td>
-    <td>Desktop Engineer</td>
+    <td style="width: 50%" class="tg-x4dz">Nasharuddin Yusof (Mr)</td>
+    <td style="width: 50%" class="tg-x4dz">Desktop Engineer</td>
   </tr>
   <tr>
-    <td>Samaala Sukhmaran (Ms)</td>
-    <td>Desktop Engineer</td>
+    <td style="width: 50%" class="tg-x4dz">Samaala Sukhmaran (Ms)</td>
+    <td style="width: 50%" class="tg-x4dz">Desktop Engineer</td>
   </tr>
   <tr>
-    <td>Ico Glen (Mr)</td>
-    <td>ICT Trainer</td>
+    <td style="width: 50%" class="tg-x4dz">Ico Glen (Mr)</td>
+    <td style="width: 50%" class="tg-x4dz">ICT Trainer</td>
   </tr>
 </tbody>
 </table>
