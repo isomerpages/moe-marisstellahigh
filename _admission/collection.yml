@@ -1,0 +1,18 @@
+collections:
+  admission:
+    output: true
+    order:
+      - Admission (Primary)/.keep
+      - Admission (Primary)/Primary 1 Admission.md
+      - Admission (Primary)/Waitlist Application.md
+      - Admission (Secondary)/.keep
+      - Admission (Secondary)/2023 Sec 1 Zoom Webinar and E Registration.md
+      - Admission (Secondary)/2023 Secondary 1 Appeal.md
+      - Admission (Secondary)/Textbooks and Uniform.md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Welcome.md
+      - Direct School Admission (DSA)/MSHS Experience.md
+      - Direct School Admission (DSA)/School Achievements.md
+      - Direct School Admission (DSA)/DSA Process.md
+      - Direct School Admission (DSA)/FAQs.md
+      - FAQs (Secondary).md

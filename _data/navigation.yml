@@ -1,15 +1,65 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About MSHS
+    url: /about-mshs/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-mshs/principals-message
+      - title: Saint Marcellin Champagnat
+        url: /about-mshs/saint-marcellin-champagnat
+      - title: School History
+        url: /about-mshs/school-history
+      - title: Vision,Mission,Motto & Values
+        url: /about-mshs/vision-mission-motto-and-values
+      - title: School Crest, Song And Creed
+        url: /about-mshs/school-crest-school-song-and-creed
+      - title: School Management Committee
+        url: /about-mshs/school-management-committee
+      - title: School Achievements
+        url: /about-mshs/primary/school-achievements/2022/
+      - title: Our Staff
+        url: /about-mshs/primary/our-staff/class/
+      - title: Our Partners
+        url: /about-mshs/our-partners
+      - title: Contact Us
+        url: /about-mshs/contact-us
+  - title: Learning
+    url: /programmes/primary/academic-programme
+    sublinks:
+      - title: Academic Programme
+        url: /programmes/primary/academic-programme
+  - title: School Happenings
+    url: /school-happenings/primary/news/
+    sublinks:
+      - title: News
+        url: /school-happenings/primary/news/
+      - title: Announcements
+        url: /school-happenings/primary/announcements/
+      - title: Bicultural Programme
+        url: /programmes/primary/bicultural-programme/
+      - title: Faith Formation
+        url: /programmes/primary/faith-formation/
+      - title: CCE
+        url: /programmes/primary/cce/the-marcellin-way/
+      - title: CCA
+        url: /programmes/primary/cca/
+      - title: ICT
+        url: /programmes/primary/ict/
+  - title: Useful Links
+    url: /useful-links-and-info/primary/for-students/
+    sublinks:
+      - title: For Students
+        url: /useful-links-and-info/primary/for-students/
+      - title: For Staff
+        url: /useful-links-and-info/primary/for-staff/
+      - title: For Parents
+        url: /useful-links-and-info/primary/for-parents/
+  - title: Admission
+    url: /admission/primary/primary-1-admission/
+    sublinks:
+      - title: Admission
+        url: /admission/primary/primary-1-admission/
+      - title: Direct School Admission
+        url: /admission/secondary/direct-school-admission-dsa/dsa-process/
+      - title: FAQs
+        url: /admission/secondary/faqs/
