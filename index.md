@@ -10,7 +10,6 @@ sections:
       background: /images/Homepage GIF.gif
   - infobar:
       title: Latest Happenings
-      description: More information on 2022 GCE O-Level Exam Result Release.
       button: Click Here
       url: /school-happenings/secondary/announcements/
 ---
