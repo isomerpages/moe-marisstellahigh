@@ -191,7 +191,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-**For further enquiries, please email koh\_yew\_kiat@schools.gov.sg.**
+**For further enquiries, please email koh_yew_kiat@schools.gov.sg.**
 
 **Application Deadline**
 
