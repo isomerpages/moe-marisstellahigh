@@ -23,6 +23,4 @@ To achieve the Department’s goals, the following programmes are offered:&nbsp;
 *   Cyber Wellness Ambassadors/ICT Monitors Programme
 *   P5 Code For Fun Programme  
     
-*   Enrichment Workshops  
-      
-    
+*   Enrichment Workshops
