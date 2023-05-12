@@ -21,28 +21,27 @@ third_nav_title: Secondary
 
 *   MSHS 4-year English Language Curriculum - a close alignment of pedagogical practices, assessment practices, and the EL Syllabus 2020 at each level  
     
-*   Reading Programme - integrated in the EL Curriculum with differentiated reading materials  
+*   Lower Secondary Reading Programme - integrated in the EL Curriculum with differentiated reading materials  
     
-*   MSHS 10-Word Story Challenge  
+*   Inter-House Flash Fiction Competition  
     
-*   EL Learning Festival
-*   Lower Secondary Creative Writing Programme&nbsp;
-*   Secondary 1 Poetry Showcase
 *   Upper Secondary Theatre Experience  
+*   A Chapter A Day @MSHS - school-wide morning reading programme
+
     
 
   
 
-**Marists are given the opportunities to participate in the following competitions:**  
+**Marists are given the opportunities to participate in the following programmes and competitions:**  
 
 *   The Queen’s Commonwealth Essay Competition  
     
 *   National Schools Literature Festival  
     
-*   Unity Young Writer's Festival &amp; Competition (UWF) 2019
+*   Unity Young Writers Festival &amp; Competition (UWF)
 *   YMCA Plain English Speaking Awards
-*   Project VOICE Student Workshop
-*   Honorary Mention for original poem in UWF 2019
+*   MOE Creative Arts Programme
+
 
   
 

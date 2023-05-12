@@ -3,32 +3,53 @@ title: Announcements (Secondary)
 permalink: /school-happenings/secondary/announcements/
 description: ""
 ---
-# Announcements (Secondary)
+## Announcements (Secondary)
 
-**RELEASE OF 2022 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS**
+#### School Canteen Advertisement
 
-Dear Class of 2022 Marists,
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Mixed Rice Stall     | 12 June 2023     | Mixed rice dishes. Able to prepare ‘zhi zhar’ style food on demand    |
 
-As shared in the MOE Press Release, the results of the 2022 GCE O-Level examination will be released on Thursday, 12 January 2023, 2pm. **Please report to Shaw Hall in school uniform at 1.45pm** for the briefing and collection of the exam certificates and results. Your parents may accompany you to the school to collect the results on that day.  
+###### Application Procedure
 
-If you are unwell or self-isolating due to being tested positive for COVID-19, you should not return to school to collect your results. You can access your results online via SEAB’s Candidates Portal ([https://myexams.seab.gov.sg](https://myexams.seab.gov.sg/)) on the result release day. The system will be available for the students to access their results from 2.45pm on Thursday, 12 January 2023 to 11.59pm on Thursday, 26 January 2023.  
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-Students who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Monday, 9 January 2023. The guide to access the SEAB result release system is attached below for your reference.  
+[Application Form]()
 
-If you are unable to collect your results in person, you can also appoint a proxy to collect a physical copy of your results on your behalf from the school. Proxies are required to complete the proxy form (see attached) and produce the relevant documents for the school’s verification when collecting the results. You may contact us for assistance if you are unable to appoint a proxy, or if you have not received your system-generated username for SEAB’s Candidates Portal.  
+2\. Attached the following documents together with the application form:
 
-Please feel free to contact your form teachers or our ECG Counsellor, Mr Benjamin Png at email: benjamin\_png\_heng\_ju@schools.gov.sg, for guidance on your education pathways. You may also refer to the following websites to find out more about the range of education and career pathways available:  
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-• MOE’s CourseFinder ([https://www.moe.gov.sg/coursefinder](https://www.moe.gov.sg/coursefinder))<br>
-• MySkillsFuture ([https://go.gov.sg/mysfsec](https://go.gov.sg/mysfsec))
+3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-See you next Thursday!  
-Warm regards,  
-Mr Tan Lin Chuan
-2022 Sec 4 Year Head
+* Address: 25 Mount Vernon Road, S368051
+* Contact No: 6280 3880
+* Email: Kelvinder\_singh\_jagal@schools.gov.sg
+* Contact Person: Mr Kelvinder Singh
 
-Attachments:
+###### How to get there?
 
-1. [Candidates Portal – User Guide for Activation of Account and Viewing of Results](/files/Announcements/Secondary/CP%20User%20Guide%20-%20GCE%20Schools.pdf)
+* Nearest MRT: Bartley MRT (CC12 line) – 10 minutes walking distance
+* Bus number: 28, 93, 129, 158 (Bus Stop Number 62071) - 5 minutes walking distance
 
-2. [2023 JAE Proxy Form.pdf](/files/Announcements/Secondary/2023%20JAE%20Proxy%20Form.pdf)
+###### Interest applicants must meet the following criteria:
+
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Able to provide good service and quality food with prices determined in consultation with the school.
+* Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to maintain high standard of food safety and personal hygiene.
+* Healthy and fit to operate the stall.
+
+###### Applicants should preferably fulfil the following criteria:
+
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Possess catering experience or experience operating in a school environment.
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
+
+* * *
+
+ [\[AK(1\]](#_msoanchor_1)Insert attachment here
