@@ -15,7 +15,7 @@ description: ""
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Form]()
+[Application Form](https://drive.google.com/file/d/1rPlq20YaE9gkbW8nBTc3wbMe4k2mRmBK/view?usp=sharing)
 
 2\. Attached the following documents together with the application form:
 
