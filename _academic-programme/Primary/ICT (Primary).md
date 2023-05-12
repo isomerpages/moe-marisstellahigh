@@ -4,7 +4,6 @@ permalink: /academic-programme/primary/ict-primary/
 description: ""
 third_nav_title: Primary
 ---
-
 <img src="/images/ictprimary-min.jpg" style="width:45%">
 
 The ICT Department aims to:  
@@ -24,20 +23,4 @@ To achieve the Department’s goals, the following programmes are offered:&nbsp;
 *   Cyber Wellness Ambassadors/ICT Monitors Programme
 *   P5 Code For Fun Programme  
     
-*   Enrichment Workshops  
-      
-    
-
-Marists are given the opportunities to participate in the following competitions:
-
-*   2017 National Primary Game Creation Competition (NPGCC)  
-    
-
-  
-
-Marists have performed well in the following competitions:
-
-*   2017 National Primary Game Creation Competition (NPGCC)  
-    
-
-*   3D Hive – Champion
+*   Enrichment Workshops
