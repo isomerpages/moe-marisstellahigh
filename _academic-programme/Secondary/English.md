@@ -27,12 +27,12 @@ third_nav_title: Secondary
     
 *   Upper Secondary Theatre Experience  
 *   A Chapter A Day @MSHS - school-wide morning reading programme
-*   MOE Creative Arts Programme
+
     
 
   
 
-**Marists are given the opportunities to participate in the following competitions:**  
+**Marists are given the opportunities to participate in the following programmes and competitions:**  
 
 *   The Queen’s Commonwealth Essay Competition  
     
@@ -40,6 +40,7 @@ third_nav_title: Secondary
     
 *   Unity Young Writers Festival &amp; Competition (UWF)
 *   YMCA Plain English Speaking Awards
+*   MOE Creative Arts Programme
 
 
   
