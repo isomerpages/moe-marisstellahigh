@@ -11,7 +11,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mixed Rice Stall     | 12 June 2023     | Mixed rice dishes. Able to prepare ‘zhi zhar’ style food on demand    |
 
-###### Application Procedure
+#### Application Procedure
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
@@ -51,5 +51,3 @@ description: ""
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
 
 * * *
-
- [\[AK(1\]](#_msoanchor_1)Insert attachment here
