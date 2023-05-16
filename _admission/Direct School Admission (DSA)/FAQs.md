@@ -9,9 +9,9 @@ third_nav_title: Direct School Admission (DSA)
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What is the minimum AL score for entry into MSHS via DSA?</u>
 
-Answer: We do not set a minimum AL score for DSA. Being a SAP school, we only offer Express Stream. Applicants who wish to enrol via DSA must meet MOE placement criteria for Express Stream under the Achievement Level Scoring System. The AL score for Express Stream is between 4 and 22.
+Answer: We do not set a minimum AL score for DSA. Being a SAP school, we only offer Posting Group 3 course of study. Applicants who wish to enrol via DSA must meet MOE placement criteria for Posting Group 3 under the Achievement Level Scoring System. The AL score for Posting Group 3 is between 4 and 22.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>If a child has accepted the confirmed offer but eventually did not meet the Express cut-off point, can he still be enrolled to MSHS? What happens next?</u>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>If a child has accepted the confirmed offer but eventually did not meet the Posting Group 3 cut-off point, can he still be enrolled to MSHS? What happens next?</u>
 
 Answer: No. For unsuccessful DSA-Sec applicants, their Primary Schools will issue them with S1 Option Form, informing that their DSA-Sec application is unsuccessful when they receive their PSLE result. They will have to submit their school choices to participate in the S1 posting process.
 
@@ -33,14 +33,14 @@ Answer: The selection trial usually consists of an interview and/or performance 
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>How does the academic result affect the outcome?</u>
 
-Answer: As our school only offers Express Stream, the primary school result is used to assess whether the applicant is academically suitable or likely to make it for Express Stream (at least AL score of 22).
+Answer: As our school only offers Posting Group 3 course of study, the primary school result is used to assess whether the applicant is academically suitable or likely to make it for Express Stream (at least AL score of 22).
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What is the AL score cut-off point for this year? Must the applicant meet this cut-off for entry via DSA?</u>
 
-The cut-off point is dependent on the choices of the students applying to MSHS. Hence we do not know the cut-off points for the 2022 batch of P6 students.&nbsp; The PSLE score range of 2021 for affiliated students is 4 (D) - 16, and the range for non-affiliated students is 7(M) -12.  
+The cut-off point is dependent on the choices of the students applying to MSHS. Hence we do not know the cut-off points for the 2023 batch of P6 students.&nbsp; The PSLE score range of 2022 for affiliated students is 8 - 16, and the range for non-affiliated students is 6(M) -14(P).  
   
 
-DSA applicants only need to meet Express Stream AL score for entry to MSHS via DSA.  
+DSA applicants only need to meet Posting Group 3 AL score for entry to MSHS via DSA.  
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is there a DSA class?</u>
 
