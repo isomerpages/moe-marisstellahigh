@@ -699,16 +699,16 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Benjamin Png (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Joanne Tan Pek Gek (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ECG Counsellor</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Shang Xuan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Allied Educator / LBS</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lim Pei Ying (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
+ <tr>
+    <td style="width: 50%" class="tg-0lax">Rachel Soh Yu Ting (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
 </tbody>
 </table>
