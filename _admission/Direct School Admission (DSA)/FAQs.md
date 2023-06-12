@@ -33,7 +33,7 @@ Answer: The selection trial usually consists of an interview and/or performance 
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>How does the academic result affect the outcome?</u>
 
-Answer: As our school only offers Posting Group 3 course of study, the primary school result is used to assess whether the applicant is academically suitable or likely to make it for Express Stream (at least AL score of 22).
+Answer: As our school only offers Posting Group 3 course of study, the primary school result is used to assess whether the applicant is academically suitable or likely to make it for Posting Group 3 (at least AL score of 22).
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What is the AL score cut-off point for this year? Must the applicant meet this cut-off for entry via DSA?</u>
 
