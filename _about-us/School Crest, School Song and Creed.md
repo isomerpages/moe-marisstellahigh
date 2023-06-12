@@ -3,7 +3,6 @@ title: School Crest, School Song and Creed
 permalink: /about-mshs/school-crest-school-song-and-creed/
 description: ""
 ---
-
 <center><b>海星校徽<br>SCHOOL CREST</b></center>	
 
 
@@ -90,13 +89,13 @@ The Church through the ages has accommodated this text to the Coronation of the 
 <table>
 <thead>
   <tr>
-    <th> <center> 我是海星的一份子。</center></th>
+    <th> <center> 我是海星的一份子</center></th>
     <th><center>I am a Marist.</center><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><center>我愿遵循以下的行为准则：</center> </td>
+    <td><center>我愿遵循以下的行为准则:</center> </td>
     <td><center>My conduct is guided by: </center></td>
   </tr>
   <tr>

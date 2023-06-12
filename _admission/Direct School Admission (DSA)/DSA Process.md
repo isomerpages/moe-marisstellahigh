@@ -135,7 +135,7 @@ Other than participation in school-wide activities which aim to deepen the under
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to all shortlisted applicants by **11 September 2023** (Monday), informing them if they have been given a _Confirmed Offer,_ placed on the _Waiting List_ or being _Rejected._
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp; Students given a **_Confirmed Offer_** are guaranteed a place in the school provided they qualify for the **Express course** of study.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp; Students given a **_Confirmed Offer_** are guaranteed a place in the school provided they qualify for the **Posting Group 3** of study.
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="545" style="width:408.75pt;margin-left:29.0pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
