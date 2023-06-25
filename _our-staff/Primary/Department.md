@@ -220,7 +220,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Mathilda Tan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Matilda Tan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
