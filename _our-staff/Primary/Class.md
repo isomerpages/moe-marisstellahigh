@@ -140,7 +140,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Charles</td>
-    <td style="width: 50%" class="tg-0lax">Ng Jingge Jeanne (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Dominic</td>
@@ -161,6 +161,10 @@ third_nav_title: Primary
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Francis</td>
     <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+		</tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Francis</td>
+    <td style="width: 50%" class="tg-0lax">Jan Ng (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
@@ -214,7 +218,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Jan Teo (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
@@ -250,7 +254,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Francis</td>
-    <td style="width: 50%" class="tg-0lax">Lye Jia Yi Adeline (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Michelle Tan (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Francis</td>
