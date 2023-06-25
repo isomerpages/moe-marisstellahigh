@@ -99,6 +99,10 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Foo Chin Wei (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
@@ -111,10 +115,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Student Management &amp; Talent Development</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
-  </tr>
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Lin Chuan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
