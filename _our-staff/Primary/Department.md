@@ -220,7 +220,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Seah Jia Xin Anna (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Mathilda Tan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -229,6 +229,14 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Shi Hui (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Yang JiaHui Colin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Vikineesh (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
@@ -318,7 +326,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Poh Kian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ong Hui Leng Jean (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
