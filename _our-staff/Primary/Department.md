@@ -371,14 +371,14 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Yew Su Fong (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
   </tr>
-  <tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td>
-  </tr>
+  
     <tr><td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
