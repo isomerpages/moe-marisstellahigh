@@ -29,7 +29,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Aloysius</td>
-    <td style="width: 50%" class="tg-06je">Zhang Miao (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Joyce Seow (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Benedict</td>
@@ -124,7 +124,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Jolene Tan Jie En (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Jhee Wei Len (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Benedict</td>
@@ -164,7 +164,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
-    <td style="width: 50%" class="tg-0lax">Tong Hwee Kwan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Chua Kho Shin (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
@@ -214,7 +214,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Tan Poh Kian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Jan Teo (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
@@ -222,11 +222,11 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
-    <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Yang JiaHui Colin (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Charles</td>
-    <td style="width: 50%" class="tg-0lax">Lee Xiu Mei Gracia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ong Hui Leng Jean (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Charles</td>
@@ -300,7 +300,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Benedict</td>
-    <td style="width: 50%" class="tg-0lax">Yen Ling Vivien Goh (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Shane Goh (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Charles</td>
@@ -308,11 +308,11 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Charles</td>
-    <td style="width: 50%" class="tg-0lax">Seah Jia Xin Anna (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Vikineesh (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Chia Puay Hua (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
@@ -338,7 +338,10 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">4 Gabriel</td>
     <td style="width: 50%" class="tg-0lax">Jenna Gan Ting Ann (Ms)</td>
   </tr>
-</tbody>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">4 Gabriel</td>
+    <td style="width: 50%" class="tg-0lax">Jasmine Tye (Ms)</td>
+</tr></tbody>
 </table>
 
 ### Primary 5
@@ -390,7 +393,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Noraisha Hamzah A (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Mathilda Tan (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Edward</td>
@@ -473,7 +476,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td class="tg-06je">6 Dominic</td>
-    <td class="tg-06je">Chiam Ru Qi (Ms)</td>
+    <td class="tg-06je">Amos Tan Lye Yuan (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Dominic</td>
