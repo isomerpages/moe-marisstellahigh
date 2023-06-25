@@ -151,9 +151,14 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / PE</td>
   </tr>
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / CCE</td>
+  </tr>
+		 <tr>
+    <td style="width: 50%" class="tg-0lax">Ho Jia Min (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
@@ -485,6 +490,10 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Shiao Pey (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Lim Xiao Feng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
