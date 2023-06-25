@@ -292,11 +292,11 @@ third_nav_title: Primary
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
+    <td style="width: 50%" class="tg-0lax"> Chong Yan Ching(Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Benedict</td>
@@ -480,11 +480,11 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td class="tg-06je">6 Dominic</td>
-    <td class="tg-06je">Amos Tan Lye Yuan (Mr)</td>
+    <td class="tg-06je">Lim Yi Min Yvonne (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Dominic</td>
-    <td style="width: 50%" class="tg-06je">Lim Yi Min Yvonne (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Amos Tan Lye Yuan (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Edward</td>
