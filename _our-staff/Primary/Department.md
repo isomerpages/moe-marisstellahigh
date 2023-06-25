@@ -570,19 +570,11 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Tan Lye Yuan Amos (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
     <td style="width: 50%" class="tg-0lax">Jasmine Tye (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Siti Zulaiha (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
@@ -669,10 +661,6 @@ third_nav_title: Primary
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Ong Hui Leng Jean (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Chong Yan Ching (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
@@ -786,11 +774,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Mathilda Tan (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Siti Zulaiha (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Matilda Tan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
@@ -943,10 +927,6 @@ third_nav_title: Primary
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Joyce Seow (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Amos Tan Lye Yuan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
