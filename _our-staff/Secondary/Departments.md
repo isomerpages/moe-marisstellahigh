@@ -262,6 +262,9 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
+    <td style="width: 50%" class="tg-0lax">Marcus Goh Tao Zhi (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
@@ -385,11 +388,11 @@ third_nav_title: Secondary
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Yew Kiat (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCA &amp; Student Leadership</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ye Wenhui (Ms)</td>
