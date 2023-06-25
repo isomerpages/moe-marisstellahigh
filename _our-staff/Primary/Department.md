@@ -334,19 +334,11 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tong Hwee Kwan (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">Xie Meng (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zhang Huiyun (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Zhang Miao (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -380,11 +372,14 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tan-Chua Lee Hwee Linda (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td>
+  </tr>
+    <tr><td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -401,10 +396,6 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -470,19 +461,11 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">LH / Science</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Noraisha Hamzah A (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Science</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / Science</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Chia Puay Hua (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -503,6 +486,10 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Yong Ren Cui (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Jhee Wei Len (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -548,15 +535,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Illiyana Mohammad (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">Yap Kevin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ng Jingge Jeanne (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -577,6 +556,14 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Joyce Seow (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Lye Yuan Amos (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
