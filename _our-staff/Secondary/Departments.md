@@ -78,10 +78,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Thong Wee Sin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Siok Lee (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Science</td>
@@ -96,11 +93,15 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Yew Kiat (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCA &amp; Student Leadership</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Foo Chin Wei (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
@@ -114,6 +115,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Student Management &amp; Talent Development</td>
   </tr>
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Lin Chuan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
@@ -150,9 +152,14 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / PE</td>
   </tr>
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / CCE</td>
+  </tr>
+		 <tr>
+    <td style="width: 50%" class="tg-0lax">Ho Jia Min (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
@@ -195,6 +202,10 @@ third_nav_title: Secondary
   <tr>
     <td style="width: 50%" class="tg-0lax">Chong Yew Keng Audrey (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / CCE</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language (Acting)</td>
   </tr>
 </tbody>
 </table>
@@ -251,6 +262,9 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
+    <td style="width: 50%" class="tg-0lax">Marcus Goh Tao Zhi (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
@@ -268,6 +282,10 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Yoon Chee May Patricia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Natasha St Clare Alvar (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
@@ -304,14 +322,19 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Sui Lei (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / Chinese Language</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Ho Jia Min (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language (Acting)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Han Lee Kwang (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Heng Seng How (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Jiang Zhiqiong (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -320,10 +343,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Lin Chunhai (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Cher Tat (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -368,11 +388,11 @@ third_nav_title: Secondary
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Yew Kiat (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCA &amp; Student Leadership</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ye Wenhui (Ms)</td>
@@ -415,7 +435,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Wu Yao Quan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
@@ -474,6 +494,10 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Shiao Pey (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Lim Xiao Feng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -558,20 +582,14 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Chia-Ming Ying Terence Ryan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Mohamed Fairoz Bin Nordin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Shantini d/o Karunagaran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+ 
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Kok Wah (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Mei Ling Mandy (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Tan Mei Lin Mandy (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -632,14 +650,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Assistant Year Head (Covering)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Alex Yeo Han Rong (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ho Wei Sin (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Kim Huat Nicholas (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
