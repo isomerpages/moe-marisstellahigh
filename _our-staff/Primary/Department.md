@@ -959,6 +959,14 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Priscilla Yong (Ms)</td>
     <td style="width: 50%" class="tg-0lax">School Counsellor</td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Wong Ee Sheng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Nurheja (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
