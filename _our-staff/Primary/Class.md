@@ -397,7 +397,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Mathilda Tan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Matilda Tan (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Edward</td>
