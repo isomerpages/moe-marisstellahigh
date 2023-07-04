@@ -165,7 +165,7 @@ The love for sharing of the Catholic faith brought the parents together, and it 
 **<font size="5">MARIST BOOK LAB (MBL)
 </font><a name="MARIST BOOK LAB (MBL)"></a>**
 
-The Marist Book Lab in MSHS (Primary) is a modern, air-conditioned facility using barcode technology for the loan and return of books. There are English and Chinese books in various genres that the boys are encouraged to borrow and read. The PSG Librarian’s primary role is to lend support and assistance to the staff of Teacher Librarians.
+The Marist Book Lab in MSHS (Primary) is a modern, air-conditioned facility using barcode technology for the loan and return of books. There are English and Chinese books in various genres that the boys are encouraged to borrow and read. The PSG’s primary role is to lend support and assistance to the staff or Teacher Librarians.
 
   
 
