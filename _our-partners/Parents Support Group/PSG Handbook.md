@@ -188,18 +188,15 @@ The general duties include the following:&nbsp;
 **<font size="5">MORNING DUTY (MD) &amp; RECESS DUTY (RD)
 </font><a name="MORNING DUTY (MD) &amp; RECESS DUTY (RD)"></a>**
 
-PSG members work in collaboration with the teachers to ensure that the students adhere to orderly behaviour in the morning and during the 2 recesses. Duties will be assigned to the PSG members by the PSG coordinator-in-charge.
-
-  
+PSG members work in collaboration with the teachers to ensure that the students adhere to orderly behaviour in the morning and during the various recesses. Duties will be assigned to the PSG members by the PSG coordinator-in-charge.
 
 **Morning Duty &amp; Recess Duty PSG Guidelines:**&nbsp; &nbsp; &nbsp;
 
 <u>Morning Duty</u>  
 
-*   The duration for the morning duty is about 30 min, from 7 a.m. to 7.30 a.m.  
-    
-*   Ensure all students leave the classroom by 7.15 a.m., bring along a storybook and ask them to proceed to the hall for their morning reading.  
-    
+* The duration for the morning duty is about 30 min, from 7 a.m. to 7.30 a.m.
+
+* Ensure all students leave the classroom by 7.15 a.m., bring along a storybook and ask them to proceed to the hall for their morning reading.
 
 <u>Recess Duty</u>
 
