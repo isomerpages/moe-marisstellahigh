@@ -12,8 +12,8 @@ third_nav_title: For Parents (Secondary)
     
 *   [School Facebook](https://www.facebook.com/marisstellahighschool)
 *   [School Instagram](https://www.instagram.com/marisstellahighschool/)
-*   [School Yearbook 2021](https://issuu.com/sandesignz/docs/mshs_yb2021) (flipped version for online viewing)
-*   [School Yearbook 2021](https://drive.google.com/file/d/1KB7t4xqLciK8RMqwymz_fg6xtlwKqChD/view?usp=sharing) (for downloading)
+*   [School Yearbook 2022]([Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/)) (flipped version for online viewing)
+*   [School Yearbook 2022]([Yearbook PDF Version - Google Drive](https://drive.google.com/drive/folders/1VzplTkc2C99Mayk_-I91pcomXjtMC79u)) (for downloading)
 
   
 

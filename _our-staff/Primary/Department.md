@@ -563,7 +563,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
+    <td style="width: 50%" class="tg-0lax">AYH (Acting)</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Joyce Seow (Ms)</td>
@@ -964,7 +964,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Nurheja (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
   <tr>
