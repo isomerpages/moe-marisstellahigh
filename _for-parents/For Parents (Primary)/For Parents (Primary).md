@@ -13,5 +13,6 @@ third_nav_title: For Parents (Primary)
     
 *   [Marist Book Lab](/useful-links-and-info/primary/for-parents/marist-book-lab/)
 *   [School Letters](/useful-links-and-info/primary/for-parents/school-letters/)
-*   [School Yearbook 2022]([Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/)) 
-*   [(Download Full PDF Version)]([Yearbook PDF Version - Google Drive] (https://drive.google.com/drive/folders/1VzplTkc2C99Mayk_-I91pcomXjtMC79u)) 
+*   [Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/) (flipped version)
+*   [Maris Stella High School Yearbook 2022 ](https://drive.google.com/drive/folders/1VzplTkc2C99Mayk_-I91pcomXjtMC79u) (for downloading)
+*   
