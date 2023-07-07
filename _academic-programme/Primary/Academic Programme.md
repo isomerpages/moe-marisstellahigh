@@ -61,7 +61,7 @@ third_nav_title: Primary
 </tr>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/physical-education/"><center><h4>Physical Education<br><br>体育</h4></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>ICT<br><br>信息与通信技术</h4></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/academic-programme/primary/ict-primary/"><center><h4>ICT<br><br>信息与通信技术</h4></center></a></td>
   </tr>
 </tbody>
 </table>
