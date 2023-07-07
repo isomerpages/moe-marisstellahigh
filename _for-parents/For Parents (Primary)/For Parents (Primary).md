@@ -9,7 +9,6 @@ third_nav_title: For Parents (Primary)
 **School Matters**
 
 *   [Exam Schedules](/useful-links-and-info/primary/for-parents/exam-schedules/)
-*   [Family Matters @ MSHS(P)](http://fmsmarisstellahighprimary.weebly.com/)  
     
 *   [Marist Book Lab](/useful-links-and-info/primary/for-parents/marist-book-lab/)
 *   [School Letters](/useful-links-and-info/primary/for-parents/school-letters/)
