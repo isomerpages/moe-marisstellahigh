@@ -47,4 +47,3 @@ Click [Here ](https://shop.shanghai-uniforms.com/product-category/maris-stella-h
 Business Hours:<br>
 Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)<br>
 Closed on Sun &amp; Public Holidays<br>
-Note: Retail outlet at Bras Basah Complex has ceased operation.
