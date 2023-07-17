@@ -15,7 +15,7 @@ Fax: 6464 0111 (Head Office)
 
 Operating Hours:<br>
 Mondays to Fridays<br>
-7.00 a.m. - 3.00 p.m.&nbsp;<br>
+7.00 a.m. - 2.30 p.m.&nbsp;<br>
 The bookshop is located at the Grand Stand (Parade Square).&nbsp;<br>
 PE attires and school uniforms are available at the Primary School Bookshop. If there is no stock or there is a requirement for custom-made school uniform, please contact the supplier directly.
 
