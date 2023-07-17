@@ -9,14 +9,13 @@ third_nav_title: For Students (Primary)
 **Pacific Bookstores Pte Ltd**
 
 Tel: 6285 5906 (School)<br>
-Fax: 6464 0111 (Head Office)
 
   
 
 Operating Hours:<br>
 Mondays to Fridays<br>
-7.00 a.m. - 3.00 p.m. <br>
-The bookshop is located at the Grand Stand (Parade Square). <br>
+7.00 a.m. - 2.30 p.m.&nbsp;<br>
+The bookshop is located at the Grand Stand (Parade Square).&nbsp;<br>
 PE attires and school uniforms are available at the Primary School Bookshop. If there is no stock or there is a requirement for custom-made school uniform, please contact the supplier directly.
 
 # BOOKLISTS
@@ -32,7 +31,7 @@ PE attires and school uniforms are available at the Primary School Bookshop. If 
 
 Ordering and collection of name tags will be done through the school bookshop.  
 
-Kindly download the [Name Tag Order form](/files/Useful%20Links%20and%20Info/Primary/Name%20tag%20Order%20Instructions_MSHSP_Final.pdf).
+Kindly download the&nbsp;[Name Tag Order form](/files/Useful%20Links%20and%20Info/Primary/Name%20tag%20Order%20Instructions_MSHSP_Final.pdf).
 
 # SCHOOL UNIFORM
 
@@ -40,11 +39,10 @@ Kindly download the [Name Tag Order form](/files/Useful%20Links%20and%20Info/Pr
 
 Supplier of school uniforms, PE Attire and House T-Shirts<br>
 Tel: 6747 8037<br>
-New retail outlet address: 63 Ubi Ave 1, #04-09, Singapore 408937
-
+New retail outlet address: 63 Ubi Ave 1, #04-09, Singapore 408937<br>
+Click [Here ](https://shop.shanghai-uniforms.com/product-category/maris-stella-high-primary/) for online purchase of school uniform
   
 
 Business Hours:<br>
 Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)<br>
-Closed on Sun & Public Holidays<br>
-Note: Retail outlet at Bras Basah Complex has ceased operation.
+Closed on Sun &amp; Public Holidays<br>
