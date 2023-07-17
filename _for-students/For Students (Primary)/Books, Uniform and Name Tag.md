@@ -9,7 +9,6 @@ third_nav_title: For Students (Primary)
 **Pacific Bookstores Pte Ltd**
 
 Tel: 6285 5906 (School)<br>
-Fax: 6464 0111 (Head Office)
 
   
 
