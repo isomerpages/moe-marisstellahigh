@@ -17,4 +17,3 @@ description: ""
 |      | Brother Thomas Chin Hon Man    |     |
 |      | Father John Sim Chay Teck   |     |
 |      | Dr. Benjamin Yip Cherng Hann   |     |
-	
