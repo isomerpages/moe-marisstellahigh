@@ -386,8 +386,8 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
-    <tr><td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
+    <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST (Acting) / SEN </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Fatmah Haider Bageshe Siti (Mdm)</td>
@@ -398,7 +398,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -583,13 +583,6 @@ third_nav_title: Primary
 ### BICULTURAL PROGRAMME
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
@@ -706,8 +699,8 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">ST / EL</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher </td>
+    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST (Acting) / SEN </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
@@ -726,7 +719,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -787,13 +780,6 @@ third_nav_title: Primary
 ### ICT
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
@@ -811,6 +797,8 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
+<tr><td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
+<td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td></tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / SCI</td>
@@ -821,10 +809,6 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">June Sim Ming Yin (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
