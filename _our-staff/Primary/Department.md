@@ -706,8 +706,8 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">ST / EL</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher </td>
+    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST (Acting) / SEN </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
@@ -726,7 +726,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
