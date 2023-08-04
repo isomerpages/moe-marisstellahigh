@@ -135,7 +135,7 @@ third_nav_title: Primary
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td>
+    <td style="width: 50%" class="tg-0lax">LH / Mathematics (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
@@ -381,13 +381,13 @@ third_nav_title: Primary
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td>
+    <td style="width: 50%" class="tg-0lax">LH / Mathematics (Acting)</td>
   </tr><tr>
     <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
     <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST (Acting) / SEN </td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Fatmah Haider Bageshe Siti (Mdm)</td>
@@ -700,7 +700,7 @@ third_nav_title: Primary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST (Acting) / SEN </td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
@@ -798,7 +798,7 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
 <tr><td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
-<td style="width: 50%" class="tg-0lax">LH (Acting) / Mathematics</td></tr>
+<td style="width: 50%" class="tg-0lax">LH / Mathematics (Acting)</td></tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / SCI</td>
