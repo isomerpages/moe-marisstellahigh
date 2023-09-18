@@ -1,12 +1,12 @@
 ---
-title: Art Club
+title: Art and Crafts
 permalink: /programmes/primary/cca/art-club/
 description: ""
 third_nav_title: CCA (Primary)
 ---
 <img align="right" src="/images/CCA/Primary/Art%20Club_D1R0786.jpg" style="width:45%">
 
-**The Art Club CCA aims to:**&nbsp;
+**The Art and Crafts CCA aims to:**&nbsp;
 
 *   Enable Marists to enjoy art and communicate visually through their artwork;
 *   Explore different art forms and build their confidence, curiosity and imagination in art making; and  
