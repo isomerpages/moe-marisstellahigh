@@ -711,7 +711,7 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Joanne Tan Pek Gek (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">ECG Counsellor</td>
+    <td style="width: 50%" class="tg-0lax">ECG Coach</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Shang Xuan (Mr)</td>
