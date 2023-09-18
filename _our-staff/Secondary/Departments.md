@@ -713,10 +713,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Joanne Tan Pek Gek (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ECG Coach</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lee Shang Xuan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-  </tr>
+ 
  <tr>
     <td style="width: 50%" class="tg-0lax">Rachel Soh Yu Ting (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
