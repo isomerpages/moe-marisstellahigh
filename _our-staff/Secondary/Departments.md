@@ -589,7 +589,7 @@ third_nav_title: Secondary
   </tr>
  
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Mei Lin Mandy (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Goh Mei Lin Mandy (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
