@@ -42,7 +42,7 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Ling Mandy (Ms) </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Lin Mandy (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
