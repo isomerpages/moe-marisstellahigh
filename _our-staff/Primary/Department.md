@@ -951,6 +951,10 @@ third_nav_title: Primary
     <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Tey Wee Xin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
