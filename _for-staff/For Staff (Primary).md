@@ -7,7 +7,6 @@ description: ""
 
 
 
-*   [MOE (Intranet)](https://intranet.moe.gov.sg/)  
     
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 
@@ -19,3 +18,4 @@ description: ""
     
 *   [OPAL2.0](https://www.opal2.moe.edu.sg/app/learner)
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
+*   [RBS](https://rbs.avero-tech.com/login.html)
