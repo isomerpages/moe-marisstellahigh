@@ -19,3 +19,8 @@ description: ""
 *   [OPAL2.0](https://www.opal2.moe.edu.sg/app/learner)
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
 *   [RBS](https://rbs.avero-tech.com/login.html)
+*   [School Facility Fault Reporting Form](https://form.gov.sg/648031063cfa1a0012320ab4)
+*   [ICT Fault Reporting](https://go.gov.sg/mshsp-ict-fault-reporting)
+*   [FormSG](https://form.gov.sg/)
+*   [All Ears](https://allears.estl.edu.sg/)
+*   [go.gov.sg link shortener](https://go.gov.sg/#/)
