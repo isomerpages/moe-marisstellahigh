@@ -66,13 +66,13 @@ description: ""
 
 \* Contact Person: Ms Carol Tan / Mdm Cheryl Chan
 
-\*\*How to get there?\*\*
+**How to get there?**
 
 \* Nearest MRT: Bartley MRT (CC12 line) – 3 minutes walking distance
 
 \* Bus number: 28, 93, 129, 158 - 1 minute walking distance from nearest bus stop.
 
-\*\*Interest applicants must meet the following criteria:\*\*
+**Interest applicants must meet the following criteria:**
 
 \* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
@@ -84,7 +84,7 @@ description: ""
 
 \* Healthy and fit to operate the stall.
 
-\*\*Applicants should preferably fulfil the following criteria:\*\*
+**Applicants should preferably fulfil the following criteria:**
 
 \* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
