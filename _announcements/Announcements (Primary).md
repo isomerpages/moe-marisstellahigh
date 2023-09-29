@@ -50,46 +50,46 @@ description: ""
 
 2\. Attached the following documents together with the application form:
 
-\* Photocopy of the NRIC (front and back)
+* Photocopy of the NRIC (front and back)
 
-\* List of proposed menu and pricing for all items. Set menu in different food portion size (e.g.: Small, Medium, Large) is preferred.
+* List of proposed menu and pricing for all items. Set menu in different food portion size (e.g.: Small, Medium, Large) is preferred.
 
-\* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-\* Address: 80 Bartley Road Singapore 539786
+* Address: 80 Bartley Road Singapore 539786
 
-\* Contact No: 6282 7743
+* Contact No: 6282 7743
 
-\* Email: mshp@moe.edu.sg
+* Email: mshp@moe.edu.sg
 
-\* Contact Person: Ms Carol Tan / Mdm Cheryl Chan
+* Contact Person: Ms Carol Tan / Mdm Cheryl Chan
 
 **How to get there?**
 
-\* Nearest MRT: Bartley MRT (CC12 line) – 3 minutes walking distance
+* Nearest MRT: Bartley MRT (CC12 line) – 3 minutes walking distance
 
-\* Bus number: 28, 93, 129, 158 - 1 minute walking distance from nearest bus stop.
+* Bus number: 28, 93, 129, 158 - 1 minute walking distance from nearest bus stop.
 
 **Interest applicants must meet the following criteria:**
 
-\* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
-\* Able to provide good service and quality food with prices determined in consultation with the school.
+* Able to provide good service and quality food with prices determined in consultation with the school.
 
-\* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
-\* Able to maintain high standard of food safety and personal hygiene.
+* Able to maintain high standard of food safety and personal hygiene.
 
-\* Healthy and fit to operate the stall.
+* Healthy and fit to operate the stall.
 
 **Applicants should preferably fulfil the following criteria:**
 
-\* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
-\* Possess catering experience or experience operating in a school environment.
+* Possess catering experience or experience operating in a school environment.
 
-\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
