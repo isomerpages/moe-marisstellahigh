@@ -33,8 +33,6 @@ third_nav_title: CCA (Secondary)
     
 *   Mother Tongue Language Fortnight Performance  
     
-*   Singapore Gardens Festival Public Performance  
-    
 *   National Day Performance
 
 #### Training Schedule
