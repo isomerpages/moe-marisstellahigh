@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Stall (Halal / Non-Halal) | 31 October 2023 |
+| Western Stall (Halal / Non-Halal) | 31 October 2023 |Western Stall (Halal / Non-Halal) dishes|
 
 **Application Procedure**
 
