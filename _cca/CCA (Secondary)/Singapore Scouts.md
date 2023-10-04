@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/singapore-scouts/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/scout_v1.png" style="width:45%">
 
 
@@ -22,11 +20,11 @@ third_nav_title: CCA (Secondary)
 
 *   Outdoor activities like camping, backwoodsman cooking, knotting and hiking  
     
-*   Adventurous activities like night cycling, kayaking and dragon boat rowing  
-    
-*   A chance to meet Scouts and Guides from other schools at camps and campfires  
-    
+*   Annual Camp, Signature Dxufto Camp, Scout Leadership Camp
+*   Various scouting competitions
+*   A chance to meet Scouts and Guides from other schools at camps and campfires
 *   Opportunities to obtain a wide range of Scout progress, proficiency and event badges
+*   Opportunities to participate in Jamborees to meet scouts from other countries
 
 
 #### Training Schedule
