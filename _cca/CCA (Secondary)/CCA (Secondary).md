@@ -110,7 +110,7 @@ third_nav_title: CCA (Secondary)
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/programmes/secondary/cca/singapore-scouts/">
+      <a href="/programmes/secondary/cca/scouts/">
         <img src="/images/scout_v1.png" style="max-width: 100%; height: auto;">
       </a>
     </td>
