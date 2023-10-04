@@ -95,7 +95,7 @@ third_nav_title: CCA (Secondary)
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-cadet-corps-sea/"><center><h3>National Cadet Corps (Sea)<br>学生军团（海军）
 </h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-police-cadet-corps/"><center><h3>National Police Cadet Corps<br>学生警团</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/singapore-scouts/"><center><h3>Singapore Scouts<br>童军</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/singapore-scouts/"><center><h3>Scouts<br>童军</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
