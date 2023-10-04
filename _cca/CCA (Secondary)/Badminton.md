@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/badminton/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/Badminton_1.jpg" style="width:45%">
 
 
@@ -19,14 +17,7 @@ third_nav_title: CCA (Secondary)
     
 *   Develop qualities of a Sportsman to be cooperative, humble, gracious and honourable.&nbsp;  
     
-
-**To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
-
-*   Comprehensive training programme to improve players’ skills and knowledge of the sport  
-    
-*   Annual Badminton Team-Bonding Camp
-
-  
+ 
 
 **Marists are given the opportunities to participate in the following competitions:**&nbsp;
 

@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/national-police-cadet-corps/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/NPCC-parade_v1.png" style="width:45%">
 
 
@@ -49,7 +47,7 @@ third_nav_title: CCA (Secondary)
 
 *   Inter-Unit .22 Revolver Shooting Competition&nbsp;  
     
-*   Inter-Unit Campcraft Competition
+*   Inter-Unit Crime-Scene Investigation Competition
 
 
 #### Training Schedule

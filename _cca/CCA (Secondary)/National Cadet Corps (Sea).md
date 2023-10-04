@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/national-cadet-corps-sea/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/NCC_v1.png" style="width:45%">
 
 
@@ -53,7 +51,7 @@ third_nav_title: CCA (Secondary)
   <tr>
     <td>2/Wk</td>
     <td>Wed, Fri</td>
-    <td>Wed &amp; Fri<br><br>2.45pm - 5.45pm</td>
+    <td>Wed &amp; Fri<br><br>2.30pm - 5.30pm</td>
   </tr>
 </tbody>
 </table>

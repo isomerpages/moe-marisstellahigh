@@ -24,3 +24,4 @@ third_nav_title: For Students (Primary)
 **Learning Portal**
 
 *   [Student Learning Space (SLS)](/useful-links-and-info/primary/for-students/student-learning-space-sls/)
+*   [Student Icon](http://myaccount.google.com/)

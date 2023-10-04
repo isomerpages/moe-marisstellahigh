@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/bowling/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/Bowling_1.jpg" style="width:45%">
 
 
@@ -31,19 +29,15 @@ third_nav_title: CCA (Secondary)
 
 #### Training Schedule
 
-<table>
-<thead>
-  <tr>
-    <th>Frequency</th>
-    <th>Training Days</th>
-    <th>Time</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1-2/Wk</td>
-    <td>Mon &amp; Fri (B Div)<br><br>Wed and Fri (C Div)</td>
-    <td>3.15pm - 5.45pm</td>
-  </tr>
-</tbody>
-</table>
+**From January to April**<br>
+B Division - Every Monday and Wednesday <br>
+C Division - Every Friday
+
+**From May to July**<br>
+B Division - Every Monday <br>
+C Division - Every Wednesday and Friday
+
+**During Off Season (August to December)**<br>
+Secondary 1 - Every Monday and Wednesday
+Secondary 2- Every Wednesday and Friday
+Secondary 3- Every Monday and Friday

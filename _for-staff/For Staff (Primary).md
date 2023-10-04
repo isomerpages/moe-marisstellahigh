@@ -5,22 +5,22 @@ description: ""
 ---
 # For Staff
 
-**MOE Sites**  
 
-**(Require SSOE Network/ VPN)**
 
-*   [MOE (Intranet)](https://intranet.moe.gov.sg/)  
     
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 
-  
+  * [MIMS](https://idp.mims.moe.gov.sg/nidp/app/login)
 
-**(Does not require SSOE Network/ VPN)**
-
-*   [iConnect](https://icon.moe.edu.sg/saas/usercenter/index.do)  
-    
-*   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)  
-    
-*   [TRAISI](https://traisi.moe.gov.sg/AD/login.asp)  
+* [SLS](https://vle.learning.moe.edu.sg/login) 
+* [SCMobile](https://scmobile.moe.edu.sg/login)
+* [Parents Gateway](https://pg.moe.edu.sg/)
     
 *   [OPAL2.0](https://www.opal2.moe.edu.sg/app/learner)
+*   [HRP](https://www.hrp.gov.sg/hrp/#/)
+*   [RBS](https://rbs.avero-tech.com/login.html)
+*   [School Facility Fault Reporting Form](https://form.gov.sg/648031063cfa1a0012320ab4)
+*   [ICT Fault Reporting](https://go.gov.sg/mshsp-ict-fault-reporting)
+*   [FormSG](https://form.gov.sg/)
+*   [All Ears](https://allears.estl.edu.sg/)
+*   [go.gov.sg link shortener](https://go.gov.sg/#/)

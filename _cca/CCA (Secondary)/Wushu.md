@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/wushu/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/Wushu_1.jpg" style="width:45%">
 
 **The Wushu CCA aims to:**
@@ -20,7 +18,7 @@ third_nav_title: CCA (Secondary)
     
 *   Strength and Conditioning Training - to build muscle strength and stamina to meet the demands of competition and performance routines.  
     
-*   Team Bonding Activities and Opportunities to Perform at School Events  
+*   Team Bonding Activities and opportunities to perform at School Events  
     
 *   Opportunities for all students to participate in Inter-school and National competitions  
     
@@ -34,8 +32,6 @@ third_nav_title: CCA (Secondary)
 *   Chinese New Year Performance  
     
 *   Mother Tongue Language Fortnight Performance  
-    
-*   Singapore Gardens Festival Public Performance  
     
 *   National Day Performance
 
