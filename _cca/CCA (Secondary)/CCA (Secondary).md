@@ -18,7 +18,7 @@ third_nav_title: CCA (Secondary)
 <thead>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/archery/"><center><h3>Archery<br>射箭</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/athletics-secondary-4-only/"><center><h3>Athletics (Sec 4 only)<br>田径</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/athletics/"><center><h3>Athletics <br>田径</h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/badminton/"><center><h3>Badminton<br>羽球</h3></center></a></td>
   </tr>
 </thead>
