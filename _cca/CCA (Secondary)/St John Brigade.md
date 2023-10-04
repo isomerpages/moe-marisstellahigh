@@ -4,8 +4,6 @@ permalink: /programmes/secondary/cca/st-john-brigade/
 description: ""
 third_nav_title: CCA (Secondary)
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/SJB.jpg" style="width:45%">
 
 
@@ -22,7 +20,7 @@ third_nav_title: CCA (Secondary)
 
 **To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
 
-*   March Orientation Camp&nbsp;  
+*   Secondary 1 Basic Non-Commissioned Officers (NCO) Course&nbsp;  
     
 *   Sec 3 Advanced Non-Commissioned Officers (NCO) Camp  
     
