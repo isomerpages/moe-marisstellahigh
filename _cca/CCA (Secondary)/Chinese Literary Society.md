@@ -1,5 +1,5 @@
 ---
-title: Chinese Literary, Drama And Debate Society
+title: Chinese Literary Society
 permalink: /programmes/secondary/cca/chinese-literary-society/
 description: ""
 third_nav_title: CCA (Secondary)
@@ -22,14 +22,14 @@ third_nav_title: CCA (Secondary)
 **培养技能：**  
 
 *   戏剧培训，参加青年节艺术展演汇戏剧组、劲爆剧场等比赛。
-*   培训相声高手，参加全国中学相声比赛、脱口秀比赛等。
+*   培训相声高手，参加全国相声比赛、脱口秀比赛等。
 
 **活动项目：**
 
 *   参与本校华文部主办的全国中学生华语短片制作赛，学员从中学习如何撰写剧本，掌握拍摄、剪辑技巧&nbsp;  
     
 *   中文写作培训，培养写作人才参加全国各类作文赛&nbsp;
-*   培训辩论、相声高手，参加全国中学辩论赛、相声比赛、脱口秀比赛等&nbsp;  
+*   培训相声高手，参加全国中学辩论赛、相声比赛、脱口秀比赛等&nbsp;  
     
 *   自2008年开始戏剧培训，参加青年节艺术展演汇戏剧组、劲爆剧场等比赛
 
