@@ -35,7 +35,7 @@ description: ""
 	<tr>
     <td style="width: 50%" class="tg-0lax">Mixed Veg Rice Stall</td>
     <td style="width: 50%" class="tg-0lax">27 Oct 2023</td>
-		<td style="width: 50%" class="tg-0lax">Halal / Non-Hala are acceptablel</td>
+		<td style="width: 50%" class="tg-0lax">Halal / Non-Hala are acceptable</td>
   </tr>
 </tbody>
 </table>
