@@ -33,9 +33,9 @@ description: ""
 		<td style="width: 50%" class="tg-0lax">Japanese/Korean/Thai food etc. are acceptable</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Mix Veg Rice Stall</td>
+    <td style="width: 50%" class="tg-0lax">Mixed Veg Rice Stall</td>
     <td style="width: 50%" class="tg-0lax">27 Oct 2023</td>
-		<td style="width: 50%" class="tg-0lax">Non-Halal</td>
+		<td style="width: 50%" class="tg-0lax">Halal / Non-Hala are acceptablel</td>
   </tr>
 </tbody>
 </table>
