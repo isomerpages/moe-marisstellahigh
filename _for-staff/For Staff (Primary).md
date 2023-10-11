@@ -24,3 +24,4 @@ description: ""
 *   [FormSG](https://form.gov.sg/)
 *   [All Ears](https://allears.estl.edu.sg/)
 *   [go.gov.sg link shortener](https://go.gov.sg/#/)
+*   [ICT Weekly Updates](https://drive.google.com/drive/folders/1b6DzR4kXJxywsd08kC9T7PLRG4VpOJjH?usp=sharing)
