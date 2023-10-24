@@ -20,4 +20,6 @@ sections:
         November 2023, Saturday, 8.30am to 12:30pm!
       image: /images/mshs_popout (1).jpg
       alt: Image alt text
+      url: https://www.marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
+      button: Click here
 ---
