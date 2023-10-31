@@ -12,5 +12,4 @@ Application for Primary 1 waitlist is open annually from 1 Sep to 31 Oct. Applic
   
 A new application is required for every school year.     
   
-Only shortlisted applicants will be contacted.    
-  
+Only shortlisted applicants will be contacted.
