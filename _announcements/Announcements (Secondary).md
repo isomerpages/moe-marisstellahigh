@@ -2,6 +2,7 @@
 title: Announcements (Secondary)
 permalink: /school-happenings/secondary/announcements/
 description: ""
+variant: markdown
 ---
 ## Announcements (Secondary)
 
@@ -25,7 +26,7 @@ description: ""
 | 1100 – 1115h |Q&A  |  |
 
 
-
+![](/images/directions%20for%20getting%20to%20mshs.png)
 
 
 #### School Canteen Advertisement
