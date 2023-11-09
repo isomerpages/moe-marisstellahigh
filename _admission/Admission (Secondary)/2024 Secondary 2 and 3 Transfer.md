@@ -25,4 +25,3 @@ Scanned copies of the following documents are required for the appeal applicatio
 
 Shortlisted applicants will be notified for a follow-up interview and documents to bring to school.
 Only successful applicants will be notified by 26 December 2023, Tuesday.
-
