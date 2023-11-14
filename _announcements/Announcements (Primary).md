@@ -2,6 +2,7 @@
 title: Announcements (Primary)
 permalink: /school-happenings/primary/announcements/
 description: ""
+variant: markdown
 ---
 # PRIMARY SECTION 小学部
 
@@ -29,13 +30,8 @@ description: ""
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Fusion Food Stall</td>
-    <td style="width: 50%" class="tg-0lax">27 Oct 2023</td>
+    <td style="width: 50%" class="tg-0lax">01 Dec 2023</td>
 		<td style="width: 50%" class="tg-0lax">Japanese/Korean/Thai food etc. are acceptable</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Mixed Veg Rice Stall</td>
-    <td style="width: 50%" class="tg-0lax">27 Oct 2023</td>
-		<td style="width: 50%" class="tg-0lax">Halal / Non-Halal are acceptable</td>
   </tr>
 </tbody>
 </table>
