@@ -91,4 +91,3 @@ The bus services available are 28, 93, 129 and 158.
 17. What are the schools affiliated with Maris Stella High School?
 
 Our school is affiliated with Maris Stella High School (Primary) and Catholic Junior College. Students who apply to Catholic Junior College have 2 affiliation bonus points.
-
