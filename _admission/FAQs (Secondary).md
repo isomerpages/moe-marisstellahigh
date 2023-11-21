@@ -57,11 +57,11 @@ As our school offers only Posting Group 3 courses of study, we do not have Subje
 11. What are the signature programmes offered at Maris Stella?
 
 The signature programmes offered at Maris Stella include:
-Brother Chanel Bicultural Programme
-Catholic Education 
-The Marcellin Way
-Chinese Language Elective Programme
-ICT Programme (for Lower Secondary levels)
+* [Brother Chanel Bicultural Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/bicultural-programme/)
+* [Catholic Education](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/faith-formation/)
+* [The Marcellin Way](https://www.marisstellahigh.moe.edu.sg/programmes/primary/cce/the-marcellin-way/)
+* [Chinese Language Elective Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/academic-programme/chinese-language/)
+* [Lower Secondary ICT Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/ict/)
 
 12. What is the school experience like for a non-Catholic student?
 
@@ -70,7 +70,7 @@ The school offers a variety of signature programmes, as described above. Additio
 13. What are the types of CCA offered at Maris Stella?
 
 The school offers a variety of CCAs in Physical Sports, Uniformed Groups, Performing Arts, Clubs and Societies.
-For more information on CCAs, please refer to this page.
+For more information on CCAs, please refer to this [page](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/cca/).
 
 
 ##### GENERAL ENQUIRIES
