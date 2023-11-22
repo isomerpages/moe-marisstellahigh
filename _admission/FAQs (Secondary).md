@@ -2,89 +2,92 @@
 title: FAQs (Secondary)
 permalink: /admission/faqs/
 description: ""
+variant: markdown
 ---
-1.     What is the minimum AL score for entry into MSHS via DSA?
+##### ADMISSION
+1. What is the 2023 PSLE score for admission into Maris Stella?
 
-Answer: We do not set a minimum AL score for DSA. Being a SAP school, we only offer Express Stream. Applicants who wish to enrol via DSA must meet MOE placement criteria for Express Stream under the Achievement Level Scoring System. The AL score for Express Stream is between 4 and 22.
+Based on the new PSLE scoring system, the cut-off points in 2022 are AL 14(Pass) for non-affiliated students and AL 16 for affiliated students.
+###### Higher Chinese grades: D for Distinction, M for Merit, and P for Pass.
 
-2.     If a child has accepted the confirmed offer but eventually did not meet the Express cut-off point, can he still be enrolled to MSHS? What happens next?
+2. Are only 20% of the school’s places available for non-affiliated students?
 
-Answer: No. For unsuccessful DSA-Sec applicants, their Primary Schools will issue them with S1 Option Form, informing that their DSA-Sec application is unsuccessful when they receive their PSLE result. They will have to submit their school choices to participate in the S1 posting process.
+Since 2019, MOE has reserved 20% of all places in secondary schools with affiliated primary schools for non-affiliated students. Our affiliated students typically take up about 30-35% of the Secondary 1 intake. Hence, there is still a significant proportion of places for non-affiliated students.
 
-3.     Can I apply for 2 talent areas in the same school?
+3. Must my son/ward take Higher Chinese/Chinese Language to enter Maris Stella High School?
 
-Answer: Yes. You can apply up to 2 talent areas in the same school. The child will only be given one Confirmed Offer out of the 2 and he must commit to the given talent area if he is eventually admitted to MSHS via DSA. He is not allowed to transfer to another school.
+A student who wishes to pursue his education in a SAP school, including Maris Stella High School, must take CL or HCL as his Mother Tongue language. Students need not take HCL at P6 to enter the school.
 
-4.     My son’s primary school does not offer the CCA but he trains with a club. Can he still apply?
+4. Must my son/ward be a Catholic to join the school?
+
+Students of all faiths are welcome to join Maris Stella High School. About 80-85% of our secondary students are non-Catholic.
+For Catholic students, Spiritual Formation programmes are offered. Non-Catholic students are not required, but are welcome, to attend these programmes.
+
+5. I wish to appeal to transfer my son/ward into Secondary 1. How do I do so?
+
+Based on MOE policy, only students who meet the cut-off point during the posting year may be considered by the school for appeal to transfer into the school.
+
+The appeal process will be made known via our school website nearer to the release of the Secondary 1 posting results. We are accepting appeal only via online submission. Only shortlisted candidates will be asked to come to the school for an interview.
+
+6. How do I apply to the school via Direct Schools Admission (DSA)?
+
+DSA application typically begins around May every year. Updated details will be published on the Ministry of Education website, as well as our school website, closer to that period.
 
 
-Answer: We do have P6s who are not part of their primary school CCA applying for DSA. In the DSA application portal, there is a section for you to indicate external activities that are not in his school record. It will be good to let us know his training frequency, the academy he is in and any competition experience he might have.
+##### ACADEMIC
 
-5.     How is the selection conducted?
 
-Answer:  In-person selection will be conducted at our school venue for most of the talent areas. Teachers and/or instructors will assess the applicants ability and submit the recommendation. A panel will look through all the recommendations and make the final decision.
+7. Must my son/ward take Higher Chinese Language while in the school?
 
-6.     What is expected during the selection trial?
+At Secondary 1, all of our students are offered the chance to take Higher Chinese Language. While the school offers the option to do so, it is not compulsory and a student may indicate his preference of taking either Higher Chinese Language or Chinese Language.
 
-Answer: The selection trial usually consists of an interview and/or performance tasks related to the talent areas. Details for the trials will be given in the shortlisted email.
+8. Can my son/ward choose to drop Higher Chinese if he cannot cope with the subject?
 
-7.     How does the academic result affect the outcome?
+Yes, he can. However, students who have started Higher Chinese Language in Secondary 1 are encouraged to continue doing so until Secondary 3, where they will take the O-Level Chinese Language examination, before making a decision to continue or not. This is because learning a language takes time.
 
-Answer: As our school only offers Express Stream, the primary school result is used to assess whether the applicant is academically suitable or likely to make it for Express Stream (at least AL score of 22).
+9. Does the school offer Posting Group 1 or 2 courses of study?
 
-8.     What is the AL score cut-off point for this year? Must the applicant meet this cut-off for entry via DSA?
+No, the school offers only the Posting Group 3 courses of study.
 
-The cut-off point is dependent on the choices of the students applying to MSHS. Hence we do not know the cut-off points for the 2022 batch of P6 students.  The PSLE score range of 2021 for affiliated students is 4 (D) - 16, and the range for non-affiliated students is 7(M) -12.  
-  
+10. Does the school have Subject-Based Banding? 
 
-DSA applicants only need to meet Express Stream AL score for entry to MSHS via DSA.  
+As our school offers only Posting Group 3 courses of study, we do not have Subject-Based Banding. 
 
-9.     Is there a DSA class?
+##### SCHOOL PROGRAMMES
+11. What are the signature programmes offered at Maris Stella?
 
-Answer: No. Students will be randomly put into Sec 1 classes with the average AL score about the same for all classes.
+The signature programmes offered at Maris Stella include:
+* [Brother Chanel Bicultural Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/bicultural-programme/)
+* [Catholic Education](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/faith-formation/)
+* [The Marcellin Way](https://www.marisstellahigh.moe.edu.sg/programmes/primary/cce/the-marcellin-way/)
+* [Chinese Language Elective Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/academic-programme/chinese-language/)
+* [Lower Secondary ICT Programme](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/ict/)
 
-10.   What happens when the child is admitted to Maris Stella High School via DSA?
+12. What is the school experience like for a non-Catholic student?
 
-Answer: If your child is admitted through DSA-Sec, he must commit to his chosen school for the duration of the programme. He is not allowed to transfer to another school.
+The school offers a variety of signature programmes, as described above. Additionally, as a Catholic school, we inculcate universal values of love, integrity, and humility as well as respecting the dignity of others. All students will have the opportunity to deepen their understanding of these values and Catholic traditions through certain seasonal activities, such as assembly programmes held during the season of Lent (leading up to Easter). Additional Catholic programmes such as camps and masses are organised for the spiritual development of Catholic students; non-Catholics are welcome to attend these optional activities.
 
-11.   How many slots are available for DSA? Is there a quota set for each talent area?
+13. What are the types of CCA offered at Maris Stella?
 
-Answer: Our school can admit up to 20% of our Sec 1 intake via DSA. We do not set a quota for each talent area. Applicants who meet the requirements will be considered.
+The school offers a variety of CCAs in Physical Sports, Uniformed Groups, Performing Arts, Clubs and Societies.
+For more information on CCAs, please refer to this [page](https://www.marisstellahigh.moe.edu.sg/programmes/secondary/cca/).
 
-12.   What are the DSA criteria?  
 
-Answer: Different talent areas will have different selection criteria but, in general, applicants must be able to demonstrate a high level of ability. For example, your child might have:
+##### GENERAL ENQUIRIES
+14. Does my son/ward need a laptop when he joins the school?
 
-·      Represented the school in a CCA
+From 2021, all Secondary 1 students will own a school-prescribed personal learning device under the Personalised Digital Learning Programme. 
 
-·      Held a prominent role in a performance or competition
+15. What are the school hours like in Maris Stella?
 
-·      Done well in a subject such as Chinese Language or creative writing
+School starts at 7.30 a.m. and ends every day at 1.40 p.m. for lower secondary students. For upper secondary students, school ends at 3.20 p.m. on Tuesdays. On some afternoons, students may attend enrichment or supplementary programmes. 
 
-·      Held a leadership role in class or a CCA
+16. What are the public transport services available to reach Maris Stella High School?
 
-13.   How do we apply for DSA?  
+The nearest MRT station to Maris Stella High School is Bartley MRT Station, which is located on the Circle Line.
+The bus services available are 28, 93, 129 and 158.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free of charge. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec). 
+##### OTHERS
+17. What are the schools affiliated with Maris Stella High School?
 
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent
-
-14.   What is the timeline for application?
-
-The timeline is available on the MOE website - [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
-
-15.   My son is unsuccessful in his DSA application. Can he appeal for DSA again?
-
-Answer: DSA application results are final. There will not be an appeal after the DSA results are released. He is supposed to use the S1 Option Form to opt for his preferred schools. He can opt for our school again in the S1 Option Form if he is keen to join the school.
-
-16.   If my son is exempted from Chinese Language in PSLE, can he still apply into Maris Stella High School via DSA?  
-
-Answer: No, you will not be given an option to choose SAP Schools as the application portal will filter off these option for your child to choose.
-
-17.   Must my son take Higher Chinese while in the school?
-
-Answer: At Secondary 1, all of our students are offered the chance to take Higher Chinese. While the school offers the option to do so, it is not compulsory and a student may indicate his preference for taking either Higher Chinese or Chinese.
-
-  
-
-_General FAQs can also be found on the [FAQs page](/admission/secondary/faqs) of the school website._
+Our school is affiliated with Maris Stella High School (Primary) and Catholic Junior College. Students who apply to Catholic Junior College have 2 affiliation bonus points.

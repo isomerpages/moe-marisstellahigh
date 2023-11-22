@@ -15,7 +15,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 0830 – 0840h     | Welcoming of Guests |     |
 | 0840 – 0900h | Performances in Shaw Hall   | |
-|0900 – 0930  |Principal’s Address  |  |
+|0900 – 0930h  |Principal’s Address  |  |
 | 0930 – 0945h |Q&A  |  |
 | 0950h  |School Tour  |  |
 
