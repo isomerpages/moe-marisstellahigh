@@ -3,10 +3,10 @@ title: For Students
 permalink: /useful-links-and-info/primary/for-students/
 description: ""
 third_nav_title: For Students (Primary)
+variant: markdown
 ---
 **Administrative Matters**  
 
-*   [Books, Uniform and Name Tags](/useful-links-and-info/primary/for-students/books-uniform-and-name-tags/)
 *   [MOE Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)  
     
 *   [School Bus Services](/useful-links-and-info/primary/for-students/school-bus-services/)
