@@ -3,6 +3,7 @@ title: Softball
 permalink: /programmes/primary/cca/softball/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Primary/Softball_D1R0960.jpg" style="width:45%">
 
@@ -31,6 +32,6 @@ third_nav_title: CCA (Primary)
 
 *   2022 National School Games Softball Senior Division - Champion
 *   2022 National School Games Softball&nbsp;Junior Division - Tier 1: Overall 3rd in position
-*   National Inter-School Softball Championship (Senior) – 1st&nbsp;Runner-Up
-*   National Inter-School Softball Championship (Junior) – Champion
-*   SBSA 12U Softball Carnival 2019 (Boys) - Champion
+*   2023 National Inter-School Softball Championship (Senior) – 1st&nbsp;Runner-Up
+*   2023 National Inter-School Softball Championship (Junior) – Champion
+
