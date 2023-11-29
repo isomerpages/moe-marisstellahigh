@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: For Students (Primary)
 ---
-#Student ICON
+# Student ICON
 
 ### Accessing Student ICON
 
