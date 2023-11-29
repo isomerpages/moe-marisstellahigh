@@ -3,11 +3,13 @@ title: School Matters
 permalink: /useful-links-and-info/primary/for-parents/marist-book-lab/
 description: ""
 third_nav_title: For Parents (Primary)
-variant: tiptap
+variant: markdown
 ---
-# Marist Book Lab
+# School Matters
 
-Librarian: Ms&nbsp;Seh Peh Yi<br>
-Opening Hours:<br>
-Mondays to Fridays<br>
-6.45 a.m. to 3.45 p.m.
+**School Matters**
+
+
+*   [Marist Book Lab](/useful-links-and-info/primary/for-parents/marist-book-lab/)
+*   [Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/) (flipped version for online viewing)
+*   [Maris Stella High School Yearbook 2022 (PDF version)](https://drive.google.com/drive/folders/126p-CHw2Rki16iGKNCHDR4VSXLDrhjAo) (for downloading)
