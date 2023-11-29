@@ -17,4 +17,4 @@ variant: markdown
 **Learning Portal**
 
 *   [Student Learning Space (SLS)](/useful-links-and-info/primary/for-students/student-learning-space-sls/)
-*   [Student Icon](/studenticon)
+*   [Student Icon](/studenticon/)
