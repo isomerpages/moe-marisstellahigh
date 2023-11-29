@@ -3,9 +3,8 @@ title: Science Club
 permalink: /programmes/primary/cca/science-club/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/scienceclubinfo.jpg" style="width:45%">
 
 **The Science Club CCA aims to:**
@@ -31,3 +30,5 @@ third_nav_title: CCA (Primary)
 **Marists have performed well in the following competitions:**&nbsp;
 
 *   Gold Award and Honourable Mention Award in e-Think Challenge 2022
+*   Science Buskers 2023 - People's Choice Award - Most Creative Busking
+*   e-THINK Challenge 2023 - 2 Silvers, 1 Bronze and 1 Honourable Mention
