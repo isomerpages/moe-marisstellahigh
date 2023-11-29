@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - For Parents (Primary)/School Bus Services.md
-      - For Parents (Primary)/Group Personal Accident (GPA) Insurance Plan for
-        Students.md
       - For Parents (Primary)/.keep
       - For Parents (Primary)/Administrative Matters.md
+      - For Parents (Primary)/Group Personal Accident (GPA) Insurance Plan for
+        Students.md
+      - For Parents (Primary)/School Bus Services.md
       - For Parents (Primary)/School Matters.md
       - For Parents (Secondary)/.keep
       - For Parents (Secondary)/For Parents (Secondary).md
