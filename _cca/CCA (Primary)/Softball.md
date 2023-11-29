@@ -33,5 +33,5 @@ variant: markdown
 *   2022 National School Games Softball Senior Division - Champion
 *   2022 National School Games Softball&nbsp;Junior Division - Tier 1: Overall 3rd in position
 *   2023 National Inter-School Softball Championship (Senior) – 1st&nbsp;Runner-Up
-*   2023 National Inter-School Softball Championship (Junior) – Champion
+*   2023 National Inter-School Softball Championship (Junior) Tier 1 - Champion
 
