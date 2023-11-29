@@ -39,3 +39,8 @@ variant: markdown
 
 * National School Games Badminton Championships 2023 Senior Division  
 	* Zonal 4th
+* National School Games Badminton Championships 2023 Junior Division  
+	* Tier 1 singles 1st
+	* Tier 1 singles 2nd
+	* Tier 1 doubles 1st
+	* Tier 1 doubles 2nd
