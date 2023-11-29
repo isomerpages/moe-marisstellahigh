@@ -37,4 +37,7 @@ variant: markdown
     *   Senior Division - 1st
     *   Junior Division - 1st
 *   2023 NSG Basketball Championships 2023 Senior Division
-    *  Zonal - 2nd  
+    *  Zonal - 2nd
+    *  National - 5th to 8th
+*   2023 NSG Basketball Championships 2023 Junior Division
+	*   Tier 1 - 1st position
