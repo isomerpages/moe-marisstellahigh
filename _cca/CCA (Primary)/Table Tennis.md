@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /programmes/primary/cca/table-tennis/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/tabletennisinfo.jpg" style="width:45%">
 
@@ -34,10 +35,14 @@ third_nav_title: CCA (Primary)
 
 *   North Zone Primary Schools Table Tennis Championships 2022 (Senior Division)
 
-*   2nd Runner Up
+	*   2nd Runner Up
 
 *   National Primary Schools Table Tennis Championships 2022 (Junior Division)
 
-*   1 Silver (Tier 2 Single)
-*   1 Gold (Tier 4 Single)
-*   1 Silver (Tier 2 Doubles)
+	*   1 Silver (Tier 2 Single)
+	*   1 Gold (Tier 4 Single)
+	*   1 Silver (Tier 2 Doubles)
+*   2023 National School Games (Junior Division)
+	*   Tier 2 Singles - 1st position
+	*   Tier 2 Singles - 1st position
+	*   Tier 4 Doubles - 1st position
