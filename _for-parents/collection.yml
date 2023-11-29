@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - For Parents (Primary)/Marist Book Lab.md
-      - For Parents (Primary)/Books, Uniform and Name Tag.md
       - For Parents (Primary)/.keep
       - For Parents (Primary)/For Parents.md
+      - For Parents (Primary)/Books, Uniform and Name Tag.md
       - For Parents (Primary)/Group Personal Accident (GPA) Insurance Plan for
         Students.md
+      - For Parents (Primary)/Marist Book Lab.md
       - For Parents (Primary)/School Bus Services.md
       - For Parents (Primary)/School Matters.md
       - For Parents (Secondary)/.keep
