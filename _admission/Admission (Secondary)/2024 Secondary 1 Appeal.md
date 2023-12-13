@@ -5,34 +5,4 @@ description: ""
 third_nav_title: Admission (Secondary)
 variant: tiptap
 ---
-# 2023 SECONDARY 1 APPEAL
-
-
-For students who would like to appeal to join Maris Stella High School as a Secondary One student in 2023, please take note of the following:
-
-*   Appeal Application Process is from <b>21 December 2022 to 23 December 2022, 1700hrs</b>.
-    
-*   Only Primary Six students who met the school's AL for this year may apply via the e-form below.
-    
-*   The AL for the 2023 Secondary One cohort is <b><u>14(PASS)</u></b>.&nbsp;
-    
-*   Students must take the Chinese Language or Higher Chinese Language as their Mother Tongue Language if they are offered a place in the school.
-    
-*   Online appeal applications are to be submitted through the following e-form link: [https://go.gov.sg/2023-mshs-appeal](https://go.gov.sg/2023-mshs-appeal).&nbsp;
-    
-*   Applications are not assessed based on a first-come-first-served basis.
-    
-
-    *   Applications will be considered void if the information submitted is not supported correctly by the official documents.&nbsp;
-    
-    *   Scanned copies of the following documents are required for the appeal application:
-    
-
-         *   PSLE Results Slip (with AL Score)
-    
-         *   School Choice Verification Slip
-    
-
-*   Shortlisted applicants will be notified for a follow-up interview and documents to bring to school.
-    
-*   Only successful applicants will be informed after <b>Friday, 30 December 2022</b>.
+<h1>2024 SECONDARY 1 APPEAL</h1><p>For students who would like to appeal to join Maris Stella High School as a Secondary One student in 2024, please take note of the following:</p><ul><li><p>Appeal Application Process is from <strong>2X December 2023 to 2X December 2023, 1700hrs</strong>.</p></li><li><p>Only Primary Six students who met the school's AL for this year may apply via the e-form below.</p></li><li><p>The AL for the 2024 Secondary One cohort is <strong><u>(To be updated after 2024 S1 Posting Result Release)</u></strong>.&nbsp;</p></li><li><p>Students must take the Chinese Language or Higher Chinese Language as their Mother Tongue Language if they are offered a place in the school.</p></li><li><p>Online appeal applications are to be submitted through the following e-form link: (Link to be updated after 2024 S1 Posting Result Release).&nbsp;</p></li><li><p>Applications are not assessed based on a first-come-first-served basis.</p><ul><li><p>Applications will be considered void if the information submitted is not supported correctly by the official documents.&nbsp;</p></li><li><p>Scanned copies of the following documents are required for the appeal application:</p><ul><li><p>PSLE Results Slip (with AL Score)</p></li><li><p>School Choice Verification Slip</p></li></ul></li></ul></li><li><p>Shortlisted applicants will be notified for a follow-up interview and documents to bring to school.</p></li><li><p>Only successful applicants will be informed after <strong>, XX December 2023</strong>.</p></li></ul><p></p>
