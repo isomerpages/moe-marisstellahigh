@@ -14,7 +14,7 @@ The e-registration form will be made available **during the webinar** and subseq
 
   
 
-Posted students/parents of posted students, please register for the online zoom webinar using the following link [https://go.gov.sg/mshs-s1reg-webinar](https://go.gov.sg/mshs-s1reg-webinar) by **Wednesday , 20 December 2023, 3 pm**. The school will email the webinar access link and password to your registered email upon registration.
+Posted students/parents of posted students, please register for the online zoom webinar using the following link [https://go.gov.sg/mshs-s1reg-webinar](https://go.gov.sg/mshs-s1reg-webinar) by **Wednesday, 20 December 2023, 3 pm**. The school will email the webinar access link and password to your registered email upon registration.
 
   
 
