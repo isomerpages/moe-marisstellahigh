@@ -43,4 +43,4 @@ Posted students/parents of posted students, please register for the online zoom 
 </tbody>
 </table>
 
-*Webinar Link will be made available via PG on 20 December 2023.*
+*Webinar link will be made available on 20 December 2023.*
