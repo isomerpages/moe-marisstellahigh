@@ -3,6 +3,7 @@ title: Basketball
 permalink: /programmes/primary/cca/basketball/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Primary/Basketball_D1R1018.jpg" style="width:45%">
 
@@ -35,3 +36,8 @@ third_nav_title: CCA (Primary)
 *   2022 Anglican High School Basketball Invitationals
     *   Senior Division - 1st
     *   Junior Division - 1st
+*   2023 NSG Basketball Championships 2023 Senior Division
+    *  Zonal - 2nd
+    *  National - 5th to 8th
+*   2023 NSG Basketball Championships 2023 Junior Division
+	*   Tier 1 - 1st position

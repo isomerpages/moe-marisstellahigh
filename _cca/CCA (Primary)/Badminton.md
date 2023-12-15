@@ -3,6 +3,7 @@ title: Badminton
 permalink: /programmes/primary/cca/badminton/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Primary/Badminton_D1R1153.jpg" style="width:45%">
 
@@ -36,4 +37,10 @@ third_nav_title: CCA (Primary)
 
 **Marists have performed well in the following competitions:**&nbsp;
 
-*   To be updated.
+* National School Games Badminton Championships 2023 Senior Division  
+	* Zonal 4th
+* National School Games Badminton Championships 2023 Junior Division  
+	* Tier 1 singles 1st
+	* Tier 1 singles 2nd
+	* Tier 1 doubles 1st
+	* Tier 1 doubles 2nd

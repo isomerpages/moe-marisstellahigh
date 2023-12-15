@@ -3,6 +3,7 @@ title: Rockwall Climbing
 permalink: /programmes/primary/cca/rockwall-climbing/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Primary/Sports%20Climbing_D1R0816.jpg" style="width:45%">
 
@@ -37,3 +38,6 @@ third_nav_title: CCA (Primary)
     *   Senior Boys Division Individual - 7th&nbsp;&nbsp;
     *   Junior Boys Division Team - 2nd&nbsp;&nbsp;
     *   Junior Novice Boys - Gold
+*   National Primary Schools Sport Climbing Championship 2023
+	*   Overall Senior Division Champion
+    

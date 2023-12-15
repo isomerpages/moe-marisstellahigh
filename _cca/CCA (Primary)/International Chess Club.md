@@ -3,9 +3,8 @@ title: International Chess Club
 permalink: /programmes/primary/cca/international-chess-club/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Primary/International%20Chess%20Club_D1R0670.jpg" style="width:45%">
 
 
@@ -36,3 +35,10 @@ third_nav_title: CCA (Primary)
 
     *   National Open - 2nd
     *   North Zone Open - 1st
+ *   64th National Inter-School Team Chess Championship 2023
+	 *   U10 Primary Open (North Zone) - 3rd
+ *   74th National School Individual Chess Championship 2023
+	 *   U-8 North Zone - 3rd
+	 *   U-8 North Zone - 4th
+
+	 *   U-12 North Zone - 1st
