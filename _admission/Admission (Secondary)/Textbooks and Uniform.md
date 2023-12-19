@@ -12,7 +12,7 @@ Sale of Textbooks
 
 Our school's books supplier is: <b>Pacific Bookstores Pte Ltd</b>
 
-*   The book list for Secondary 1 is available [here](https://drive.google.com/file/d/1myc5M96hnmZCVNOzmoWzEvi6DcAv68bt/view?usp=share_link).
+*   The book list for Secondary 1 is available [here](/files/MSHSS_1_Exp____2024.pdf)
     
 *   Do note that purchase of books and stationery are encouraged to be made via the bookshop online website ([www.pacificbookstores.com](https://www.pacificbookstores.com/)).&nbsp;
     
