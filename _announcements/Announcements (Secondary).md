@@ -7,6 +7,20 @@ variant: markdown
 ## Announcements (Secondary)
 
 
+#### Maris Stella High School Secondary 1 Zoom Webinar and E-Registration
+###### Join us at our Zoom Webinar and E-Registration on 21st December 2023, Thursday, 8.30am to 9:30am!
+
+| Webinar Programme |  |  |
+| -------- | -------- | -------- |
+| 0845 – 0900h     | Parents/Guardians to join the webinar |     |
+| 0900 – 0915h | Principal's Welcoming Addressl   | |
+|0915 – 1015h  |Secondary 1 Year Head Briefing  |  |
+| 1015 – 1030h |Q&A  |  |
+
+To register for the online zoom webinar, please use the following link [https://go.gov.sg/mshs-s1reg2024](https://go.gov.sg/mshs-s1reg2024). The school will email the webinar access link and password to your registered email upon registration.
+
+
+
 #### Maris Stella High School Open House 2023
 ###### Join us at Maris Stella High School Open House this year on 25th November 2023, Saturday, 8.30am to 12:30pm!
 ![](/images/mshs_openhouse.jpg)      
