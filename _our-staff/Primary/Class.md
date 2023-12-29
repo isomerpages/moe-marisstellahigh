@@ -241,13 +241,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">3 Dominic</td>
     <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">3 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Ms)</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Edward</td>
-    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Edward</td>
