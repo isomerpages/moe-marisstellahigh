@@ -301,6 +301,14 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Adeline Chua Yi Ling (Ms)</td>
     <td style="width: 50%" class="tg-0lax">LH / Chinese</td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">SH / ICT</td>
+  </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
@@ -323,7 +331,7 @@ variant: markdown
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Loh Si Jie (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH /Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ma Yiwei (Mdm)</td>
@@ -341,10 +349,6 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Ng Chui Nee (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ng Mei Xian Angelia (Ms)</td>
@@ -367,10 +371,6 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Toh Peng Peng (Ms)</td>
