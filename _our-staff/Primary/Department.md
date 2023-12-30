@@ -438,7 +438,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Foo Tuck Heng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr><tr>
-    <td style="width: 50%" class="tg-0lax">Jan Teo Min</td>
+    <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
