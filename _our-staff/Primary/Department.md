@@ -186,6 +186,18 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Sivagami Alagappan (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">LH / English</td>
   </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Kha Ghee (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
+  </tr>
+<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P3-4)</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Ng Kim Neo Helen (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / ICT </td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Hui Ming Ann (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">LT / CCE</td>
@@ -193,6 +205,10 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / EL</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SS </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
@@ -206,7 +222,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Colin Yang Jiahui (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-
   <tr>
     <td style="width: 50%" class="tg-0lax">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -227,27 +242,9 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lau Nguen Kee (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-	
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SS </td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Kim Neo Helen (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / ICT </td>
-  </tr>
-  
 <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ming Yin June  (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Tan Kha Ghee (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
-  </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Year Head (P3-4)</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Tan Shi Hui (Ms)</td>
