@@ -87,10 +87,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Yew Su Fong (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Mathematics</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">Ow Yong Choo Ee Joel (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / PE</td>
   </tr>
