@@ -300,73 +300,71 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Aloysius </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Sui Lei (Mr)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Chia Ming Ying Terence Ryan (Mr)</span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Aloysius  </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Shiao Pey (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Kah Lam (Mr) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Benedict  </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lucy Yeo (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tao Yijun (Ms)</span></td>
   </tr>
- 
+   <tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Benedict  </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Sai Kee (Ms)</span></td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Charles </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yen Leng (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">V Praveenkumar (Mr)</span></td>
   </tr>
- 
+   <tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Charles </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Poo Hong (Mr)</span></td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Dominic </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Xie Zhihao (Mr) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Siew Yean (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Dominic </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Xian Jing (Mr) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Yew Keng Audrey (Mrs) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Edward</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Jiang Zhiqiong (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Kim Huat Nicholas (Mr) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Edward</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tay Woon Ping (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Ho Jia Min (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Francis</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Eugene Lee Kee Ming (Mr) </span></td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Francis</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Png Chin Yuen Marianne (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lum Wai Mei (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Gabriel</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lin Chunhai (Mr)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Yong Min (Mr)</span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Gabriel</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Li Ping (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Shantini d/o Karunagaran (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Henry</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Si Qian, Priscilla (Ms) </span></td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Henry</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Nur Badriah Mirza Abdul Matin (Ms) </span></td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Ignatius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Wong Xiu Yan (Ms) </span></td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Joseph</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Praveen Kumar s/o Vadevelu (Mr)  </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Ignatius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yew Meng Daniel (Mr) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Joseph</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Zheng Kankan (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Zhi Ying (Mr)  </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Joseph</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Jasmine Yeo (Mrs)</span></td>
   </tr>
 </tbody>
 </table>
