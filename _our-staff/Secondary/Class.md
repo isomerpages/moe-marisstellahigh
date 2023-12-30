@@ -3,6 +3,7 @@ title: Class
 permalink: /about-mshs/secondary/our-staff/class/
 description: ""
 third_nav_title: Secondary
+variant: markdown
 ---
 ### SECONDARY 1
 
@@ -116,6 +117,100 @@ third_nav_title: Secondary
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Lee Hui Min Germaine (Ms)  </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Yee Tai Yen, Terrance (Mr)</span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Benedict </span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Ngo Mei Zhi Mabel (Ms)</span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Benedict</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Ye Wenhui (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Charles</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Lin Mandy (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Charles</span></td>
+    <td style="width: 50%" class="tg-tsok">Chong Shao Hong (Mr) </td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Dominic</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Yap Kheng Kin (Mr) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Dominic</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Zheng Kankan (Ms)</span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Edward</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Hwee Fang Vanessa (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Edward</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Wong Yuyi Jeremy (Mr)</span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Francis</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Ching Sing (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Francis</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Hannah Lois Ng (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Gabriel</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Dominic Varella (Mr) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Gabriel</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Neo Lay Teng Windran (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Henry</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Kok Li (Mr) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Henry</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Toh Wern-Ai Chloe (Ms) </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Ignatius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Teo Wei Min Stephanie (Ms)  </span></td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Ignatius</span></td>
+    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Dawn Ng Li Li (Ms) </span></td>
+  </tr>
+	</tbody>
+</table>
+
+### SECONDARY 3
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Class</span></th>
+    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
+  </tr>
+</thead>
+<tbody>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Aloysius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Sheng Zhi (Mr) </span></td>
@@ -180,30 +275,12 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">2 Ignatius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Susan Neo-Chew Choo Guek (Ms) </span></td>
   </tr>
- 
-</tbody>
-</table>
-
-### SECONDARY 3
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table style="table-layout: fixed; width: 100%;" class="tg">
-<thead>
-  <tr>
-    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th style="width: 50%" class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
+	
+	
+	
+	
+	
+	<tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Aloysius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Chia-Ming Ying Terence Ryan (Mr) </span></td>
   </tr>
