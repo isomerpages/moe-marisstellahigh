@@ -3,6 +3,7 @@ title: Departments
 permalink: /about-mshs/secondary/our-staff/departments/
 description: ""
 third_nav_title: Secondary
+variant: markdown
 ---
 ### SCHOOL LEADERS
 
@@ -96,7 +97,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">HOD / CCA &amp; Student Leadership</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Foo Chin Wei (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
 	 <tr>
@@ -126,7 +127,7 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
@@ -152,10 +153,9 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / PE</td>
   </tr>
-	
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">SH / CCE</td>
+		 <tr>
+    <td style="width: 50%" class="tg-0lax">Chng Wan Ting Zenia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Educational Technology</td>
   </tr>
 		 <tr>
     <td style="width: 50%" class="tg-0lax">Ho Jia Min (Ms)</td>
@@ -187,10 +187,7 @@ third_nav_title: Secondary
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">June Henry (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">LT / English Literature</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Lucy Yeo (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ST / Chemistry</td>
@@ -241,10 +238,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / English Literature</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">June Henry (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">LT / English Literature</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Chong Yew Keng Audrey (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / CCE</td>
@@ -398,6 +392,10 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Ye Wenhui (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / Mathematics</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Loo Hup Tee (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Dawn Ng Li Li (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -426,14 +424,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Praveen Kumar s/o Vadevelu (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Susan Neo Choo Geok (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Thanesh Manoselvam (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+  
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -464,10 +455,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Ong Siok Lee (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Science</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Foo Chin Wei (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Chia Kian Boon Edwin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / Physics</td>
@@ -484,10 +472,7 @@ third_nav_title: Secondary
     <td style="width: 50%" class="tg-0lax">Eugene Lee Kee Ming (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Farrah Diba Mohamed Tahar (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Goh Kok Li (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -568,7 +553,7 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">SH / CCE</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
@@ -648,7 +633,7 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
   </tr>
  
   <tr>
@@ -681,6 +666,10 @@ third_nav_title: Secondary
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Toh Wern-Ai Chloe (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Yap Kheng Kin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
