@@ -589,6 +589,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / PE</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">AYH (Acting)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ang Hui Zhen Charmaine (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -630,12 +634,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tye Meifen Jasmine (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">AYH (Acting)</td>
-  </tr>
-
-
   <tr>
     <td style="width: 50%" class="tg-0lax">Yap Shao Kuan Kevin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
