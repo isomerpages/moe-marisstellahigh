@@ -661,11 +661,20 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Hui Zhen Charmaine (Ms)</td>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Ng Beng Choo (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+<tr>
+    <td style="width: 50%" class="tg-0lax">Cong Hui Sophia (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+<tr>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Fang Meiling (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
@@ -677,32 +686,12 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Chek Seng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Mang Linlin (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
+	 <tr>
     <td style="width: 50%" class="tg-0lax">Ma Yiwei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Beng Choo (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Chui Nee (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Seah Yu Jie (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Toh Peng Peng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Xie Meng (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Mang Linlin (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -711,14 +700,6 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zhu Ruoye (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Ong Hui Leng Jean (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Jasmine Tye (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 </tbody>
@@ -750,15 +731,19 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Noradlina Bte Mohamed (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / CCE &amp; NE Coordinator</td>
   </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">SH / ICT</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Hui Ming Ann (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">LT / CCE</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / EL</td>
-  </tr>
-  <tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
@@ -766,78 +751,44 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ST / SS </td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Fatmah Haider Bageshe Siti (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Foo Tuck Heng (Mr)</td>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Colin  Yang Jiahui (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Jenna Gan Ting Ann (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Jolene Tan Jie En (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
+ <tr>
     <td style="width: 50%" class="tg-0lax">Lau Hui Wen (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lek Kah Han Brandon (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">May San Priscilla Yam (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Nurmayah Bte Mohamed Isa (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Sim Ming Yin June  (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+ <tr>
+    <td style="width: 50%" class="tg-0lax">Fatmah Haider Bageshe Siti (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>  
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Hui Ling Gwendolyn (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	 <tr>
-    <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Yam May San Priscilla (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Jhee Wei Len (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Matilda Tan (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Yang JiaHui Colin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+	
 </tbody>
 </table>
 
@@ -861,8 +812,26 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
-
-
+<tr>
+    <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao Xuan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Jhee Wei Len (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Yeow Yong Long (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Loh Si Jie (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Ng Chui Nee (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
   <tr>
     <td style="width: 50%" class="tg-0lax">Ng Mei Xian Angelia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -875,8 +844,16 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Siti Muliyanti Binte Ab Rahman (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Teo Wan Ting, Cindy (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>	
   <tr>
     <td style="width: 50%" class="tg-0lax">Toh-Lai Wei Xuan (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Vikineesh S/O Balakrishnan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -905,51 +882,39 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P3-4)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Management</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">AYH (Acting)</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Chu Qiu Ling Charlene (Mdm)</td>
+		 <tr>
+    <td style="width: 50%" class="tg-0lax">Seow Mei Ying Madeline (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Seow Mei Ying Madeline (Mrs)</td>
+   <tr>
+    <td style="width: 50%" class="tg-0lax">Ong Hui Leng Jean (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
- 
   <tr>
-    <td style="width: 50%" class="tg-0lax">Teoh Yian Pin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Yap Shao Kuan Kevin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Yap Kevin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Yeo Szu San (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Joyce Seow (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 </tbody>
 </table>
 
