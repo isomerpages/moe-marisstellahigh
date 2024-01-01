@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Aloysius</td>
-    <td style="width: 50%" class="tg-06je">Cong Hui Sophia (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Cong Hui Sophia (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Aloysius</td>
