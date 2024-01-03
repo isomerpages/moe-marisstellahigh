@@ -3,11 +3,11 @@ title: For Students
 permalink: /useful-links-and-info/secondary/for-students/
 description: ""
 third_nav_title: For Students (Secondary)
+variant: markdown
 ---
 **Administrative Matters**
 
 *   [Books and Uniform](/useful-links-and-info/secondary/for-students/books-and-uniform/)
-*   [Examinations](https://sites.google.com/moe.edu.sg/mshs-exam-matters/home)
 *   [MOE Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
 *   [Password Reset Form](http://go.gov.sg/mshspwdreset)
 
@@ -27,4 +27,3 @@ third_nav_title: For Students (Secondary)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/)  
     
 *   [Google Classroom](http://classroom.google.com/)
-*   [Home-based Learning](https://sites.google.com/moe.edu.sg/mshshbl/home)
