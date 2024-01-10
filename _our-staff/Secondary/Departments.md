@@ -201,6 +201,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / CCE</td>
   </tr>
 	 <tr>
+    <td style="width: 50%" class="tg-0lax">Loo Hup Tee (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
+  </tr>
+	 <tr>
     <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Chinese Language (Acting)</td>
   </tr>
