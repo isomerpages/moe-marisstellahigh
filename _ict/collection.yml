@@ -1,0 +1,6 @@
+collections:
+  ict:
+    output: true
+    order:
+      - Primary.md
+      - Secondary.md

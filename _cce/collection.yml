@@ -1,0 +1,16 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Primary/.keep
+      - Primary/The Marcellin Way.md
+      - Primary/Learning Support.md
+      - Primary/Life's Lesson.md
+      - Primary/Form Teacher Guidance Programme (FTGP).md
+      - Primary/National Education.md
+      - Primary/Sexuality Education.md
+      - Primary/Values in Action (VIA).md
+      - Primary/Student Leadership.md
+      - Secondary/.keep
+      - Secondary/CCE.md
+      - Secondary/MOE Sexuality Education In Schools.md
