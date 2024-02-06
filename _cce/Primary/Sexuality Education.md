@@ -68,4 +68,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 ![](/images/CCE/Primary/SEL2024_1_.JPG)
 
+![](/images/CCE/Primary/SEL2024_2_.JPG)
+
 ![](/images/CCE/Primary/SEL2024_3_.JPG)
