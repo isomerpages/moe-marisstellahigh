@@ -64,7 +64,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65bb185dc4cd4eb0674723fc). The completed opt-out form is to be submitted by 01/03/2024.
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Parents can contact the school at Ms Noradlina via email at [noradlina_mohamed@schools.gov.sg](noradlina_mohamed@schools.gov.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Parents can contact the school at Ms Noradlina via email at noradlina_mohamed@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 ![](/images/CCE/Primary/SEL2024_1_.JPG)
 
