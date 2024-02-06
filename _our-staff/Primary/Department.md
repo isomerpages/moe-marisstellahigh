@@ -942,15 +942,16 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
 	</tr>
   <tr>
-   </tr><tr>
-    <td style="width: 50%" class="tg-0lax">Lim Guat Eng Jenny (Ms)</td>
+   </tr>
+    <tr><td style="width: 50%" class="tg-0lax">Lim Guat Eng Jenny (Ms)</td>
     <td style="width: 50%" class="tg-0lax">School Counsellor (flexi)</td>
   </tr>
   
-	<tr>
+ <tr>
     <td style="width: 50%" class="tg-0lax">Wong Ee Sheng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-  </tr>
+	</tr>
+  
 	<tr>
     <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
