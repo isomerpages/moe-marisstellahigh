@@ -940,14 +940,18 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Sim Mei Geok Shirley (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
-  </tr>
+	</tr>
   <tr>
-  
+   </tr>
+    <tr><td style="width: 50%" class="tg-0lax">Lim Guat Eng Jenny (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">School Counsellor (flexi)</td>
   </tr>
-	<tr>
+  
+ <tr>
     <td style="width: 50%" class="tg-0lax">Wong Ee Sheng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-  </tr>
+	</tr>
+  
 	<tr>
     <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
@@ -955,6 +959,10 @@ variant: markdown
 		<tr>
     <td style="width: 50%" class="tg-0lax">Tey Wee Xin (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Wee Lay Hwee (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer (flexi)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
