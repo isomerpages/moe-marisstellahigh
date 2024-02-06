@@ -67,16 +67,5 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Parents can contact the school at Ms Noradlina via email at noradlina_mohamed@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
   
 
-![SED 1.png](/images/sed--1.png)  
-    
 
-![SED 2.png](/images/sed--2.png)  
- 
-  
-
-![SED 3.png](/images/sed--3.png)  
-
-
-
-![SED 4.png](/images/sed--4.png)  
 
