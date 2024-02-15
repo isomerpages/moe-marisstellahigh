@@ -2,11 +2,12 @@
 title: Principal's Message
 permalink: /about-mshs/principals-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width:440px;height:360px;margin-right:15px;" height="auto" width="100%" src="/images/boy%20eng%20seng.jpeg">
-</div>
+<br><br>
+<p></p>
+<center><img style="width:440px;height:360px;" height="auto" width="100%" src="/images/boy%20eng%20seng.jpeg"></center>
+
 <p></p>
 <p>2023 was an amazing year. The school received many encouraging results.
 Whether it was the results of the School Staff Engagement Survey, the Quality
