@@ -4,6 +4,8 @@ permalink: /about-mshs/principals-message/
 description: ""
 variant: markdown
 ---
+<br><br>
+<p></p>
 <center><img style="width:440px;height:360px;margin-right:15px;" height="auto" width="100%" src="/images/boy%20eng%20seng.jpeg"></center>
 
 <p></p>
