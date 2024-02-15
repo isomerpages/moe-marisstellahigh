@@ -6,7 +6,7 @@ variant: markdown
 ---
 <br><br>
 <p></p>
-<center><img style="width:440px;height:360px;margin-center:15px;" height="auto" width="100%" src="/images/boy%20eng%20seng.jpeg"></center>
+<center><img style="width:440px;height:360px;" height="auto" width="100%" src="/images/boy%20eng%20seng.jpeg"></center>
 
 <p></p>
 <p>2023 was an amazing year. The school received many encouraging results.
