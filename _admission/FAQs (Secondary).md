@@ -16,7 +16,7 @@ Since 2019, MOE has reserved 20% of all places in secondary schools with affilia
 
 3. Must my son/ward take Higher Chinese/Chinese Language to enter Maris Stella High School?
 
-A student who wishes to pursue his education in a SAP school, including Maris Stella High School, must take CL or HCL as his Mother Tongue language. Students need not take HCL at P6 to enter the school.
+With effect from 2025, a student who wishes to pursue his education in Maris Stella High School must offer HCL as his Mother Tongue language. Students need not have to take HCL in P6 to be admitted to the school.
 
 4. Must my son/ward be a Catholic to join the school?
 
