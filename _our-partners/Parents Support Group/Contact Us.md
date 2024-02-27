@@ -7,7 +7,6 @@ variant: markdown
 ---
 # Contact Us
 
-Parents who are interested to join the Parent Support Group, please fill up the form by clicking the&nbsp;[link](mshspsg.com).  
+Parents who are interested to join the Parent Support Group, please fill up the form by clicking the&nbsp;[link](http://mshspsg.com).  
   
-For more information, email us at
-&nbsp;[Hello@mshspsg.com](Hello@mshspsg.com)
+For more information, email us at [hello@mshspsg.com](hello@mshspsg.com)
