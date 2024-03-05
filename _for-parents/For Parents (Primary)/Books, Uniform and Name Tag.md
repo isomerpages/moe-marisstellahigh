@@ -9,7 +9,7 @@ third_nav_title: For Parents (Primary)
 
 **Pacific Bookstores Pte Ltd**
 
-Tel: 6285 5906 (School)<br>
+Tel: 9435 5892 (School)<br>
 
   
 
