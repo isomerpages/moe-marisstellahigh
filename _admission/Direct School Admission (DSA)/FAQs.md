@@ -3,6 +3,7 @@ title: FAQs
 permalink: /admission/secondary/direct-school-admission-dsa/faqs/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 # FREQUENTLY ASKED QUESTIONS (DSA)
 
@@ -84,9 +85,7 @@ Answer: DSA application results are final. There will not be an appeal after the
 
 Answer: No, you will not be given an option to choose SAP Schools as the application portal will filter off these option for your child to choose.
 
-17.&nbsp; &nbsp;<u>Must my son take Higher Chinese while in the school?</u>
 
-Answer: At Secondary 1, all of our students are offered the chance to take Higher Chinese. While the school offers the option to do so, it is not compulsory and a student may indicate his preference for taking either Higher Chinese or Chinese.
 
   
 
