@@ -21,4 +21,3 @@ variant: markdown
 **School Matters**
 *   [Marist Book Lab](/maristbooklab/)
 *   [Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/) (flipped version for online viewing)
-*   [Maris Stella High School Yearbook 2022 (PDF version)](https://drive.google.com/drive/folders/126p-CHw2Rki16iGKNCHDR4VSXLDrhjAo) (for downloading)
