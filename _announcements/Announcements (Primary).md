@@ -30,7 +30,7 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Fusion Food Stall (Halal/Non-Halal)</td>
-    <td style="width: 50%" class="tg-0lax">29 Feb 2024</td>
+    <td style="width: 50%" class="tg-0lax">30 Apr 2024</td>
 		<td style="width: 50%" class="tg-0lax">Japanese/Korean/Thai food etc. are acceptable</td>
   </tr>
 </tbody>
@@ -66,7 +66,7 @@ variant: markdown
 
 * Nearest MRT: Bartley MRT (CC12 line) – 3 minutes walking distance
 
-* Bus number: 28, 93, 129, 158 - 1 minute walking distance from nearest bus stop.
+* Bus number: 28, 93, 129, 146, 158 - 1 minute walking distance from nearest bus stop.
 
 **Interest applicants must meet the following criteria:**
 
