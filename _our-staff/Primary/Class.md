@@ -84,10 +84,7 @@ variant: markdown
     <td style="width: 50%" class="tg-06je">1 Henry</td>
     <td style="width: 50%" class="tg-06je">Teo-Lim Bee Hong Pauline (Mrs)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-06je">1 Henry</td>
-    <td style="width: 50%" class="tg-06je">Seow Mei Ying Madeline (Mrs)</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-06je">1 Ignatius</td>
     <td style="width: 50%" class="tg-06je">Boon Swee Cho Alethea (Mrs)</td>
@@ -241,7 +238,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">3 Dominic</td>
     <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
   </tr>
- 
+ <tr>
+    <td style="width: 50%" class="tg-0lax">3 Dominic</td>
+    <td style="width: 50%" class="tg-0lax">Sun Shean Yu(Mdm)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Edward</td>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
@@ -411,6 +411,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">5 Francis</td>
     <td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">5 Francis</td>
+    <td style="width: 50%" class="tg-0lax">Tan Yan Zhi Eugene (Mr)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Gabriel</td>
     <td style="width: 50%" class="tg-0lax">Fang Meiling (Mdm)</td>
@@ -468,10 +472,7 @@ variant: markdown
     <td style="width: 50%" class="tg-06je">6 Charles</td>
     <td style="width: 50%" class="tg-06je">Wong Chee Wai Eugene (Mr)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-06je">6 Charles</td>
-    <td style="width: 50%" class="tg-06je">Yap Kevin (Mr)</td>
-  </tr>
+
   <tr>
     <td class="tg-06je">6 Dominic</td>
     <td class="tg-06je">Tan Leng Leong (Mr)</td>
