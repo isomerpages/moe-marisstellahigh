@@ -626,18 +626,12 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Siti Muliyanti Binte Ab Rahman (Miss)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Seow Mei Ying Madeline (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 <tr>
     <td style="width: 50%" class="tg-0lax">Tye Meifen Jasmine (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Yap Shao Kuan Kevin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 
 </tbody>
 </table>
@@ -894,10 +888,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-		 <tr>
-    <td style="width: 50%" class="tg-0lax">Seow Mei Ying Madeline (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -910,10 +901,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Yap Shao Kuan Kevin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 
 </tbody>
 </table>
@@ -928,6 +916,7 @@ variant: markdown
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+	
 </style>
 <table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
@@ -937,35 +926,32 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Sim Mei Geok Shirley (Ms)</td>
+ <tr>
+    <td style="width: 50%" class="tg-0lax">Sim Mei Geok Shirley </td>
     <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
-	</tr>
-  <tr>
-   </tr>
-    <tr><td style="width: 50%" class="tg-0lax">Lim Guat Eng Jenny (Ms)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Lim Guat Eng Jenny (Ms) </td>
     <td style="width: 50%" class="tg-0lax">School Counsellor (flexi)</td>
   </tr>
-  
- <tr>
+	 <tr>
     <td style="width: 50%" class="tg-0lax">Wong Ee Sheng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-	</tr>
-  
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
+  </tr>
+		 <tr>
+	  <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
-		<tr>
-    <td style="width: 50%" class="tg-0lax">Tey Wee Xin (Ms)</td>
+		 <tr>
+		  <td style="width: 50%" class="tg-0lax">Tey Wee Xin (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
-		<tr>
-    <td style="width: 50%" class="tg-0lax">Wee Lay Hwee (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer (flexi)</td>
+		 <tr>
+		  <td style="width: 50%" class="tg-0lax">Wee Lay Hwee (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
+	 <tr>
+		  <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
   </tr>
 </tbody>
