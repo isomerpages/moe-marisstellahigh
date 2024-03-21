@@ -39,11 +39,11 @@ DSA application typically begins around May every year. Updated details will be 
 
 *  Must my son/ward take Higher Chinese Language while in the school?
 
-At Secondary 1, all of our students are offered the chance to take Higher Chinese Language. While the school offers the option to do so, it is not compulsory and a student may indicate his preference of taking either Higher Chinese Language or Chinese Language.
+At Secondary 1, all of our students are to take Higher Chinese Language. 
 
 *  Can my son/ward choose to drop Higher Chinese if he cannot cope with the subject?
 
-Yes, he can. However, students who have started Higher Chinese Language in Secondary 1 are encouraged to continue doing so until Secondary 3, where they will take the O-Level Chinese Language examination, before making a decision to continue or not. This is because learning a language takes time.
+Yes, he can. However, students who have started Higher Chinese Language in Secondary 1 are to continue doing so until Secondary 3, where they will take the O-Level Chinese Language examination, before making a decision to continue or not. This is because learning a language takes time.
 
 *  Does the school offer Posting Group 1 or 2 courses of study?
 
