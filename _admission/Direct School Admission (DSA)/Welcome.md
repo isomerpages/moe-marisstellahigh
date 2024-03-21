@@ -3,8 +3,9 @@ title: Welcome
 permalink: /admission/secondary/direct-school-admission-dsa/welcome/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
-# 2023 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL
+# 2024 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL
 
 
   
@@ -15,10 +16,10 @@ third_nav_title: Direct School Admission (DSA)
 
 <p>
 <a href="https://form.gov.sg/5eb8f82b9de2f000116b3084">
-<!--<img src="/images/Admission/registernow.png" style="width:50%"-->
+
 </a></p> 
 
-<center>JOIN US FOR OUR DSA SHARING SESSION<br> 19 MAY 2023 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center><p></p>
+<center>JOIN US FOR OUR DSA SHARING SESSION<br> 3 MAY 2024 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center><p></p>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcO3rUl8tmCl6xCYybLUqbwubE8mnn3pVaoKudXId-n83Wxzk0yG_otlVfpV1iDQ/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
