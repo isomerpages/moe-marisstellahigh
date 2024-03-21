@@ -3,6 +3,7 @@ title: DSA Process
 permalink: /admission/secondary/direct-school-admission-dsa/dsa-process/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 # ADMISSION CRITERIA
 
@@ -10,14 +11,14 @@ third_nav_title: Direct School Admission (DSA)
   
 
 
-To apply via Direct School Admission (DSA) Exercise for Admission to Secondary One in&nbsp;2024&nbsp;at Maris Stella High School, current Primary 6 male students must satisfy the following criteria:
+To apply via Direct School Admission (DSA) Exercise for Admission to Secondary One in&nbsp;2025&nbsp;at Maris Stella High School, current Primary 6 male students must satisfy the following criteria:
 
 
 
-*   _Academic_&nbsp;_entry requirements (PSLE Score) eligible for Posting Group 3 and must offer Chinese as Mother Tongue Language_
+*   _Academic_&nbsp;_entry requirements (PSLE Score) eligible for Posting Group 3 and must offer Chinese as Mother Tongue Language in Primary School._
 *   _Requirements stated for the area of talent that he is interested in_
 
-
+Successful applicants must take Higher Chinese as the Mother Tongue Language in 2025. 
 
 
 
@@ -53,7 +54,7 @@ To apply via Direct School Admission (DSA) Exercise for Admission to Secondary O
 
 <b><u>MSHS Aesthetics Requirements</u></b>
 
-(a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should preferably be a member of the following Performing Arts CCA in 2022 and 2023
+(a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should preferably be a member of the following Performing Arts CCA in 2023 and 2024
 
 * Concert Band
 
@@ -69,7 +70,7 @@ To apply via Direct School Admission (DSA) Exercise for Admission to Secondary O
 
 <b><u>MSHS Scouts Requirements</u></b>
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants must be a member of the Cub Scouts in 2022 and 2023;
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants must be a member of the Cub Scouts in 2023 and 2024;
 
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actively involved in the Scouts Movement; and
 
@@ -79,7 +80,7 @@ To apply via Direct School Admission (DSA) Exercise for Admission to Secondary O
 
 <b><u>MSHS Clubs and Societies Requirements</u></b>
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants should preferably be a member in one of these CCAs in 2022 and 2023
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants should preferably be a member in one of these CCAs in 2023 and 2024
 
 * Chinese Language – Drama and Debate
 
@@ -126,14 +127,16 @@ Other than participation in school-wide activities which aim to deepen the under
 
   
 
-### SELECTION PROCESS
+### SELECTION PROCESS 
+(To be updated in May 2024)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted are required to go through DSA selection conducted by the school.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications and vacancies, shortlisted applicants will be notified via email to attend a in-person selection exercise which will be conducted between **26 June– 25 August 2023.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications and vacancies, shortlisted applicants will be notified via email to attend a in-person selection exercise which will be conducted between **XX June– XX August 2024.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Shortlisted applicants will be informed of the exact date, time and venue for the audition/trial.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to all shortlisted applicants by **11 September 2023** (Monday), informing them if they have been given a _Confirmed Offer,_ placed on the _Waiting List_ or being _Rejected._
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to all shortlisted applicants by **XX September 2024** (Monday), informing them if they have been given a _Confirmed Offer,_ placed on the _Waiting List_ or being _Rejected._
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp; Students given a **_Confirmed Offer_** are guaranteed a place in the school provided they qualify for the **Posting Group 3** of study.
 
@@ -148,24 +151,24 @@ Other than participation in school-wide activities which aim to deepen the under
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">4 May, 11am –</span></p><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">31 </span><span style="mso-bidi-font-size:16.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">May 2023, 3pm</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">X May, 11am –</span></p><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">XX </span><span style="mso-bidi-font-size:16.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">May 2024, 3pm</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">Submission of online DSA Application Form</span></p></td></tr><tr style="mso-yfti-irow:2;height:28.65pt"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt;height:28.65pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By 30 June 2023</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By XX June 2024</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt;height:28.65pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
   11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">School to send e-mail notification to shortlisted </span><span style="font-family:&quot;Arial&quot;,sans-serif">applicants</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">.</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">26 June – <span style="mso-spacerun:yes">&nbsp;</span>25 August 202</span><span style="mso-bidi-font-size:
-  16.0pt;font-family:&quot;Arial&quot;,sans-serif">3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">XX June – <span style="mso-spacerun:yes">&nbsp;</span>XX August 202X</span><span style="mso-bidi-font-size:
+  16.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
@@ -173,7 +176,7 @@ Other than participation in school-wide activities which aim to deepen the under
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-bottom:0mm;mso-pagination:none;tab-stops:
-  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By 11 September 202</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">3</span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
+  11.0pt 36.0pt;mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif">By XX September 202X</span><span style="mso-bidi-font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><p class="MsoNormal" style="margin-top:0mm;margin-right:-7.45pt;margin-bottom:
@@ -183,7 +186,7 @@ Other than participation in school-wide activities which aim to deepen the under
 
 **How To Apply**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from X May 2024, 11 am to XX May 2024, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
 In your submission, please provide information such as position played in the sports, belt attainment in taekwondo, wushu specialization, instrument played and grade level, whichever is applicable for the talent area that you are applying. This information will help in the shortlisting and arrangement of selection exercise schedule.
 
@@ -195,7 +198,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 **Application Deadline**
 
-**31 May 2023, 3pm**&nbsp;
+**XX May 2024, 3pm**&nbsp;
 
 **Useful MOE weblinks**
 
@@ -247,7 +250,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
   DengXian;mso-bidi-font-family:Latha"></span></p><p class="MsoNormal" style="margin-bottom:0mm"><span style="mso-bidi-font-size:
   11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">(Non Mainstream Students)</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-fareast-font-family:DengXian;mso-bidi-font-family:Latha"></span></p><p class="MsoNormal" style="margin-bottom:0mm"><span style="mso-bidi-font-size:
-  11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">* go live on 4 May, 11am</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">* go live on XX May, 11am</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-fareast-font-family:DengXian;mso-bidi-font-family:Latha"></span></p></td><td width="301" valign="top" style="width:225.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
