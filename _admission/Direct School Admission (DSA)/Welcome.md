@@ -19,7 +19,7 @@ variant: markdown
 
 </a></p> 
 
-<center>JOIN US FOR OUR DSA SHARING SESSION<br> 3 MAY 2024 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center><p></p>
+<center>JOIN US FOR OUR DSA SHARING SESSION<br> 17 MAY 2024 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center><p></p>
 
 
 
