@@ -3,6 +3,7 @@ title: CCE
 permalink: /programmes/secondary/cce/
 description: ""
 third_nav_title: Secondary
+variant: markdown
 ---
 # CCE
 
@@ -43,25 +44,30 @@ To give greater focus to students acquiring values through service, Marists are 
 To provide opportunities for Marists to engage with various community sectors, each level has a different focus and experience:
 
   
-Sec 1: Care for the environment  
-  
-Sec 2: Serving the elderly at St Theresa's Home  
-  
-Sec 3: Class-initiated projects with various community sectors (Elderly, Children with special needs etc)  
-  
-Sec 4: Level-wide community project (e.g. community sports event for the seniors -&nbsp;_Goldympics 2019_)  
+    
 
+**Sec 1: Partnership with St. Theresa’s Home**
+
+Sec 1 students have the opportunity to plan interactive activities with the elderly and also support the home in cleaning.
+
+**Sec 2: Partnership with Geylang East Home for the Aged and St. Luke Eldercare**
+
+Sec 2 students have the opportunity to plan interactive activities, and most classes will also showcase what they have learned in Appreciation of Chinese Culture (ACC) lessons by putting up a festive drum performance for the seniors. Some classes will visit Geylang East Home for the Aged, while others will host seniors from St. Luke Eldercare in school.
+
+**Sec 3: Class-initiated projects with various community sectors**
+
+Sec 3 students have the autonomy to decide the community sector they would like to support. They are responsible for planning and executing the projects, with support and guidance from their Form Teachers. Past projects include supporting Willing Hearts, Al Islah Mosque during the month of Ramadan, and supporting the Blessing in Harmony initiative in Punggol.
+
+**Sec 4: Class-initiated projects with various community sectors**
+
+Sec 4 students are encouraged to continue their partnership with the community organization they supported in Sec 3. Some may decide to pursue other opportunities to help.
   
 
 **Education and Career Guidance (ECG)**
 
-Education and career guidance aims to nurture Marists' self-awareness, self-directedness and lifeskills to set realistic goals, to continually learn and add value in their future workplace.
+Education and career guidance aims to nurture Marists’ self-awareness, self-directedness, and life skills to set realistic goals and continually learn and add value in their future workplace. It also enables Marists to explore viable education and career options through discussions of industry trends and developments in ECG lessons. 
 
-  
-
-It also enables Marists to explore viable education and career options through discussions of industry trends and developments in ECG lessons.  
-  
-Two key ECG experiences include the 'Day X' experience for Sec 2 and Career Cafe or Sec 4, where speakers from various industries are invited to share their work experiences.  
+Key ECG experiences include the ECG Talk and Sharing, where our alumni return to school and share their ECG journey in secondary school, post-secondary education, and careers with our Sec 2 and Sec 4 students. The speakers focus on how they navigated these important moments in their lives. Selected Sec 3 Marists will take part in the job shadowing program, where they get to follow professionals at their workplace for 5 days and learn more about the skills they need in the work environment.
   
 **Cyber Wellness Education**  
   
