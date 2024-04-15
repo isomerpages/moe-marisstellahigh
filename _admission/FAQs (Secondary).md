@@ -7,7 +7,7 @@ variant: markdown
 ##### ADMISSION
 *  What is the 2023 PSLE score for admission into Maris Stella?
 
-Based on the new PSLE scoring system, the cut-off points in 2022 are AL 14(Pass) for non-affiliated students and AL 16 for affiliated students.
+Based on the new PSLE scoring system, the cut-off points in 2023 are AL 12 for non-affiliated students and AL 16 for affiliated students.
 ###### Higher Chinese grades: D for Distinction, M for Merit, and P for Pass.
 
 *  Are only 20% of the school’s places available for non-affiliated students?
