@@ -21,7 +21,7 @@ variant: markdown
 
 <center>JOIN US FOR OUR DSA SHARING SESSION<br> 17 MAY 2024 (FRIDAY), <br> 3PM AT MARIS STELLA HIGH SCHOOL.</center><p></p>
 
-
+Click [here](https://form.gov.sg/5eb8f82b9de2f000116b3084) to register for the DSA Sharing Session.
 
 
 ### ADDITIONAL DETAILS
