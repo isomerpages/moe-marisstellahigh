@@ -79,7 +79,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Chew Ying Pearly (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / SEN</td>
   </tr>
   <tr>
