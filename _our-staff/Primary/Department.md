@@ -79,7 +79,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Chew Ying Pearly (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / SEN</td>
   </tr>
   <tr>
@@ -308,6 +308,10 @@ variant: markdown
 <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Sun Shean Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chua Kho Shin (Mdm)</td>
@@ -629,6 +633,11 @@ variant: markdown
 
 <tr>
     <td style="width: 50%" class="tg-0lax">Tye Meifen Jasmine (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+
+<tr>
+    <td style="width: 50%" class="tg-0lax">Tan Yan Zhi Eugene (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 
