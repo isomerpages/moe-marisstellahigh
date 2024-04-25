@@ -74,12 +74,7 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">HOD/ English Language</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Thong Wee Sin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
-  </tr>
- 
+  </tr> 
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Siok Lee (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Science</td>
@@ -247,10 +242,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chong Yew Keng Audrey (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / CCE</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Amrit Singh Gill (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Goh Hwee Fang Vanessa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -308,10 +300,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Thong Wee Sin (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Florence Lim Jie Ru (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
@@ -463,6 +452,10 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Chia Kian Boon Edwin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / Physics</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Chng Wan Ting Zenia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Educational Technology</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lucy Yeo (Ms)</td>
