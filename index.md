@@ -15,7 +15,9 @@ sections:
   - infopic:
       title: 2024 DSA@MSHS
       id: infopic
-      description: "Maris Stella High School DSA Sharing Session "
+      description: |-
+        Maris Stella High School DSA Sharing Session
+        Date: 17th May 2024
       button: Click here to Find OUT MORE
       url: https://www.marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/welcome/
       image: /images/Admission/dsa banner.jpeg
