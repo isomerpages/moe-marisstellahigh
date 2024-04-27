@@ -12,7 +12,8 @@ variant: markdown
 
 ### WELCOME TO THE MARIS STELLA HIGH SCHOOL DSA PAGE.
 
-![](/images/Admission/dsa%20banner.jpeg)
+![](/images/dsa.jpg)
+
 
 <p>
 <a href="https://form.gov.sg/5eb8f82b9de2f000116b3084">
