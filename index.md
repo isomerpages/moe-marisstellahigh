@@ -20,6 +20,6 @@ sections:
         Date: 17th May 2024
       button: Click here to Find OUT MORE
       url: https://www.marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/welcome/
-      image: /images/Admission/dsa banner.jpeg
+      image: /images/dsa.jpg
       alt: Image alt text
 ---
