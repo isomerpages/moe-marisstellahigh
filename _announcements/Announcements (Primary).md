@@ -30,7 +30,7 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Fusion Food Stall (Halal/Non-Halal)</td>
-    <td style="width: 50%" class="tg-0lax">30 Apr 2024</td>
+    <td style="width: 50%" class="tg-0lax">31 July 2024</td>
 		<td style="width: 50%" class="tg-0lax">Japanese/Korean/Thai food etc. are acceptable</td>
   </tr>
 </tbody>
