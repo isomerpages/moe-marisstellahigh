@@ -16,7 +16,7 @@ variant: markdown
 **School Matters**
 
 *   [School Timetable](/useful-links-and-info/secondary/for-students/school-timetable/)
-*   [School Rules](/files/Useful%20Links%20and%20Info/Secondary/2020_MSHS_Marist%20Companion_Code%20of%20Conduct_Rules.pdf)
+*  [School Rules](/files/MSHS_School_Rules_2024.pdf)
 *   [School Calendar](https://calendar.google.com/calendar/embed?src=c_i7c7e2cj7583s1j1v8ompfgpqc%40group.calendar.google.com&ctz=Asia%2FSingapore)
 *   [School Library Catalogue](https://schoolibrary.moe.edu.sg/marisstellahigh/)
 
