@@ -8,10 +8,6 @@ notification: Our DSA selection process has been updated. Check it out!!
 sections:
   - hero:
       background: /images/Homepage GIF.gif
-  - infobar:
-      title: Announcements
-      button: Click Here
-      url: /school-happenings/secondary/announcements/
   - infopic:
       title: 2024 DSA@MSHS
       id: infopic
