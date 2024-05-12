@@ -4,7 +4,7 @@ permalink: /humanities-sample/
 variant: tiptap
 description: ""
 ---
-<h1>Humanities</h1>
+<h1><strong>Humanities</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_04_at_10_23_37_PM.jpg">
 </div>
@@ -135,7 +135,7 @@ CCM curriculum in order to enrich their learning of the language.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Learning Opportunities</h4>
+<h4><strong>Learning Opportunities</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -191,4 +191,5 @@ CCM curriculum in order to enrich their learning of the language.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <p></p>
