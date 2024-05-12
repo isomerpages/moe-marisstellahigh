@@ -6,29 +6,20 @@ description: ""
 ---
 <h1>Humanities</h1>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/Academic%20Programme/Secondary/humanities_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_04_at_10_23_37_PM.jpg">
 </div>
-<p><strong>The Humanities</strong>&nbsp;<strong>Department</strong>&nbsp;<strong>aims to:</strong>&nbsp;</p>
-<ul>
-<li>
-<p>Inculcate in Marists a love for the Humanities subjects; and&nbsp;</p>
-</li>
-<li>
-<p>Develop Marists to be critical and independent thinkers prepared to face
-the globalised world while remaining rooted in Singapore.</p>
-</li>
-</ul>
-<p><strong>To achieve the Department's goals, the following programmes are offered:</strong>
-</p>
-<ul>
-<li>
-<p>Lower Secondary Humanities (History &amp; Geography)</p>
-</li>
-<li>
-<p>Upper Secondary Humanities (Social Studies, Elective Geography &amp; History,
-Geography &amp; History)</p>
-</li>
-</ul>
+<p></p>
+<p>Our Humanities Department offers a diverse curriculum encompassing history,
+geography, and social studies, aimed at fostering critical thinking and
+a deep understanding of human cultures and the environment. Teaching approaches
+are varied and innovative, including project-based learning, debates, and
+the use of digital technologies, which encourage active participation and
+engagement. The department makes learning engaging by incorporating field
+trips, guest lectures, and multimedia resources, thus connecting classroom
+learning to real-world issues. These methods not only enhance students'
+knowledge and skills but also ignite a passion for lifelong learning in
+the field of humanities.</p>
+<p></p>
 <p>We adopt an Inquiry-Based Learning Approach in our teaching of the Humanities.
 It consists of four main areas of inquiry:</p>
 <div class="isomer-image-wrapper">
@@ -36,24 +27,8 @@ It consists of four main areas of inquiry:</p>
 </div>
 <p>In the study of Humanities, our students are actively engaged in inquiry.
 This is best seen in a component called Geographical &amp; Historical Investigations
-(GI and HI respectively).</p>
-<p>In addition, we work with the Student Development Committee to come up
-with a series of Learning Journeys that have their anchor in Humanities
-topics and concepts. Some of the Learning Journeys we have completed include:</p>
-<ul>
-<li>
-<p>NEWater Learning Journey</p>
-</li>
-<li>
-<p>Madame Tussauds Museum</p>
-</li>
-<li>
-<p>Resilience Trails</p>
-</li>
-<li>
-<p>Parliament House Visits</p>
-</li>
-</ul>
+(GI and HI respectively) and learning journeys.</p>
+<p></p>
 <p><strong>Marists are given the opportunities to participate in the following competitions:</strong>
 </p>
 <ul>
@@ -98,7 +73,6 @@ topics and concepts. Some of the Learning Journeys we have completed include:</p
 <td rowspan="1" colspan="1">
 <p>• Geography
 <br>• History
-<br>• Malay Special Programme
 <br>• Conversational Malay Programme</p>
 </td>
 </tr>
@@ -109,13 +83,12 @@ topics and concepts. Some of the Learning Journeys we have completed include:</p
 <td rowspan="1" colspan="1">
 <p>• Geography
 <br>• History
-<br>• Humanities (Social Studies, Geography Elective/ History Elective)
-<br>• Malay Special Programme</p>
+<br>• Humanities (Social Studies, Geography Elective/ History Elective)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Learning Programmes:</strong>
+<p><strong>Uniquely Marists:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -172,7 +145,7 @@ towards their development as informed, concerned and participative citizens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Conversational Malay Programme (CMP)</p>
+<p>Conversational Malay Programme (CCM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary 1 and 2</p>
@@ -184,10 +157,66 @@ respective languages which enables them to engage their counterparts in
 the region. It will also help students to enhance rapport with their friends
 of different races in the community.
 <br>
-<br>CMP is conducted fortnightly during curriculum hours for all students
-in Chung Cheng. Students will also be exposed to the culture of the Malays
-throughout their CMP curriculum in order to enrich their learning of the
-language.</p>
+<br>CMP is conducted fortnightly during curriculum hours for all students.
+Students will also be exposed to the culture of the Malays throughout their
+CCM curriculum in order to enrich their learning of the language.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Opportunities for Marists</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description of Opportunities</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mock United Nations Conferences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Stamp Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
