@@ -4,7 +4,8 @@ permalink: /humanities-sample/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Humanities</strong></h1>
+<h1><strong>Humanities Department</strong></h1>
+<h1><strong>人文部门</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_04_at_10_23_37_PM.jpg">
 </div>
