@@ -20,6 +20,7 @@ learning to real-world issues. These methods not only enhance students'
 knowledge and skills but also ignite a passion for lifelong learning in
 the field of humanities.</p>
 <p></p>
+<p>我们的人文系提供涵盖历史、地理和社会研究的多元化课程，旨在培养批判性思维以及对人类文化和环境的深刻理解。教学方法多种多样且具有创新性，包括基于项目的学习、辩论和数字技术的使用，鼓励积极参与和参与。该系通过结合实地考察、客座讲座和多媒体资源，使学习变得有趣，从而将课堂学习与现实世界的问题联系起来。这些方法不仅增强了学生的知识和技能，而且点燃了人文领域终身学习的热情。</p>
 <h4><strong>Subjects Offered:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -59,6 +60,47 @@ the field of humanities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>科目选项：</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>年级</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>科目</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>中一，中二</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>地理</p>
+<p>历史</p>
+<p>马来语会话课程</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>中三，中四</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>地理</p>
+<p>历史</p>
+<p>社会学，选修地理, 选修历史</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Uniquely Marists:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -127,7 +169,7 @@ respective languages which enables them to engage their counterparts in
 the region. It will also help students to enhance rapport with their friends
 of different races in the community.
 <br>
-<br>CMP is conducted fortnightly during curriculum hours for all students.
+<br>CCM is conducted fortnightly during curriculum hours for all students.
 Students will also be exposed to the culture of the Malays throughout their
 CCM curriculum in order to enrich their learning of the language.</p>
 </td>
@@ -135,7 +177,65 @@ CCM curriculum in order to enrich their learning of the language.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Learning Opportunities</strong></h4>
+<h4><strong>海星仅有：</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>学习项目名称</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>年级</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>学习项目说明</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>地理考察与历史考察</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>中一，中二</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geographical I地理考察（GI）和历史考察（HI）是学生调查地理和历史问题的两种探究形式。 GI 和 HI 为学生提供了欣赏地理和历史知识和技能在现实世界中应用的机会，并帮助他们获得
+21 世纪的能力。</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>社会学考察</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>中三</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>社会学考察（II）为学生提供了一个展示积极公民所需的知识、技能和价值观的平台。通过 II 培养的技能与初中通过 GI 和 HI 培养的技能密切相关。这也将帮助学生了解不同人文学科之间的关系，并欣赏通过学科发展的技能，这将有助于他们发展成为知情、关心和参与的公民。</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>马来语会话课程</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>中一，中二</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>该计划旨在加强新加坡不同种族之间的社会凝聚力，并使学生对各自的语言有基本的掌握，使他们能够与该地区的同行进行交流。它还将帮助学生增强与社区中不同种族朋友的融洽关系。</p>
+<p>CCM 每两周在课程时间内为所有学生进行一次。学生还将在 CCM 课程中接触马来人文化，以丰富他们的语言学习。</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Learning Opportunities：</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -178,12 +278,48 @@ CCM curriculum in order to enrich their learning of the language.</p>
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><strong>学习伸展机会：</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>学习伸展项目名称</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><strong>年级</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>学习项目说明</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>模拟联合国会议</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>中三</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>全国邮票大赛</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>全年级</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -191,5 +327,4 @@ CCM curriculum in order to enrich their learning of the language.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
