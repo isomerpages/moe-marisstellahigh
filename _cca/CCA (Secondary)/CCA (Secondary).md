@@ -3,6 +3,7 @@ title: CCA (Secondary)
 permalink: /programmes/secondary/cca/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <center><h1>Physical Sports</h1></center>
 
@@ -150,7 +151,7 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-orchestra/"><center><h3>Chinese Orchestra<br>华乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-orchestra/"><center><h3>Chinese Orchestra<br>华乐团</h3></center></a></td>
     <td class="tg-0lax" style="width: 50"><a href="/programmes/secondary/cca/symphonic-band/"><center><h3>Symphonic Band<br>交响乐队</h3></center></a></td>
   </tr>
 </thead>
