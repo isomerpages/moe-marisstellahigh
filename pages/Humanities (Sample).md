@@ -20,36 +20,7 @@ learning to real-world issues. These methods not only enhance students'
 knowledge and skills but also ignite a passion for lifelong learning in
 the field of humanities.</p>
 <p></p>
-<p>We adopt an Inquiry-Based Learning Approach in our teaching of the Humanities.
-It consists of four main areas of inquiry:</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Academic%20Programme/Secondary/humanities_v2.jpg">
-</div>
-<p>In the study of Humanities, our students are actively engaged in inquiry.
-This is best seen in a component called Geographical &amp; Historical Investigations
-(GI and HI respectively) and learning journeys.</p>
-<p></p>
-<p><strong>Marists are given the opportunities to participate in the following competitions:</strong>
-</p>
-<ul>
-<li>
-<p>Mock United Nations Conferences</p>
-</li>
-<li>
-<p>National Stamp Competition</p>
-</li>
-<li>
-<p>Raffles Humanities Competition</p>
-</li>
-<li>
-<p>NUS Geography Challenge</p>
-</li>
-<li>
-<p>Tourism Competition</p>
-</li>
-</ul>
-<p><strong>Subjects Offered:</strong>
-</p>
+<h4><strong>Subjects Offered:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,8 +59,7 @@ This is best seen in a component called Geographical &amp; Historical Investigat
 </tr>
 </tbody>
 </table>
-<p><strong>Uniquely Marists:</strong>
-</p>
+<h4><strong>Uniquely Marists:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -165,7 +135,7 @@ CCM curriculum in order to enrich their learning of the language.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<h4>Learning Opportunities</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
