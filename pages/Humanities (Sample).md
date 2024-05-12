@@ -4,8 +4,9 @@ permalink: /humanities-sample/
 variant: markdown
 description: ""
 ---
-<h1><strong>Humanities Department</strong></h1>
-<h1><strong>人文部门</strong></h1>
+<h1><strong>Humanities 
+	（人文）</strong></h1>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_04_at_10_23_37_PM.jpg">
 </div>
@@ -84,19 +85,19 @@ the field of humanities.</p>
 <p>中一，中二</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>地理</p>
-<p>历史</p>
-<p>马来语会话课程</p>
-</td>
+<p>• 地理
+<br>• 历史
+<br> •马来语会话课程
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>中三，中四</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>地理</p>
-<p>历史</p>
-<p>社会学，选修地理, 选修历史</p>
+<p>• 地理
+<br>• 历史
+<br>• 社会学，选修地理, 选修历史</p>
 </td>
 </tr>
 </tbody>
