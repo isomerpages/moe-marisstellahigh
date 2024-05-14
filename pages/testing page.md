@@ -22,7 +22,6 @@ description: ""
     h1 {
         font-size: 28px;
     }
-    /* Media query for smaller screens */
     @media only screen and (max-width: 600px) {
         h1 {
             font-size: 24px;
