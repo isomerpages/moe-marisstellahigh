@@ -17,6 +17,17 @@ description: ""
             background-color: #171C8F; /* Light blue background */
         }
 </style>
+<style>
+    /* Default styles */
+    h1 {
+        font-size: 28px;
+    }
+    @media only screen and (max-width: 600px) {
+        h1 {
+            font-size: 24px;
+        }
+    }
+</style>
 <p>Our Humanities Department offers a diverse curriculum encompassing history,
 geography, and social studies, aimed at fostering critical thinking and
 a deep understanding of human cultures and the environment. Teaching approaches
