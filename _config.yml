@@ -3,7 +3,7 @@ url: https://marisstellahigh.moe.edu.sg
 favicon: /images/sgp_maris_stella_high_school_crest.png
 colors:
   primary-color: "#8a7969"
-  secondary-color: "#000000"
+  secondary-color: "#eef880"
   media-colors:
     - title: media-color-one
       color: "#49759a"
