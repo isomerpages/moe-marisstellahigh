@@ -18,13 +18,13 @@ description: ""
         }
 </style>
 <style>
-    /* Default styles */
-    h1 {
-        font-size: 28px;
+    body {
+        font-size: 16px; /
     }
+
     @media only screen and (max-width: 600px) {
-        h1 {
-            font-size: 24px;
+        body {
+            font-size: 14px; /
         }
     }
 </style>
