@@ -3,6 +3,7 @@ title: CCA (Secondary)
 permalink: /programmes/secondary/cca/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <center><h1>Physical Sports</h1></center>
 
@@ -17,9 +18,9 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/archery/"><center><h3>Archery<br>射箭</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/badminton/"><center><h3>Badminton<br>羽球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/basketball/"><center><h3>Basketball<br>篮球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/archery/"><center><h5>Archery<br>射箭</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/badminton/"><center><h5>Badminton<br>羽球</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/basketball/"><center><h5>Basketball<br>篮球</h5></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -41,9 +42,9 @@ third_nav_title: CCA (Secondary)
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/bowling/"><center><h3>Bowling<br>保龄球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/taekwondo/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/bowling/"><center><h5>Bowling<br>保龄球</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/table-tennis/"><center><h5>Table Tennis<br>乒乓</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/taekwondo/"><center><h5>Taekwondo<br>跆拳道</h5></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">
@@ -63,9 +64,9 @@ third_nav_title: CCA (Secondary)
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/softball/"><center><h3>Softball<br>垒球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/wushu/"><center><h3>Wushu<br>武术</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/outdoor-activities-club/"><center><h3>Outdoor Activities Club<br>户外运动</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/softball/"><center><h5>Softball<br>垒球</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/wushu/"><center><h5>Wushu<br>武术</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/outdoor-activities-club/"><center><h5>Outdoor Activities Club<br>户外运动</h5></center></a></td>
   </tr>
   <tr>
     <td style="padding-top: 0;" class="tg-0lax">
@@ -103,10 +104,10 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-cadet-corps-sea/"><center><h3>National Cadet Corps (Sea)<br>学生军团（海军）
-</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-police-cadet-corps/"><center><h3>National Police Cadet Corps<br>学生警团</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/singapore-scouts/"><center><h3>Scouts<br>童军</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-cadet-corps-sea/"><center><h5>National Cadet Corps (Sea)<br>学生军团（海军）
+</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/national-police-cadet-corps/"><center><h5>National Police Cadet Corps<br>学生警团</h5></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/singapore-scouts/"><center><h5>Scouts<br>童军</h5></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -127,7 +128,7 @@ third_nav_title: CCA (Secondary)
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/st-john-brigade/"><center><h3>St John Brigade<br>圣约翰救伤队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/cca/st-john-brigade/"><center><h5>St John Brigade<br>圣约翰救伤队</h5></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/secondary/cca/st-john-brigade/">
@@ -150,8 +151,8 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-orchestra/"><center><h3>Chinese Orchestra<br>华乐队</h3></center></a></td>
-    <td class="tg-0lax" style="width: 50"><a href="/programmes/secondary/cca/symphonic-band/"><center><h3>Symphonic Band<br>交响乐队</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-orchestra/"><center><h5>Chinese Orchestra<br>华乐团</h5></center></a></td>
+    <td class="tg-0lax" style="width: 50"><a href="/programmes/secondary/cca/symphonic-band/"><center><h5>Symphonic Band<br>交响乐队</h5></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -182,9 +183,9 @@ third_nav_title: CCA (Secondary)
 <table class="tg" style="table-layout: fixed; width: 100%;">
 <thead>
   <tr>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-literary-society/"><center><h3>Chinese Literary Society<br>华文学会</h3></center></a></td>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/english-literary-society/"><center><h3>English Literary Society<br>英文学会</h3></center></a></td>
-		<td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-digital-media-club/"><center><h3>Marist Digital Media Club<br>海星数码传媒学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/chinese-literary-society/"><center><h5>Chinese Literary Society<br>华文学会</h5></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/english-literary-society/"><center><h5>English Literary Society<br>英文学会</h5></center></a></td>
+		<td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-digital-media-club/"><center><h5>Marist Digital Media Club<br>海星数码传媒学会</h5></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -205,7 +206,7 @@ third_nav_title: CCA (Secondary)
     </td>
   </tr>
 	<tr>
-    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-robotics-and-programming-club/"><center><h3>Marist Robotics and Programming Club<br>海星机器人学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 50%"><a href="/programmes/secondary/cca/marist-robotics-and-programming-club/"><center><h5>Marist Robotics and Programming Club<br>海星机器人学会</h5></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">

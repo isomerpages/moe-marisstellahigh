@@ -3,6 +3,7 @@ title: Academic Programme
 permalink: /programmes/secondary/academic-programme/
 description: ""
 third_nav_title: Secondary
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
