@@ -14,7 +14,7 @@ description: ""
 	background-color: lightgray; /* Light gray background */
         }
         th {
-            background-color: lightblue; /* Light blue background */
+            background-color: #171C8F; /* Light blue background */
         }
 </style>
 <p>Our Humanities Department offers a diverse curriculum encompassing history,
@@ -32,9 +32,10 @@ the field of humanities.</p>
 <h4><strong>Subjects Offered:</strong></h4>
 <table style="minWidth: 50px">
 <tbody><tr><th rowspan="1" colspan="1">
-<p><strong>Level</strong></p>
+<p><strong style="color:white">Level</strong></p>
 </th><th rowspan="1" colspan="1">
-<p><strong>Subjects</strong>
+<p><strong style="color:white">Subjects</strong>
+
 </p></th></tr>
 
 <tr><td rowspan="1" colspan="1">
@@ -60,9 +61,9 @@ Lower Secondary
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>年级</strong>
+<p><strong style="color:white">年级</strong>
 </p></th><th rowspan="1" colspan="1">
-<p><strong>科目</strong>
+<p><strong style="color:white">科目</strong>
 </p></th></tr>
 <tr><td rowspan="1" colspan="1">
 <p>
@@ -86,13 +87,13 @@ Lower Secondary
 <table style="minWidth: 75px">
 <tbody><tr>
 <th rowspan="1" colspan="1">
-<p><strong>Name of Learning Programme</strong>
+<p><strong style="color:white">Name of Learning Programme</strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>Level</strong>
+<p><strong style="color:white">Level</strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>Description of Learning Programme</strong>
+<p><strong style="color:white">Description of Learning Programme</strong>
 </p></th></tr>
 <tr><td rowspan="1" colspan="1">
 <p>Geographical Investigation &amp; Historical Investigation</p></td>
@@ -136,12 +137,12 @@ CCM curriculum in order to enrich their learning of the language.</p>
 <table style="minWidth: 75px">
 <tbody><tr>
 <th rowspan="1" colspan="1">
-<p><strong>学习项目名称</strong>
+<p><strong style="color:white">学习项目名称 </strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>年级</strong>
+<p><strong style="color:white">年级</strong>
 </p></th><th rowspan="1" colspan="1">
-<p><strong>学习项目说明</strong>
+<p><strong style="color:white">学习项目说明</strong>
 </p></th></tr>
 <tr><td rowspan="1" colspan="1"><p>
 </p><p>地理考察与历史考察</p></td>
@@ -174,12 +175,12 @@ CCM curriculum in order to enrich their learning of the language.</p>
 <table style="minWidth: 75px">
 <tbody><tr>
 <th rowspan="1" colspan="1">
-<p>Opportunities for Marists</p></th>
+<p><strong style="color:white">Opportunities for Marists<strong></strong></strong></p></th>
 <th rowspan="1" colspan="1">
-<p><strong>Level</strong>
+<p><strong style="color:white">Level</strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>Description of Opportunities</strong>
+<p><strong style="color:white">Description of Opportunities</strong>
 </p></th></tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -204,13 +205,13 @@ CCM curriculum in order to enrich their learning of the language.</p>
 <table style="minWidth: 75px">
 <tbody><tr>
 <th rowspan="1" colspan="1">
-<p><strong>学习伸展项目名称</strong>
+<p><strong style="color:white">学习伸展项目名称</strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>年级</strong>
+<p><strong style="color:white">年级</strong>
 </p></th>
 <th rowspan="1" colspan="1">
-<p><strong>学习项目说明</strong>
+<p><strong style="color:white">学习项目说明</strong>
 </p></th>
 </tr><tr>
 <td rowspan="1" colspan="1">
