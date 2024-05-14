@@ -65,4 +65,6 @@ links:
         url: /admission/faqs/
   - title: test
     url: /testing-page/
-    sublinks: []
+    sublinks:
+      - title: test
+        url: /testing-page/
