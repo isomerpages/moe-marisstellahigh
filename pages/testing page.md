@@ -4,6 +4,7 @@ permalink: /testing-page/
 variant: markdown
 description: ""
 ---
+
 <h1><strong>Humanities (人文)</strong></h1>
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_04_at_10_23_37_PM.jpg"></div>
 <style>
@@ -16,6 +17,18 @@ description: ""
         th {
             background-color: #171C8F; /* Light blue background */
         }
+</style>
+<style>
+    /* Default styles */
+    h1 {
+        font-size: 28px;
+    }
+    /* Media query for smaller screens */
+    @media only screen and (max-width: 600px) {
+        h1 {
+            font-size: 24px;
+        }
+    }
 </style>
 <p>Our Humanities Department offers a diverse curriculum encompassing history,
 geography, and social studies, aimed at fostering critical thinking and
