@@ -24,7 +24,7 @@ description: ""
 
     @media only screen and (max-width: 600px) {
         body {
-            font-size: 14px; /
+            font-size: 12px; /
         }
     }
 </style>

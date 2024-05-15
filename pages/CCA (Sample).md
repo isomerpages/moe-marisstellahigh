@@ -1,7 +1,7 @@
 ---
 title: CCA (Sample)
 permalink: /cca-sample/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
