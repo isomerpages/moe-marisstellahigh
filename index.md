@@ -4,18 +4,8 @@ title: Maris Stella High School
 description: Brief site description here
 image: /images/sgp_maris_stella_high_school_crest.png
 permalink: /
-notification: Our DSA selection process has been updated. Check it out!!
+notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF.gif
-  - infopic:
-      title: 2024 DSA@MSHS
-      id: infopic
-      description: |-
-        Maris Stella High School DSA Sharing Session
-        Date: 17th May 2024
-      button: Click here to Find OUT MORE
-      url: https://www.marisstellahigh.moe.edu.sg/admission/secondary/direct-school-admission-dsa/welcome/
-      image: /images/dsa.jpg
-      alt: Image alt text
 ---
