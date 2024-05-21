@@ -8,8 +8,8 @@ description: ""
 <details class="isomer-details">
 <summary>Physical Sports</summary>
 
-    
-    
+
+
     <title>Infopic Table</title>
     <style>
         table {
@@ -36,30 +36,26 @@ description: ""
             </td>
             <td class="text-cell">
 							<br><br>
-                <p>Archery</p>
-            </td>					
-			</tr>
+                <p>Your text goes here.</p>
+            </td>
+        </tr>
     </tbody></table>
 
-
+	
 
     <table>
         <tbody><tr>
             <td class="text-cell">
 							<br><br>
-                <p>Basketball</p>
-            </td>					
-					  <td class="image-cell">
+                <p>Your text goes here.</p>
+            </td>
+					 <td class="image-cell">
                 <img style="width: 100%; height: auto;" alt="Description of the image" src="/images/archery_v1.png">
             </td>
-			</tr>
+        </tr>
     </tbody></table>
 
 
-
-<p></p><a class="isomer-image-wrapper" href="www.yahoo.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/string ensemble_d1r1328.jpeg"></a>
-<p>Basketball</p>
-<p></p>
 </details></div>
 
 <details class="isomer-details">
@@ -80,3 +76,6 @@ description: ""
 
 
 
+<p></p><a class="isomer-image-wrapper" href="www.yahoo.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/string ensemble_d1r1328.jpeg"></a>
+<p>Basketball</p>
+<p></p>
