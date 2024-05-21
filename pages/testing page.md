@@ -1,52 +1,47 @@
 ---
 title: testing page
 permalink: /testing-page/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style>
-		table {
-		width: 100%
-		}
-	td{
-	border: 1px solid #000:
-	padding: 10px;
-	text-align: center;
-  vertical-align: middle;
-	}
-	.image-cell {
-	width: 50%;
-	}
-	.text-cell {
-	width: 50%;
-	}
-		</style>
-
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Physical Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/archery_v1.png">
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/archery_v1.png">
+</div>
 </td>
-<td class="text-cell"><p>Archery insert the text here</p>
-</td>
-</tr>
-
-<tr>
-<td class="text-cell"><p>insert the text here</p>
-</td>
-	<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+<td rowspan="1" colspan="1">
+<p>Archery insert the text here</p>
 </td>
 </tr>
-	
 <tr>
-<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/wushu_d1r0570.jpeg">
+<td rowspan="1" colspan="1">
+<p>insert the text here</p>
 </td>
-<td class="text-cell"><p>insert the text here</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/wushu_d1r0570.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>insert the text here</p>
 </td>
 </tr>
 </tbody>
@@ -66,3 +61,4 @@ description: ""
 <p></p>
 </div>
 </details>
+<p></p>
