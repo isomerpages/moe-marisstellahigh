@@ -20,7 +20,7 @@ description: ""
 	width: 50%;
 	}
 	.bg-color{
-	background-color: #B2BEB5;
+	background-color: #EBF5FB;
 	}
 </style>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
