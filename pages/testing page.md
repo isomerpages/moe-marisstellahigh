@@ -1,0 +1,64 @@
+---
+title: testing page
+permalink: /testing-page/
+variant: markdown
+description: ""
+---
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Physical Sports</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/archery_v1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Archery insert the text here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>insert the text here</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/wushu_d1r0570.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>insert the text here</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<details class="isomer-details">
+<summary>Uniformed Groups</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Clubs and Societies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p></p>
