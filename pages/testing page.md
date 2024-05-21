@@ -4,6 +4,22 @@ permalink: /testing-page/
 variant: markdown
 description: ""
 ---
+<style>
+	table{
+	width: 100%
+	}
+	td {
+	border: 1px; solid #000;
+	padding 10px;
+	text-align: center;
+	}
+	.image-cell {
+	width: 50%;
+	}
+	.text-cell {
+	width: 50%;
+	}
+</style>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Physical Sports</summary>
