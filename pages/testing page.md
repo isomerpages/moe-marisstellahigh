@@ -27,7 +27,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th><img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+<th class="image-cell"><img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </th>
 <th>
 <p>insert the text here</p>
