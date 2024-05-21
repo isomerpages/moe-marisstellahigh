@@ -24,7 +24,8 @@ description: ""
 <details class="isomer-details">
 <summary>Physical Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+
+&nbsp;<table>
 <tbody>
 <tr>
 <td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
@@ -38,13 +39,12 @@ description: ""
 </td>
 <td class="text-cell"><p>insert the text here</p>
 </td>
+</tr>
 	
-</tr><tr>
-<td>
-<p>image3</p>
+<tr>
+<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </td>
-<td>
-<p>text3</p>
+<td class="text-cell"><p>insert the text here</p>
 </td>
 </tr>
 </tbody>
