@@ -4,11 +4,15 @@ permalink: /testing-page/
 variant: markdown
 description: ""
 ---
-
-	<style>
+<style>
 		table {
 		width: 100%
 		}
+	td{
+	border: 1px solid #000:
+	padding: 10px;
+	}
+	
 		</style>
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
