@@ -4,6 +4,13 @@ permalink: /testing-page/
 variant: markdown
 description: ""
 ---
+
+	<style>
+		table {
+		width: 100%
+		}
+		</style>
+
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Physical Sports</summary>
@@ -11,10 +18,10 @@ description: ""
 <table style="width:100%">
 <tbody>
 <tr>
-<th> <img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+<th><img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </th>
 <th>
-<p>text1</p>
+<p>insert the text here</p>
 </th>
 </tr>
 <tr>
