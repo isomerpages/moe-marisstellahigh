@@ -35,7 +35,6 @@ description: ""
                 <img style="width: 100%; height: auto;" alt="Description of the image" src="/images/archery_v1.png">
             </td>
             <td class="text-cell">
-							<br><br>
                 <p>Your text goes here.</p>
             </td>
         </tr>
@@ -46,7 +45,6 @@ description: ""
     <table>
         <tbody><tr>
             <td class="text-cell">
-							<br><br>
                 <p>Your text goes here.</p>
             </td>
 					 <td class="image-cell">
