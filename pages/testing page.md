@@ -8,33 +8,28 @@ description: ""
 <details class="isomer-details">
 <summary>Physical Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table style="width:100%">
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>image1</p>
+<th> <img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </th>
-<th rowspan="1" colspan="1">
+<th>
 <p>text1</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>text 2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>image2</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>image3</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>text3</p>
 </td>
 </tr>
