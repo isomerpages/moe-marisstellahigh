@@ -19,8 +19,8 @@ description: ""
 	.text-cell {
 	width: 50%;
 	}
-	.bg-colour{
-	background-colour: #ADD8E6;
+	.bg-color{
+	background-color: #ADD8E6;
 	}
 </style>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -36,15 +36,15 @@ description: ""
 </div>
 </td>
 <td class="text-cell">
-<p>Archery insert the text here</p>
+<p>insert the text here</p>
 </td>
 </tr>
 	
 <tr>
-<td class="text-cell">
+<td class="text-cell bg-color">
 <p>insert the text here</p>
 </td>
-<td class="image-cell">
+<td class="image-cell bg-color">
 <div class="isomer-image-wrapper">
 <img style="width: 100%; height: auto;" height="auto" width="100%" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </div>
