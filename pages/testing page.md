@@ -7,6 +7,7 @@ description: ""
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Physical Sports</summary>
+ 
 
 
 
@@ -39,19 +40,18 @@ description: ""
             </td>
         </tr>
     </tbody></table>
-
-	
-
     <table>
         <tbody><tr>
             <td class="text-cell">
                 <p>Your text goes here.</p>
             </td>
-					 <td class="image-cell">
+            <td class="image-cell">
                 <img style="width: 100%; height: auto;" alt="Description of the image" src="/images/archery_v1.png">
             </td>
         </tr>
     </tbody></table>
+
+
 
 
 </details></div>
