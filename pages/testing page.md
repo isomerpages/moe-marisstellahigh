@@ -27,13 +27,14 @@ description: ""
 
 <table>
 <tbody>
+
 <tr>
 <td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </td>
 <td class="text-cell"><p>insert the text here</p>
 </td>
 </tr>
-	
+
 <tr>
 <td class="text-cell"><p>insert the text here</p>
 </td>
