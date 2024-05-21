@@ -8,7 +8,7 @@ description: ""
 		table {
 		width: 100%
 		}
-	td{
+	th{
 	border: 1px solid #000:
 	padding: 10px;
 	}
@@ -24,7 +24,7 @@ description: ""
 <details class="isomer-details">
 <summary>Physical Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="width:100%">
+<table>
 <tbody>
 <tr>
 <th><img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
