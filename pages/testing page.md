@@ -8,7 +8,7 @@ description: ""
 		table {
 		width: 100%
 		}
-	th{
+	td{
 	border: 1px solid #000:
 	padding: 10px;
 	}
@@ -16,7 +16,7 @@ description: ""
 	width: 50%;
 	}
 	.text-cell {
-	width:50%
+	width: 50%
 	}
 		</style>
 
@@ -27,21 +27,19 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th class="image-cell"><img style="width: 50%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
-</th>
-<th>
-<p>insert the text here</p>
-</th>
-</tr>
-<tr>
-<td>
-<p>text 2</p>
+<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
 </td>
-<td>
-<p>image2</p>
+<td class="text-cell"><p>insert the text here</p>
 </td>
 </tr>
+	
 <tr>
+<td class="image-cell"><img style="width: 100%; height: auto;" alt="Description of the image" src="/images/string ensemble_d1r1328.jpeg">
+</td>
+<td class="text-cell"><p>insert the text here</p>
+</td>
+	
+</tr><tr>
 <td>
 <p>image3</p>
 </td>
@@ -66,7 +64,3 @@ description: ""
 <p></p>
 </div>
 </details>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="www.yahoo.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/string ensemble_d1r1328.jpeg"></a>
-<p>Basketball</p>
-<p></p>
