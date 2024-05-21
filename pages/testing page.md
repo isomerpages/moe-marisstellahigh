@@ -12,7 +12,12 @@ description: ""
 	border: 1px solid #000:
 	padding: 10px;
 	}
-	
+	.image-cell {
+	width: 50%;
+	}
+	.text-cell {
+	width:50%
+	}
 		</style>
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
