@@ -310,7 +310,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
   </tr>
 		<tr>
-    <td style="width: 50%" class="tg-0lax">Sun Shean Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
   </tr>
   <tr>
