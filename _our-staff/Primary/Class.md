@@ -240,7 +240,7 @@ variant: markdown
   </tr>
  <tr>
     <td style="width: 50%" class="tg-0lax">3 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Sun Shean Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Edward</td>
