@@ -220,7 +220,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
-    <td style="width: 50%" class="tg-0lax">Adeline Tham (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Adeline Tham (Mrs)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
