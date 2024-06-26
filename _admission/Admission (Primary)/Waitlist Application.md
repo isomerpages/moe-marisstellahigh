@@ -14,3 +14,5 @@ Application for Primary 1 waitlist is open annually from 1 Sep to 15 Oct. Applic
 A new application is required for every school year.     
   
 Only shortlisted applicants will be contacted.
+
+Please submit your application via this link: https://go.gov.sg/waitlistmshsp
