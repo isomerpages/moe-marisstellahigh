@@ -391,10 +391,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Zhang Huiyun (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Zhu Ruoye (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 
 </tbody>
 </table>
@@ -698,10 +695,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yong Ren Cui (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Zhu Ruoye (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 </tbody>
 </table>
 
