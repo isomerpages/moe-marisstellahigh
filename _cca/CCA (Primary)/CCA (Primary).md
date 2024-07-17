@@ -132,12 +132,10 @@ variant: markdown
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-literary-drama-club/"><center><h3>Chinese Literary Drama Club<br>中文戏剧学会</h3></center></a></td>
+  
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/chinese-literary-drama-club/">
-<img src="/images/chinese%20speech%20and%20drama%20club_d1r1384.jpeg" alt="chinese speech and drama" width="272" height="153">
-</a></td>
+ 
   </tr>
   </tbody>
 </table>
@@ -156,8 +154,8 @@ variant: markdown
 <thead>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/chinese-chess-club/"><center><h3>Chinese Chess Club<br>中国象棋学会</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/english-drama-society/"><center><h3>English Drama Society<br>英文演艺学会</h3></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/environmental-science-club/"><center><h3>Environmental Science Club<br>环境科学社</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/infocomm-technology-media-production/"><center><h3>Infocomm Technology (Media Product)<br>资讯通讯科技社</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -167,26 +165,22 @@ variant: markdown
 <img src="/images/chinese%20chess%20club_d1r0531.jpeg" alt="chinese chess club">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/cca/english-drama-society/">
-        <img src="/images/english%20language%20society_d1r0588.jpeg" alt="english drama society" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
-    <td class="tg-0lax">
       <a href="/programmes/primary/cca/environmental-science-club/">
         <img src="/images/science%20garden%20club_d1r0725.jpeg" style="max-width: 100%; height: auto;">
       </a>
     </td>
+    <td class="tg-0lax">
+			 <a href="/programmes/primary/cca/infocomm-technology-media-production/">
+      <img src="/images/photography%20and%20videography%20club_d1r0715.jpeg" alt="infocomm technology" width="272" height="153">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/infocomm-technology-media-production/"><center><h3>Infocomm Technology (Media Product)<br>资讯通讯科技社</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/international-chess-club/"><center><h3>International Chess Club<br>国际象棋学会</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/international-chess-club/"><center><h3>International Chess Club<br>国际象棋学会</h3></center></a></td>
 		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/robotics-club/"><center><h3>Robotics Club<br>机器人技术学会</h3></center></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/cca/infocomm-technology-media-production/">
-<img src="/images/photography%20and%20videography%20club_d1r0715.jpeg" alt="infocomm technology" width="272" height="153">
-</a></td>
-		<td class="tg-0lax"><a href="/programmes/primary/cca/international-chess-club/">
+    <td class="tg-0lax"><a href="/programmes/primary/cca/international-chess-club/">
 <img src="/images/international%20chess%20club_d1r0670.jpeg" alt="international chess club" width="272" height="153">
 </a></td>
 		<td class="tg-0lax"><a href="/programmes/primary/cca/robotics-club/">
