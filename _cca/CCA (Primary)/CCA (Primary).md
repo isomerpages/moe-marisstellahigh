@@ -216,12 +216,12 @@ variant: markdown
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/science-club/">
-        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height:137px;">
+        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height:145px;">
       </a>
     </td>
 		   <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/bicultural-club/">
-        <img src="/images/biculturalclub.jpg" alt="science club" style="max-width: 100%; height:137px;">
+        <img src="/images/biculturalclub.jpg" alt="science club" style="max-width: 100%; height:145px;">
       </a>
     </td>
   </tr>
