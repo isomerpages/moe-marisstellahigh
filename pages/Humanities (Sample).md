@@ -82,7 +82,7 @@ Lower Secondary
 </td></tr>
 	
 </tbody></table><p></p>
-<h4><strong>Uniquely Marists:</strong></h4>
+<h4><strong>Signature Programmes:</strong></h4>
 <table style="minWidth: 75px">
 <tbody><tr>
 <th>
