@@ -42,8 +42,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/rockwall-climbing/"><center><h3>Rockwall Climbing<br>攀岩</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/rockwall-climbing/"><center><h3>Softball<br>垒球</h3></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/softball/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/softball/"><center><h3>Softball<br>垒球</h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Table Tennis<br>乒乓</h3></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/rockwall-climbing/">
@@ -57,9 +57,9 @@ variant: markdown
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/table-tennis/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/taekwondo/"><center><h3>Wushu<br>武术</h3></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/wushu/"><center><h3><br></h3></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/taekwondo/"><center><h3>Taekwondo<br>跆拳道</h3></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/cca/wushu/"><center><h3>Wushu<br>武术</h3></center></a></td>
+		
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/cca/taekwondo/">
