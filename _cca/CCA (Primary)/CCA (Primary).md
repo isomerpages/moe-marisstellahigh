@@ -205,6 +205,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/maths-society/"><center><h3>Maths Society<br>数学学会</h3></center></a></td>
     <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Science Club<br>科学学会</h3></center></a></td>
+		  <td class="tg-0lax" style="width: 50%"><a href="/programmes/primary/cca/science-club/"><center><h3>Bicultural Club<br>海星双语双文化学会</h3></center></a></td>
   </tr>
 </thead>
 <tbody>
@@ -215,7 +216,7 @@ variant: markdown
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/programmes/primary/cca/science-club/">
-        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height:278px;">
+        <img src="/images/img_1216.jpeg" alt="science club" style="max-width: 100%; height:137px;">
       </a>
     </td>
   </tr>
