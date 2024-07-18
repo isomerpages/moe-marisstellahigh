@@ -100,24 +100,21 @@ The Church through the ages has accommodated this text to the Coronation of the 
     <td><center>My conduct is guided by: </center></td>
   </tr>
   <tr>
-    <td><center>自尊自重，</center></td>
-    <td><center> </center></td>
+    <td><center>自尊自重，<br>敬主爱国，</center></td>
+    <td><center>Respect for God,<br>Respect for self and country, </center></td>
   </tr>
-  <tr>
-    <td><center>敬主爱国，</center><br></td>
-    <td><center>Respect for God,<br></center></td>
-  </tr>
+
   <tr>
     <td><center>敬老尊贤， </center></td>
-    <td><center>Respect for self and country,</center><br></td>
-  </tr>
-  <tr>
-    <td><center>友爱兄弟、同辈及学弟，</center><br></td>
     <td><center>Respect for parents and elders,</center><br></td>
   </tr>
   <tr>
+    <td><center>友爱兄弟、同辈及学弟，</center><br></td>
+    <td><center>Respect for siblings, peers and juniors, and</center><br></td>
+  </tr>
+  <tr>
     <td><center>尊重他人资产 </center></td>
-    <td><center>Respect for siblings, peers and juniors, and<br>respect for property</center></td>
+    <td><center>Respect for property</center></td>
   </tr>
   <tr>
     <td><center>我谨记在心，我的言行会直接或间接影响他人。</center><br></td>
