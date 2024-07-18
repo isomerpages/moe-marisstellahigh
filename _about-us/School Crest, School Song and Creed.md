@@ -2,6 +2,7 @@
 title: School Crest, School Song and Creed
 permalink: /about-mshs/school-crest-school-song-and-creed/
 description: ""
+variant: markdown
 ---
 <center><b>海星校徽<br>SCHOOL CREST</b></center>	
 
@@ -100,7 +101,7 @@ The Church through the ages has accommodated this text to the Coronation of the 
   </tr>
   <tr>
     <td><center>自尊自重，</center></td>
-    <td><center>My conduct is guided by: </center></td>
+    <td><center> </center></td>
   </tr>
   <tr>
     <td><center>敬主爱国，</center><br></td>
