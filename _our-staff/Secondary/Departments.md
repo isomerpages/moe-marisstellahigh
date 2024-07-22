@@ -267,6 +267,16 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
+		  </tr><tr>
+    <td style="width: 50%" class="tg-0lax">Tay Kwang Ming (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
+		  </tr><tr>
+    <td style="width: 50%" class="tg-0lax">Teo Mae Yan (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+  <tr>
     <td style="width: 50%" class="tg-0lax">V Praveenkumar (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
