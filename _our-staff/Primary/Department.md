@@ -105,7 +105,11 @@ variant: markdown
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax"> AYH (Acting)</td>
+    <td style="width: 50%" class="tg-0lax"> AYH</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa(Ms)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
@@ -129,6 +133,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">LH / Mathematics </td>
   </tr>
+			 <tr>
+    <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">LH / Science (Covering)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
@@ -150,9 +158,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
   </tr>
 	 <tr>
-    <td style="width: 50%" class="tg-0lax">Melissa Ng Peiyun (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ng Peiyun Melissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Leadership (Acting)</td>
   </tr>
+
 </tbody>
 </table>
 
