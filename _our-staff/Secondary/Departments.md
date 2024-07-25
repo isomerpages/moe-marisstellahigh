@@ -128,6 +128,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Si Qian Priscilla (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH/ English Language (Covering)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / English Literature</td>
@@ -233,6 +237,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Si Qian, Priscilla (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH/ English Language (Covering)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / English Literature</td>
@@ -258,10 +266,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Si Qian, Priscilla (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Yen Leng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
