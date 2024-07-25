@@ -73,7 +73,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">HOD/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">HOD / English Language</td>
   </tr> 
   <tr>
     <td style="width: 50%" class="tg-0lax">Ong Siok Lee (Mrs)</td>
@@ -105,7 +105,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Florence Lim Jie Ru (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD/ SAP</td>
+    <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
@@ -126,11 +126,11 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Language</td>
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Tan Si Qian Priscilla (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH/ English Language (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Language (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
@@ -142,7 +142,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Ye Wenhui (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH/ Mathematics</td>
+    <td style="width: 50%" class="tg-0lax">SH / Mathematics</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chia Kian Boon Edwin (Mr)</td>
@@ -162,7 +162,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
-    <td style="width: 50%" class="tg-0lax">SH/ Student Well-Being</td>
+    <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
   </tr>
 </tbody>
 </table>
@@ -205,7 +205,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese Language (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
 </tbody>
 </table>
@@ -231,15 +231,15 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">HOD/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">HOD / English Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Hannah Lois Ng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH/ English Language</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Language</td>
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Tan Si Qian, Priscilla (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH/ English Language (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">SH / English Language (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
@@ -330,7 +330,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Liu Dongmei (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese Language (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Han Lee Kwang (Mr)</td>
@@ -569,7 +569,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
-    <td style="width: 50%" class="tg-0lax">SH/ Student Well-Being</td>
+    <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Xiu Yan (Ms)</td>
