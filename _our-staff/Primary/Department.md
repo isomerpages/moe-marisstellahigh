@@ -710,6 +710,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yong Ren Cui (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+<tr>
+    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
+  </tr>
 
 </tbody>
 </table>
