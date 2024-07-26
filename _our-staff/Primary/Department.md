@@ -978,7 +978,7 @@ variant: markdown
  </tr>
 	 <tr>
 		  <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
+    <td style="width: 50%" class="tg-0lax">Allied Educator / Science (Away on attachment)</td>
   </tr>
 </tbody>
 </table>
@@ -1033,6 +1033,40 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Tumirah Binte Roslan (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Corporate Support Officer</td>
+  </tr>
+</tbody>
+</table>
+
+### IT STAFF
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Joseph Zheng (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ICT Associate</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Joe Tan Tuili (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Desktop Engineer</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Muhammad Zafri Izzad Eeq Bin Mohd Azmi (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Desktop Engineer</td>
   </tr>
 </tbody>
 </table>
