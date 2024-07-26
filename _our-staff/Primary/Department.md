@@ -667,11 +667,12 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-  
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Ng Beng Choo (Ms)</td>
@@ -710,15 +711,12 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yong Ren Cui (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
-  </tr>
+
 
 </tbody>
 </table>
 
-### CCE AND NE
+### CCE
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -742,7 +740,11 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Noradlina Bte Mohamed (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH / CCE &amp; NE Coordinator</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE (Acting)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Oh Li Neo Rebecca (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Student Well-being</td>
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
@@ -761,11 +763,11 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / SS </td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Colin  Yang Jiahui (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Colin Yang Jiahui (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -823,8 +825,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Jhee Wei Len (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
 	<tr>
     <td style="width: 50%" class="tg-0lax">Yeow Yong Long (Mr)</td>
