@@ -70,12 +70,16 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Zhang Su Mei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Chinese</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Yew Su Fong (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Math</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiam Ru Qi (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Science</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Lim Kern Wei Randall</td>
+    <td style="width: 50%" class="tg-0lax">Lim Kern Wei Randall (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
   </tr>
   <tr>
@@ -108,7 +112,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P5-6)</td>
   </tr>
 		<tr>
-    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa(Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
   </tr>
   <tr>
@@ -135,7 +139,7 @@ variant: markdown
   </tr>
 			 <tr>
     <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Science (Covering)</td>
+    <td style="width: 50%" class="tg-0lax">LH / Science (Acting)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
