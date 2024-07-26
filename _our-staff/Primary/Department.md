@@ -887,19 +887,31 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
+  </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Tan Lee Keng Michelle (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Year Head (P3-4)</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Lee Chia Wei Alvin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
+  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Management</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head (P5-6)</td>
   </tr>
-	
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -912,7 +924,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Lim Zijin (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 
 </tbody>
 </table>
@@ -938,25 +953,29 @@ variant: markdown
 </thead>
 <tbody>
  <tr>
-    <td style="width: 50%" class="tg-0lax">Sim Mei Geok Shirley </td>
+    <td style="width: 50%" class="tg-0lax">Sim Mei Geok Shirley (Ms) </td>
     <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Guan Candice (Ms) </td>
-    <td style="width: 50%" class="tg-0lax">School Counsellor (flexi)</td>
-  </tr>
-	 <tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Chia Sook Kuan Candice (Ms) </td>
+    <td style="width: 50%" class="tg-0lax">School Counsellor (Flexi)</td>
+ </tr>
+	<tr>
     <td style="width: 50%" class="tg-0lax">Wong Ee Sheng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-  </tr>
-		 <tr>
+ </tr>
+	<tr>
 	  <td style="width: 50%" class="tg-0lax">Nurdjeha binte Haji Sa'at (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
-  </tr>
-		 <tr>
-     </tr>
-		 <tr>
-	</tr>
+ </tr>
+		<tr>
+	  <td style="width: 50%" class="tg-0lax">Tey Wee Xin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+ </tr>
+		<tr>
+	  <td style="width: 50%" class="tg-0lax">Teo Wei Yee (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
+ </tr>
 	 <tr>
 		  <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
