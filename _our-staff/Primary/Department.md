@@ -67,7 +67,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Zhang Su Mei (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Chinese</td>
   </tr>
 	 <tr>
@@ -168,7 +168,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
-  
 	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / SEN</td>
   </tr>
@@ -308,7 +307,7 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-    <td style="width: 50%" class="tg-0lax">Zhang Su Mei (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Chinese</td>
   </tr>
   <tr>
@@ -460,7 +459,7 @@ variant: markdown
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Oh Li Neo Rebecca (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
+    <td style="width: 50%" class="tg-0lax">SH / Student Well-being</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Ng Peiyun Melissa (Ms)</td>
@@ -657,7 +656,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 
-
+<tr>
+    <td style="width: 50%" class="tg-0lax">Nurhamizah Binte Zohry (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 </tbody>
 </table>
 
