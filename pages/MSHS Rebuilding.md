@@ -32,7 +32,7 @@ periodic updates of the school’s rebuilding progress.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cov-2CLpgrs?si=jLCN8_rx957wJZnU"></iframe>
 </div>
 <p></p>
-<h4>8world</h4>
+<h4>8视界新闻网</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfRmzIkrDWs?si=CXHY7HjBiCYbdhGS"></iframe>
 </div>
