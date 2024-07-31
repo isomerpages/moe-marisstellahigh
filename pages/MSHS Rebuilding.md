@@ -21,3 +21,14 @@ MSHS (Primary) will revert to operating on a single-session basis. MSHS
 (Secondary) will remain as an all-boys school for now.</p>
 <p>To all our Marist, past and present, we invite you to sign up at <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a> for
 periodic updates of the school’s rebuilding progress.</p>
+<p></p>
+<h4>Channel News Asia </h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cov-2CLpgrs?si=jLCN8_rx957wJZnU"></iframe>
+</div>
+<p></p>
+<h4>8world</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfRmzIkrDWs?si=CXHY7HjBiCYbdhGS"></iframe>
+</div>
+<p></p>
