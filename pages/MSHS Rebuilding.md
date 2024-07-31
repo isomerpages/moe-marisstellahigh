@@ -4,6 +4,11 @@ permalink: /rebuilding/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240508_MSHS_Arc__13_of_26_.gif">
+</div>
+<p></p>
 <p>Maris Stella High School (MSHS) will be rebuilt to provide better facilities
 and enhance students' educational experience. From 2027 to 2029, the campuses
 of MSHS (Primary) and MSHS (Secondary) will be rebuilt at their permanent
@@ -22,7 +27,7 @@ MSHS (Primary) will revert to operating on a single-session basis. MSHS
 <p>To all our Marist, past and present, we invite you to sign up at <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a> for
 periodic updates of the school’s rebuilding progress.</p>
 <p></p>
-<h4>Channel News Asia </h4>
+<h4>Channel News Asia</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cov-2CLpgrs?si=jLCN8_rx957wJZnU"></iframe>
 </div>
