@@ -5,4 +5,3 @@ description: ""
 variant: markdown
 ---
 # PRIMARY SECTION 小学部
-
