@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6154321500035988770.jpg">
 </div>
-<p>Maris Stella High School (MSHS) will be rebuilt to provide better facilities
+<p style="text-align:justify;">Maris Stella High School (MSHS) will be rebuilt to provide better facilities
 and enhance students' educational experience. From 2027 to 2029, the campuses
 of MSHS (Primary) and MSHS (Secondary) will be rebuilt at their permanent
 sites at 25 Mount Vernon Road. During the rebuilding process, MSHS (Primary)
