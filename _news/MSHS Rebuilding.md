@@ -29,11 +29,11 @@ MSHS (Primary) will revert to operating on a single-session basis. MSHS
 <p></p>
 <h4>Channel News Asia</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cov-2CLpgrs?si=jLCN8_rx957wJZnU"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cov-2CLpgrs?si=jLCN8_rx957wJZnU"></iframe>
 </div>
 <p></p>
 <h4>8视界新闻网</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfRmzIkrDWs?si=CXHY7HjBiCYbdhGS"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfRmzIkrDWs?si=CXHY7HjBiCYbdhGS"></iframe>
 </div>
 <p></p>
