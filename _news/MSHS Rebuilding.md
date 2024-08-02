@@ -15,7 +15,7 @@ of MSHS (Primary) and MSHS (Secondary) will be rebuilt at their permanent
 sites at 25 Mount Vernon Road. During the rebuilding process, MSHS (Primary)
 will hold at the former MacPherson Primary School site, while MSHS (Secondary)
 will hold at the former Bedok North Secondary School site.</p>
-<p>To better serve the needs of local residents, MSHS (Primary), with agreement
+<p style="text-align:justify;">To better serve the needs of local residents, MSHS (Primary), with agreement
 from MSHS Ltd's Board of Directors and the Marist Brothers Provincial Council,
 will turn co-educational when it moves to its holding site in 2027. MSHS
 (Primary) will also look into increasing its Primary 1 intake in 2027.
@@ -24,7 +24,7 @@ a partial single-session at the holding site during the rebuilding of its
 permanent campus. When its permanent campus is ready, tentatively in 2030,
 MSHS (Primary) will revert to operating on a single-session basis. MSHS
 (Secondary) will remain as an all-boys school for now.</p>
-<p><strong>To all our Marist, past and present, we invite you to sign up at <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a> for periodic updates of the school’s rebuilding progress.</strong>
+<p style="text-align:justify;"><strong>To all our Marist, past and present, we invite you to sign up at <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a> for periodic updates of the school’s rebuilding progress.</strong>
 </p>
 <p></p>
 <h4>Channel News Asia</h4>
