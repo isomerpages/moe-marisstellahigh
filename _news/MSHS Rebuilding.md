@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240508_MSHS_Arc__13_of_26_.gif">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6154321500035988770.jpg">
+</div>
 <p>Maris Stella High School (MSHS) will be rebuilt to provide better facilities
 and enhance students' educational experience. From 2027 to 2029, the campuses
 of MSHS (Primary) and MSHS (Secondary) will be rebuilt at their permanent
