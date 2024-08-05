@@ -1,0 +1,4 @@
+collections:
+  mshs-rebuilding:
+    output: true
+    order: []
