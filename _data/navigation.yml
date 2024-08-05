@@ -45,6 +45,11 @@ links:
         url: /programmes/primary/cca/
       - title: ICT
         url: /programmes/primary/ict/
+  - title: MSHS Rebuilding
+    url: https://marisstellahigh.moe.edu.sg/rebuilding/
+    sublinks:
+      - title: MSHS Rebuilding
+        url: https://marisstellahigh.moe.edu.sg/rebuilding/
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
