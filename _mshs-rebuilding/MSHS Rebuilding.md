@@ -30,7 +30,7 @@ MSHS (Primary) will revert to operating on a single-session basis. MSHS
 <p>海星中学将于2027年至2029年期间进行校园重建，以提供更好的设施并提升学生的教育体验。重建将于学校原址（25 Mount Vernon
 Road）进行，期间海星中学的小学部将暂时迁至前麦波申小学的旧址，而中学部则将暂时迁至前勿洛北中学的旧址。</p>
 <p>为了更好地满足当地居民的需求，海星中学有限公司董事会及圣母昆仲会决定，小学部将在2027年迁至临时校址时转为男女同校。此外，小学部还计划在2027年增加一年级的招生名额。为容纳更多的新生，重建期间小学部将部分实行单班制教学。预计到2030年新校园建成时，小学部将恢复全日单班制教学。中学部则将继续维持男校模式和全日单班制教学。</p>
-<p><strong>我们邀请所有历届的海星学子点击<a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a>, 注册以获取学校重建进展的定期更新。</strong>
+<p><strong>我们邀请所有历届的海星学子点击 <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a>, 注册以获取学校重建进展的定期更新。</strong>
 </p>
 <p></p>
 <h4>Channel News Asia</h4>
