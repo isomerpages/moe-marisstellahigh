@@ -1,4 +1,5 @@
 collections:
   mshs-rebuilding:
     output: true
-    order: []
+    order:
+      - MSHS Rebuilding.md
