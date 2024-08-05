@@ -47,7 +47,9 @@ links:
         url: /programmes/primary/ict/
   - title: MSHS Rebuilding
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: MSHS Rebuilding
+        url: /permalink
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
