@@ -45,6 +45,9 @@ links:
         url: /programmes/primary/cca/
       - title: ICT
         url: /programmes/primary/ict/
+  - title: MSHS REbuilding
+    url: /permalink
+    sublinks: []
   - title: Useful Links
     url: /useful-links-and-info/primary/for-students/
     sublinks:
