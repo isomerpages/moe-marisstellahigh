@@ -23,7 +23,7 @@ To accommodate this larger intake, MSHS (Primary) will also operate on
 a partial single-session at the holding site during the rebuilding of its
 permanent campus. When its permanent campus is ready, tentatively in 2030,
 MSHS (Primary) will revert to operating on a single-session basis. MSHS
-(Secondary) will remain as an all-boys school for now.</p>
+(Secondary) will remain as an all-boys school for now. 海星</p>
 <p><strong>To all Marists who have graduated, we invite you to sign up for the mailing list at <a href="https://go.gov.sg/mshsrebuild" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mshsrebuild</a> so that you can be informed of any homecoming activities and be updated on the school’s rebuilding progress.</strong>
 </p>
 <p></p>
