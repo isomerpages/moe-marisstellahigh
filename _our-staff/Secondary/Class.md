@@ -49,10 +49,7 @@ variant: markdown
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Charles</span></td>
     <td style="width: 50%" class="tg-tsok">Lucy Yeo (Ms) </td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Amrit Singh Gill (Mr) </span></td>
-  </tr>
+  
   <tr>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">1 Dominic</span></td>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Lin Chunhai (Mr)</span></td>
