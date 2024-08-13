@@ -350,6 +350,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Ong Cher Tat (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Poh Qi Ling (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Phang Szie Voon (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
