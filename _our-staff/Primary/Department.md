@@ -257,10 +257,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lau Nguen Kee (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Nur Farah Sng (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ming Yin June  (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -502,6 +499,11 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yeo Szu San (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Nur Farah Sng (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	
 
 </tbody>
 </table>
