@@ -260,7 +260,12 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Marcus Goh Tao Zhi (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr><tr>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Natasha St Clare Alvar (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
@@ -287,10 +292,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yoon Chee May Patricia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Natasha St Clare Alvar (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+	
 </tbody>
 </table>
 
