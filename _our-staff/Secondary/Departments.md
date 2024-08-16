@@ -274,7 +274,7 @@ variant: markdown
   <tr>
 		  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Tay Kwang Ming (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">V Praveenkumar (Mr)</td>
@@ -416,7 +416,12 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Kah Lam (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Lim Kwang Liang (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+  </tr>
   <tr>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Ng Li Ping (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
@@ -527,11 +532,11 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Charlotte Lim Sock Hoon (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Flexi Adjunct</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (FAJT)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Soo Hoon Patricia (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Flexi Adjunct</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (FAJT)</td>
   </tr>
 </tbody>
 </table>
@@ -583,7 +588,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chia-Ming Ying Terence Ryan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
- 
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Koh Geok Puay Eunice (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Shantini d/o Karunagaran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -627,14 +635,14 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Suresh s/o Sivakadacham (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / PE &amp; AES</td>
   </tr>
-  <tr>
+    <tr>
+    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head</td>
+  </tr><tr>
     <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Year Head</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / PE</td>
@@ -718,7 +726,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Joanne Tan Pek Gek (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ECG Coach</td>
   </tr>
- 
+   <tr>
+    <td style="width: 50%" class="tg-0lax">Nor Rafidah Sumargonor (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Allied Educator</td>
+  </tr>
  <tr>
     <td style="width: 50%" class="tg-0lax">Rachel Soh Yu Ting (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Special Educational Needs Officer</td>
