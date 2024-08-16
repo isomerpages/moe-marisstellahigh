@@ -416,6 +416,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Kah Lam (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Lim Kwang Liang (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
@@ -442,10 +446,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 </tbody>
 </table>
 
