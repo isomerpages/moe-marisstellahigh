@@ -260,20 +260,25 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">Marcus Goh Tao Zhi (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr><tr>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Natasha St Clare Alvar (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Teng Windran (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-
+<tr>
+    <td style="width: 50%" class="tg-0lax">Tay Kwang Ming (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Yen Leng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-		  </tr><tr>
-    <td style="width: 50%" class="tg-0lax">Tay Kwang Ming (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
-  </tr>
+		  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">V Praveenkumar (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -287,10 +292,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Yoon Chee May Patricia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Natasha St Clare Alvar (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+	
 </tbody>
 </table>
 
@@ -414,6 +416,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Kah Lam (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Lim Kwang Liang (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
@@ -440,10 +446,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -588,6 +591,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chia-Ming Ying Terence Ryan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Goh Mei Lin Mandy (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Geok Puay Eunice (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
@@ -597,10 +604,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
  
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Goh Mei Lin Mandy (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td class="tg-0lax">Tan Siew Yean (Ms)</td>
     <td class="tg-0lax">Teacher</td>
