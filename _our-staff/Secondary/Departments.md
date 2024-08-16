@@ -591,6 +591,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chia-Ming Ying Terence Ryan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Goh Mei Lin Mandy (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Geok Puay Eunice (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
@@ -600,10 +604,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
  
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Goh Mei Lin Mandy (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td class="tg-0lax">Tan Siew Yean (Ms)</td>
     <td class="tg-0lax">Teacher</td>
