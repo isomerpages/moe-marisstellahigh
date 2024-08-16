@@ -126,10 +126,7 @@ variant: markdown
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Benedict</span></td>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Ye Wenhui (Ms) </span></td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Charles</span></td>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Mei Lin Mandy (Ms) </span></td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Charles</span></td>
     <td style="width: 50%" class="tg-tsok">Chong Shao Hong (Mr) </td>
@@ -209,12 +206,16 @@ variant: markdown
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Sui Lei (Mr) </span></td>
   </tr>
    <tr>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Benedict</span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Dongmei (Ms)</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Aloysius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Yoon Chee May (Ms)</span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Benedict </span></td>
-    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Yoon Chee May (Ms) </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Dongmei (Ms)</span></td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Benedict </span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Png Chin Yuen Marianne (Ms)</span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Charles</span></td>
@@ -268,7 +269,10 @@ variant: markdown
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Ignatius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yen Leng (Ms)</span></td>
   </tr>
-	  <tr>
+	  	  <tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Ignatius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Nur Hanis Selamat (Ms)</span></td>
+  </tr><tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">3 Ignatius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Poh Qi Ling (Ms)</span></td>
   </tr>
@@ -354,6 +358,10 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Ignatius</span></td>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yew Meng Daniel (Mr) </span></td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Ignatius</span></td>
+    <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">Nor Rafidah Sumargonor (Ms) </span></td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-vl7p"><span style="color:#222;background-color:transparent">4 Joseph</span></td>
