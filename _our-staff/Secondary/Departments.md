@@ -63,14 +63,8 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Year Head</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Goy Wee Peng Edmund (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
-  </tr>
+ 
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Sim Ai Ping, Shirley (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">HOD / English Language</td>
@@ -87,42 +81,37 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Suresh s/o Sivakadacham (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / PE &amp; Aesthetics</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Goy Wee Peng Edmund (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Sylvia Roche (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Yew Kiat (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCA &amp; Student Leadership</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
-  </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
-  </tr>
-  <tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">Low Hwang Chee (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
   </tr>
-  <tr>
+		 <tr>
+    <td style="width: 50%" class="tg-0lax">Khong Siew Chin, Jillian (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Knowledge Management</td>
+  </tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">Florence Lim Jie Ru (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
   </tr>
-  <tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">Seah Ching San, Paul (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Student Management &amp; Talent Development</td>
   </tr>
-	
   <tr>
-    <td style="width: 50%" class="tg-0lax">Tan Lin Chuan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Jeremy Fernandez (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head </td>
+    <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
    <tr>
     <td style="width: 50%" class="tg-0lax">Zheng Kankan (Ms)</td>
@@ -162,6 +151,18 @@ variant: markdown
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Chng Wan Ting Zenia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / Educational Technology</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Tan Lin Chuan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Jeremy Fernandez (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head</td>
+  </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Nicholas Ong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head </td>
   </tr>
 </tbody>
 </table>
