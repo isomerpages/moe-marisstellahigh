@@ -417,7 +417,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	  <tr>
-    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Lee Zhi Ying (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	 <tr>
