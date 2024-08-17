@@ -271,7 +271,7 @@ variant: markdown
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Tay Kwang Ming (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Yen Leng (Ms)</td>
@@ -422,7 +422,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Lim Kwang Liang (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
   </tr><tr>
@@ -488,7 +488,7 @@ variant: markdown
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Charlotte Lim Sock Hoon (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (FAJT)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Dominic Varella (Mr)</td>
@@ -509,7 +509,7 @@ variant: markdown
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Lee Soo Hoon Patricia (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (FAJT)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Lim Xiao Feng (Mr)</td>
@@ -597,7 +597,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Koh Geok Puay Eunice (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher (CAJT)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Shantini d/o Karunagaran (Ms)</td>
