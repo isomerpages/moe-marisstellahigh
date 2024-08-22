@@ -533,7 +533,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
   </tr>
 	
-    <tr><td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
+ <tr><td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">ST / Science</td>
   </tr>
 <tr>
