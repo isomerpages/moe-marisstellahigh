@@ -640,11 +640,6 @@ variant: markdown
 
 
 <tr>
-    <td style="width: 50%" class="tg-0lax">Tye Meifen Jasmine (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-
-<tr>
     <td style="width: 50%" class="tg-0lax">Tan Yan Zhi Eugene (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
