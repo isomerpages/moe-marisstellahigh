@@ -15,4 +15,4 @@ A new application is required for every school year.&nbsp; &nbsp;
   
 Only shortlisted applicants will be contacted.
 
-Please submit your application via this [link](https://go.gov.sg/waitlistmshsp). <mark>A system-generated acknowledgment email will be sent to the respondent’s email address upon successful submission.</mark>
+Please submit your application via this [link](https://go.gov.sg/waitlistmshsp). A system-generated acknowledgment email will be sent to the respondent’s email address upon successful submission.
