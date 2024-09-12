@@ -8,4 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF.gif
+  - infopic:
+      title: Maris Stella High School Open House
+      id: infopic
+      description: "Save this date: 16 November 2024, Saturday."
+      button: More Details Coming up
+      url: www.google.com
+      image: /images/Open_House_Theme__V2_.jpg
+      alt: Image alt text
 ---
