@@ -12,4 +12,4 @@ variant: markdown
 ![](/images/Open_House_Theme__V2_.jpg)
 
 We look forward to seeing you on that day!
-Check this page for updates.
+Look out for further updates on this page.
