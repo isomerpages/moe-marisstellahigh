@@ -13,7 +13,7 @@ sections:
       id: infopic
       description: "Save this date: 16 November 2024, Saturday."
       button: More Details Coming up
-      url: www.google.com
+      url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
       image: /images/Open_House_Theme__V2_.jpg
       alt: Image alt text
 ---
