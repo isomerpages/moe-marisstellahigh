@@ -2,13 +2,13 @@
 title: Contact Us
 permalink: /about-mshs/contact-us/
 description: ""
+variant: markdown
 ---
 # Contact Us
 
 **Secondary**&nbsp;&nbsp;  
     Email:&nbsp;[msh@moe.edu.sg](mailto:msh@moe.edu.sg)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  
     Tel: (65) 6280 3880&nbsp;  
-    Fax: (65) 6288 6905&nbsp;  
     25 Mount Vernon Road&nbsp;  
     Singapore 368051
 		
@@ -21,13 +21,13 @@ Singapore 368051
 
 
 <p><a href="https://www.instagram.com/marisstellahighschool/?hl=en">
-<img src="/images/Contact%20Us/instagram_PNG11.png" style="width:5%;margin-right:15px;" align = "left">
+<img src="/images/Contact%20Us/instagram_PNG11.png" style="width:5%;margin-right:15px;" align="left">
 </a></p>
 
 
 
 <p><a href="https://www.facebook.com/marisstellahighschool">
-<img src="/images/Contact%20Us/marisstella-homepage-facebookicon.png" style="width:5%;margin-right:15px;" align = "left">
+<img src="/images/Contact%20Us/marisstella-homepage-facebookicon.png" style="width:5%;margin-right:15px;" align="left">
 </a></p>
 
 
