@@ -48,7 +48,7 @@ variant: markdown
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* [Application Form](/files/application%20form.pdf)
+* [Application Form](Application_for_Canteen_Stall_FormBF7)
 
 2\. Attached the following documents together with the application form:
 
