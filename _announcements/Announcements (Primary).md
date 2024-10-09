@@ -30,7 +30,7 @@ variant: markdown
 <tbody>
   <tr>
 		<td style="width: 50%" class="tg-0lax">Drinks and Snacks Stall</td>
-    <td style="width: 50%" class="tg-0lax">11 October 2024</td>
+    <td style="width: 50%" class="tg-0lax">18 October 2024</td>
 		<td style="width: 50%" class="tg-0lax">NIL</td>
   </tr>
 	
