@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF.gif
+      key_highlights:
+        - title: Primary Section
+          description: Key Highlight description
+          url: www.google.com
+        - title: Secondary Section
+          description: Key Highlight description
+          url: www.yahoo.com
   - infopic:
       title: Maris Stella High School Open House
       id: infopic
@@ -16,4 +23,8 @@ sections:
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
       image: /images/Open_House_Theme__V2_.jpg
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
