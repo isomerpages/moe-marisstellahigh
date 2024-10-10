@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF.gif
+      key_highlights:
+        - title: p
+          description: Key Highlight description
+          url: www.google.com
+        - title: s
+          description: Key Highlight description
+          url: www.yahoo.com
   - infopic:
       title: Maris Stella High School Open House
       id: infopic
