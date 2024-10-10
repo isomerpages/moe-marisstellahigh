@@ -23,8 +23,4 @@ sections:
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
       image: /images/Open_House_Theme__V2_.jpg
       alt: Image alt text
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
