@@ -143,10 +143,7 @@ variant: markdown
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Edward</span></td>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Goh Hwee Fang Vanessa (Ms) </span></td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Edward</span></td>
-    <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Wong Yuyi Jeremy (Mr)</span></td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">2 Francis</span></td>
     <td style="width: 50%" class="tg-1ppo"><span style="color:#222;background-color:transparent">Tan Ching Sing (Ms) </span></td>
