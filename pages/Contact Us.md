@@ -15,7 +15,6 @@ variant: markdown
 **Primary**&nbsp;&nbsp;  
 Email:&nbsp;[mshp@moe.edu.sg](mailto:mshp@moe.edu.sg)&nbsp;&nbsp;  
 Tel: (65) 6282 7743&nbsp;  
-Fax: (65) 6282 7905&nbsp;  
 25 Mount Vernon Road&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  
 Singapore 368051
 
