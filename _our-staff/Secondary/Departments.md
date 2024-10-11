@@ -144,10 +144,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chong Shao Hong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">SH / PE</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi</td>
-    <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
-  </tr>
+ 
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Chng Wan Ting Zenia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / Educational Technology</td>
@@ -579,10 +576,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tan Xian Jing (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Jeremy Wong Yuyi (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">SH / Student Well-Being</td>
-  </tr>
+ 
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Xiu Yan (Ms)</td>
     <td style="width: 50%" class="tg-0lax">ST / Social Studies</td>
