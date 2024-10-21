@@ -28,11 +28,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-		<td style="width: 50%" class="tg-0lax">Drinks and Snacks Stall</td>
-    <td style="width: 50%" class="tg-0lax">18 October 2024</td>
-		<td style="width: 50%" class="tg-0lax">NIL</td>
-  </tr>
+
 	
 <tr>
 		<td style="width: 50%" class="tg-0lax">Chinese Food Stall</td>
