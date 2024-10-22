@@ -1,6 +1,6 @@
 ---
-title: 2024 Secondary 2 and 3 Transfer
-permalink: /admission/secondary/admission/2024-sec-2-and-3-transfer/
+title: 2025 Secondary 2 and 3 Transfer
+permalink: /admission/secondary/admission/2025-sec-2-and-3-transfer/
 variant: markdown
 description: ""
 third_nav_title: Admission (Secondary)
