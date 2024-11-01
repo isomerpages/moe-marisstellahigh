@@ -24,4 +24,12 @@ sections:
       button: Button Text
       image: /images/Diligence_1_SM.png
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/DETERMINATION_1_SM.png
+      alt: Image alt text
 ---
