@@ -216,7 +216,6 @@ variant: markdown
 	  <tr><td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / PE</td>
   </tr>
-  
 	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
   </tr>
@@ -271,7 +270,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / EL</td>
+    <td style="width: 50%" class="tg-0lax">ST / English</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
