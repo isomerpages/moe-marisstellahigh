@@ -16,20 +16,4 @@ sections:
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
       image: /images/Open_House_Theme__V2_.jpg
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/Diligence_1_SM.png
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/DETERMINATION_1_SM.png
-      alt: Image alt text
 ---
