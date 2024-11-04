@@ -10,6 +10,8 @@ variant: markdown
 <h3><center>
 	
 [CCA Schedule 2025](/files/Primary_CCA_Schedule_2025.pdf)
+	
+</center></h3>
 
 <center><h1>Sports</h1></center>
 
@@ -232,4 +234,4 @@ variant: markdown
     </td>
   </tr>
   </tbody>
-</table></center></h3>
+</table>
