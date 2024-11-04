@@ -68,7 +68,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Yew Su Fong (Mdm)</td>
@@ -120,19 +120,19 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">LH / English</td>
+    <td style="width: 50%" class="tg-0lax">LH / English Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Sivagami Alagappan (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">LH / English</td>
+    <td style="width: 50%" class="tg-0lax">LH / English Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tee Ying Chuen (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">LH / Chinese Language</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Adeline Chua Yi Ling (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">LH / Chinese Language</td>
   </tr>
   <tr>
   </tr>
@@ -195,11 +195,11 @@ variant: markdown
 	
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / English</td>
+    <td style="width: 50%" class="tg-0lax">ST / English Language</td>
   </tr>
 	 	<tr>
     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
@@ -246,11 +246,11 @@ variant: markdown
 <tbody>
 <tr>
     <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">LH / English</td>
+    <td style="width: 50%" class="tg-0lax">LH / English Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Sivagami Alagappan (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">LH / English</td>
+    <td style="width: 50%" class="tg-0lax">LH / English Language</td>
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Tan Kha Ghee (Mrs)</td>
@@ -270,7 +270,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / English</td>
+    <td style="width: 50%" class="tg-0lax">ST / English Language</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
@@ -356,15 +356,15 @@ variant: markdown
 <tbody>
 <tr>
     <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tee Ying Chuen (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">LH / Chinese Language</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Adeline Chua Yi Ling (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">LH / Chinese Language</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
@@ -380,7 +380,7 @@ variant: markdown
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chua Kho Shin (Mdm)</td>
@@ -726,7 +726,7 @@ variant: markdown
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Ng Beng Choo (Ms)</td>
