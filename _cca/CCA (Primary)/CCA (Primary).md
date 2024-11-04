@@ -7,10 +7,9 @@ variant: markdown
 ---
 <center><h1>CCA Schedule</h1></center>
 
-<h3><center>	
+<h4>Download to view CCA schedule:</h4>
 
-[test](/files/Primary_CCA_Schedule_2025.pdf)
-</center></h3>
+[CCA Schedule 2025](/files/Primary_CCA_Schedule_2025.pdf)
 
 <center><h1>Sports</h1></center>
 
