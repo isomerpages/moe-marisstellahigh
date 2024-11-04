@@ -5,6 +5,12 @@ description: ""
 third_nav_title: CCA (Primary)
 variant: markdown
 ---
+<center><h1>CCA Schedule</h1></center>
+
+<h4>Download to view CCA schedule:</h4>
+
+[CCA Schedule 2025](/files/Primary_CCA_Schedule_2025.pdf)
+
 <center><h1>Sports</h1></center>
 
 <style type="text/css">
