@@ -211,7 +211,7 @@ variant: markdown
   </tr>
 	 	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SS</td>
+    <td style="width: 50%" class="tg-0lax">ST / Social Studies</td>
   </tr>
 	  <tr><td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / PE</td>
@@ -274,7 +274,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SS </td>
+    <td style="width: 50%" class="tg-0lax">ST / Social Studies </td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Abigail Abraham (Ms)</td>
@@ -818,7 +818,7 @@ variant: markdown
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SS </td>
+    <td style="width: 50%" class="tg-0lax">ST / Social Studies </td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Colin Yang Jiahui (Mr)</td>
