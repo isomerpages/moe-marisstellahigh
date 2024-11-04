@@ -168,10 +168,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
     <td style="width: 50%" class="tg-0lax">Ng Chui Nee (Ms)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">2 Gabriel</td>
-    <td style="width: 50%" class="tg-0lax">Edwin Quek (Mr)</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Henry</td>
     <td style="width: 50%" class="tg-0lax">Seah Yu Jie (Ms)</td>
