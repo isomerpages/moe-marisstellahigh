@@ -168,6 +168,64 @@ variant: markdown
 </tbody>
 </table>
 
+### SENIOR/LEAD TEACHERS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vkjt{color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table style="table-layout: fixed; width: 100%;" class="tg">
+<thead>
+  <tr>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Name</span></th>
+    <th style="width: 50%" class="tg-vkjt"><span style="color:#323232">Designation</span></th>
+  </tr>
+</thead>
+<tbody>
+
+ <tr>
+    <td style="width: 50%" class="tg-0lax">Ong Hui Ming Ann (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">LT / CCE</td>
+  </tr>
+	
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ST / English</td>
+  </tr>
+	 	<tr>
+    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Chinese</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Edgar Wong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs))</td>
+    <td style="width: 50%" class="tg-0lax">ST / Science</td>
+  </tr>
+	 	<tr>
+    <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SS</td>
+  </tr>
+	  <tr><td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">ST / PE</td>
+  </tr>
+  
+	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
+  </tr>
+
+
+</tbody>
+</table>
+
+
 ### ENGLISH
 
 <style type="text/css">
