@@ -14,6 +14,6 @@ sections:
       description: "Save this date: 16 November 2024, Saturday."
       button: More Details Coming up
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
-      image: /images/Open_House_Theme__V2_.jpg
+      image: /images/V8a__Open_House_Banner.jpg
       alt: Image alt text
 ---
