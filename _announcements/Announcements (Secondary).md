@@ -9,7 +9,7 @@ variant: markdown
 
 #### Maris Stella High School Open House 2024
 ######  Save the date! Our Open House is scheduled on 16 November 2024, Saturday.
-![](/images/Open_House_Theme__V2_.jpg)
+![](/images/V8a__Open_House_Banner.jpg)
 
 We look forward to seeing you on that day!
-Look out for further updates on this page.
+You can register your interest via the form [here](https://go.gov.sg/mshsopenhouse2024).
