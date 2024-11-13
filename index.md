@@ -11,8 +11,8 @@ sections:
   - infopic:
       title: Maris Stella High School Open House
       id: infopic
-      description: "Save this date: 16 November 2024, Saturday."
-      button: More Details Coming up
+      description: Join us on 16 November 2024, Saturday!
+      button: More Details Here
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
       image: /images/V8a__Open_House_Banner.jpg
       alt: Image alt text
