@@ -12,37 +12,38 @@ variant: tiptap
 confirmed our plan to rebuild the school. In 2027, we will be moving to
 our holding sites at Mattar Road (primary section) and Jalan Damai (secondary
 section). In the same year, the primary section will also be taking in
-girls for the first time while the secondary section remains as an all-boys
-school.</p>
+girls for the first time while the secondary section will remain as an
+all-boys school.</p>
 <p></p>
 <p>The holding site at Jalan Damai is a fully equipped secondary school campus
-complete with a school field and an indoor sports hall which we currently
+complete with a school field and an indoor sports hall, which we currently
 do not have. The holding site at Mattar Road has undergone PRIME (Programme
-for Rebuilding and Improving Existing Schools) and it has a large air-conditioned
+for Rebuilding and Improving Existing Schools) and features a large air-conditioned
 auditorium that is suitable for school events and student performances.
 These holding sites are bigger and better equipped to support students'
 learning and CCA activities than our current school campus. While we are
 at the holding sites, the new building will be constructed at the current
 site. We plan to return to our current site in 2030.</p>
 <p></p>
-<p>Some parents say it is a hassle to relocate. I told them not to be afraid
-to relocate. We all know a well-known story called 《孟母三迁》. Mencius's mother
+<p>Some parents say it is a hassle to relocate. I told them not to fear relocation.
+We are all familiar with the well-known story of《孟母三迁》. Mencius's mother
 relocated three times in order to find a good learning environment for
 Mencius. In the end, Mencius became a great philosopher and a central figure
 in Confucianism. We should learn from Mencius' mother and not let relocation
-stop you from choosing a good school for your child.</p>
+stop us from choosing a good school for our children.</p>
 <p></p>
 <p>The school has done exceptionally well in both the MOE School Staff Engagement
 Survey and Quality of School Experience Survey. The former measures staff
-engagement while the latter measures students' school experiences. We scored
-exceptionally high in the areas of School Leadership, Middle Managers,
-Developing Students Holistically and Sense of Belonging. This is an affirmation
+engagement, while the latter evaluates students' school experiences. We
+scored exceptionally high in the areas of School Leadership, Middle Management,
+Holistic Student Development and Sense of Belonging. This is an affirmation
 of the good work Marist Educators have been doing for the past two years.</p>
 <p></p>
-<p>It is no doubt that 2024 is one of the best years for the school. With
+<p>There is no doubt that 2024 is one of the best years for the school. With
 the support of the School Management Committee, the Alumni Association
 and parents, I am confident that we will be able to take the school to
 the next level of excellence in the next few years.</p>
+<p></p>
 <p>Boy Eng Seng (Mr)
 <br>Principal</p>
 <h2>校长寄语</h2>
