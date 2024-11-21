@@ -7,9 +7,9 @@ variant: markdown
 ## Announcements (Secondary)
 
 
-#### Maris Stella High School Open House 2024
-######  Save the date! Our Open House is scheduled on 16 November 2024, Saturday.
-![](/images/V8a__Open_House_Banner.jpg)
+#### Maris Stella High School Open House Webinar 2024
+######  Our Open House Webinar is scheduled on 22 November 2024, Friday.
+![](/images/Screenshot_2024_11_21_191250.jpg)
 
 We welcome all Primary Six students and parents to join us at our Open House Webinar this **Friday, 22 November 2024,** at **7.00 p.m. to 8.00 p.m.**.
 
@@ -25,5 +25,4 @@ Details of our Open House Webinar programme:-
 | 1850h     | Log In   | 
 | 1900h     | Principal's Talk   | 
 |      | Q&A   | 
-| 2000h     | Closing  | 
-
+| 2000h     | Closing  |
