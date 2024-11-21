@@ -14,6 +14,6 @@ sections:
       description: Join us on 22 November 2024, Friday!
       button: More Details Here
       url: https://marisstellahigh.moe.edu.sg/school-happenings/secondary/announcements/
-      image: /images/V8a__Open_House_Banner.jpg
+      image: /images/Screenshot_2024_11_21_191250.jpg
       alt: Image alt text
 ---
