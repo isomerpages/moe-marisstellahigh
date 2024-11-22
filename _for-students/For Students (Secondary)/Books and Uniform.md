@@ -3,6 +3,7 @@ title: Books and Uniform
 permalink: /useful-links-and-info/secondary/for-students/books-and-uniform/
 description: ""
 third_nav_title: For Students (Secondary)
+variant: markdown
 ---
 ## BOOKS
 
@@ -16,15 +17,15 @@ Bookshop: Pacific Bookstores Pte Ltd 太平洋书局私人有限公司
 |   |   |   |
 
 
-## 2023 BOOKLISTS
+## 2025 BOOKLISTS
 
 
 
 
-*   [Secondary 1](/files/2023%20s1%20booklist.pdf)
-*   [Secondary 2](/files/2023%20sec%202%20booklist.pdf)
-*   [Secondary 3](/files/2023%20sec%203%20booklist.pdf)
-*   [Secondary 4](files/2023%20sec%204%20booklist.pdf)
+
+*   [Secondary 2](/files/MSHSS_2_G3____2025.pdf)
+*   [Secondary 3](/files/MSHSS_3_G3____2025.pdf)
+*   [Secondary 4](/files/MSHSS_4_G3____2025.pdf)
 
 ## SCHOOL UNIFORM
 
