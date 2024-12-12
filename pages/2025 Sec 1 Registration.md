@@ -187,9 +187,9 @@ allocation.</p>
 <br>Walk-in purchase for school uniforms</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Venue: School Canteen (Level 4) until 24 Dec 2024. </strong>
+<p><strong>Venue: School Canteen (Level 4) until 24 Dec 2024.</strong>
 </p>
-<p><strong>Venue will shift to Records Room </strong>
+<p><strong>Venue will shift to Records Room</strong>
 </p>
 <p><strong>(same level as Foyer, to the right) from 26 Dec 2024.</strong>
 </p>
