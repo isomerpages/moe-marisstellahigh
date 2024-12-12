@@ -45,7 +45,7 @@ recess or lunch.</p>
 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
 tab at the bottom and view the class under your son's/ward’s name.</p>
 <p></p>
-<h4>Sale of Textbooks </h4>
+<h4>Sale of Textbooks</h4>
 <p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -164,7 +164,7 @@ allocation.</p>
 <td rowspan="1" colspan="1">
 <p>Thu</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
 <p>9am to 3pm</p>
 </td>
 <td rowspan="6" colspan="1">
@@ -187,7 +187,11 @@ allocation.</p>
 <br>Walk-in purchase for school uniforms</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Venue: School Canteen (Level 4) until 24 Dec 2024. Venue will shift to Records Room (same level as Foyer, to the right) from 26 Dec 2024.</strong>
+<p><strong>Venue: School Canteen (Level 4) until 24 Dec 2024. </strong>
+</p>
+<p><strong>Venue will shift to Records Room </strong>
+</p>
+<p><strong>(same level as Foyer, to the right) from 26 Dec 2024.</strong>
 </p>
 </td>
 </tr>
@@ -198,6 +202,9 @@ allocation.</p>
 <td rowspan="1" colspan="1">
 <p>Fri</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -205,6 +212,9 @@ allocation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
 </td>
 </tr>
 <tr>
@@ -214,6 +224,9 @@ allocation.</p>
 <td rowspan="1" colspan="1">
 <p>Thu</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -222,6 +235,9 @@ allocation.</p>
 <td rowspan="1" colspan="1">
 <p>Fri</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,6 +245,9 @@ allocation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
 </td>
 </tr>
 </tbody>
