@@ -51,7 +51,7 @@ tab at the bottom and view the class under your son's/ward’s name.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The book list for Secondary 1 is available&nbsp;<u>here</u>.</p>
+<p>The book list for Secondary 1 is available [here[here](https://cms.isomer.gov.sg/files/2025_MSHS_Sec_1_Booklist.pdf)] (/files/2025_MSHS_Sec_1_Booklist.pdf)</p>
 </li>
 <li>
 <p>Do note that purchase of books and stationery are encouraged to be made
@@ -132,125 +132,49 @@ allocation.</p>
 </ul>
 </li>
 </ul>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+ <table>
+<thead>
+  <tr>
+    <th>Date</th>
+    <th>Day</th>
+    <th>Operating Hours</th>
+    <th>Payment Mode</th>
+    <th>Remarks </th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Operating Hours</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Payment Mode</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-<td rowspan="6" colspan="1">
-<p><strong><u>Bookshop</u></strong>
-<br><strong>Online Purchase:</strong>&nbsp;Visa/Mastercard/Debit Card/PayNow
-<br>
-<br><strong>Walk-in:</strong>
-<br>Cash/PayNow
-<br>
-<br><strong><u>Uniform</u></strong>
-<br>Cash/PayNow</p>
-</td>
-<td rowspan="6" colspan="1">
-<p><strong><u>Bookshop</u></strong>
-<br>Self-collection in school for online purchase.
-<br><strong>Venue: Room A3-02/03</strong>
-</p>
-<p>&nbsp;</p>
-<p><strong><u>Uniform</u></strong>
-<br>Walk-in purchase for school uniforms</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Venue: School Canteen (Level 4) until 24 Dec 2024.</strong>
-</p>
-<p><strong>Venue will shift to Records Room</strong>
-</p>
-<p><strong>(same level as Foyer, to the right) from 26 Dec 2024.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
-</td>
-</tr>
+  <tr>
+    <td>19/12/2024</td>
+    <td> Thursday</td>
+    <td>9am to 3pm </td>
+		<td rowspan="6"><b><u>Bookshop</u></b><br><b>Online Purchase:</b> Visa/Mastercard/Debit Card/PayNow<br><br><b>Walk-in:</b><br>Cash/PayNow <br> <br><b><u>Uniform</u></b><br>Cash/PayNow<br>    <br> </td>
+    <td rowspan="6"><b><u>Bookshop</u></b><br>Self-collection in school for online purchase.<br>Venue: Room A3-02/03<br> <br> <br> <br><br> <b><u>Uniform</u></b><br>Walk-in purchase for school uniforms <br>Venue: School Canteen (Level 4) until 24 Dec 2024. Venue will shift to Records Room (same level as Foyer, to the right) from 26 Dec 2024.</td>
+  </tr>
+  <tr>
+    <td>20/12/2024 </td>
+    <td> Friday</td>
+    <td>9am to 3pm </td>
+  </tr>
+  <tr>
+    <td>23/12/2024 </td>
+    <td> Monday</td>
+    <td>9am to 3pm </td>
+  </tr>
+  <tr>
+    <td>26/12/2024<br></td>
+    <td>Thursday</td>
+    <td>9am to 3pm</td>
+  </tr>
+  <tr>
+    <td>27/12/2024</td>
+    <td>Friday </td>
+    <td>9am to 3pm </td>
+  </tr>
+	<tr>
+    <td>30/12/2024</td>
+    <td>Monday </td>
+    <td>9am to 3pm </td>
+  </tr>
 </tbody>
 </table>
 <p></p>
