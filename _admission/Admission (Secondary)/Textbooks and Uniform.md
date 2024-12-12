@@ -8,7 +8,7 @@ variant: markdown
 # TEXTBOOKS AND UNIFORM
 
 
-Sale of Textbooks
+**Sale of Textbooks**
 
 Our school's books supplier is: <b>Pacific Bookstores Pte Ltd</b>
 
@@ -25,9 +25,9 @@ Our school's books supplier is: <b>Pacific Bookstores Pte Ltd</b>
 *   For any enquiries, please call 69298012 or email sales@pacificbookstores.com.
     
 
-<b>Shanghai School Uniform</b>
+<b>**Shanghai School Uniform**</b>
 
-Our school's uniform supplier is: Shanghai School Uniform.
+Our school's uniform supplier is: **Shanghai School Uniform**.
 
 Uniform will be available for purchase via the following modes:
 
