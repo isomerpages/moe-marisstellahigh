@@ -15,6 +15,6 @@ sections:
         uniforms.
       button: More Details Here
       url: /2025-sec-1-registration/
-      image: /images/997e5d98_c91d_4585_bb02_b21812afebd6.jpg
+      image: /images/PHOTO_2024_12_13_15_47_18.jpg
       alt: Image alt text
 ---
