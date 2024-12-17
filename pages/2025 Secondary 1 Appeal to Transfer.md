@@ -34,15 +34,18 @@ link: <a href="https://go.gov.sg/2025-mshs-appeal" rel="noopener noreferrer nofo
 <li>
 <p>Applications are not assessed based on a first-come-first-served basis.</p>
 <p></p>
+	<ul>
+		<li>
 <p>Applications will be considered void if the information submitted is not
-supported correctly by the official documents.</p>
-</li>
-</ol>
+	supported correctly by the official documents.</p></li>
+<li>
 <p>Scanned copies of the following documents are required for the appeal
 application:</p>
-<p>▪ PSLE Results Slip (with AL Score)</p>
-<p>▪ School Choice Verification Slip</p>
-<p></p>
+	<ul>
+		<li>
+			<p>SLE Results Slip (with AL Score)</p></li>
+		<li><p>School Choice Verification Slip</p></li>
+		<p></p></ul></li></ul><p></p>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p>Shortlisted applicants will be notified for a follow-up interview and
@@ -54,4 +57,4 @@ documents to bring to school.</p>
 </p>
 </li>
 </ol>
-<p></p>
+<p></p></li></ol>
