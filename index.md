@@ -21,6 +21,6 @@ sections:
       title: 2025 Secondary 1 Appeal to Transfer
       id: infobar
       description: Information on school transfer.
-      button: More Details Herext
+      button: More Details Here
       url: /2025-secondary-1-appeal-to-transfer/
 ---
