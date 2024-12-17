@@ -39,9 +39,9 @@ our school uniform in time.</p>
 <p>There is no vegetarian stall in our canteen. Vegetarians may make special
 arrangements with our Chinese and Muslim stalls for vegetable dishes during
 recess or lunch.</p>
-<hr>
 </li>
 </ul>
+<hr>
 <h4>Class Allocation</h4>
 <p>Parent/guardian will receive a Parents Gateway (PG) notification by 30
 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
