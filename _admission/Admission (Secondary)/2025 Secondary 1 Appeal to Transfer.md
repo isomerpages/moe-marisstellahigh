@@ -44,7 +44,7 @@ supported correctly by the official documents.</p>
 application:</p>
 <ul>
 <li>
-<p>SLE Results Slip (with AL Score)</p>
+<p>PSLE Results Slip (with AL Score)</p>
 </li>
 <li>
 <p>School Choice Verification Slip</p>
