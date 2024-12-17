@@ -23,7 +23,7 @@ via the e-form below (see point 5).</p>
 </li>
 <li>
 <p>Students must take the Higher Chinese Language as their Mother Tongue
-Language if they are offered a place in the school.</p>
+Language in Secondary 1 and 2, if they are offered a place in the school.</p>
 <p></p>
 </li>
 <li>
