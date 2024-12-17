@@ -14,7 +14,7 @@ as a Secondary One student in 2025, please take note of the following:</p>
 </li>
 <li>
 <p>Only Primary Six students who met the school’s AL for this year may apply
-via the e-form below.</p>
+via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
