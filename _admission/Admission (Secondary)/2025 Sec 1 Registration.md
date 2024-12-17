@@ -226,50 +226,28 @@ recess or lunch.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcoming</p>
-<p>Liturgy</p>
-<p>Ice Breakers</p>
-<p>Form Teacher</p>
-<p>Time</p>
+<p>Welcoming, Liturgy, Ice Breakers, Form Teacher Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Trail</p>
-<p>School / Class</p>
-<p>Identity</p>
-<p>Team Bonding</p>
-<p>Games</p>
+<p>School Trail, School / Class Identity, Team Bonding Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Trail</p>
-<p>School / Class</p>
-<p>Identity</p>
-<p>Team Bonding</p>
-<p>Games</p>
+<p>School Trail, School / Class Identity, Team Bonding Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Bonding Games</p>
-<p>School Identity</p>
-<p>Trust Activity</p>
-<p>House Induction</p>
-<p>CCA Roadshow</p>
+<p>Class Bonding Games, School Identity, Trust Activity, House Induction
+CCA Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Bonding Games</p>
-<p>School Identity</p>
-<p>Trust Activity</p>
-<p>House Induction</p>
-<p>CCA Roadshow</p>
+<p>Class Bonding Games, School Identity, Trust Activity, House Induction
+CCA Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Normal Lessons</p>
-<p>(until 1 pm)</p>
-<p>Preparation for</p>
-<p>Welcoming</p>
-<p>Ceremony (1.40</p>
-<p>pm to 5.30 pm)</p>
-<p>Welcoming</p>
-<p>Ceremony (5.30</p>
-<p>pm to 6.30 pm)</p>
+<p>Normal Lessons (until 1 pm)</p>
+<p></p>
+<p>Preparation for Welcoming Ceremony (1.40 pm to 5.30 pm)</p>
+<p></p>
+<p>Welcoming Ceremony (5.30 pm to 6.30 pm)</p>
 </td>
 </tr>
 </tbody>
