@@ -20,35 +20,50 @@ you do not have it yet.</p>
 <p>If you have any questions or concerns, please do not hesitate to <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a> the
 school office. We look forward to partnering with you in your son’s secondary
 education journey.</p>
-<hr>
-<h4>Reporting Details (First Day of School)</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Reporting Details (First Day of School)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1s are strongly encouraged to be in school by 7:15 am. Student Leaders
-will be in the school compound to assist Sec 1s and guide them to their
-respective classrooms.</p>
+<p><strong>Sec 1s are strongly encouraged to be in school by 7:15 am. Student Leaders will be in the school compound to assist Sec 1s and guide them to their respective classrooms.</strong>
+</p>
 </li>
 <li>
-<p>Morning assembly starts at 7:30 am in the Shaw Hall.</p>
+<p><strong>Morning assembly starts at 7:30 am in the Shaw Hall.</strong>
+</p>
 </li>
 <li>
-<p>Attire: Full school uniform and tie, with predominantly white shoes. Students
-are allowed to wear their primary school uniform if they have not purchased
-our school uniform in time.</p>
+<p><strong>Attire: Full school uniform and tie, with predominantly white shoes. Students are allowed to wear their primary school uniform if they have not purchased our school uniform in time.</strong>
+</p>
 </li>
 <li>
-<p>There is no vegetarian stall in our canteen. Vegetarians may make special
-arrangements with our Chinese and Muslim stalls for vegetable dishes during
-recess or lunch.</p>
+<p><strong>There is no vegetarian stall in our canteen. Vegetarians may make special arrangements with our Chinese and Muslim stalls for vegetable dishes during recess or lunch.</strong>
+</p>
 </li>
 </ul>
-<hr>
-<h4>Class Allocation</h4>
-<p>Parent/guardian will receive a Parents Gateway (PG) notification by 30
-December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
-tab at the bottom and view the class under your son's/ward’s name.</p>
-<hr>
-<h4>Applications</h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Class Allocation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Parent/guardian will receive a Parents Gateway (PG) notification by 30 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS" tab at the bottom and view the class under your son's/ward’s name.</strong>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Applications</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong><u>Third Language</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -220,9 +235,48 @@ during the level briefing on Thursday, 09 Jan 2025.</p>
 </p>
 <p>Click <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/our-partners/parent-support-group/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
-<hr>
-<h4>Sale of Textbooks and Uniform</h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sale of Textbooks and Uniform</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
 <p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
 supplier is <strong>Shanghai School Uniform</strong>.</p>
 <p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Useful Links for Parents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/transition-to-secondary" rel="noopener nofollow" target="_blank">Supporting your child in transition to secondary school</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/rebuilding/" rel="noopener nofollow" target="_blank">MSHS Rebuilding</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/admission/faqs/" rel="noopener nofollow" target="_blank">FAQs</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">Contact Details (for enquiries)</a>
+</p>
+</li>
+</ol>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
