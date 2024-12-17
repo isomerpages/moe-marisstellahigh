@@ -18,7 +18,7 @@ via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
-<p>The AL for the 2025 Secondary One cohort is <strong>11 (PASS)</strong>.</p>
+<p>The AL for the 2025 Secondary One cohort is <strong>11</strong>.</p>
 <p></p>
 </li>
 <li>
