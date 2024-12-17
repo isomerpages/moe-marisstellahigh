@@ -279,4 +279,262 @@ supplier is <strong>Shanghai School Uniform</strong>.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Secondary 1 Orientation Programme</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2nd Jan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>3rd Jan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>6th Jan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>7th Jan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>8th Jan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>9th Jan</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full School</p>
+<p>Uniform with</p>
+<p>Tie or Primary</p>
+<p>School</p>
+<p>Uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blue Polo Tee</p>
+<p>(Mandarin Collar)</p>
+<p>with White School</p>
+<p>Pants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blue Polo Tee</p>
+<p>(Mandarin Collar)</p>
+<p>with White School</p>
+<p>Pants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+<p>(Singlet and shorts)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+<p>(Singlet and shorts)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full School</p>
+<p>Uniform (bring</p>
+<p>tie)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Things to Bring</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Bottle</p>
+<p>Stationery</p>
+<p>Story book</p>
+<p>Sufficient cash for meals and transportation</p>
+<p>A keylock for locker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Bottle</p>
+<p>Stationery</p>
+<p>Story book</p>
+<p>Sufficient cash for meals and transportation</p>
+<p>A keylock for locker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Bottle</p>
+<p>Stationery</p>
+<p>Story book</p>
+<p>Sufficient cash for meals and transportation</p>
+<p>A keylock for locker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Bottle</p>
+<p>Stationery</p>
+<p>Story book</p>
+<p>Sufficient cash for meals and transportation</p>
+<p>A keylock for locker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Bottle</p>
+<p>Stationery</p>
+<p>Story book</p>
+<p>Sufficient cash for meals and transportation</p>
+<p>A keylock for locker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pack materials</p>
+<p>according to the</p>
+<p>Timetable (will</p>
+<p>be shared during</p>
+<p>Orientation)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Key Programmes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcoming</p>
+<p>Liturgy</p>
+<p>Ice Breakers</p>
+<p>Form Teacher</p>
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Trail</p>
+<p>School / Class</p>
+<p>Identity</p>
+<p>Team Bonding</p>
+<p>Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Trail</p>
+<p>School / Class</p>
+<p>Identity</p>
+<p>Team Bonding</p>
+<p>Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Bonding Games</p>
+<p>School Identity</p>
+<p>Trust Activity</p>
+<p>House Induction</p>
+<p>CCA Roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Bonding Games</p>
+<p>School Identity</p>
+<p>Trust Activity</p>
+<p>House Induction</p>
+<p>CCA Roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Normal Lessons</p>
+<p>(until 1 pm)</p>
+<p>Preparation for</p>
+<p>Welcoming</p>
+<p>Ceremony (1.40</p>
+<p>pm to 5.30 pm)</p>
+<p>Welcoming</p>
+<p>Ceremony (5.30</p>
+<p>pm to 6.30 pm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>More details on the programme will be shared with the students in the
+first day of school.</p>
+</div>
+</details>
+</div>
 <p></p>
