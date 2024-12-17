@@ -28,20 +28,22 @@ education journey.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 1s are strongly encouraged to be in school by 7:15 am. Student Leaders will be in the school compound to assist Sec 1s and guide them to their respective classrooms.</strong>
-</p>
+<p>Sec 1s are strongly encouraged to be in school by 7:15 am. Student Leaders
+will be in the school compound to assist Sec 1s and guide them to their
+respective classrooms.</p>
 </li>
 <li>
-<p><strong>Morning assembly starts at 7:30 am in the Shaw Hall.</strong>
-</p>
+<p>Morning assembly starts at 7:30 am in the Shaw Hall.</p>
 </li>
 <li>
-<p><strong>Attire: Full school uniform and tie, with predominantly white shoes. Students are allowed to wear their primary school uniform if they have not purchased our school uniform in time.</strong>
-</p>
+<p>Attire: Full school uniform and tie, with predominantly white shoes. Students
+are allowed to wear their primary school uniform if they have not purchased
+our school uniform in time.</p>
 </li>
 <li>
-<p><strong>There is no vegetarian stall in our canteen. Vegetarians may make special arrangements with our Chinese and Muslim stalls for vegetable dishes during recess or lunch.</strong>
-</p>
+<p>There is no vegetarian stall in our canteen. Vegetarians may make special
+arrangements with our Chinese and Muslim stalls for vegetable dishes during
+recess or lunch.</p>
 </li>
 </ul>
 </div>
@@ -166,36 +168,22 @@ education journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full School</p>
-<p>Uniform with</p>
-<p>Tie or Primary</p>
-<p>School</p>
-<p>Uniform</p>
+<p>Full School Uniform with Tie or Primary School Uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blue Polo Tee</p>
-<p>(Mandarin Collar)</p>
-<p>with White School</p>
-<p>Pants</p>
+<p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blue Polo Tee</p>
-<p>(Mandarin Collar)</p>
-<p>with White School</p>
-<p>Pants</p>
+<p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
-<p>(Singlet and shorts)</p>
+<p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
-<p>(Singlet and shorts)</p>
+<p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full School</p>
-<p>Uniform (bring</p>
-<p>tie)</p>
+<p>Full School Uniform (bring tie)</p>
 </td>
 </tr>
 <tr>
@@ -204,46 +192,32 @@ education journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Water Bottle</p>
-<p>Stationery</p>
-<p>Story book</p>
-<p>Sufficient cash for meals and transportation</p>
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
+<p></p>
 <p>A keylock for locker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Water Bottle</p>
-<p>Stationery</p>
-<p>Story book</p>
-<p>Sufficient cash for meals and transportation</p>
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
+<p></p>
 <p>A keylock for locker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Water Bottle</p>
-<p>Stationery</p>
-<p>Story book</p>
-<p>Sufficient cash for meals and transportation</p>
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
+<p></p>
 <p>A keylock for locker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Water Bottle</p>
-<p>Stationery</p>
-<p>Story book</p>
-<p>Sufficient cash for meals and transportation</p>
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
+<p></p>
 <p>A keylock for locker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Water Bottle</p>
-<p>Stationery</p>
-<p>Story book</p>
-<p>Sufficient cash for meals and transportation</p>
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
+<p></p>
 <p>A keylock for locker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pack materials</p>
-<p>according to the</p>
-<p>Timetable (will</p>
-<p>be shared during</p>
-<p>Orientation)</p>
+<p>Pack materials according to the Timetable (will be shared during Orientation).</p>
 </td>
 </tr>
 <tr>
@@ -311,8 +285,9 @@ first day of school.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Parent/guardian will receive a Parents Gateway (PG) notification by 30 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS" tab at the bottom and view the class under your son's/ward’s name.</strong>
-</p>
+<p>Parent/guardian will receive a Parents Gateway (PG) notification by 30
+December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
+tab at the bottom and view the class under your son's/ward’s name.</p>
 </div>
 </details>
 </div>
