@@ -49,238 +49,6 @@ education journey.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Class Allocation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Parent/guardian will receive a Parents Gateway (PG) notification by 30 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS" tab at the bottom and view the class under your son's/ward’s name.</strong>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Applications</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong><u>Third Language</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Successful Application</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents/guardians of successful applicants will be informed by the school
-via Parents Gateway (PG) by 20 December 2024.</p>
-</li>
-<li>
-<p>Students must confirm the acceptance of the offer and complete the registration
-at MOE Language Centre <a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">website</a> from
-XX Dec 2024 to XX Jan 2025.</p>
-</li>
-<li>
-<p>More information will be provided to the applicants via Parents Gateway
-separately.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unsuccesful Application</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you have applied and do not receive any PG notification by 20 Dec,
-5:00 pm, it means that your application is unsuccessful.</p>
-</li>
-<li>
-<p><u>No further action</u> is required unless you wish to appeal.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
-<p></p>
-<p><strong><u>Art Elective Programme (AEP) and Music Elective Programme (MEP)</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>AEP</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MEP</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Commitment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Years + O-Level Higher Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Years + O-Level Higher Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Requirements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Competent at making and presenting your art + pass the selection process</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Competent in performing and/or creating music + able to play at least
-1 instrument + pass the selection process</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Centres</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Junior College</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anglo Chinese School (Independent) &amp; Dunman High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Online application (opens from 02 January to 15 January 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interested students can contact teacher-in-charge:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sylvia Roche <a href="mailto:sylvia_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy Fernandez <a href="fernandez_jeremy_joel@schools.gov.sg" rel="noopener nofollow" target="_blank">fernandez_jeremy_joel@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong><u>Financial Assistance Scheme (FAS)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you have applied for FAS through the primary school of your son and
-received approval letter, please scan and email the copy to <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
-</li>
-<li>
-<p>If you have applied but yet to receive approval or would like to apply
-now, please drop us an <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">email</a> and
-we will send you the form to complete.</p>
-<p></p>
-</li>
-</ul>
-<p><strong><u>Secondary level School Smart Card (SSC)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All students entering Secondary One in January 2025 will be issued a new
-Secondary level School Smart Card (SSC).</p>
-</li>
-<li>
-<p>In the meantime, students can continue to use their Primary level SSCs
-for concessionary travel until end April 2025.</p>
-</li>
-<li>
-<p>Students can still use the monthly Concession Pass on their Primary level
-SSCs, but they would need to purchase the monthly Concession Pass for Secondary
-School students.</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>Personal Learning Device (PLD)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>From 2021, all secondary school students are required to get a personal
-learning device (PLD) for their learning.</p>
-</li>
-<li>
-<p>We will provide more detailed information e.g. model, pricing and subsidy
-during the level briefing on Thursday, 09 Jan 2025.</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>Parent Support Group (PSG)</u></strong>
-</p>
-<p>Click <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/our-partners/parent-support-group/" rel="noopener nofollow" target="_blank">here</a> for
-more information.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Sale of Textbooks and Uniform</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
-supplier is <strong>Shanghai School Uniform</strong>.</p>
-<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Useful Links for Parents</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moe.gov.sg/secondary/transition-to-secondary" rel="noopener nofollow" target="_blank">Supporting your child in transition to secondary school</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.marisstellahigh.moe.edu.sg/rebuilding/" rel="noopener nofollow" target="_blank">MSHS Rebuilding</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.marisstellahigh.moe.edu.sg/admission/faqs/" rel="noopener nofollow" target="_blank">FAQs</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">Contact Details (for enquiries)</a>
-</p>
-</li>
-</ol>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Secondary 1 Orientation Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -534,6 +302,239 @@ supplier is <strong>Shanghai School Uniform</strong>.</p>
 </table>
 <p>More details on the programme will be shared with the students in the
 first day of school.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Class Allocation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Parent/guardian will receive a Parents Gateway (PG) notification by 30 December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS" tab at the bottom and view the class under your son's/ward’s name.</strong>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Applications</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Third Language</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful Application</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents/guardians of successful applicants will be informed by the school
+via Parents Gateway (PG) by 20 December 2024.</p>
+</li>
+<li>
+<p>Students must confirm the acceptance of the offer and complete the registration
+at MOE Language Centre <a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">website</a> from
+19 Dec 2024, 9:00 am to 02 Jan 2025, 11:59 pm.</p>
+</li>
+<li>
+<p>More information will be provided to the applicants via Parents Gateway
+separately.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unsuccessful Application</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you have applied and do not receive any PG notification by 20 Dec,
+5:00 pm, it means that your application is unsuccessful.</p>
+</li>
+<li>
+<p><u>No further action</u> is required unless you wish to appeal.</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
+<p></p>
+<p><strong><u>Art Elective Programme (AEP) and Music Elective Programme (MEP)</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AEP</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MEP</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Commitment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Years + O-Level Higher Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Years + O-Level Higher Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Requirements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competent at making and presenting your art + pass the selection process</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competent in performing and/or creating music + able to play at least
+1 instrument + pass the selection process</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Centres</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglo Chinese School (Independent) &amp; Dunman High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online application (opens from 02 January to 15 January 2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interested students can contact teacher-in-charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sylvia Roche <a href="mailto:sylvia_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Fernandez <a href="fernandez_jeremy_joel@schools.gov.sg" rel="noopener nofollow" target="_blank">fernandez_jeremy_joel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Financial Assistance Scheme (FAS)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you have applied for FAS through the primary school of your son and
+received approval letter, please scan and email the copy to <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
+</li>
+<li>
+<p>If you have applied but yet to receive approval or would like to apply
+now, please drop us an <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">email</a> and
+we will send you the form to complete.</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Secondary level School Smart Card (SSC)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students entering Secondary One in January 2025 will be issued a new
+Secondary level School Smart Card (SSC).</p>
+</li>
+<li>
+<p>In the meantime, students can continue to use their Primary level SSCs
+for concessionary travel until end April 2025.</p>
+</li>
+<li>
+<p>Students can still use the monthly Concession Pass on their Primary level
+SSCs, but they would need to purchase the monthly Concession Pass for Secondary
+School students.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Personal Learning Device (PLD)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>From 2021, all secondary school students are required to get a personal
+learning device (PLD) for their learning.</p>
+</li>
+<li>
+<p>We will provide more detailed information e.g. model, pricing and subsidy
+during the level briefing on Thursday, 09 Jan 2025.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Parent Support Group (PSG)</u></strong>
+</p>
+<p>Click <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/our-partners/parent-support-group/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sale of Textbooks and Uniform</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
+supplier is <strong>Shanghai School Uniform</strong>.</p>
+<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Useful Links for Parents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/transition-to-secondary" rel="noopener nofollow" target="_blank">Supporting your child in transition to secondary school</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/rebuilding/" rel="noopener nofollow" target="_blank">MSHS Rebuilding</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/admission/faqs/" rel="noopener nofollow" target="_blank">FAQs</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">Contact Details (for enquiries)</a>
+</p>
+</li>
+</ol>
+<p></p>
 </div>
 </details>
 </div>
