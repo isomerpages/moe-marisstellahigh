@@ -9,7 +9,7 @@ third_nav_title: Admission (Secondary)
 as a Secondary One student in 2025, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>18 December 2024 to 23 December 2024, 12:00 p.m</strong>.</p>
+<p>Appeal Application Process is from <strong>18 December 2024 to 23 December 2024, 12:00 pm</strong>.</p>
 <p></p>
 </li>
 <li>
