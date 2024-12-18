@@ -33,7 +33,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
   </tr>
 
@@ -511,8 +511,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Foo Tuck Heng (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  
   </tr><tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -579,11 +578,8 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chiam Ru Qi (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Science</td>
  </tr>
-	<tr>
-	   <td style="width: 50%" class="tg-0lax"> Ang Chew Ying Pearly (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / SEN</td>
-  </tr><tr>
-</tr><tr>
+
+<tr>
     <td style="width: 50%" class="tg-0lax">Lee Chia Wei Alvin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
   </tr>
