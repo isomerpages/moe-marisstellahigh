@@ -32,7 +32,7 @@ PE attires and school uniforms are available at the Primary School Bookshop. If 
 
 Ordering and collection of name tags will be done through the school bookshop.  
 
-Kindly download the&nbsp;[Name Tag Order form](/files/Useful%20Links%20and%20Info/Primary/Name%20tag%20Order%20Instructions_MSHSP_Final.pdf).
+Kindly download the&nbsp;[Name Tag Order form](/files/Name_tag_Order_Instructions_MSHS_P__2025.pdf).
 
 # SCHOOL UNIFORM
 
