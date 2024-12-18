@@ -2,7 +2,6 @@
 title: 2024 Sec 1 Zoom Webinar and E Registration
 permalink: /admission/secondary/admission/2024-sec-1-zoom-webinar-n-e-registration/
 description: ""
-third_nav_title: Admission (Secondary)
 variant: markdown
 ---
 # 2024 SEC 1 ZOOM WEBINAR AND E-REGISTRATION

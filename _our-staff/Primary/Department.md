@@ -28,14 +28,15 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Boy Eng Seng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Principal</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Benedict Lim (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
-  </tr>
-  <tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">Choo-Lim Qing Yi (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
   </tr>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Vice-Principal</td>
+  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Lee Ko Yong (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Vice-Principal (Admin)</td>
@@ -82,10 +83,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lim Kern Wei Randall (Mr)</td>
     <td style="width: 50%" class="tg-0lax">HOD / CCA</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / SEN</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Ng Kim Neo Helen (Ms)</td>
     <td style="width: 50%" class="tg-0lax">HOD / ICT</td>
