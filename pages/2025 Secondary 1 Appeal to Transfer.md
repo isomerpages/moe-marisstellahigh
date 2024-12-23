@@ -3,7 +3,6 @@ title: 2025 Secondary 1 Appeal to Transfer
 permalink: /2025-secondary-1-appeal-to-transfer/
 variant: tiptap
 description: ""
-third_nav_title: Admission (Secondary)
 ---
 <p>For students who would like to appeal to join Maris Stella High School
 as a Secondary One student in 2025, please take note of the following:</p>
