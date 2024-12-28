@@ -70,7 +70,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Francis</td>
-    <td style="width: 50%" class="tg-06je">Adeline Lye (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Lye Jia Yi Adeline (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Gabriel</td>
