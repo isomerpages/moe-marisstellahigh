@@ -142,9 +142,17 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
     <td style="width: 50%" class="tg-0lax">LH / Mathematics </td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Mun Li Ting (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">LH / Science</td>
+</tr>
 			 <tr>
     <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
     <td style="width: 50%" class="tg-0lax">LH / Science (Acting)</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Shahira Mohamed Sharif (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">SH / Aesthetics</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
@@ -515,7 +523,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / Mathematics</td>
   </tr>
 	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
   <tr>
   
@@ -984,10 +992,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lee Chia Wei Alvin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
   </tr>
- <tr>
-    <td style="width: 50%" class="tg-0lax">Ang Chwee Ying Pearly (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / SEN</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Management</td>
