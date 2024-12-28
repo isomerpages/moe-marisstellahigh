@@ -330,7 +330,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Claris Peh (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Edward</td>
