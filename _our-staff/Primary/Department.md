@@ -714,6 +714,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Nur Afiqah Binte Mohamed Shafie (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Miss)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
