@@ -130,7 +130,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Benedict</td>
-    <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Chan Kah Yin, Carin (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Benedict</td>
