@@ -209,7 +209,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / PE</td>
   </tr>
 	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
 
 
@@ -615,7 +615,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Clement Dominic Gomez (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Allied Educator / Science (Away on attachment)</td>
+    <td style="width: 50%" class="tg-0lax">Allied Educator / Science</td>
   </tr>
 
 </tbody>
