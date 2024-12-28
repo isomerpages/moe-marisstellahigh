@@ -472,64 +472,60 @@ variant: markdown
 <tbody>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Aloysius</td>
-    <td style="width: 50%" class="tg-06je">Tan Kha Ghee (Mrs)</td>
+    <td style="width: 50%" class="tg-06je">Loh Si Jie (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Aloysius</td>
-    <td style="width: 50%" class="tg-06je">Lim Kern Wei Randall (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Noradlina Bte Mohamed (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Benedict</td>
-    <td style="width: 50%" class="tg-06je">Alice Ng (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Sharmini Jayasughavanagopal (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Benedict</td>
-    <td style="width: 50%" class="tg-06je">Chiang Lay Hoon (Mdm)</td>
+    <td style="width: 50%" class="tg-06je">Ma Yiwei (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Charles</td>
-    <td style="width: 50%" class="tg-06je">Wong Chee Wai Eugene (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Koh Ee Beng (Mr)</td>
   </tr>
-
+ <tr>
+    <td class="tg-06je">6 Charles</td>
+    <td class="tg-06je">Sun Sheau Yu (Mdm)</td>
+  </tr>
   <tr>
     <td class="tg-06je">6 Dominic</td>
-    <td class="tg-06je">Tan Leng Leong (Mr)</td>
+    <td class="tg-06je">Ng Beng Choo (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Dominic</td>
-    <td style="width: 50%" class="tg-06je">Matilda Tan (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Oh Li Neo Rebecca (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Edward</td>
-    <td style="width: 50%" class="tg-06je">Ng Kim Neo Helen (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Randall Lim (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Edward</td>
-    <td style="width: 50%" class="tg-06je">Yong Ren Cui (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Sivagami Alagappan (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Francis</td>
-    <td style="width: 50%" class="tg-06je">Abigail Abraham (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Tay-Ang Poh Qin (Mrs)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Francis</td>
-    <td style="width: 50%" class="tg-06je">Koh Chek Seng (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Tan Yan Zhi Eugene (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Gabriel</td>
-    <td style="width: 50%" class="tg-06je">Koh Ee Beng (Mr)</td>
+    <td style="width: 50%" class="tg-06je">Fang Meiling (Mdm)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">6 Gabriel</td>
-    <td style="width: 50%" class="tg-06je">Tee Ying Chuen (Mdm)</td>
-		 </tr><tr>
-    <td style="width: 50%" class="tg-0lax">6 Henry</td>
-    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">6 Henry</td>
-    <td style="width: 50%" class="tg-0lax">Mang Linlin (Mdm)</td>
-  </tr>
+    <td style="width: 50%" class="tg-06je">Leow Yong Long (Mr)</td>
+		 </tr>
   
 </tbody>
 </table>
