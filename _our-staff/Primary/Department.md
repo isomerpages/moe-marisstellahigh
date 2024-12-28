@@ -802,14 +802,14 @@ variant: markdown
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / SEN (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">ST / SEN</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Social Studies </td>
   </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Colin Yang Jiahui (Mr)</td>
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Amrit Kaur Langeana (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -824,7 +824,14 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
- 
+   <tr>
+    <td style="width: 50%" class="tg-0lax">Leow Yong Long (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Loh Si Jie (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Nurmayah Bte Mohamed Isa (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
