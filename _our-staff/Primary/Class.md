@@ -54,7 +54,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Dominic</td>
-    <td style="width: 50%" class="tg-06je">Afiqah (Ms)</td>
+    <td style="width: 50%" class="tg-06je">Nur Afiqah Binte Mohamed Shafie (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Edward</td>
@@ -417,7 +417,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Edward</td>
-    <td style="width: 50%" class="tg-0lax">Vikineesh (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Vikineesh S/O Balakrishnan (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Edward</td>
