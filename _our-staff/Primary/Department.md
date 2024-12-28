@@ -713,15 +713,15 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
+    <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
   </tr>
 	 <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Beng Choo (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Ng Beng Choo</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Chan Kah Yin, Carin (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
 <tr>
@@ -746,7 +746,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">Mang Linlin (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Xie Meng (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -863,23 +863,16 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
 <tr>
-    <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao Xuan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Yang Jiahui Colin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
 	<tr>
   </tr>	
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Yeow Yong Long (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Jenna Gan Ting Ann (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Loh Si Jie (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>	
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Ng Chui Nee (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>	
+	
   <tr>
     <td style="width: 50%" class="tg-0lax">Ng Mei Xian Angelia (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -889,10 +882,11 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
-   
+     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Teo Wan Ting, Cindy (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
   <tr>
