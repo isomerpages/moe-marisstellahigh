@@ -1032,14 +1032,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Risliana Mohd Idris Moey (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sim Mei Lin Diana (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
