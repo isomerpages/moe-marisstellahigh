@@ -54,9 +54,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>KEY PERSONNEL</h3><pre><code> &lt;tr&gt;
-&lt;td class="tg-0lax" style="width: 50%"&gt;Chng Wan Ting Zenia (Ms)&lt;/td&gt;
-&lt;td class="tg-0lax" style="width: 50%"&gt;SH / Educational Technology&lt;/td&gt;</code></pre>
+<h3>KEY PERSONNEL</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
