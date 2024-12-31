@@ -207,18 +207,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Chui Ting (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/ Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chia Kian Boon Edwin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Chui Ting (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Humanities</p>
 </td>
 </tr>
 <tr>
