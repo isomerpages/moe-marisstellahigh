@@ -355,7 +355,7 @@ variant: tiptap
 <p>3 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eunice Koh Geok Puay (Ms)</p>
+<p>Koh Geok Puay Eunice (Ms)</p>
 </td>
 </tr>
 <tr>
