@@ -214,7 +214,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Wong Chee Wai Eugene (Mr)</td>
     <td style="width: 50%" class="tg-0lax">ST / English Language</td>
   </tr>
-	 	<tr>
+	 <tr>
     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Chinese Language</td>
   </tr>
@@ -233,8 +233,9 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
  
-	  <tr><td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">ST / Science (Acting) </td>
+<tr>
+<td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
+<td style="width: 50%" class="tg-0lax">ST / Science (Acting) </td>
   </tr>
 
 </tbody>
