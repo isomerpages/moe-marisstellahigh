@@ -739,10 +739,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tosakul Saenghaengfah (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-<tr>
-    <td style="width: 50%" class="tg-0lax">Nurhamizah Binte Zohry (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
 </tbody>
 </table>
 
