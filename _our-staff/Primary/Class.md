@@ -318,7 +318,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Charles</td>
-    <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao Xuan (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
