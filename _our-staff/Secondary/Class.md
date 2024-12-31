@@ -339,7 +339,7 @@ variant: tiptap
 <p>3 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kee Shiao Pey (Ms)</p>
+<p>Lee Shiao Pey (Ms)</p>
 </td>
 </tr>
 <tr>
