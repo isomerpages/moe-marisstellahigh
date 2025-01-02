@@ -106,7 +106,7 @@ variant: tiptap
 <p>Suresh s/o Sivakadacham (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; Aesthetics &amp; CCA</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -945,7 +945,7 @@ variant: tiptap
 <p>Suresh s/o Sivakadacham (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; AES &amp; CCA</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
