@@ -17,4 +17,8 @@ sections:
       url: /2025-sec-1-registration/
       image: /images/PHOTO_2024_12_13_15_47_18.jpg
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
