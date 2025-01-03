@@ -2,11 +2,11 @@ title: Maris Stella High School
 url: https://marisstellahigh.moe.edu.sg
 favicon: /images/sgp_maris_stella_high_school_crest.png
 colors:
-  primary-color: "#171c8f"
+  primary-color: "#153e7b"
   secondary-color: "#24276e"
   media-colors:
     - title: media-color-one
-      color: "#b58500"
+      color: "#171c8f"
     - title: media-color-two
       color: "#49759a"
     - title: media-color-three
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#5322d0"
     - title: media-color-five
-      color: "#8b57bf"
+      color: "#5777bf"
 description: ""
 permalink: none
 baseurl: ""
