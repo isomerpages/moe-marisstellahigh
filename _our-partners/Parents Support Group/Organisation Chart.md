@@ -28,6 +28,10 @@ EXCO ORGANISATION CHART
     <td>Treasurer</td>
     <td>Jacqueline Ng<br></td>
   </tr>
+	 <tr>
+    <td>Digital &amp; Events</td>
+    <td>Mabel Hong<br></td>
+  </tr>
   <tr>
     <td>Marist Book Lab (MBL)</td>
     <td>Erica Ong<br></td>
@@ -35,6 +39,10 @@ EXCO ORGANISATION CHART
   <tr>
     <td>Morning Duty (MD)<br></td>
     <td>Jacqueline Ng<br>Jared Lim<br></td>
+  </tr>
+	  <tr>
+    <td>Rainbow Reading Club (RRC)</td>
+    <td>Joanne Chung<br>Pamela Tan          </td>
   </tr>
   <tr>
     <td>Recess Duty (RD)<br></td>
@@ -44,13 +52,7 @@ EXCO ORGANISATION CHART
     <td>Religious Education (RE) <br></td>
     <td>Angela Christy<br>Judith Oh<br></td>
   </tr>
-  <tr>
-    <td>Rainbow Reading Club (RRC)</td>
-    <td>Joanne Chung<br>Pamela Tan          </td>
-  </tr>
-	 <tr>
-    <td>Digital &amp; Events</td>
-    <td>Mabel Hong<br></td>
-  </tr>
+
+	
 </tbody>
 </table>
