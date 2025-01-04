@@ -730,7 +730,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Miss)</td>
+    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
   <tr>
@@ -899,7 +899,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Miss)</td>
+    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
