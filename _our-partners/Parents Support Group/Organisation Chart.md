@@ -46,7 +46,7 @@ EXCO ORGANISATION CHART
   </tr>
   <tr>
     <td>Recess Duty (RD)<br></td>
-    <td>Jeremy Ng<br></td>
+    <td>Lynn Sarah<br></td>
   </tr>
   <tr>
     <td>Religious Education (RE) <br></td>
