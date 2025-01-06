@@ -1011,11 +1011,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Management</td>
   </tr>
-	
-<tr>
-    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head (P5-6)</td>
-  </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
