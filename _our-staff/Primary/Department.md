@@ -611,21 +611,22 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Mun Li Ting (Ms)</td>
     <td style="width: 50%" class="tg-0lax">LH / Science</td>
 </tr>
-
-	
- <tr><td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
-    <td style="width: 50%" class="tg-0lax">LT / Science (Acting)</td>
-  </tr>
-
 <tr>
     <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
     <td style="width: 50%" class="tg-0lax">LH / Science (Acting)</td>
 </tr>
+	
+ <tr><td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
+    <td style="width: 50%" class="tg-0lax">LT / Science (Acting)</td>
+  </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Leong Mei Lian Jacelyn (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Science (Acting)</td>
   </tr>
-
+  <tr>
+    <td style="width: 50%" class="tg-0lax">Caelyn Whyndee Lim Shu Yann (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / Student Management</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Alice Ng (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -696,7 +697,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Assistant Year Head (P5-6)</td>
   </tr>
-
+<tr>
+    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head (P3-4) (Acting)</td>
+  </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -719,10 +723,6 @@ variant: markdown
   </tr>
  <tr>
     <td style="width: 50%" class="tg-0lax">Kassandra Wong Yen Li (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	 <tr>
