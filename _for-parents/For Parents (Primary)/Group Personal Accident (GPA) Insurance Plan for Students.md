@@ -11,7 +11,7 @@ for Students and this contract is awarded to NTUC Income Insurance Co-operative
 Limited.&nbsp; It covers death, permanent and total/partial disability
 and medical due to an accident.</p>
 <p>Fact sheet for NTUC Income Group Personal Accident (GPA) Insurance Plan
-for Students via this <a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a>.
+for Students via this <a href="/files/Insurance_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">link</a>.
 Parents/students are to submit their claims online and check the claims
 status through the online portal:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
