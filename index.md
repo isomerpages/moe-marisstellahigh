@@ -8,13 +8,10 @@ notification: Welcome Marists!! Class of 2025!!!
 sections:
   - hero:
       background: /images/Homepage GIF.gif
-  - infopic:
-      title: 2025 Secondary 1 Registration
-      id: infopic
-      description: Information on the first day of school, applications, booklist and
-        purchase of uniforms.
+  - infobar:
+      title: Release of GCE O Level Results 2024
+      id: infobar
+      description: Information on release of GCE O Level Results 2024
       button: More Details Here
-      url: /2025-sec-1-registration/
-      image: /images/PHOTO_2024_12_13_15_47_18.jpg
-      alt: Image alt text
+      url: /school-happenings/secondary/announcements/
 ---
