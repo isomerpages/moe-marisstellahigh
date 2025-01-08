@@ -6,23 +6,16 @@ variant: markdown
 ---
 ## Announcements (Secondary)
 
+#### Release of GCE O Level Results 2024
 
-#### Maris Stella High School Open House Webinar 2024
-######  Our Open House Webinar is scheduled on 22 November 2024, Friday.
-![](/images/Screenshot_2024_11_21_191250.jpg)
+The results of the 2024 GCE O-Level examination will be released on Friday, 10 January 2025. All students are to report to the Shaw Hall by 1.50pm on Friday. Students should be appropriately attired and groomed. The session will begin at 2.00pm.
 
-We welcome all Primary Six students and parents to join us at our Open House Webinar this **Friday, 22 November 2024,** at **7.00 p.m. to 8.00 p.m.**.
+For parents who are accompanying their child/ ward, do note that there is no parking within the school compound. Parents should instead park their vehicles at multi-storey carparks in the HDB blocks nearby.
 
-Please register for the zoom webinar using this [link](https://moe-singapore.zoom.us/webinar/register/WN_E-bPVKA1TDWzxMeVUDliyw)
+Students who are unwell are advised to seek medical attention and avoid returning to school to collect their results. Students who are unable to collect their results in person can appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. A copy of the proxy form can be found at this link [https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/jae-proxy-form.pdf](https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/jae-proxy-form.pdf).
 
-Upon registration, you will receive a confirmation email with the login details.
+Please feel free to contact your form teachers or our ECG Coach, Ms Joanne Tan at [joanne\_tan\_pek\_gek@schools.gov.sg](mailto:joanne_tan_pek_gek@schools.gov.sg) for guidance on your education pathways. You may also refer to the following websites to find out more about the range of education and career pathways available:
 
-Details of our Open House Webinar programme:-
+• MOE’s CourseFinder ([https://www.moe.gov.sg/coursefinder](https://www.moe.gov.sg/coursefinder))
 
-
-| Time | Session 1 | 
-| -------- | -------- | 
-| 1850h     | Log In   | 
-| 1900h     | Principal's Talk   | 
-|      | Q&A   | 
-| 2000h     | Closing  |
+• MySkillsFuture Portal ([https://go.gov.sg/MySFSec](https://go.gov.sg/MySFSec))
