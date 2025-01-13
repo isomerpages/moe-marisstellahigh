@@ -747,9 +747,8 @@ of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
 and is also downloadable <a href="https://drive.google.com/file/d/1IDyWoLQEW7WRY8kmld6soOxHYoKFvo4p/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/01/2025.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">msh@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">msh@moe.edu.sg</a> for discussion or
+to seek clarification about the school’s Sexuality Education programme.</p>
 <p>
 <br>
 </p>
