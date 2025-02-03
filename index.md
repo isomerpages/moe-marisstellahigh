@@ -32,4 +32,8 @@ sections:
       url: www.google.com
       image: /images/DETERMINATION_1_SM.png
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
