@@ -11,7 +11,8 @@ description: ""
 <details class="isomer-details">
 <summary>English Department</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Your Text Here</p>
+<p>The English Departments aims to teach Marists to be an active contributor
+and .....</p>
 </div>
 </details>
 <details class="isomer-details">
