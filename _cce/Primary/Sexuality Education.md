@@ -38,13 +38,13 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
   
 
-**OVERVIEW OF  SEXUALITY EDUCATION PROGRAMME FOR 2024 Programme**
+**OVERVIEW OF  SEXUALITY EDUCATION PROGRAMME FOR 2025 Programme**
 
 **MARIS STELLA HIGH SCHOOL (PRIMARY)**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
-5\. The subjects that incorporate topics on sexuality include:
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The subjects that incorporate topics on sexuality include:
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
 
@@ -62,7 +62,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65bb185dc4cd4eb0674723fc). The completed opt-out form is to be submitted by 01/03/2024.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parent Gateway. This form will be communicated to parents at the start of the year. The completed opt-out form is to be submitted by 31/04/2025.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Parents can contact the school at Ms Noradlina via email at noradlina_mohamed@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
