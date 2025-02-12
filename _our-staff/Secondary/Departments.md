@@ -231,6 +231,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chng Wan Ting Zenia (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Educational Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jeremy Fernandez (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
