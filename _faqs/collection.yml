@@ -1,5 +1,0 @@
-collections:
-  faqs:
-    output: true
-    order:
-      - FAQs (Secondary).md
