@@ -2,6 +2,7 @@
 title: School History
 permalink: /about-mshs/school-history/
 description: ""
+variant: markdown
 ---
 <center><h3>永恒的海星精神<br>THE MARIS STELLA SPIRIT PREVAILS</h3></center>
 	
@@ -89,7 +90,7 @@ In 2002, the school was designated the N4 Centre of Excellence for Information a
 
 2018年，海星已走过一甲子的春华秋实。为了纪念这个重要的里程碑，我们以“甲子情，海星梦”为主题，举行了一系列的庆祝活动。回忆过去60年所走过的足迹，海星在育人上培养了许多对社会各个领域有所贡献的人，这要归功于学校所强调的道德教育、海星价值观，以及学校的校训：勤勉忠勇。即使毕业多年后，海星学子依然秉持着海星校训和海星价值观的精神身体力行。除此之外，在这喜庆之际，我们也要感谢上帝对海星中学的眷顾与祝福。60载物换星移，成千上万的莘莘学子在海星校园中留下了无数美好的青春记忆，这些美好的回忆把一代代海星学子凝聚在一起，凝成了超越时空的兄弟情谊。他们趁此创校庆典，相约回到母校团聚，回忆在校求学时的点点滴滴，并向他们劳苦功高的老师致敬。回顾过去，展望未来，让我们珍惜海星学子这60年对学校的深厚情感，继续谱写海星育人的动人故事。但愿海星中学在学校的新愿景“凡我海星学子，当为恪守信念、富有远见、服务人群的谦谦君子。”的指引下，继续追逐另一个60年的海星梦。
 
-2022年12月，白永成校长加入海星担任第六任校长。白校长曾是海星中学的学生，也是海星第18届学生理事会的会长和孙光汉修士学术将的得奖者。毕业后，白校长就读于华中初级学院。他毕业于新加坡国立大学，获得机械工程学士学位（一等荣誉）。在加速硕士课程和研究奖学金下，他与西北大学（美国芝加哥）合作，完成了工程硕士学位。在教育部研究生奖学金下，他于2014年攻读了他的第二个教育硕士学位。在他的教学生涯中，他曾获得Certificate of Honour for Inspirational Mentorship of a Koh Boon Hwee Scholar (NTU)以及Certificate of Exceptional Teaching of a Patty Jeannie Semura Awardee (Stanford University, USA)。
+2022年12月，白永成校长加入海星担任第六任校长。白校长曾是海星中学的学生，也是海星第18届学生理事会的会长和孙光汉修士学术奖的得奖者。毕业后，白校长就读于华中初级学院。他毕业于新加坡国立大学，获得机械工程学士学位（一等荣誉）。在加速硕士课程和研究奖学金下，他与西北大学（美国芝加哥）合作，完成了工程硕士学位。在教育部研究生奖学金下，他于2014年攻读了他的第二个教育硕士学位。在他的教学生涯中，他曾获得Certificate of Honour for Inspirational Mentorship of a Koh Boon Hwee Scholar (NTU)以及Certificate of Exceptional Teaching of a Patty Jeannie Semura Awardee (Stanford University, USA)。
 
 The school leadership baton was passed from Brother Anthony Tan to Mr Joseph Lim who was the Principal from 2009 to 2015. His leadership continued the spirit of excellence in our school culture and ethos. Staff competency was developed to create the joy of learning among students. Teaching and learning continued to be our pride and glory as the school received Best Practice in Teaching and Learning, Character and Citizenship Education, Staff Well-being and Development, and Student All-Round Development in 2014.
 
