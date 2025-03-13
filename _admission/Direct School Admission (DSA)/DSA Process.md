@@ -29,8 +29,6 @@ Successful applicants must take Higher Chinese as the Mother Tongue Language in 
 
 (a)&nbsp; &nbsp; &nbsp;&nbsp;Applicants should preferably have represented his primary school, participated in international, regional or national competition(s) in one of the following sports:
 
-* Archery
-
 * Badminton
 
 * Basketball
