@@ -416,14 +416,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Henry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yoon Chee May (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
