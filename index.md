@@ -25,6 +25,14 @@ sections:
       title: Family Spirit
       subtitle: 一家精神
       id: infopic
-      description: Feature Story
+      description: Our Feature Story
+      alt: Image alt text
+      image: /images/athletics.jpeg
+  - infopic:
+      title: Love for Work
+      subtitle: 敬业乐业
+      id: infopic
+      description: ""
+      image: /images/Bicultural Programme/Secondary/bicultural (sec).jpg
       alt: Image alt text
 ---
