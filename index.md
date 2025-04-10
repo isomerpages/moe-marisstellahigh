@@ -21,6 +21,7 @@ sections:
       id: infopic
       description: Service for Others
       alt: Image alt text
+      image: /images/CCA/Primary/Science Garden Club_D1R0725.jpg
   - infopic:
       title: Family Spirit
       subtitle: 一家精神
@@ -32,7 +33,13 @@ sections:
       title: Love for Work
       subtitle: 敬业乐业
       id: infopic
-      description: ""
       image: /images/Bicultural Programme/Secondary/bicultural (sec).jpg
+      alt: Image alt text
+  - infopic:
+      title: In the Way of Mary
+      subtitle: 效法圣母
+      id: infopic
+      description: Faith Formation
+      image: /images/Faith Formation/Religious Education.jpg
       alt: Image alt text
 ---
