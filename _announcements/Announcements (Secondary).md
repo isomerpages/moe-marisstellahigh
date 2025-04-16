@@ -74,5 +74,4 @@ variant: markdown
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
 
 
-#### Collection of School Graduation Certificates and Yearbook
-
+#### Collection of School Graduation Certificates and Yearbook![](/images/Announcements/WhatsApp_Image_2025_04_15_at_8_26_53_AM.jpg)
