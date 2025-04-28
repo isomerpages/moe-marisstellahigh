@@ -28,7 +28,7 @@ sub-pages:</p>
 </p>
 </li>
 <li>
-<p><a href="/about-mshs/secondary/school-achievements/2022/" rel="noopener noreferrer nofollow" target="_blank">Past Achievements</a>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/2024/" rel="noopener noreferrer nofollow" target="_blank">Past Achievements</a>
 </p>
 </li>
 <li>
