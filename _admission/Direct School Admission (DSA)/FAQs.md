@@ -38,7 +38,7 @@ Answer: As our school only offers Posting Group 3 course of study, the primary s
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What is the AL score cut-off point for this year? Must the applicant meet this cut-off for entry via DSA?</u>
 
-The cut-off point is dependent on the choices of the students applying to MSHS. The PSLE score range of 2023 for affiliated students is 8(M) - 16, and the range for non-affiliated students is 7(D) -12.  
+The cut-off point is dependent on the choices of the students applying to MSHS. The PSLE score range of 2024 for affiliated students is 8(M) - 16, and the range for non-affiliated students is 6(P) -11.  
   
 
 DSA applicants only need to meet Posting Group 3 AL score for entry to MSHS via DSA.  
