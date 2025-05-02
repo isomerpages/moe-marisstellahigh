@@ -143,19 +143,19 @@ Chinese Language-related and/or Chinese cultural events or competitions.</p>
 the understanding and learning of Chinese Language and tradition, successful
 applicants will also be enrolled in the school's bicultural&nbsp;programme
 and Chinese Language-related competitions.</p>
-<h3>SELECTION PROCESS (Will be updated in May 2025)</h3>
+<h3>SELECTION PROCESS </h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted
 are required to go through DSA selection conducted by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications
 and vacancies, shortlisted applicants will be notified via email to attend
-a in-person selection exercise which will be conducted between <strong>xx June– xx August 2025.</strong>
+a in-person selection exercise which will be conducted between <strong>8 June– 22 August 2025.</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Shortlisted applicants
 will be informed of the exact date, time and venue for the audition/trial.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to
-all shortlisted applicants by <strong>x September 202x </strong>(xxx), informing
-them if they have been given a <em>Confirmed Offer,</em> placed on the <em>Waiting List</em> or
-being <em>Rejected.</em>
+all shortlisted applicants from <strong>25 August - 4 September 2025</strong>,
+informing them if they have been given a <em>Confirmed Offer,</em> placed
+on the <em>Waiting List</em> or being <em>Rejected.</em>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp; Students given a <strong><em>Confirmed Offer</em></strong> are
 guaranteed a place in the school provided they qualify for the <strong>Posting Group 3</strong> of
@@ -176,8 +176,8 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>xx May, 11am –</p>
-<p>xx June 2025, 3pm</p>
+<p>7 May, 11am –</p>
+<p>3 June 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of online DSA Application Form</p>
@@ -185,7 +185,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By xx June 2025</p>
+<p>By 9 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to send e-mail notification to shortlisted applicants.</p>
@@ -201,7 +201,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By x September 2025</p>
+<p>25 August - 9 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to inform shortlisted applicants of the selection outcome.</p>
@@ -212,9 +212,9 @@ study.</p>
 <p><strong>How To Apply</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from xx May 2025, 11
-am to xx June 2025, 3pm. For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 7 May 2025, 11
+am to 3 June 2025, 3pm. For more details, please refer to MOE website –
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>In your submission, please provide information such as position played
 in the sports, belt attainment in taekwondo, wushu specialization, instrument
 played and grade level, whichever is applicable for the talent area that
@@ -229,9 +229,9 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p><strong>For further enquiries, please email suresh_sivakadacham@schools.gov.sg.</strong>
 </p>
-<p><strong>Application Deadline</strong>
+<p><strong>Application Deadline </strong>
 </p>
-<p><strong>xx June 2025, 3pm</strong>
+<p><strong>3 June 2025, 3pm</strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
@@ -268,7 +268,7 @@ related to the talent they are selected for from year 1-4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>* go live on xx May, 11am</p>
+<p>* go live on 7 May, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec</p>
@@ -278,7 +278,7 @@ related to the talent they are selected for from year 1-4.</p>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal&nbsp;</p>
 <p>(Non Mainstream Students)</p>
-<p>* go live on xx May, 11am</p>
+<p>* go live on 7 May, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec-nms</p>
