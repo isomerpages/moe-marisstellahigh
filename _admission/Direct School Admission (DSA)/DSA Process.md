@@ -176,8 +176,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May, 11am –</p>
-<p>3 June 2025, 3pm</p>
+<p>7 May, 11am – 3 June 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of online DSA Application Form</p>
