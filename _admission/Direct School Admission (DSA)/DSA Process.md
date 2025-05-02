@@ -185,7 +185,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 9 June 2025</p>
+<p>By 9 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to send e-mail notification to shortlisted applicants.</p>
@@ -193,7 +193,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>xx June – &nbsp;xx August 2025</p>
+<p>8 July – &nbsp;22 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person selection exercise for shortlisted applicants.</p>
