@@ -143,7 +143,7 @@ Chinese Language-related and/or Chinese cultural events or competitions.</p>
 the understanding and learning of Chinese Language and tradition, successful
 applicants will also be enrolled in the school's bicultural&nbsp;programme
 and Chinese Language-related competitions.</p>
-<h3>SELECTION PROCESS </h3>
+<h3>SELECTION PROCESS</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted
 are required to go through DSA selection conducted by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications
@@ -204,7 +204,7 @@ study.</p>
 <p>25 August - 9 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School to inform shortlisted applicants of the selection outcome.</p>
+<p>School to inform all shortlisted applicants of the selection outcome.</p>
 </td>
 </tr>
 </tbody>
@@ -229,7 +229,7 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p><strong>For further enquiries, please email suresh_sivakadacham@schools.gov.sg.</strong>
 </p>
-<p><strong>Application Deadline </strong>
+<p><strong>Application Deadline</strong>
 </p>
 <p><strong>3 June 2025, 3pm</strong>
 </p>
