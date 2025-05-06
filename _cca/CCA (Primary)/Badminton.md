@@ -43,4 +43,3 @@ variant: markdown
 * National School Games Badminton Championships 2024 Junior Division  
 	* Tier 1 singles 1st
 	* Tier 2 doubles 1st
-	
