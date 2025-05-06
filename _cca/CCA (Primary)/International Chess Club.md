@@ -40,5 +40,7 @@ variant: markdown
  *   74th National School Individual Chess Championship 2023
 	 *   U-8 North Zone - 3rd
 	 *   U-8 North Zone - 4th
-
 	 *   U-12 North Zone - 1st
+ *   65th National School Individual Chess Championship 2024
+	 *   U8 Primary Open – National and North Zone 1st
+	 *   Primary Open – North Zone 2nd
