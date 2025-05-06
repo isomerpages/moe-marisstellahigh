@@ -46,3 +46,5 @@ variant: markdown
 	*   Tier 2 Singles - 1st position
 	*   Tier 2 Singles - 1st position
 	*   Tier 4 Doubles - 1st position
+*   2024 National School Games (Junior Division)
+	*   Tier 2 Doubles - 1st position
