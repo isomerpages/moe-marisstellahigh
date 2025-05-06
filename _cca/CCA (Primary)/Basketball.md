@@ -41,3 +41,7 @@ variant: markdown
     *  National - 5th to 8th
 *   2023 NSG Basketball Championships 2023 Junior Division
 	*   Tier 1 - 1st position
+ *   2024 NSG Basketball Championships 2024 Senior Division
+ 	*   Tier 1 - 5th to 8th
+*   2024 NSG Basketball Championships 2024 Junior Division
+ 	*   Tier 1 - 1st position
