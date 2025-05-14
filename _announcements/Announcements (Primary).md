@@ -31,7 +31,7 @@ variant: markdown
 	
 <tr>
 		<td style="width: 50%" class="tg-0lax">Chinese Mixed Vegetable Rice Stall</td>
-    <td style="width: 50%" class="tg-0lax">30 April 2025</td>
+    <td style="width: 50%" class="tg-0lax">16 June 2025</td>
 		<td style="width: 50%" class="tg-0lax">Nil</td>
   </tr>
 </tbody>
