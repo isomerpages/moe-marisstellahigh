@@ -16,10 +16,6 @@ variant: markdown
 *   Forge camaraderie in the team and build a resilient team.
 
 **To achieve the CCA’s goals, the following programmes are offered:**&nbsp;
-
-*   P2 Badminton Enrichment Programme
-*   P3 Learning for Life Programme (LLP)
-*   P4 Learning for Life Programme (LLP)  
     
 *   P4 Junior Boys School Team
 *   P5 Junior Boys School Team
@@ -44,3 +40,6 @@ variant: markdown
 	* Tier 1 singles 2nd
 	* Tier 1 doubles 1st
 	* Tier 1 doubles 2nd
+* National School Games Badminton Championships 2024 Junior Division  
+	* Tier 1 singles 1st
+	* Tier 2 doubles 1st
