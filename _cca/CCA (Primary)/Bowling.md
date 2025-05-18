@@ -29,5 +29,8 @@ variant: markdown
 *   2023 National School Games Bowling Championship
     *   Senior Division Overall Schools - 2nd Runner-Up
     *   Junior Division Overall Schools - Champion
+*   2024 National School Games Bowling Championship
+    *   Senior Division Overall Schools - 1st Runner-Up
+
 
 **Note:**&nbsp;Bowling CCA trainings take place at Jforte Bowl, Kovan. Training sessions takes place once a week for CCA members and twice weekly for school team bowlers. Bowling is a co-paying CCA.
