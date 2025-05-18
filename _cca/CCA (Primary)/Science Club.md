@@ -33,4 +33,4 @@ variant: markdown
 *   Science Buskers 2023 - People's Choice Award - Most Creative Busking
 *   e-THINK Challenge 2023 - 2 Silvers, 1 Bronze and 1 Honourable Mention
 *   e-THINK Challenge 2024 - 1 Silvers and 2 Honourable Mention
-*  Science Buskers 2024 - Judges’ Award
+* Science Buskers 2024 - Judges’ Award
