@@ -33,4 +33,5 @@ variant: markdown
 
 *   Frank Cooper Sands Award 2019 - Gold
 *   Akela Award 2020
+*   Frank Cooper Sands Award 2022 - Gold with Honours Pennant
 *   Akela Award 2024
