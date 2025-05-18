@@ -41,3 +41,8 @@ variant: markdown
 	* 5-Duan Changquan -2nd position 
 	* 5-Duan Broadsword - 5th position
 	* 1st International Nan Gun - 6th position
+* 2024 National School Games Wushu (Senior Division)
+	*  1st International Nan Gun - 8th position
+	*  1st International Broadsword - 7th position
+	*  Si-Duan Cudgel - 8th position
+	*  San-Duan Nanquan - 6th position
