@@ -32,7 +32,6 @@ variant: markdown
 **Marists have performed well in the following competitions:**&nbsp;
 
 *   61st National Inter-School Team Chess Championship
-
     *   National Open - 2nd
     *   North Zone Open - 1st
  *   64th National Inter-School Team Chess Championship 2023
@@ -44,3 +43,5 @@ variant: markdown
  *   65th National School Individual Chess Championship 2024
 	 *   U8 Primary Open – National and North Zone 1st
 	 *   Primary Open – North Zone 2nd
+* 13th Chung Cheng Cup Chess Competition 2024
+	* (U12 Open group) 4th Place
