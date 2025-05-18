@@ -31,6 +31,6 @@ variant: markdown
 
 **Marists have performed well in the following competitions:**&nbsp;
 
-*   Akela Award 2020
 *   Frank Cooper Sands Award 2019 - Gold
+*   Akela Award 2020
 *   Akela Award 2024
