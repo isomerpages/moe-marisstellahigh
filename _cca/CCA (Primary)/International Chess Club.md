@@ -45,3 +45,6 @@ variant: markdown
 	 *   Primary Open – North Zone 2nd
 * 13th Chung Cheng Cup Chess Competition 2024
 	* (U12 Open group) 4th Place
+* 75th National Schools Individual Chess Championship 2024
+	* U8 North Zone 2nd and National 6th
+	* U12 North Zone 1st and National 1st
