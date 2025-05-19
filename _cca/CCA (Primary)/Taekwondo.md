@@ -44,3 +44,15 @@ variant: markdown
     *   POOMSAE (INDIVIDUAL) – JUNIOR DIVISION (GREEN 6) Achievement: 6th position
 *   2023 National School Games Taekwondo Championships
 	*   Senior Division Boys Poomsae - Overall Champion
+
+*   2024 National School Games Taekwondo Championships
+    *   POOMSAE (INDIVIDUAL) – SENIOR DIVISION (BLUE 3) Achievement: 1st and 5th position
+    *   POOMSAE (INDIVIDUAL) – SENIOR DIVISION (YELLOW 7) Achievement: 5th and 8th position
+    *   POOMSAE (INDIVIDUAL) – SENIOR DIVISION (YELLOW 8) Achievement: 3rd and 6th position
+    *   POOMSAE (INDIVIDUAL) – SENIOR DIVISION (GREEN 6) Achievement: 2nd and 8th position
+    *   POOMSAE (TEAM) – SENIOR DIVISION (BLUE 3) Achievement: 1st position
+    *   POOMSAE (TEAM) – SENIOR DIVISION (YELLOW 7) Achievement: 2nd position
+    *   POOMSAE (TEAM) – SENIOR DIVISION (YELLOW 8) Achievement: 2nd position
+    *   POOMSAE (TEAM) – SENIOR DIVISION (GREEN 6) Achievement: 2nd position
+    *    POOMSAE (INDIVIDUAL) – JUNIOR DIVISION (GREEN 6) Achievement: 4th position
+    *    POOMSAE (TEAM) – JUNIOR DIVISION (YELLOW 7) Achievement: 1st position

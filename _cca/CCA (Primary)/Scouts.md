@@ -3,6 +3,7 @@ title: Scouts
 permalink: /programmes/primary/cca/scouts/
 description: ""
 third_nav_title: CCA (Primary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Primary/Cub%20Scout.jpg" style="width:45%">
 
@@ -30,5 +31,7 @@ third_nav_title: CCA (Primary)
 
 **Marists have performed well in the following competitions:**&nbsp;
 
-*   Akela Award 2020
 *   Frank Cooper Sands Award 2019 - Gold
+*   Akela Award 2020
+*   Frank Cooper Sands Award 2022 - Gold with Honours Pennant
+*   Akela Award 2024
