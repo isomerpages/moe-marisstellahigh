@@ -17,7 +17,6 @@ variant: tiptap
 <br>9 MAY 2025 (FRIDAY),
 <br>3PM AT MARIS STELLA HIGH SCHOOL.</p>
 <p></p>
-<h4><a href="https://form.gov.sg/680708d0419efd54ef0ab767" rel="noopener nofollow" target="_blank">Register Now</a></h4>
 <p></p>
 <h3>ADDITIONAL DETAILS</h3>
 <p>For more information on the school and the DSA process, refer to the following
@@ -28,7 +27,7 @@ sub-pages:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.marisstellahigh.moe.edu.sg/2024/" rel="noopener noreferrer nofollow" target="_blank">Past Achievements</a>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/2025/" rel="noopener noreferrer nofollow" target="_blank">Past Achievements</a>
 </p>
 </li>
 <li>
