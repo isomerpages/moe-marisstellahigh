@@ -83,4 +83,3 @@ variant: markdown
   padding:.75pt .75pt 0in .75pt;height:12.5pt" width="132"><p class="MsoNormal"><span style="font-family:DengXian;color:black" lang="ZH-CN">吕立岩</span><span style="color:black"></span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:.75pt .75pt 0in .75pt;height:12.5pt" width="108"><p class="MsoNormal"><span style="color:black">Member</span></p></td></tr></tbody></table>
-
