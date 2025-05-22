@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="153" width="272" alt="basketball" src="/images/basketball.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Secondary/Bball_2025.jpg">
 </div>
 </td>
 </tr>
@@ -238,7 +238,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="max-width: 100%; height: auto;" height="auto" width="100%" alt="digital media club" src="/images/mdmc_v2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Secondary/MDMC.jpg">
 </div>
 </td>
 </tr>
