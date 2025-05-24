@@ -40,7 +40,7 @@ variant: markdown
 	 *   U-8 North Zone - 3rd
 	 *   U-8 North Zone - 4th
 	 *   U-12 North Zone - 1st
- *   65th National School Individual Chess Championship 2024
+ *   65th National Inter-School Team Chess Championship 2024
 	 *   U8 Primary Open – National and North Zone 1st
 	 *   Primary Open – North Zone 2nd
 * 13th Chung Cheng Cup Chess Competition 2024
