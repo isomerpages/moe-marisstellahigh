@@ -8,5 +8,5 @@ notification: "Calling all old boys! Sign up using this
   link:  https://go.gov.sg/mshsrebuild  to get updates on MSHS rebuilding!"
 sections:
   - hero:
-      background: /images/Homepage GIF.gif
+      background: /images/FD_2025_Morning_Assembly_1.jpg
 ---
