@@ -219,10 +219,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Michelle Tan (Ms)</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Jeffrey Wong (Mr)</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
     <td style="width: 50%" class="tg-0lax">Yang Jiahui Colin (Mr)</td>
   </tr>
@@ -254,10 +250,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">3 Edward</td>
     <td style="width: 50%" class="tg-0lax">Eugene Wong (Mr)</td>
   </tr>
-	  <tr>
-    <td style="width: 50%" class="tg-0lax">3 Edward</td>
-    <td style="width: 50%" class="tg-0lax">Lau Hui Wen (Ms)</td>
-  </tr>
+	 
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Francis</td>
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
