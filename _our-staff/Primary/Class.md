@@ -219,10 +219,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Michelle Tan (Ms)</td>
   </tr>
   <tr>
-    <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
-    <td style="width: 50%" class="tg-0lax">Luke Tan (Mr)</td>
-  </tr>
-  <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
     <td style="width: 50%" class="tg-0lax">Yang Jiahui Colin (Mr)</td>
   </tr>
