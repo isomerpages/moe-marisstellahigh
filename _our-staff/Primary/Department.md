@@ -225,11 +225,7 @@ variant: markdown
 	 	<tr>
     <td style="width: 50%" class="tg-0lax">Neo Lay Kheng (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / Social Studies</td>
-  </tr>
-	  <tr><td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / PE</td>
-  </tr>
-	  <tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
+	  </tr><tr><td style="width: 50%" class="tg-0lax">Hernidiana Mansor (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">ST / SEN </td>
   </tr>
  
@@ -322,10 +318,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Jolene Tan Jie En (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Lau Hui Wen (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Lau Nguen Kee (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
