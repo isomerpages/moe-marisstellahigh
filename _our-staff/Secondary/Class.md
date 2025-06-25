@@ -97,7 +97,7 @@ variant: tiptap
 <p>1 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Wei Min Stephanie (Ms)</p>
+<p>Tan Peng Yau (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ variant: tiptap
 <p>1 Henry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Zhuang Yuan Ezekiel (Mr)</p>
+<p>Chong Shao Hong (Mr)</p>
 </td>
 </tr>
 </tbody>
@@ -178,15 +178,7 @@ variant: tiptap
 <p>2 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene Lee Kee Meng (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Benedict</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chng Wan Ting Zenia (Ms)</p>
+<p>Soh Jia Qi Gigi (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -195,6 +187,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Zheng Kankan (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Hanis Binte Selamat (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ variant: tiptap
 <p>2 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Chunhai (Mr)</p>
+<p>Tham Hsin Ee Esther (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ variant: tiptap
 <p>3 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Kim Huat Nicholas (Mr)</p>
+<p>Chng Wan Ting Zenia (Ms)</p>
 </td>
 </tr>
 <tr>
