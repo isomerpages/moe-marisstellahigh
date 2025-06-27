@@ -9,4 +9,5 @@ notification: "Calling all old boys! Sign up using this
 sections:
   - hero:
       background: /images/FD_2025_Morning_Assembly_1.jpg
+      variant: image
 ---
