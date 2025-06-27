@@ -67,6 +67,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tan Kha Ghee (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">School Staff Developer (SSD)</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">Nurul Amalina Binte Jamaludin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / English Language</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">HOD / Chinese Language</td>
@@ -98,7 +102,11 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Noradlina Bte Mohamed (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCE (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Koh Gay Kheong Joseph (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
@@ -112,13 +120,17 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lee Chia Wei Alvin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
   </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
-    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P5-6)</td>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Loh Sook Yee Reginia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P1-2)</td>
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
-    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4)</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P5-6)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
@@ -148,7 +160,7 @@ variant: markdown
 </tr>
 			 <tr>
     <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Science (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">LH / Science</td>
   </tr>
 	  <tr>
     <td style="width: 50%" class="tg-0lax">Shahira Mohamed Sharif (Ms)</td>
@@ -1055,7 +1067,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Wong Xu Yun Eunice (Mdm) </td>
-    <td style="width: 50%" class="tg-0lax">School Counsellor</td>
+    <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Chia Sook Kuan Candice (Ms) </td>

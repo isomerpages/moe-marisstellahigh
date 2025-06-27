@@ -37,6 +37,11 @@ variant: markdown
     <td style="width: 50%" class="tg-06je">Ng Chui Nee (Ms)</td>
   </tr>
   <tr>
+		  </tr><tr>
+    <td style="width: 50%" class="tg-06je">1 Benedict</td>
+    <td style="width: 50%" class="tg-06je"> Reginia Loh (Ms)</td>
+  </tr>
+  <tr>
     <td style="width: 50%" class="tg-06je">1 Benedict</td>
     <td style="width: 50%" class="tg-06je">Tan Chee Kian (Mr)</td>
   </tr>
@@ -55,6 +60,10 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-06je">1 Dominic</td>
     <td style="width: 50%" class="tg-06je">Nur Afiqah Binte Mohamed Shafie (Ms)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-06je">1 Dominic</td>
+    <td style="width: 50%" class="tg-06je">Linnet Xue (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-06je">1 Edward</td>
@@ -150,7 +159,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
+    <td style="width: 50%" class="tg-0lax">Joseph Koh (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Edward</td>
@@ -192,6 +201,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">2 Ignatius</td>
     <td style="width: 50%" class="tg-0lax">Ong-Ng Jia Wen (Mrs)</td>
   </tr>
+	  <tr>
+    <td style="width: 50%" class="tg-0lax">2 Ignatius</td>
+    <td style="width: 50%" class="tg-0lax"> Geena Chng (Mdm)</td>
+  </tr>
 </tbody>
 </table>
 
@@ -217,6 +230,10 @@ variant: markdown
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
     <td style="width: 50%" class="tg-0lax">Michelle Tan (Ms)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">3 Aloysius</td>
+    <td style="width: 50%" class="tg-0lax">Luke Tan (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Benedict</td>
@@ -253,7 +270,7 @@ variant: markdown
 	 
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Francis</td>
-    <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Ng Kim Neo Helen (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">3 Francis</td>
@@ -309,9 +326,13 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">4 Charles</td>
     <td style="width: 50%" class="tg-0lax">Lek Kah Han Brandon (Mr)</td>
   </tr>
-  <tr>
+	  <tr>
     <td style="width: 50%" class="tg-0lax">4 Charles</td>
     <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao Xuan (Mr)</td>
+  </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">4 Charles</td>
+    <td style="width: 50%" class="tg-0lax">Nurul Amalina Binte Jamaludin (Ms)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
@@ -321,9 +342,9 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
     <td style="width: 50%" class="tg-0lax">Caelyn Whyndee Lim Shu Yann (Ms)</td>
   </tr>
-	 <tr>
+	<tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">4 Edward</td>
@@ -384,6 +405,10 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Benedict</td>
+    <td style="width: 50%" class="tg-0lax">Zhang Sumei (Mdm)</td>
+  </tr>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">5 Benedict</td>
     <td style="width: 50%" class="tg-0lax">Wong Edgar (Mr)</td>
   </tr>
   <tr>
@@ -420,7 +445,7 @@ variant: markdown
   
   </tr><tr>
     <td style="width: 50%" class="tg-0lax">5 Francis</td>
-    <td style="width: 50%" class="tg-0lax">Ng Kim Neo Helen (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Helen Ang (Mrs)</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">5 Francis</td>
