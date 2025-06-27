@@ -1067,7 +1067,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Wong Xu Yun Eunice (Mdm) </td>
-    <td style="width: 50%" class="tg-0lax">School Counsellor</td>
+    <td style="width: 50%" class="tg-0lax">Senior School Counsellor</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Chia Sook Kuan Candice (Ms) </td>
