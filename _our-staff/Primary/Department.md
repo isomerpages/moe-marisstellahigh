@@ -269,6 +269,10 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td style="width: 50%" class="tg-0lax">Nurul Amalina Binte Jamaludin (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / English Language</td>
+  </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Low Sear Weeh (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">LH / English Language</td>
@@ -398,6 +402,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Year Head (P1-2)</td>
   </tr>
 	<tr>
+    <td style="width: 50%" class="tg-0lax">Koh Gay Kheong Joseph (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
+  </tr>
+	<tr>
     <td style="width: 50%" class="tg-0lax">Ng Kai Shi (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / ICT</td>
   </tr>
@@ -514,7 +522,7 @@ variant: markdown
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Noradlina Bte Mohamed (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCE (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Koh Ee Beng (Mr)</td>
@@ -618,7 +626,7 @@ variant: markdown
 </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Sharmini Jayasughavanagopal (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">LH / Science (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">LH / Science</td>
 </tr>
 	
  <tr><td style="width: 50%" class="tg-0lax">Tay-Ang Poh Qin (Mrs)</td>
@@ -694,17 +702,13 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Shahira Mohamed Sharif (Ms)</td>
     <td style="width: 50%" class="tg-0lax">SH / Aesthetics</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">ST / PE</td>
-  </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Vinodkumar S/O Murugan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Assistant Year Head (P5-6)</td>
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Assistant Year Head (P3-4) (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">Assistant Year Head (P3-4)</td>
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
@@ -755,6 +759,14 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Tosakul Saenghaengfah (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
+	<tr>
+    <td style="width: 50%" class="tg-0lax">Luke Tan (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Linnet Xue (Ms)</td>
+    <td style="width: 50%" class="tg-0lax">Teacher</td>
+  </tr>
 </tbody>
 </table>
 
@@ -770,6 +782,10 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+		<tr>
+    <td style="width: 50%" class="tg-0lax">Koh Gay Kheong Joseph (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / SAP</td>
+  </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
@@ -852,7 +868,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Noradlina Bte Mohamed (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">HOD / CCE (Acting)</td>
+    <td style="width: 50%" class="tg-0lax">HOD / CCE</td>
   </tr>
 	 <tr>
     <td style="width: 50%" class="tg-0lax">Oh Li Neo Rebecca (Ms)</td>
@@ -886,11 +902,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Harsharenpal Kaur d/o Kuldip Singh (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
- <tr>
-    <td style="width: 50%" class="tg-0lax">Lau Hui Wen (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-
    <tr>
     <td style="width: 50%" class="tg-0lax">Leow Yong Long (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -970,10 +981,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Vikineesh S/O Balakrishnan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-		<tr>
-    <td style="width: 50%" class="tg-0lax">Wong Loong Ju Jeffrey (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>	
 	<tr>
     <td style="width: 50%" class="tg-0lax">Yang Jiahui Colin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -1018,7 +1025,7 @@ variant: markdown
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Ng Seok Teng Clarissa (Ms)</td>
-    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4) (Acting)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P3-4)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Jan Teo Min (Ms)</td>
