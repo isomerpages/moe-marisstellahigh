@@ -342,10 +342,6 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
     <td style="width: 50%" class="tg-0lax">Caelyn Whyndee Lim Shu Yann (Ms)</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">4 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
-  </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">4 Dominic</td>
     <td style="width: 50%" class="tg-0lax">Tan Leng Leong (Mr)</td>
