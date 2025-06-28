@@ -159,7 +159,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Dominic</td>
-    <td style="width: 50%" class="tg-0lax">Joseph Koh (Mr)</td>
+    <td style="width: 50%" class="tg-0lax">Koh Gay Kheong Joseph (Mr)</td>
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">2 Edward</td>
