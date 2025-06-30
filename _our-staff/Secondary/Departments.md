@@ -1087,6 +1087,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Rachel Soh Yu Ting (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joanne Tan Pek Gek (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1099,14 +1107,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Allied Educator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rachel Soh Yu Ting (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
 </td>
 </tr>
 </tbody>
