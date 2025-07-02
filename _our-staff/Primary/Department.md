@@ -532,6 +532,10 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Lee Chia Wei Alvin (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Year Head (P5-6)</td>
   </tr>
+			<tr>
+    <td style="width: 50%" class="tg-0lax">Loh Sook Yee Reginia (Ms)</td>
+    <td style="width: 50%" class="tg-0lax"> Assistant Year Head (P1-2)</td>
+  </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Ang-Teo Sai Hiang Helen (Mrs)</td>
     <td style="width: 50%" class="tg-0lax">SH / Student Management</td>
