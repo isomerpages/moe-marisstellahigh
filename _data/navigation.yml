@@ -32,8 +32,10 @@ links:
         url: /primary-section-class/
       - title: Secondary Section
         url: /secondary-section-class/
-      - title: Our Partners
-        url: /about-mshs/our-partners
+      - title: Parents Support Group
+        url: /parent-support-group/
+      - title: Alumni
+        url: /permalink
   - title: Our Programmes
     url: /our-programmes/
     sublinks:
