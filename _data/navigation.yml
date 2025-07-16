@@ -32,10 +32,8 @@ links:
         url: /about-mshs/primary/our-staff/class/
       - title: Secondary Section
         url: /about-mshs/secondary/our-staff/class/
-      - title: Parent Support Group
-        url: /permalink
-      - title: Alumi
-        url: /permalink
+      - title: Our Partners
+        url: /about-mshs/our-partners
   - title: Our Programmes
     url: /our-programmes/
     sublinks:
