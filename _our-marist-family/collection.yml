@@ -2,7 +2,6 @@ collections:
   our-marist-family:
     output: true
     order:
-      - Alumni.md
       - Our Marist Family.md
       - Primary Section/.keep
       - Primary Section/Class.md
@@ -10,6 +9,7 @@ collections:
       - Secondary Section/.keep
       - Secondary Section/Class.md
       - Secondary Section/Department.md
+      - Alumni.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/About Us.md
