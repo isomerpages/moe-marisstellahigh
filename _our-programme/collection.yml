@@ -2,7 +2,6 @@ collections:
   our-programme:
     output: true
     order:
-      - CCA/.keep
       - Our Programmes.md
       - Primary/.keep
       - Primary/Academic Programme.md
@@ -30,3 +29,4 @@ collections:
       - Secondary/Principles of Account.md
       - Secondary/ICT (Secondary).md
       - CCE/.keep
+      - CCA/.keep
