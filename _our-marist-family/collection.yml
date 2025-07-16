@@ -2,4 +2,5 @@ collections:
   our-marist-family:
     output: true
     order:
+      - Primary Section Staff.md
       - Our Marist Family.md
