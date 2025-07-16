@@ -25,7 +25,9 @@ links:
         url: /about-mshs/contact-us
   - title: Our Marist Family
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: Our Programmes
     url: /programmes/primary/academic-programme
     sublinks:
