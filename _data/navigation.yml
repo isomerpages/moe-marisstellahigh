@@ -31,8 +31,12 @@ links:
   - title: Our Programmes
     url: /our-programmes/
     sublinks:
-      - title: Academic Programme
+      - title: Primary
         url: /our-programmes/
+      - title: Secondary
+        url: /permalink
+      - title: Talent Development [Secondary]
+        url: /permalink
   - title: The Marist Experience
     url: /school-happenings/primary/news/
     sublinks:
