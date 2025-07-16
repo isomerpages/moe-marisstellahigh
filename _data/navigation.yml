@@ -32,10 +32,10 @@ links:
         url: /primary-section-class/
       - title: Secondary Section
         url: /secondary-section-class/
+      - title: Alumni
+        url: /alumni/
       - title: Parents Support Group
         url: /parent-support-group/
-      - title: Alumni
-        url: /permalink
   - title: Our Programmes
     url: /our-programmes/
     sublinks:
