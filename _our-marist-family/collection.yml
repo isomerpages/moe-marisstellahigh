@@ -1,4 +1,5 @@
 collections:
   our-marist-family:
     output: true
-    order: []
+    order:
+      - Our Marist Family.md
