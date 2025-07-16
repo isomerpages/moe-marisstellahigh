@@ -2,7 +2,6 @@ collections:
   our-programme:
     output: true
     order:
-      - CCE.md
       - Our Programmes.md
       - Primary/.keep
       - Primary/Academic Programme.md
