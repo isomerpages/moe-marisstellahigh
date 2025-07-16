@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - Talent Development Programme.md
       - Our Programmes.md
       - Primary/.keep
       - Primary/Academic Programme.md
