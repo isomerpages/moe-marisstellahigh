@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Primary Section/.keep
-      - Primary Section (DEPT).md
       - Our Marist Family.md
       - Primary Section (CLASS).md
       - Secondary Section.md
