@@ -29,7 +29,7 @@ links:
       - title: New submenu
         url: /permalink
   - title: Our Programmes
-    url: /programmes/primary/academic-programme
+    url: /our-programmes/
     sublinks:
       - title: Academic Programme
         url: /our-programmes/
