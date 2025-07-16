@@ -2,7 +2,6 @@ collections:
   our-programme:
     output: true
     order:
-      - CCE/.keep
       - Our Programmes.md
       - Primary/.keep
       - Primary/Academic Programme.md
@@ -29,3 +28,4 @@ collections:
       - Secondary/Food and Consumer Education.md
       - Secondary/Principles of Account.md
       - Secondary/ICT (Secondary).md
+      - CCE/.keep
