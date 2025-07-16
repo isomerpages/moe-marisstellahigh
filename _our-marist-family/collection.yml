@@ -2,6 +2,7 @@ collections:
   our-marist-family:
     output: true
     order:
+      - Parent Support Group.md
       - Our Marist Family.md
       - Primary Section/.keep
       - Primary Section/Class.md
