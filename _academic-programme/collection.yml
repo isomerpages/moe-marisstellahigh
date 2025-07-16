@@ -2,6 +2,7 @@ collections:
   academic-programme:
     output: true
     order:
+      - Page Level 3.md
       - Our Programmes.md
       - Primary/.keep
       - Primary/Academic Programme.md
