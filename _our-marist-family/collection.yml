@@ -2,5 +2,6 @@ collections:
   our-marist-family:
     output: true
     order:
+      - Secondary Section Staff.md
       - Our Marist Family.md
       - Primary Section.md
