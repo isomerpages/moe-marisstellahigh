@@ -1,5 +1,5 @@
 collections:
-  academic-programme:
+  our-programme:
     output: true
     order:
       - Our Programmes.md
