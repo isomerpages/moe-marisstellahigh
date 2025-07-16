@@ -2,6 +2,7 @@ collections:
   our-marist-family:
     output: true
     order:
+      - Parent Support Group/Join Us.md
       - Parent Support Group/PSG Handbook.md
       - Parent Support Group/Parents' Pledge.md
       - Parent Support Group/About Us.md
