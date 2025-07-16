@@ -23,7 +23,10 @@ links:
         url: /about-mshs/our-partners
       - title: Contact Us
         url: /about-mshs/contact-us
-  - title: Learning
+  - title: Our Marist Family
+    url: /permalink
+    sublinks: []
+  - title: Our Programmes
     url: /programmes/primary/academic-programme
     sublinks:
       - title: Academic Programme
