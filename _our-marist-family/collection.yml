@@ -2,7 +2,7 @@ collections:
   our-marist-family:
     output: true
     order:
-      - Secondary Section/Secondary Section (CLASS).md
+      - Secondary Section/Class.md
       - Secondary Section/Secondary Section (DEPT).md
       - Secondary Section/.keep
       - Our Marist Family.md
