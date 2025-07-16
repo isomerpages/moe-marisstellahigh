@@ -10,4 +10,11 @@ sections:
   - hero:
       background: /images/FD_2025_Morning_Assembly_1.jpg
       variant: image
+  - infopic:
+      title: 勤
+      subtitle: Diligence
+      id: infopic
+      button: find out more
+      url: Diligence
+      alt: Image alt text
 ---
