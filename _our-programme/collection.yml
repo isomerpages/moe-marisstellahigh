@@ -6,6 +6,8 @@ collections:
       - Academic Programmes/.keep
       - Academic Programmes/Primary Section.md
       - Academic Programmes/Secondary Section.md
+      - CCE/.keep
+      - CCA/.keep
       - Talent Development Programme.md
       - Primary/.keep
       - Primary/English.md
@@ -30,5 +32,3 @@ collections:
       - Secondary/Food and Consumer Education.md
       - Secondary/Principles of Account.md
       - Secondary/ICT (Secondary).md
-      - CCE/.keep
-      - CCA/.keep
