@@ -2,9 +2,9 @@ collections:
   our-programme:
     output: true
     order:
-      - Academic Programmes/Secondary Section.md
-      - Academic Programmes/Primary Section.md
       - Academic Programmes/.keep
+      - Academic Programmes/Primary Section.md
+      - Academic Programmes/Secondary Section.md
       - Talent Development Programme.md
       - Our Programmes.md
       - Primary/.keep
