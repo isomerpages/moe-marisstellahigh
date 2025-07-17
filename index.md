@@ -12,13 +12,12 @@ sections:
       variant: image
   - textcards:
       title: Resources
-      subtitle: Add informational text
       id: textcards
       cards:
         - title: For Students
           description: ""
           linktext: Click here
-          url: ""
+          url: /useful-links-and-info/primary/for-students/
         - title: For Staff
           description: ""
           linktext: Click here
