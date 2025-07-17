@@ -2,4 +2,5 @@ collections:
   the-marist-experience:
     output: true
     order:
+      - Connecting with the Marist Community.md
       - Champagnat Global.md
