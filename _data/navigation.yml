@@ -40,16 +40,14 @@ links:
   - title: The Marist Experience
     url: /champagnat-global/
     sublinks:
-      - title: Bicultural Programme
-        url: /programmes/primary/bicultural-programme/
-      - title: Faith Formation
-        url: /programmes/primary/faith-formation/
-      - title: ICT
-        url: /programmes/primary/ict/
-      - title: Announcements
-        url: /school-happenings/primary/announcements/
       - title: Champagnat Global
         url: /permalink
+      - title: Faith Formation
+        url: /programmes/primary/faith-formation/
+      - title: Bicultural Programme
+        url: /programmes/primary/bicultural-programme/
+      - title: Announcements
+        url: /school-happenings/primary/announcements/
   - title: Our Next Chapter
     url: https://marisstellahigh.moe.edu.sg/rebuilding/
     sublinks:
