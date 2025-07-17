@@ -1,5 +1,5 @@
 collections:
-  academic-programmes:
+  primary-section:
     output: true
     order:
       - Primary Section/.keep
