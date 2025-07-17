@@ -2,6 +2,7 @@ collections:
   secondary-academic-programme:
     output: true
     order:
+      - Design and Technology.md
       - Computing.md
       - Art.md
       - Humanities.md
