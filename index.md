@@ -10,4 +10,21 @@ sections:
   - hero:
       background: /images/FD_2025_Morning_Assembly_1.jpg
       variant: image
+  - textcards:
+      title: Resources
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: For Students
+          description: ""
+          linktext: Click here
+          url: ""
+        - title: For Staff
+          description: ""
+          linktext: Click here
+          url: ""
+        - title: For Parents
+          description: ""
+          linktext: Click here
+          url: ""
 ---
