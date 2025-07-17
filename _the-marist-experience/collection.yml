@@ -2,6 +2,7 @@ collections:
   the-marist-experience:
     output: true
     order:
+      - Bicultural Programme/.keep
       - Champagnat Global/.keep
       - Champagnat Global/Hosting Kumamoto Marist Junior High School.md
       - Champagnat Global/Connecting with the Marist Community.md
