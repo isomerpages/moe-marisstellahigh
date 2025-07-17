@@ -310,7 +310,7 @@ to celebrate the differences in our community</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Sexuality Education</strong>
+<summary><strong>MOE Sexuality Education in Schools</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
