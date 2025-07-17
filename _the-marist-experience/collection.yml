@@ -1,4 +1,5 @@
 collections:
   the-marist-experience:
     output: true
-    order: []
+    order:
+      - Champagnat Global.md
