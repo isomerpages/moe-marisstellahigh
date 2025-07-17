@@ -2,4 +2,5 @@ collections:
   primary-academic-programmes:
     output: true
     order:
+      - Chinese.md
       - English.md
