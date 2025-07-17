@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Academics/.keep
-      - Academics/English.md
       - CCA/.keep
