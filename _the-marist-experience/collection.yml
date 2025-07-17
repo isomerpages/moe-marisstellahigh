@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Faith Formation (Primary).md
+      - Faith Formation/Faith Formation (Secondary).md
       - Faith Formation/.keep
       - Champagnat Global/Hosting Kumamoto Marist Junior High School.md
       - Champagnat Global/Connecting with the Marist Community.md
