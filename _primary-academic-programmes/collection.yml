@@ -1,0 +1,4 @@
+collections:
+  primary-academic-programmes:
+    output: true
+    order: []
