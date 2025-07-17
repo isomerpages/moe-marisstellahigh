@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - Secondary Section/English.md
-      - Secondary Section/.keep
-      - Primary Section/English.md
       - Primary Section/.keep
+      - Primary Section/English.md
+      - Secondary Section/.keep
+      - Secondary Section/English.md
