@@ -2,5 +2,6 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Secondary Section/.keep
       - Primary Section/English.md
       - Primary Section/.keep
