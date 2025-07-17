@@ -41,10 +41,12 @@ links:
     sublinks:
       - title: Our Programmes
         url: /our-programmes/
-      - title: Primary
+      - title: Academic Programmes
         url: /programmes/primary/academic-programme/english/
-      - title: Secondary
+      - title: CCA
         url: /programmes/secondary/academic-programme/
+      - title: CCE
+        url: /permalink
       - title: Talent Development [Secondary]
         url: /permalink
   - title: The Marist Experience
