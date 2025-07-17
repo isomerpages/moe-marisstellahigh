@@ -2,4 +2,5 @@ collections:
   secondary-academic-programme:
     output: true
     order:
+      - Chinese Language.md
       - English.md
