@@ -17,10 +17,10 @@ links:
         url: /about-mshs/school-management-committee
       - title: School Achievements
         url: https://marisstellahigh.moe.edu.sg/about-mshs/secondary/school-achievements/2025/
+      - title: Announcements
+        url: /school-happenings/primary/announcements/
       - title: Contact Us
         url: /about-mshs/contact-us
-      - title: Announcements
-        url: /permalink
   - title: Our Marist Family
     url: /our-marist-family/
     sublinks:
