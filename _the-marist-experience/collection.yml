@@ -2,6 +2,7 @@ collections:
   the-marist-experience:
     output: true
     order:
+      - Champagnat Global/Champagnat Global.md
       - Champagnat Global/.keep
       - Connecting with the Marist Community.md
       - Hosting Kumamoto Marist Junior High School.md
