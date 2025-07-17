@@ -2,6 +2,6 @@ collections:
   primary-section:
     output: true
     order:
-      - CCA/.keep
       - Academics/.keep
       - Academics/English.md
+      - CCA/.keep
