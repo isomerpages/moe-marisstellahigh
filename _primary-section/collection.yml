@@ -1,6 +1,0 @@
-collections:
-  primary-section:
-    output: true
-    order:
-      - Academics/.keep
-      - CCA/.keep
