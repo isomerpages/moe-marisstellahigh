@@ -2,6 +2,7 @@ collections:
   secondary-academic-programme:
     output: true
     order:
+      - Principles of Account.md
       - Food and Consumer Education.md
       - Physical Education.md
       - Music.md
