@@ -97,5 +97,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Click here to find out more about our CCAs</h4>
+<h4>Click <a href="/our-programmes/cca/primary/" rel="noopener nofollow" target="_blank">here </a>to find out more about our CCAs</h4>
 <p></p>
