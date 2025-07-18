@@ -1,5 +1,5 @@
 collections:
-  mshs-rebuilding:
+  our-next-chapter:
     output: true
     order:
       - MSHS Rebuilding.md
