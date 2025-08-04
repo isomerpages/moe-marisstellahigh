@@ -162,7 +162,7 @@ third_nav_title: Secondary Section
 <p>Tan Si Qian Priscilla (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / English Language (Acting)</p>
+<p>SH / English Language</p>
 </td>
 </tr>
 <tr>
