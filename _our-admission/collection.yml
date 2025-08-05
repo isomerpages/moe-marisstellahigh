@@ -1,5 +1,5 @@
 collections:
-  admission:
+  our-admission:
     output: true
     order:
       - Our Admissions.md
