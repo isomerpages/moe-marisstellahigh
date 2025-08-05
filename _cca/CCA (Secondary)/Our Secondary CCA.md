@@ -55,8 +55,8 @@ third_nav_title: CCA (Secondary)
 <p></p>
 <h2>Uniform Groups</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National Cadet Corps (Sea)" src="/images/CCA/Secondary/NCC_v1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Cadet Corps (Sea) 学生军团（海军）</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/national-cadet-corps-sea/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National Cadet Corps (Sea)" src="/images/CCA/Secondary/NCC_v1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Cadet Corps (Sea) 学生军团（海军）</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/national-police-cadet-corps/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Police Cadet Corps 学生警团" src="/images/CCA/Secondary/NPCC-parade_v1.png">
@@ -67,7 +67,7 @@ third_nav_title: CCA (Secondary)
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/scouts/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scouts 童军" src="/images/CCA/Secondary/scout_v1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scouts 童军</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/st-john-brigade/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St John Brigade 圣约翰救伤队" src="/images/CCA/Secondary/SJB.jpg">
@@ -82,8 +82,8 @@ third_nav_title: CCA (Secondary)
 <p></p>
 <h2>Performing Arts</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Orchestra 华乐团" src="/images/CCA/Secondary/Chinese_Orchestra.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Orchestra 华乐团</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/chinese-orchestra/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Orchestra 华乐团" src="/images/CCA/Secondary/Chinese_Orchestra.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Orchestra 华乐团</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/symphonic-band/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Symphonic Band 交响乐队" src="/images/CCA/Secondary/band2.jpg">
@@ -97,8 +97,8 @@ third_nav_title: CCA (Secondary)
 </div>
 <h2>Clubs and Societies</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Literary Society 华文学会" src="/images/CCA/Secondary/CLDDS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Literary Society 华文学会</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/chinese-literary-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Literary Society 华文学会" src="/images/CCA/Secondary/CLDDS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Literary Society 华文学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/english-literary-society/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="English Literary Society 英文学会" src="/images/CCA/Secondary/ELS2.jpg">
@@ -108,18 +108,8 @@ third_nav_title: CCA (Secondary)
 <div class="isomer-card-title">English Literary Society 英文学会</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marist Digital Media Club 海星数码传媒学会" src="/images/CCA/Secondary/MDMC.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Marist Digital Media Club 海星数码传媒学会</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/marist-digital-media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marist Digital Media Club 海星数码传媒学会" src="/images/CCA/Secondary/MDMC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marist Digital Media Club 海星数码传媒学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/marist-robotics-and-programming-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Marist Robotics and Programming Club 海星机器人学会" src="/images/CCA/Secondary/robotics_v2.jpg">
@@ -127,7 +117,8 @@ third_nav_title: CCA (Secondary)
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Marist Robotics and Programming Club 海星机器人学会</div>
+<div class="isomer-card-link">Find out more</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
