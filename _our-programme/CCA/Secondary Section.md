@@ -32,12 +32,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="max-width: 100%; height: auto;" height="auto" width="100%" src="/images/badminton.jpeg">
+<img style="max-width: 58%; height: auto;" height="auto" width="100%" src="/images/badminton.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Secondary/Bball_2025.jpg">
+<img style="max-width: 28%" height="auto" width="100%" alt="" src="/images/CCA/Secondary/Bball_2025.jpg">
 </div>
 </td>
 </tr>
