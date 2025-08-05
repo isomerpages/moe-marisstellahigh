@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Our Marist Family.md
-      - Primary Section/.keep
-      - Primary Section/Class.md
-      - Primary Section/Department.md
+      - Primary Marist Educators/.keep
+      - Primary Marist Educators/Class.md
+      - Primary Marist Educators/Department.md
       - Secondary Section/.keep
       - Secondary Section/Class.md
       - Secondary Section/Department.md
