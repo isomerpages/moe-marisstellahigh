@@ -54,9 +54,11 @@ links:
       - title: MSHS Rebuilding
         url: https://marisstellahigh.moe.edu.sg/rebuilding/
   - title: Our Admissions
-    url: /admission/primary/primary-1-admission/
+    url: /our-admissions/
     sublinks:
-      - title: Admissions
+      - title: Primary Section Admissions
         url: /admission/primary/primary-1-admission/
-      - title: Direct School Admission
+      - title: Secondary Section Admissions
+        url: /permalink
+      - title: DSA
         url: /admission/secondary/direct-school-admission-dsa/welcome/
