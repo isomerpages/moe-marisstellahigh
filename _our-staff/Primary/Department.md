@@ -718,10 +718,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Chan Kah Yin Carin (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Chan Kwok Chuen (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>	
+
 <tr>
     <td style="width: 50%" class="tg-0lax">Cong Hui Sophia (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -730,22 +727,12 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">Emmanuel Penshah Yang Shao Xuan (Mr)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>	
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Ho Hol Yarn (Mr)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+	
  <tr>
     <td style="width: 50%" class="tg-0lax">Kassandra Wong Yen Li (Mdm)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
-	 <tr>
-    <td style="width: 50%" class="tg-0lax">Nur Afiqah Binte Mohamed Shafie (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">Pereira Erica Stella (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
@@ -916,10 +903,6 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Nurmayah Bte Mohamed Isa (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">Teacher</td>
-  </tr>
-	<tr>
-    <td style="width: 50%" class="tg-0lax">Peh Jing Ting, Claris (Ms)</td>
     <td style="width: 50%" class="tg-0lax">Teacher</td>
   </tr>
 	<tr>
