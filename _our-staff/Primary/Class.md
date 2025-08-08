@@ -57,10 +57,6 @@ variant: markdown
     <td style="width: 50%" class="tg-06je">1 Dominic</td>
     <td style="width: 50%" class="tg-06je">Zhang Huiyun (Ms)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-06je">1 Dominic</td>
-    <td style="width: 50%" class="tg-06je">Nur Afiqah Binte Mohamed Shafie (Ms)</td>
-  </tr>
 	 <tr>
     <td style="width: 50%" class="tg-06je">1 Dominic</td>
     <td style="width: 50%" class="tg-06je">Linnet Xue (Ms)</td>
@@ -411,10 +407,7 @@ variant: markdown
     <td style="width: 50%" class="tg-0lax">5 Benedict</td>
     <td style="width: 50%" class="tg-0lax">Wong Edgar (Mr)</td>
   </tr>
-  <tr>
-    <td style="width: 50%" class="tg-0lax">5 Benedict</td>
-    <td style="width: 50%" class="tg-0lax">Ho Hol Yarn (Mr)</td>
-  </tr>
+
   <tr>
     <td style="width: 50%" class="tg-0lax">5 Charles</td>
     <td style="width: 50%" class="tg-0lax">Melvin Chang Jian Wei (Mr)
