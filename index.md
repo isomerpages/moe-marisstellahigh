@@ -8,7 +8,7 @@ notification: "Calling all Marist who have graduated! Sign up using this
   link:  https://go.gov.sg/mshsrebuild  to get updates on MSHS rebuilding!"
 sections:
   - hero:
-      background: /images/FD_2025_Morning_Assembly_1.jpg
+      background: /images/Homepage/sap homepage.png
       variant: image
   - textcards:
       title: Resources
