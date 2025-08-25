@@ -54,7 +54,7 @@ third_nav_title: Academic Programmes
 <a rel="noopener noreferrer nofollow" href="/academic-programme/secondary/physcial-education/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Physical Education  体育" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Physical Education  体育" src="/images/Academic Programme/Secondary/pe_v1.png">
 </div>
 </div>
 <div class="isomer-card-body">
