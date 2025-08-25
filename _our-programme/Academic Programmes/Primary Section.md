@@ -100,7 +100,7 @@ variant: tiptap
 <h4>Click <a href="/our-programmes/cca/primary/" rel="noopener nofollow" target="_blank">here </a>to find out more about our CCAs</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/primary/academic-programme/english/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English" src="/images/Academic Programme/Primary/english_v3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language 英文</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/programmes/primary/academic-programme/chinese-language/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/programmes/primary/academic-programme/chinese/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese Language" src="/images/Academic Programme/Primary/Chinese Language 1.jpg">
@@ -132,8 +132,8 @@ variant: tiptap
 <div class="isomer-card-title">Music 音乐</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Physical Education  体育" src="/images/Academic Programme/Primary/PE.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Physical Education 体育</div><div class="isomer-card-link">/programmes/primary/academic-programme/physical-education/</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/programmes/primary/academic-programme/ict/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/programmes/primary/academic-programme/physical-education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Physical Education  体育" src="/images/Academic Programme/Primary/PE.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Physical Education 体育</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/academic-programme/primary/ict-primary/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ICT  信息与通信技术" src="/images/Academic Programme/Primary/ICT.jpg">
