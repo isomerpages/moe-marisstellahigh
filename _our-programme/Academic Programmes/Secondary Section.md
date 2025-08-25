@@ -70,9 +70,8 @@ third_nav_title: Academic Programmes
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Principle of Accounts 会计</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/academic-programme/secondary/ict-secondary/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ICT  信息与通信技术" src="/images/Academic Programme/Secondary/ict_v1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ICT 信息与通信技术</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/academic-programme/secondary/ict-secondary/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ICT  信息与通信技术" src="/images/Academic Programme/Secondary/ict_v1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ICT 信息与通信技术</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
