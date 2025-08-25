@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Programmes.md
-      - Academic Programmes/Secondary.md
       - Academic Programmes/.keep
       - Academic Programmes/Primary Section.md
       - Academic Programmes/Secondary Section.md
