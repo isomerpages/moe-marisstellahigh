@@ -257,7 +257,22 @@ variant: tiptap
 <br>
 <br>
 </p>
-<h1>Others (Selected Students)</h1>
+<h1>Talent Development [Selected Students]</h1>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/maths-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maths Society 数学学会" src="/images/CCA/Primary/Math Club_D1R1051.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Maths Society 数学学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/science-club/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science Club 科学学会" src="/images/CCA/Primary/Science Club_D1R0477.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">数学学会 Science Club 科学学会</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/bicultural-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bicultural Club 海星双语双文化学会" src="/images/CCA/Primary/Chinese Writers_ Club_D1R1284.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bicultural Club 海星双语双文化学会</div><div class="isomer-card-link">Find out more</div></div></a>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
