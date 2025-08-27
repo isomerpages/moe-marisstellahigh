@@ -75,28 +75,28 @@ variant: tiptap
 <h1>Clubs and Societies</h1>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/chinese-chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Chess Club 中国象棋学会" src="/images/CCA/Primary/Chinese Chess Club_D1R0531.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Chess Club 中国象棋学会</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/environmental-science-club/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/infocomm-technology-media-production/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Science Club 环境科学社" src="/images/CCA/Primary/Science Garden Club_D1R0725.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Infocomm Technology (Media Product) 资讯通讯科技社" src="/images/CCA/Primary/Photography and Videography Club_D1R0715.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Environmental Science Club 环境科学社</div>
+<div class="isomer-card-title">Infocomm Technology (Media Product) 资讯通讯科技社</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/infocomm-technology-media-production/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Infocomm Technology (Media Product) 资讯通讯科技社" src="/images/CCA/Primary/Photography and Videography Club_D1R0715.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Infocomm Technology (Media Product) 资讯通讯科技社</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/international-chess-club/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/international-chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Chess Club  国际象棋学会" src="/images/CCA/Primary/International Chess Club_D1R0670.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Chess Club 国际象棋学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/robotics-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="International Chess Club  国际象棋学会" src="/images/CCA/Primary/International Chess Club_D1R0670.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Robotics Club 机器人技术学会" src="/images/CCA/Primary/Robotics Club_D1R1240.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">International Chess Club 国际象棋学会</div>
+<div class="isomer-card-title">Robotics Club 机器人技术学会</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/robotics-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Robotics Club 机器人技术学会" src="/images/CCA/Primary/Robotics Club_D1R1240.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Robotics Club 机器人技术学会</div><div class="isomer-card-link">Find out more</div></div></a>
+</a>
 </div>
 <p></p>
 <h1>Talent Development [Selected Students]</h1>
@@ -110,9 +110,20 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">数学学会 Science Club 科学学会</div>
+<div class="isomer-card-title">Science Club 科学学会</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/bicultural-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bicultural Club 海星双语双文化学会" src="/images/CCA/Primary/Chinese Writers_ Club_D1R1284.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bicultural Club 海星双语双文化学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes/primary/cca/environmental-science-club/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Environmental Science Club 环境科学社" src="/images/CCA/Primary/Science Garden Club_D1R0725.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Environmental Science Club 环境科学社</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a>
 </div>
 <p></p>
