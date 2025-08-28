@@ -1,0 +1,12 @@
+collections:
+  primary-academic-programmes:
+    output: true
+    order:
+      - ICT (Primary).md
+      - Physical Education.md
+      - Music.md
+      - Art.md
+      - Science.md
+      - Mathematics.md
+      - Chinese.md
+      - English.md

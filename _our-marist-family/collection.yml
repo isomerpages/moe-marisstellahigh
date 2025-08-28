@@ -1,0 +1,19 @@
+collections:
+  our-marist-family:
+    output: true
+    order:
+      - Our Marist Family.md
+      - Primary Marist Educators/.keep
+      - Primary Marist Educators/Class.md
+      - Primary Marist Educators/Department.md
+      - Secondary Marist Educators/.keep
+      - Secondary Marist Educators/Class.md
+      - Secondary Marist Educators/Department.md
+      - Our Alumni.md
+      - Our Parent Support Group/.keep
+      - Our Parent Support Group/Parent Support Group.md
+      - Our Parent Support Group/About Us.md
+      - Our Parent Support Group/Organisation Chart.md
+      - Our Parent Support Group/PSG Handbook.md
+      - Our Parent Support Group/Parents' Pledge.md
+      - Our Parent Support Group/Join Us.md

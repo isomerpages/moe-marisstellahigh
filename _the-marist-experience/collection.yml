@@ -1,0 +1,14 @@
+collections:
+  the-marist-experience:
+    output: true
+    order:
+      - Champagnat Global/.keep
+      - Champagnat Global/Champagnat Global.md
+      - Champagnat Global/Connecting with the Marist Community.md
+      - Champagnat Global/Hosting Kumamoto Marist Junior High School.md
+      - Faith Formation/.keep
+      - Faith Formation/Faith Formation (Primary).md
+      - Faith Formation/Faith Formation (Secondary).md
+      - Bicultural Programme/.keep
+      - Bicultural Programme/Bicultural Programme (Primary).md
+      - Bicultural Programme/Bicultural Programme (Secondary).md

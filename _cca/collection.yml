@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA (Primary)/.keep
-      - CCA (Primary)/CCA (Primary).md
       - CCA (Primary)/Badminton.md
       - CCA (Primary)/Basketball.md
       - CCA (Primary)/Bowling.md
@@ -24,8 +23,8 @@ collections:
       - CCA (Primary)/Maths Society.md
       - CCA (Primary)/Science Club.md
       - CCA (Primary)/Bicultural Club.md
+      - CCA (Secondary)/Secondary Section.md
       - CCA (Secondary)/.keep
-      - CCA (Secondary)/CCA (Secondary).md
       - CCA (Secondary)/Archery.md
       - CCA (Secondary)/Badminton.md
       - CCA (Secondary)/Basketball.md

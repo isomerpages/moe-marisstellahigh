@@ -1,8 +1,9 @@
 ---
 title: Concert Band
-permalink: /programmes/primary/cca/brass-band/
+permalink: /programmes/primary/cca/concert-band/
 description: ""
 third_nav_title: CCA (Primary)
+variant: tiptap
 ---
 <img align="right" src="/images/CCA/Primary/Brass%20Band%20Pic1.jpg" style="width:45%">
 
