@@ -30,9 +30,9 @@ variant: markdown
 
 	
 <tr>
-		<td style="width: 50%" class="tg-0lax">Chinese Mixed Vegetable Rice Stall</td>
-    <td style="width: 50%" class="tg-0lax">16 June 2025</td>
-		<td style="width: 50%" class="tg-0lax">Nil</td>
+		<td style="width: 50%" class="tg-0lax">Chinese Mixed Rice Stall</td>
+    <td style="width: 50%" class="tg-0lax">30 September 2025</td>
+		<td style="width: 50%" class="tg-0lax">We welcome proposals for Chinese cooked food (example: BBQ pork rice) Chicken rice will not be accepted. </td>
   </tr>
 </tbody>
 </table>
@@ -49,13 +49,9 @@ variant: markdown
 
 * Photocopy of the NRIC (front and back)
 
-* List of proposed menu and pricing for all items. 
+* List of proposed menu and pricing for all items. Set menu in different food portion size (e.g.: Small and Large) is preferred.
 
-* The proposed menu should be in a set meal of 1 standard serving portion size. Do not propose small, medium and large size.
-
-* The proposed menu should minimally have 3 vegetables dishes, 3 meat dishes and selection of egg dishes.
-
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+* Photocopy of relevant certificates such as Food Safety Course Levle 1, etc.
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
@@ -89,7 +85,7 @@ variant: markdown
 
 **Applicants should preferably fulfil the following criteria:**
 
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Successful applicant and stall assistant(s) must possess a valid Food Safety Couse Level 1 (formally known as Basic Food Hygiene Course) conducted by SkillsFuture Singapore (SSG) – approved training providers.
 
 * Possess catering experience or experience operating in a school environment.
 
