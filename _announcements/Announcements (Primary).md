@@ -30,7 +30,7 @@ variant: markdown
 
 	
 <tr>
-		<td style="width: 50%" class="tg-0lax">Chinese Mixed Rice Stall</td>
+		<td style="width: 50%" class="tg-0lax">Chinese Rice Stall</td>
     <td style="width: 50%" class="tg-0lax">30 September 2025</td>
 		<td style="width: 50%" class="tg-0lax">We welcome proposals for Chinese cooked food (example: BBQ pork rice) Chicken rice will not be accepted. </td>
   </tr>
