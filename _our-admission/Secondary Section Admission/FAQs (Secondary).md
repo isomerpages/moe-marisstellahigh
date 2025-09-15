@@ -134,7 +134,7 @@ to attend these optional activities.</p>
 <p>What are the types of CCA offered at Maris Stella?</p>
 <p>The school offers a variety of CCAs in Physical Sports, Uniformed Groups,
 Performing Arts, Clubs and Societies. For more information on CCAs, please
-refer to this <a href="https://www.marisstellahigh.moe.edu.sg/programmes/secondary/cca/" rel="noopener noreferrer nofollow" target="_blank">page</a>.</p>
+refer to this <a href="https://www.marisstellahigh.moe.edu.sg/our-secondary-cca/" rel="noopener noreferrer nofollow" target="_blank">page</a>.</p>
 <h4>GENERAL ENQUIRIES</h4>
 <ul data-tight="true" class="tight">
 <li>
