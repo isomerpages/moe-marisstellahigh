@@ -108,7 +108,7 @@ have Subject-Based Banding.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.marisstellahigh.moe.edu.sg/programmes/primary/cce/the-marcellin-way/" rel="noopener noreferrer nofollow" target="_blank">The Marcellin Way</a>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/secondary-section/" rel="noopener noreferrer nofollow" target="_blank">The Marcellin Way</a>
 </p>
 </li>
 <li>
