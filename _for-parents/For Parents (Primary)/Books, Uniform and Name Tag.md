@@ -30,9 +30,10 @@ PE attires and school uniforms are available at the Primary School Bookshop. If 
 
 # NAME TAGS
 
-Ordering and collection of name tags will be done through the school bookshop.  
+Order online: [http://www.nametags.stitchwerkz.sg/mshs](http://www.nametags.stitchwerkz.sg/mshs) <br>
+Collection: By Mail or from the School General Office
 
-Kindly download the&nbsp;[Name Tag Order form](/files/Name_tag_Order_Instructions_MSHS_P__2025.pdf).
+Kindly download the [Name Tag Order Form](/files/Name_tag_Order_Form.pdf) for instructions.
 
 # SCHOOL UNIFORM
 
