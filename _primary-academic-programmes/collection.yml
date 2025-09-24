@@ -2,11 +2,11 @@ collections:
   primary-academic-programmes:
     output: true
     order:
-      - ICT (Primary).md
-      - Physical Education.md
-      - Music.md
-      - Art.md
-      - Science.md
-      - Mathematics.md
-      - Chinese.md
       - English.md
+      - Chinese.md
+      - Mathematics.md
+      - Science.md
+      - Art.md
+      - Music.md
+      - Physical Education.md
+      - ICT (Primary).md
