@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA (Primary)/.keep
+      - CCA (Primary)/Scouts.md
       - CCA (Primary)/Badminton.md
       - CCA (Primary)/Basketball.md
       - CCA (Primary)/Bowling.md
@@ -11,17 +12,16 @@ collections:
       - CCA (Primary)/Table Tennis.md
       - CCA (Primary)/Taekwondo.md
       - CCA (Primary)/Wushu.md
-      - CCA (Primary)/Scouts.md
       - CCA (Primary)/Concert Band.md
       - CCA (Primary)/String Ensemble.md
       - CCA (Primary)/Art and Crafts.md
       - CCA (Primary)/Chinese Chess Club.md
-      - CCA (Primary)/Environmental Science Club.md
       - CCA (Primary)/Infocomm Technology (Media Production).md
       - CCA (Primary)/International Chess Club.md
       - CCA (Primary)/Robotics Club.md
       - CCA (Primary)/Maths Society (Talent Development).md
       - CCA (Primary)/Science Club.md
+      - CCA (Primary)/Environmental Science Club.md
       - CCA (Primary)/Bicultural Club.md
       - CCA (Secondary)/.keep
       - CCA (Secondary)/Archery.md
