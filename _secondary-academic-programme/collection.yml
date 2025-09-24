@@ -2,16 +2,16 @@ collections:
   secondary-academic-programme:
     output: true
     order:
-      - ICT (Secondary).md
-      - Principles of Account.md
-      - Food and Consumer Education.md
-      - Physical Education.md
-      - Music.md
-      - Design and Technology.md
-      - Computing.md
-      - Art.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Chinese Language.md
       - English.md
+      - Chinese Language.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Art.md
+      - Computing.md
+      - Design and Technology.md
+      - Music.md
+      - Physical Education.md
+      - Food and Consumer Education.md
+      - Principles of Account.md
+      - ICT (Secondary).md
