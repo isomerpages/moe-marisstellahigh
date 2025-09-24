@@ -1,5 +1,5 @@
 ---
-title: Science Club
+title: Science Club (Talent Development)
 permalink: /programmes/primary/cca/science-club/
 description: ""
 third_nav_title: CCA (Primary)

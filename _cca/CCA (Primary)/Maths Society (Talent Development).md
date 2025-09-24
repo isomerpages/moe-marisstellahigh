@@ -1,11 +1,10 @@
 ---
-title: Maths Society
+title: Maths Society (Talent Development)
 permalink: /programmes/primary/cca/maths-society/
 description: ""
 third_nav_title: CCA (Primary)
+variant: tiptap
 ---
-
-
 <img align="right" src="/images/CCA/Primary/Math%20Club_D1R1051.jpg" style="width:45%">
 
 

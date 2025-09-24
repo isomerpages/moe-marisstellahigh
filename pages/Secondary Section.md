@@ -2,7 +2,6 @@
 title: Secondary Section
 permalink: /our-programmes/cca/secondary/
 description: ""
-third_nav_title: CCA (Secondary)
 variant: markdown
 ---
 <h1>Physical Sports</h1>

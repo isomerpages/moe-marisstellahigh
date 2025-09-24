@@ -1,11 +1,10 @@
 ---
-title: Environmental Science Club
+title: Environmental Science Club (Talent Development)
 permalink: /programmes/primary/cca/environmental-science-club/
 description: ""
 third_nav_title: CCA (Primary)
+variant: tiptap
 ---
-
-
 <img align="right" src="/images/CCA/Primary/Science%20Garden%20Club_D1R0725.jpg" style="width:45%">
 
 
