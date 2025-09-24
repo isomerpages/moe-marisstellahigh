@@ -11,3 +11,7 @@ school, guided by our Marist Ambassadors who also shared insights on our
 school and Singapore. The day was further enriched by a cultural exchange
 as our Secondary Three drummers introduced our Japanese visitors to Chinese
 Festive Drumming while the latter showcased their karate skills.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>在 2025 年 3 月 3 日，我校有幸接待来自 <strong>熊本海星中学（</strong>Kumamoto Marist Junior
+High School<strong>）</strong> 的 40 位学生与 3 位教职员。他们在我校亲善大使的带领下参观了校园。亲善大使也分享了有关海星中学及新加坡的点滴。</p>
+<p>当天的交流活动更因文化互动而增添色彩。我校中三同学介绍了二十四<strong>节令鼓</strong>，而来自熊本的同学们则展示了他们精湛的<strong>空手道</strong>技艺。</p>
