@@ -25,7 +25,8 @@ goals.</p>
 </ul>
 <p><strong>To achieve the Department’s goals, the following programmes are offered:</strong>
 </p>
-<p>Lower Secondary Music Curriculum</p>
+<p><u>Lower Secondary Music Curriculum</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Instrumental Studies: Learning the Keyboard and Guitar in a pop-band setting</p>
@@ -38,7 +39,8 @@ goals.</p>
 of everyday sounds on the iPad to create music)</p>
 </li>
 </ul>
-<p>O-Level Music (Upper Secondary Music Programme)</p>
+<p><u>O-Level Music (Upper Secondary Music Programme)</u>
+</p>
 <ul>
 <li>
 <p>Students will be exposed to three aspects of Musical Development: Creating,
@@ -64,7 +66,8 @@ and</p>
 to travel to another school to attend lessons for this subject.</p>
 </li>
 </ul>
-<p>Music Elective Programme (MEP)</p>
+<p><u>Music Elective Programme (MEP)</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students interested in this programme can visit&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener noreferrer nofollow" target="_blank">this website</a>&nbsp;for
@@ -89,7 +92,8 @@ more details.</p>
 </ul>
 <p><strong>为实现这些目标，音乐部提供了以下课程与项目：</strong>
 </p>
-<p>低年级音乐课程</p>
+<p><u>低年级音乐课程</u>
+</p>
 <ul>
 <li>
 <p>乐器研究：学习键盘与吉他在流行乐团中的使用</p>
@@ -102,7 +106,8 @@ more details.</p>
 <p></p>
 </li>
 </ul>
-<p>中四 O 水准音乐课程</p>
+<p><u>中四 O 水准音乐课程</u>
+</p>
 <ul>
 <li>
 <p>学生将接触音乐发展的三个方面：创作、表演与赏析</p>
@@ -122,6 +127,6 @@ more details.</p>
 </p>
 </li>
 </ul>
-<p>音乐特选课程（MEP）
+<p><u>音乐特选课程（MEP）</u> 
 <br>有兴趣参加此课程的学生可浏览此<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener nofollow" target="_blank">网站</a>了解更多详情。</p>
 <p></p>
