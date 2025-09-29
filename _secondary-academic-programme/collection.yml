@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English.md
-      - Chinese Language.md
+      - Chinese Language 华文.md
       - Mathematics 数学.md
       - Science 科学.md
       - Humanities 人文.md
