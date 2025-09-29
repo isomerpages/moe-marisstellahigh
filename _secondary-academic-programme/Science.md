@@ -4,7 +4,7 @@ permalink: /programmes/secondary/academic-programme/science/
 description: ""
 variant: tiptap
 ---
-<h1>Science</h1>
+<h1>Science <strong>科学</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/Academic%20Programme/Secondary/science_v1.png">
 </div>
