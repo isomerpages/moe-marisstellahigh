@@ -4,7 +4,7 @@ permalink: /programmes/secondary/academic-programme/music/
 description: ""
 variant: tiptap
 ---
-<h1>Music</h1>
+<h1>Music <strong>音乐</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/Academic%20Programme/Secondary/music_v1.png">
 </div>
