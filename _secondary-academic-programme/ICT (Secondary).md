@@ -37,7 +37,8 @@ of the 21st Century; and&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p>信息与通信科技部致力于：</p>
+<p><strong>信息与通信科技部致力于：</strong>
+</p>
 <ul>
 <li>
 <p>培养 学生的 数码素养 与 信息通信科技能力，以满足 21 世纪发展的需求；</p>
@@ -48,7 +49,7 @@ of the 21st Century; and&nbsp;</p>
 </p>
 </li>
 </ul>
-<p>为实现这些目标，本部门提供了以下课程与项目：</p>
+<p><strong>为实现这些目标，本部门提供了以下课程与项目</strong>：</p>
 <ul>
 <li>
 <p>低年级I信息与通信科技 课程</p>
