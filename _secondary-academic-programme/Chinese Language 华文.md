@@ -1,7 +1,8 @@
 ---
-title: Chinese Language
+title: Chinese Language 华文
 permalink: /programmes/secondary/academic-programme/chinese-language/
 description: ""
+variant: tiptap
 ---
 # Chinese Language
 
