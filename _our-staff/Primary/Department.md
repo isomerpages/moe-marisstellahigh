@@ -168,7 +168,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
   </tr>
 
   <tr>
@@ -411,7 +411,7 @@ variant: markdown
   </tr>
 <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
   </tr>
 		<tr>
     <td style="width: 50%" class="tg-0lax">Sun Sheau Yu (Mdm)</td>
@@ -779,7 +779,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="width: 50%" class="tg-0lax">Chiang Lay Hoon (Mdm)</td>
-    <td style="width: 50%" class="tg-0lax">SH / Bicultural Programme</td>
+    <td style="width: 50%" class="tg-0lax">SH / SAP</td>
   </tr>
 	<tr>
     <td style="width: 50%" class="tg-0lax">Tan Oon Hang (Mdm)</td>
