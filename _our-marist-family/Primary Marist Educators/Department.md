@@ -286,7 +286,7 @@ third_nav_title: Primary Marist Educators
 <p>Chiang Lay Hoon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Bicultural Programme</p>
+<p>SH / SAP</p>
 </td>
 </tr>
 <tr>
@@ -679,7 +679,7 @@ third_nav_title: Primary Marist Educators
 <p>Chiang Lay Hoon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Bicultural Programme</p>
+<p>SH / SAP</p>
 </td>
 </tr>
 <tr>
@@ -1331,7 +1331,7 @@ third_nav_title: Primary Marist Educators
 <p>Chiang Lay Hoon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Bicultural Programme</p>
+<p>SH / SAP</p>
 </td>
 </tr>
 <tr>
