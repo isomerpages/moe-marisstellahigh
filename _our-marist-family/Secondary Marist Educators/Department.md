@@ -54,7 +54,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 </tbody>
 </table>
-<h3>KEY PERSONNEL</h3>
+<h3>MIDDLE MANAGERS</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -284,14 +284,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lucy Yeo (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Chemistry</p>
 </td>
 </tr>
 <tr>
