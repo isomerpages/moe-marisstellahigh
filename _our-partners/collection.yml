@@ -1,0 +1,12 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Our Partners.md
+      - MSHS Alumni.md
+      - Parents Support Group/.keep
+      - Parents Support Group/Parent Support Group.md
+      - Parents Support Group/Parents' Pledge.md
+      - Parents Support Group/PSG Handbook.md
+      - Parents Support Group/Organisation Chart.md
+      - Parents Support Group/Contact Us.md

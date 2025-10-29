@@ -1,0 +1,18 @@
+collections:
+  our-admission:
+    output: true
+    order:
+      - Our Admissions.md
+      - Primary Section Admission/.keep
+      - Primary Section Admission/Primary 1 Admission.md
+      - Primary Section Admission/Waitlist Application.md
+      - Secondary Section Admission/.keep
+      - Secondary Section Admission/2025 Sec 1 Registration.md
+      - Secondary Section Admission/2026 Secondary 2 and 3 Transfer.md
+      - Secondary Section Admission/Textbooks and Uniform.md
+      - Secondary Section Admission/FAQs (Secondary).md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Welcome.md
+      - Direct School Admission (DSA)/MSHS Experience.md
+      - Direct School Admission (DSA)/DSA Process.md
+      - Direct School Admission (DSA)/FAQs.md

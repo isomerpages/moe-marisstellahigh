@@ -1,0 +1,10 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - Primary/.keep
+      - Primary/Class.md
+      - Primary/Department.md
+      - Secondary/.keep
+      - Secondary/Class.md
+      - Secondary/Departments.md

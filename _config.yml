@@ -1,0 +1,60 @@
+title: Maris Stella High School
+url: https://marisstellahigh.moe.edu.sg
+favicon: /images/sgp_maris_stella_high_school_crest.png
+colors:
+  primary-color: "#153e7b"
+  secondary-color: "#24276e"
+  media-colors:
+    - title: media-color-one
+      color: "#171c8f"
+    - title: media-color-two
+      color: "#49759a"
+    - title: media-color-three
+      color: "#1f1cb3"
+    - title: media-color-four
+      color: "#5322d0"
+    - title: media-color-five
+      color: "#5777bf"
+description: ""
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2r0kwuamjw0vo.amplifyapp.com
+prod: https://master.d2r0kwuamjw0vo.amplifyapp.com
+shareicon: /images/sgp_maris_stella_high_school_crest.png
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""
+resources_name: media

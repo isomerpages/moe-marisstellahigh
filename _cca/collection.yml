@@ -1,0 +1,45 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA (Primary)/.keep
+      - CCA (Primary)/Scouts.md
+      - CCA (Primary)/Badminton.md
+      - CCA (Primary)/Basketball.md
+      - CCA (Primary)/Bowling.md
+      - CCA (Primary)/Rockwall Climbing.md
+      - CCA (Primary)/Softball.md
+      - CCA (Primary)/Table Tennis.md
+      - CCA (Primary)/Taekwondo.md
+      - CCA (Primary)/Wushu.md
+      - CCA (Primary)/Concert Band.md
+      - CCA (Primary)/String Ensemble.md
+      - CCA (Primary)/Art and Crafts.md
+      - CCA (Primary)/Chinese Chess Club.md
+      - CCA (Primary)/Infocomm Technology (Media Production).md
+      - CCA (Primary)/International Chess Club.md
+      - CCA (Primary)/Robotics Club.md
+      - CCA (Primary)/Maths Society (Talent Development).md
+      - CCA (Primary)/Science Club (Talent Development).md
+      - CCA (Primary)/Environmental Science Club (Talent Development).md
+      - CCA (Primary)/Bicultural Club (Talent Development).md
+      - CCA (Secondary)/.keep
+      - CCA (Secondary)/Archery.md
+      - CCA (Secondary)/Badminton.md
+      - CCA (Secondary)/Basketball.md
+      - CCA (Secondary)/Bowling.md
+      - CCA (Secondary)/Softball.md
+      - CCA (Secondary)/Table Tennis.md
+      - CCA (Secondary)/Taekwondo.md
+      - CCA (Secondary)/Wushu.md
+      - CCA (Secondary)/Outdoor Activities Club.md
+      - CCA (Secondary)/National Cadet Corps (Sea).md
+      - CCA (Secondary)/National Police Cadet Corps.md
+      - CCA (Secondary)/Scouts.md
+      - CCA (Secondary)/St John Brigade.md
+      - CCA (Secondary)/Chinese Orchestra.md
+      - CCA (Secondary)/Symphonic Band.md
+      - CCA (Secondary)/Chinese Literary Society.md
+      - CCA (Secondary)/English Literary Society.md
+      - CCA (Secondary)/Marist Digital Media Club.md
+      - CCA (Secondary)/Marist Robotics and Programming Club.md

@@ -1,0 +1,62 @@
+logo: /images/school-logo.svg
+links:
+  - title: About MSHS
+    url: /about-mshs/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-mshs/principals-message
+      - title: Saint Marcellin Champagnat
+        url: /about-mshs/saint-marcellin-champagnat
+      - title: School History
+        url: /about-mshs/school-history
+      - title: Vision,Mission,Motto&Values
+        url: /about-mshs/vision-mission-motto-and-values
+      - title: School Crest, Song & Creed
+        url: /about-mshs/school-crest-school-song-and-creed
+      - title: School Management Committee
+        url: /about-mshs/school-management-committee
+      - title: School Achievements
+        url: https://marisstellahigh.moe.edu.sg/about-mshs/secondary/school-achievements/2025/
+      - title: Contact Us
+        url: /about-mshs/contact-us
+  - title: Our Marist Family
+    url: /our-marist-family/
+    sublinks:
+      - title: Our Marist Family
+        url: /our-marist-family/
+      - title: Primary Section
+        url: /primary-section-class/
+      - title: Secondary Section
+        url: /secondary-section-class/
+      - title: Alumni
+        url: /alumni/
+      - title: Parents Support Group
+        url: /parent-support-group/
+  - title: Our Programmes
+    url: /our-programmes/
+    sublinks:
+      - title: Our Programmes
+        url: /our-programmes/
+  - title: The Marist Experience
+    url: /champagnat-global/
+    sublinks:
+      - title: Champagnat Global
+        url: /champagnat-global/
+      - title: Faith Formation
+        url: /programmes/primary/faith-formation/
+      - title: Bicultural Programme
+        url: /programmes/primary/bicultural-programme/
+  - title: Our Next Chapter
+    url: /rebuilding/
+    sublinks:
+      - title: MSHS Rebuilding
+        url: https://marisstellahigh.moe.edu.sg/rebuilding/
+  - title: Our Admissions
+    url: /our-admissions/
+    sublinks:
+      - title: Primary Section Admissions
+        url: /admission/primary/primary-1-admission/
+      - title: Secondary Section Admissions
+        url: /2025-sec-1-registration/
+      - title: DSA
+        url: /admission/secondary/direct-school-admission-dsa/welcome/
