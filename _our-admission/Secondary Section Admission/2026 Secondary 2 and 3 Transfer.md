@@ -15,4 +15,8 @@ from 30 October to 10 November. All applicants who wish to apply for transfer
 must do so via <a href="mailto:msh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>msh@moe.edu.sg</u></a> with
 supporting documents.</p>
 <p></p>
+<p>Only shortlisted applicants will be contacted.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
