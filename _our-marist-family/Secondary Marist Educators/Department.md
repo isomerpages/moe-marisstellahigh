@@ -135,14 +135,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Seah Ching San, Paul (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Student Management &amp; Talent Development</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tan Xian Jing (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -695,7 +687,7 @@ third_nav_title: Secondary Marist Educators
 <p>Lucy Yeo (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Chemistry</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -817,14 +809,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer (SSD)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Seah Ching San, Paul (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Student Management &amp; Talent Development</p>
 </td>
 </tr>
 <tr>
