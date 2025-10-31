@@ -21,12 +21,12 @@ PE attires and school uniforms are available at the Primary School Bookshop. If 
 
 # BOOKLISTS
 
-[MSHS(P) Booklist 2025_P1](/files/MSHS_P__Booklist_2025_P1.pdf)<br>
-[MSHS(P) Booklist 2025_P2](/files/MSHS_P__Booklist_2025_P2.pdf)<br>
-[MSHS(P) Booklist 2025_P3](/files/MSHS_P__Booklist_2025_P3.pdf)<br>
-[MSHS(P) Booklist 2025_P4](/files/MSHS_P__Booklist_2025_P4.pdf)<br>
-[MSHS(P) Booklist 2025_P5](/files/MSHS_P__Booklist_2025_P5.pdf)<br>
-[MSHS(P) Booklist 2025_P6](/files/MSHS_P__Booklist_2025__P6.pdf)
+[MSHS(P) Booklist 2026_P1](/files/MSHS_P__Booklist_2026_P1.pdf) <br>
+[MSHS(P) Booklist 2026_P2](/files/MSHS_P__Booklist_2026_P2.pdf)<br>
+[MSHS(P) Booklist 2026_P3](/files/MSHS_P__Booklist_2026_P3.pdf)<br>
+[MSHS(P) Booklist 2026_P4](/files/MSHS_P__Booklist_2026_P4.pdf)<br>
+[MSHS(P) Booklist 2026_P5](/files/MSHS_P__Booklist_2026_P5.pdf)<br>
+[MSHS(P) Booklist 2026_P6](/files/MSHS_P__Booklist_2026_P6.pdf)
 
 # NAME TAGS
 
