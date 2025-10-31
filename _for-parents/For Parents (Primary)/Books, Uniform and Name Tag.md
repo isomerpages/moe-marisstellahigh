@@ -11,8 +11,6 @@ third_nav_title: For Parents (Primary)
 
 Tel: 9435 5892 (School)<br>
 
-  
-
 Operating Hours:<br>
 Mondays to Fridays<br>
 7.00 a.m. - 2.30 p.m.&nbsp;<br>
