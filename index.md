@@ -11,9 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
-        - title: OPEN HOUSE
+        - title: OPEN HOUSE 2025
           description: Find out more
-          url: https://go.gov.sg/mshsrebuild
+          url: /2025-open-house/
   - textcards:
       title: Resources
       id: textcards
