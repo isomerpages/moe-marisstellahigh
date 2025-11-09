@@ -10,6 +10,10 @@ sections:
   - hero:
       background: /images/Homepage/Banner_draft.gif
       variant: image
+      key_highlights:
+        - title: OPEN HOUSE
+          description: Find out more
+          url: https://go.gov.sg/mshsrebuild
   - textcards:
       title: Resources
       id: textcards
