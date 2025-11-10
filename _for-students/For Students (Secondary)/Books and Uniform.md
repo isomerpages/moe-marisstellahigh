@@ -17,15 +17,15 @@ Bookshop: Pacific Bookstores Pte Ltd 太平洋书局私人有限公司
 |   |   |   |
 
 
-## 2025 BOOKLISTS
+## 2026 BOOKLISTS
 
 
 
 
 
-*   [Secondary 2](/files/MSHSS_2_G3____2025.pdf)
-*   [Secondary 3](/files/MSHSS_3_G3____2025.pdf)
-*   [Secondary 4](/files/MSHSS_4_G3____2025.pdf)
+*   [Secondary 2](/files/MSHSS_2_G3____2026.pdf)
+*   [Secondary 3](/files/MSHSS_3_G3____2026.pdf)
+*   [Secondary 4](/files/MSHSS_4_G3____2026.pdf)
 
 ## SCHOOL UNIFORM
 
