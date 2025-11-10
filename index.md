@@ -10,6 +10,10 @@ sections:
   - hero:
       background: /images/Homepage/Banner_draft.gif
       variant: image
+      key_highlights:
+        - title: OPEN HOUSE 2025
+          description: Find out more
+          url: /2025-open-house/
   - textcards:
       title: Resources
       id: textcards
