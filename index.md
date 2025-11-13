@@ -30,4 +30,11 @@ sections:
           description: ""
           linktext: Click here
           url: /useful-links-and-info/primary/for-parents/
+  - infopic:
+      title: 勤
+      id: infopic
+      description: Diligence
+      button: Button Text
+      url: Find out more
+      alt: Image alt text
 ---
