@@ -37,5 +37,5 @@ sections:
       button: Find out more
       url: /dilligence/
       alt: Image alt text
-      image: /images/Homepage Video/1.jpg
+      image: /images/Homepage Video/Screenshot_2025_11_13_112138.png
 ---
