@@ -35,7 +35,7 @@ sections:
       id: infopic
       description: Diligence
       button: Find out more
-      url: Find out more
+      url: /dilligence/
       alt: Image alt text
       image: /images/Homepage Video/1.jpg
 ---
