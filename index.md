@@ -34,7 +34,8 @@ sections:
       title: 勤
       id: infopic
       description: Diligence
-      button: Button Text
+      button: Find out more
       url: Find out more
       alt: Image alt text
+      image: /images/Homepage Video/1.jpg
 ---
