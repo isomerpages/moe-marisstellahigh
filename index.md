@@ -11,9 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
-        - title: OPEN HOUSE 2025
+        - title: Webinar 26 November 2025
           description: Find out more
-          url: /2025-open-house/
+          url: /2025-webinar/
   - textcards:
       title: Resources
       id: textcards
@@ -30,12 +30,4 @@ sections:
           description: ""
           linktext: Click here
           url: /useful-links-and-info/primary/for-parents/
-  - infopic:
-      title: 勤
-      id: infopic
-      description: Diligence
-      button: Find out more
-      url: /dilligence/
-      alt: Image alt text
-      image: /images/Homepage Video/Screenshot_2025_11_13_112138.png
 ---
