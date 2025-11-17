@@ -11,9 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
-        - title: OPEN HOUSE 2025
+        - title: Webinar 26 November 2025
           description: Find out more
-          url: /2025-open-house/
+          url: /2025-webinar/
   - textcards:
       title: Resources
       id: textcards
