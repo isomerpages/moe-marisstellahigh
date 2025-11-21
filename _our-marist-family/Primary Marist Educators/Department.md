@@ -374,7 +374,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edgar Wong (Mr)</p>
+<p>Edgar Wong Hong Teow (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics</p>
@@ -911,7 +911,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edgar Wong (Mr)</p>
+<p>Edgar Wong Hong Teow (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics</p>
@@ -927,15 +927,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan Teo Min (Ms)</p>
+<p>Jan Teo Min (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1189,14 +1181,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Kwok Chuen (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Cong Hui Sophia (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1213,31 +1197,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Hol Yarn (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kassandra Wong Yen Li (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Afiqah Binte Mohamed Shafie (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Peh Jing Ting, Claris (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1253,7 +1213,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joyce Seow (Ms)</p>
+<p>Seow Sok Teng Joyce (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1277,7 +1237,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Luke Tan (Mr)</p>
+<p>Luke Tan Boon Yong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1285,7 +1245,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Linnet Xue (Ms)</p>
+<p>Linnet Xue Hui Lin (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
