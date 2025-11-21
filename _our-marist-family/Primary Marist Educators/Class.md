@@ -90,14 +90,6 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Afiqah Binte Mohamed Shafie (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Dominic</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Linnet Xue (Ms)</p>
 </td>
 </tr>
