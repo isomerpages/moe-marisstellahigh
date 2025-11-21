@@ -50,7 +50,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reginia Loh (Ms)</p>
+<p>Loh Sook Yee Reginia (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joyce Seow (Ms)</p>
+<p>Seow Sok Teng Joyce (Ms)</p>
 </td>
 </tr>
 <tr>
