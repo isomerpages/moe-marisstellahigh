@@ -678,15 +678,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Edgar (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Benedict</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Hol Yarn (Mr)</p>
+<p>Edgar Wong Hong Teow (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -702,7 +694,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matilda Tan (Ms)</p>
+<p>Tan Yingru Matilda (Ms)</p>
 </td>
 </tr>
 <tr>
