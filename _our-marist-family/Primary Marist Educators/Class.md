@@ -90,7 +90,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Linnet Xue (Ms)</p>
+<p>Linnet Xue Hui Lin (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -368,7 +368,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Michelle Tan (Ms)</p>
+<p>Tan Lee Keng Michelle (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +376,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Luke Tan (Mr)</p>
+<p>Luke Tan Boon Yong (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene Wong (Mr)</p>
+<p>Wong Chee Wai Eugene (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -734,7 +734,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Helen Ang (Mrs)</p>
+<p>Ang-Teo Sai Hiang Helen (Mrs)</p>
 </td>
 </tr>
 <tr>
