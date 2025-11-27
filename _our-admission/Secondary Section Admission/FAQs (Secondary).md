@@ -74,10 +74,9 @@ school website, closer to that period.</p>
 subject?</p>
 </li>
 </ul>
-<p>Yes, he can. However, students who have started Higher Chinese Language
-in Secondary 1 are to continue doing so until Secondary 3, where they will
-take the O-Level Chinese Language examination, before making a decision
-to continue or not. This is because learning a language takes time.</p>
+<p>All Sec 1 and 2 students must offer HCL. At the end of Sec 2 at subject
+combination selection, a student may choose to drop to CL. However, most
+of our students will continue to offer HCL until Sec 4.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Does the school offer Posting Group 1 or 2 courses of study?</p>
