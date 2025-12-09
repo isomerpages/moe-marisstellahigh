@@ -1,4 +1,5 @@
 collections:
   2026-sec-one-registration:
     output: true
-    order: []
+    order:
+      - 2026 Secondary 1 Appeal to Transfer.md
