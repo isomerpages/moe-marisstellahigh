@@ -12,14 +12,14 @@ third_nav_title: Secondary Section Admission
 <p>We would like to congratulate him on his PSLE results and for choosing
 to continue his education with us.</p>
 <p>Please note that there is no need for your son/ward to report to school
-for registration on 18 December 2024.</p>
-<p>There will be no webinar as we will share important information regarding
-your son’s/ward's Secondary 1 Posting via the Parents Gateway (PG) after
-5 pm. on the posting day. Please download the PG mobile application <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">here</a> if
-you do not have it yet.</p>
-<p>If you have any questions or concerns, please do not hesitate to <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a> the
-school office. We look forward to partnering with you in your son’s/ward's
-secondary education journey.</p>
+for registration on&nbsp;18 December 2025.</p>
+<p>We will be sharing important information regarding your son’s/ward’s Secondary
+1 registration via&nbsp;<strong>the Parents Gateway (PG)</strong>&nbsp;after
+5 p.m. on the posting day. Please download the PG mobile application&nbsp;
+<a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;if you do not have it yet.</p>
+<p>If you have any questions or concerns, please do not hesitate to&nbsp;
+<a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a>the school office. We look forward to partnering with you in
+your son’s secondary education journey.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reporting Details (First Day of School)</strong>
@@ -75,7 +75,7 @@ recess or lunch.</p>
 <p>2nd Jan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>3rd Jan</p>
+<p>5th Jan</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>6th Jan</p>
@@ -96,9 +96,6 @@ recess or lunch.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,6 +109,9 @@ recess or lunch.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ recess or lunch.</p>
 <p>1.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.30 pm</p>
+<p>1.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30 pm</p>
@@ -170,16 +170,10 @@ recess or lunch.</p>
 <td rowspan="1" colspan="1">
 <p>Full School Uniform with Tie or Primary School Uniform</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Attire (Singlet and shorts)</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,27 +185,7 @@ recess or lunch.</p>
 <p><strong>Things to Bring</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
 <p></p>
 <p>A keylock for locker</p>
@@ -228,17 +202,10 @@ recess or lunch.</p>
 <td rowspan="1" colspan="1">
 <p>Welcoming, Liturgy, Ice Breakers, Form Teacher Time</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>School Trail, School / Class Identity, Team Bonding Games</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>School Trail, School / Class Identity, Team Bonding Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class Bonding Games, School Identity, Trust Activity, House Induction
-CCA Roadshow</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Class Bonding Games, School Identity, Trust Activity, House Induction
 CCA Roadshow</p>
 </td>
@@ -263,8 +230,8 @@ first day of school.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Parent/guardian will receive a Parents Gateway (PG) notification by 30
-December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
+<p>Parent/guardian will receive a Parents Gateway (PG) notification by 33
+December 2025 on the son’s/ward’s class allocation. Please click the "CONTACTS"
 tab at the bottom and view the class under your son's/ward’s name.</p>
 </div>
 </details>
