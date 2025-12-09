@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: 2026 Secondary One Information for Parents and Students
           description: Find out more
-          url: /2026-secondary-one-information-for-parents-and-students/
+          url: /2026-secondary-1-information-for-parents-and-students/
   - textcards:
       title: Resources
       id: textcards
