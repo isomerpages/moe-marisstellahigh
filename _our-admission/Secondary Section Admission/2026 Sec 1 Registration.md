@@ -238,6 +238,19 @@ tab at the bottom and view the class under your son's/ward’s name.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Purchase of Textbooks and Uniform</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
+supplier is <strong>Shanghai School Uniform</strong>.</p>
+<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Applications</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -250,12 +263,12 @@ tab at the bottom and view the class under your son's/ward’s name.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/guardians of successful applicants will be informed by the school
-via Parents Gateway (PG) by 20 December 2024.</p>
+via Parents Gateway (PG) by 20 December 2025.</p>
 </li>
 <li>
 <p>Students must confirm the acceptance of the offer and complete the registration
 at MOE Language Centre <a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">website</a> from
-19 Dec 2024, 9:00 am to 02 Jan 2025, 11:59 pm.</p>
+19 Dec 2025, 9:00 am to 02 Jan 2026, 11:59 pm.</p>
 </li>
 <li>
 <p>More information will be provided to the applicants via Parents Gateway
@@ -270,7 +283,7 @@ separately.</p>
 <p>Unsuccessful Application</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you have applied and do not receive any PG notification by 20 Dec,
+<p>If you have applied and do not receive any PG notification by 20 Dec 2025,
 5:00 pm, it means that your application is unsuccessful.</p>
 </li>
 <li>
@@ -280,7 +293,7 @@ separately.</p>
 </ul>
 </li>
 </ul>
-<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
+<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a> with the subject title "<strong>2026 Sec 1 Third Languag</strong>e".</p>
 <p></p>
 <p><strong><u>Art Elective Programme (AEP) and Music Elective Programme (MEP)</u></strong>
 </p>
@@ -354,7 +367,7 @@ separately.</p>
 <p>Interested students can contact teacher-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sylvia Roche <a href="mailto:sylvia_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
+<p>Mr Yap Kheng Kin <a href="mailto:yap_kheng_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -383,12 +396,12 @@ we will send you the form to complete.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students entering Secondary One in January 2025 will be issued a new
+<p>All students entering Secondary One in January 2026 will be issued a new
 Secondary level School Smart Card (SSC).</p>
 </li>
 <li>
 <p>In the meantime, students can continue to use their Primary level SSCs
-for concessionary travel until end April 2025.</p>
+for concessionary travel until end April 2026.</p>
 </li>
 <li>
 <p>Students can still use the monthly Concession Pass on their Primary level
@@ -406,7 +419,7 @@ learning device (PLD) for their learning.</p>
 </li>
 <li>
 <p>We will provide more detailed information e.g. model, pricing and subsidy
-during the level briefing on Thursday, 09 Jan 2025.</p>
+during the level briefing on Friday, 09 Jan 2026.</p>
 </li>
 </ul>
 <p></p>
@@ -414,19 +427,6 @@ during the level briefing on Thursday, 09 Jan 2025.</p>
 </p>
 <p>Click <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/our-partners/parent-support-group/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Sale of Textbooks and Uniform</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
-supplier is <strong>Shanghai School Uniform</strong>.</p>
-<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
 </div>
 </details>
 </div>
