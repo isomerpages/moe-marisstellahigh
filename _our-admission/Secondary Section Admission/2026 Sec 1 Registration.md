@@ -17,9 +17,9 @@ for registration on&nbsp;18 December 2025.</p>
 1 registration via&nbsp;<strong>the Parents Gateway (PG)</strong>&nbsp;after
 5 p.m. on the posting day. Please download the PG mobile application&nbsp;
 <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;if you do not have it yet.</p>
-<p>If you have any questions or concerns, please do not hesitate to&nbsp;
-<a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a>the school office. We look forward to partnering with you in
-your son’s secondary education journey.</p>
+<p>If you have any questions or concerns, please do not hesitate to <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a> school
+office. We look forward to partnering with you in your son’s secondary
+education journey.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reporting Details (First Day of School)</strong>
