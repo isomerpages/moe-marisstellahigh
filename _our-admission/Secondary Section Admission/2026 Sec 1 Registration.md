@@ -367,7 +367,7 @@ separately.</p>
 <p>Interested students can contact teacher-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Kheng Kin <a href="mailto:yap_kheng_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
+<p>Mr Yap Kheng Kin <a href="mailto:yap_kheng_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kheng_kin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
