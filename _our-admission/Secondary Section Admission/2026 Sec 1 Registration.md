@@ -230,7 +230,7 @@ first day of school.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Parent/guardian will receive a Parents Gateway (PG) notification by 33
+<p>Parent/guardian will receive a Parents Gateway (PG) notification by 31
 December 2025 on the son’s/ward’s class allocation. Please click the "CONTACTS"
 tab at the bottom and view the class under your son's/ward’s name.</p>
 </div>
