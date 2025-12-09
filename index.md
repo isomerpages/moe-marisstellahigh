@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: 2026 Secondary One Information for Parents and Students
           description: Find out more
-          url: /2026-secondary-1-registration/
+          url: /2026-sec-1-registration/
   - textcards:
       title: Resources
       id: textcards
