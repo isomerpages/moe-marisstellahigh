@@ -177,7 +177,7 @@ recess or lunch.</p>
 <p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full School Uniform (bring tie)</p>
+<p>House Tee with White School Pants</p>
 </td>
 </tr>
 <tr>
@@ -185,13 +185,9 @@ recess or lunch.</p>
 <p><strong>Things to Bring</strong>
 </p>
 </td>
-<td rowspan="1" colspan="5">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pack materials according to the Timetable (will be shared during Orientation).</p>
+<td rowspan="1" colspan="6">
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation,
+a keylock for locker</p>
 </td>
 </tr>
 <tr>
@@ -205,16 +201,22 @@ recess or lunch.</p>
 <td rowspan="1" colspan="2">
 <p>School Trail, School / Class Identity, Team Bonding Games</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Class Bonding Games, School Identity, Trust Activity, House Induction
-CCA Roadshow</p>
+<td rowspan="1" colspan="1">
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity
+<br>House Induction CCA Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Normal Lessons (until 1 pm)</p>
-<p></p>
-<p>Preparation for Welcoming Ceremony (1.40 pm to 5.30 pm)</p>
-<p></p>
-<p>Welcoming Ceremony (5.30 pm to 6.30 pm)</p>
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity
+<br>House Induction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity Campfire</p>
 </td>
 </tr>
 </tbody>
