@@ -2,4 +2,5 @@ collections:
   2026-sec-one-registration:
     output: true
     order:
+      - 2026 Secondary One Information for Parents and Students.md
       - 2026 Secondary 1 Appeal to Transfer.md
