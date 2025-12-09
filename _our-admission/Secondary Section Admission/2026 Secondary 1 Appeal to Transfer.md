@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Secondary Section Admission
 ---
 <p>For students who would like to appeal to join Maris Stella High School
-as a Secondary One student in 2025, please take note of the following:</p>
+as a Secondary One student in 2026, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>18 December 2024 to 23 December 2024, 12:00 pm</strong>.</p>
+<p>Appeal Application Process is from <strong>18 December 2025 to 23 December 2025, 12:00 pm</strong>.</p>
 <p></p>
 </li>
 <li>
@@ -18,17 +18,17 @@ via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
-<p>The AL for the 2025 Secondary One cohort is <strong>11</strong>.</p>
+<p>The AL for the 2026 Secondary One cohort is <strong>11</strong>.</p>
 <p></p>
 </li>
 <li>
-<p>Students must take the Higher Chinese Language as their Mother Tongue
+<p>Students <u>must</u> take the Higher Chinese Language as their Mother Tongue
 Language in Secondary 1 and 2, if they are offered a place in the school.</p>
 <p></p>
 </li>
 <li>
 <p>Online appeal applications are to be submitted through the following e-form
-link: <a href="https://go.gov.sg/2025-mshs-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-mshs-appeal</a>.</p>
+link: <a href="https://go.gov.sg/2026-mshs-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-mshs-appeal</a>.</p>
 <p></p>
 </li>
 <li>
@@ -61,11 +61,15 @@ documents to bring to school.</p>
 <p></p>
 </li>
 <li>
-<p>Only successful applicants will be informed after <strong>Friday, 27 December 2024.</strong>
+<p>Only successful applicants will be informed after <strong>Friday, 26 December 2025.</strong>
 </p>
 </li>
 </ol>
-<p></p>
 </li>
 </ol>
+<p>QR Code</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture_1.png">
+</div>
 <p></p>
