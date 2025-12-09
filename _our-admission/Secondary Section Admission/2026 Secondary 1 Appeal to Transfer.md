@@ -28,7 +28,35 @@ Language in Secondary 1 and 2, if they are offered a place in the school.</p>
 </li>
 <li>
 <p>Online appeal applications are to be submitted through the following e-form
-link: <a href="https://go.gov.sg/2026-mshs-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-mshs-appeal</a>.</p>
+link:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>QR Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2026-mshs-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-mshs-appeal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_1.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 <li>
@@ -67,7 +95,8 @@ documents to bring to school.</p>
 </ol>
 </li>
 </ol>
-<p>QR Code</p>
+<p><strong>QR Code for Appeal</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture_1.png">
