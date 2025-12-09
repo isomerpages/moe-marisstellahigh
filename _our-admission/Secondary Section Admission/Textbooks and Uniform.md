@@ -84,8 +84,8 @@ slots, students are allowed to wear their primary school uniform in Week
 <p>3 pairs of MSHS Socks (optional)</p>
 </li>
 <li>
-<p>House T-Shirt could be bought later when your son is informed of his House
-allocation.</p>
+<p>House T-Shirt can be bought when your son/ward is informed of his Class
+and House Allocation (more info will be provided before 31 Dec 2025).</p>
 </li>
 </ul>
 </li>
