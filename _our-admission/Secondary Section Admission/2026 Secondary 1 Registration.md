@@ -234,8 +234,8 @@ first day of school.</p>
 <p></p>
 <p>Parent/guardian will receive a Parents Gateway (PG) notification by 31
 December 2025 on the son’s/ward’s class allocation. Please click the "CONTACTS"
-tab at the bottom of the PG notification and view the class under your
-son's/ward’s name.</p>
+tab at the bottom of the PG application and view the class under your son's/ward’s
+name.</p>
 </div>
 </details>
 </div>
