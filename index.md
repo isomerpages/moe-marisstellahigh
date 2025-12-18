@@ -11,9 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
-        - title: Webinar 26 November 2025
+        - title: 2026 Secondary One Information for Parents and Students
           description: Find out more
-          url: /2025-webinar/
+          url: /2026-sec-1-registration/
   - textcards:
       title: Resources
       id: textcards

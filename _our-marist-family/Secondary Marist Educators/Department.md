@@ -46,6 +46,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Kok Heng Daniel (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lee Ko Yong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">

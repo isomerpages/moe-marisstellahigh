@@ -1,6 +1,6 @@
 ---
-title: 2025 Sec 1 Registration
-permalink: /2025-sec-1-registration/
+title: 2026 Secondary 1 Registration
+permalink: /2026-sec-1-registration/
 variant: tiptap
 description: ""
 third_nav_title: Secondary Section Admission
@@ -12,14 +12,14 @@ third_nav_title: Secondary Section Admission
 <p>We would like to congratulate him on his PSLE results and for choosing
 to continue his education with us.</p>
 <p>Please note that there is no need for your son/ward to report to school
-for registration on 18 December 2024.</p>
-<p>There will be no webinar as we will share important information regarding
-your son’s/ward's Secondary 1 Posting via the Parents Gateway (PG) after
-5 pm. on the posting day. Please download the PG mobile application <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">here</a> if
-you do not have it yet.</p>
+for registration on&nbsp;19 December 2025.</p>
+<p>We will be sharing important information regarding your son’s/ward’s Secondary
+1 registration via&nbsp;<strong>the Parents Gateway (PG)</strong>&nbsp;after
+6 p.m. on the posting day. Please download the PG mobile application&nbsp;
+<a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;if you do not have it yet.</p>
 <p>If you have any questions or concerns, please do not hesitate to <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/contact-us/" rel="noopener nofollow" target="_blank">contact</a> the
-school office. We look forward to partnering with you in your son’s/ward's
-secondary education journey.</p>
+school office. We look forward to partnering with you in your son’s secondary
+education journey.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reporting Details (First Day of School)</strong>
@@ -75,7 +75,7 @@ recess or lunch.</p>
 <p>2nd Jan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>3rd Jan</p>
+<p>5th Jan</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>6th Jan</p>
@@ -96,9 +96,6 @@ recess or lunch.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,6 +109,9 @@ recess or lunch.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ recess or lunch.</p>
 <p>1.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.30 pm</p>
+<p>1.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30 pm</p>
@@ -170,20 +170,14 @@ recess or lunch.</p>
 <td rowspan="1" colspan="1">
 <p>Full School Uniform with Tie or Primary School Uniform</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire (Singlet and shorts)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Full School Uniform (bring tie)</p>
+<p>House Tee with White School Pants</p>
 </td>
 </tr>
 <tr>
@@ -191,33 +185,9 @@ recess or lunch.</p>
 <p><strong>Things to Bring</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation.</p>
-<p></p>
-<p>A keylock for locker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pack materials according to the Timetable (will be shared during Orientation).</p>
+<td rowspan="1" colspan="6">
+<p>Water Bottle, Stationery, Story book, Sufficient cash for meals and transportation,
+a keylock for locker</p>
 </td>
 </tr>
 <tr>
@@ -228,26 +198,25 @@ recess or lunch.</p>
 <td rowspan="1" colspan="1">
 <p>Welcoming, Liturgy, Ice Breakers, Form Teacher Time</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>School Trail, School / Class Identity, Team Bonding Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Trail, School / Class Identity, Team Bonding Games</p>
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity
+<br>House Induction CCA Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Bonding Games, School Identity, Trust Activity, House Induction
-CCA Roadshow</p>
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity
+<br>House Induction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Bonding Games, School Identity, Trust Activity, House Induction
-CCA Roadshow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Normal Lessons (until 1 pm)</p>
-<p></p>
-<p>Preparation for Welcoming Ceremony (1.40 pm to 5.30 pm)</p>
-<p></p>
-<p>Welcoming Ceremony (5.30 pm to 6.30 pm)</p>
+<p>Class Bonding Games
+<br>School Identity
+<br>Trust Activity Campfire</p>
 </td>
 </tr>
 </tbody>
@@ -263,9 +232,23 @@ first day of school.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Parent/guardian will receive a Parents Gateway (PG) notification by 30
-December 2024 on the son’s/ward’s class allocation. Please click the "CONTACTS"
-tab at the bottom and view the class under your son's/ward’s name.</p>
+<p>Parent/guardian will receive a Parents Gateway (PG) notification by 31
+December 2025 on the son’s/ward’s class allocation. Please click the "CONTACTS"
+tab at the bottom of the PG application and view the class under your son's/ward’s
+name.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Purchase of Textbooks and Uniform</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
+supplier is <strong>Shanghai School Uniform</strong>.</p>
+<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -283,12 +266,12 @@ tab at the bottom and view the class under your son's/ward’s name.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/guardians of successful applicants will be informed by the school
-via Parents Gateway (PG) by 20 December 2024.</p>
+via Parents Gateway (PG) by 22 December 2025.</p>
 </li>
 <li>
 <p>Students must confirm the acceptance of the offer and complete the registration
 at MOE Language Centre <a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">website</a> from
-19 Dec 2024, 9:00 am to 02 Jan 2025, 11:59 pm.</p>
+19 Dec 2025, 9:00 am to 02 Jan 2026, 11:59 pm.</p>
 </li>
 <li>
 <p>More information will be provided to the applicants via Parents Gateway
@@ -303,7 +286,7 @@ separately.</p>
 <p>Unsuccessful Application</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you have applied and do not receive any PG notification by 20 Dec,
+<p>If you have applied and do not receive any PG notification by 22 Dec 2025,
 5:00 pm, it means that your application is unsuccessful.</p>
 </li>
 <li>
@@ -313,7 +296,7 @@ separately.</p>
 </ul>
 </li>
 </ul>
-<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a>.</p>
+<p>For queries on appeal, please email <a href="mailto:msh@moe.edu.sg" rel="noopener nofollow" target="_blank">us</a> with the subject title "<strong>2026 Sec 1 Third Languag</strong>e".</p>
 <p></p>
 <p><strong><u>Art Elective Programme (AEP) and Music Elective Programme (MEP)</u></strong>
 </p>
@@ -387,7 +370,7 @@ separately.</p>
 <p>Interested students can contact teacher-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sylvia Roche <a href="mailto:sylvia_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_goh@schools.gov.sg</a>
+<p>Mr Yap Kheng Kin <a href="mailto:yap_kheng_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kheng_kin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -416,12 +399,12 @@ we will send you the form to complete.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students entering Secondary One in January 2025 will be issued a new
+<p>All students entering Secondary One in January 2026 will be issued a new
 Secondary level School Smart Card (SSC).</p>
 </li>
 <li>
 <p>In the meantime, students can continue to use their Primary level SSCs
-for concessionary travel until end April 2025.</p>
+for concessionary travel until end April 2026.</p>
 </li>
 <li>
 <p>Students can still use the monthly Concession Pass on their Primary level
@@ -439,7 +422,7 @@ learning device (PLD) for their learning.</p>
 </li>
 <li>
 <p>We will provide more detailed information e.g. model, pricing and subsidy
-during the level briefing on Thursday, 09 Jan 2025.</p>
+during the level briefing on Friday, 09 Jan 2026.</p>
 </li>
 </ul>
 <p></p>
@@ -447,19 +430,6 @@ during the level briefing on Thursday, 09 Jan 2025.</p>
 </p>
 <p>Click <a href="https://www.marisstellahigh.moe.edu.sg/about-mshs/our-partners/parent-support-group/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Sale of Textbooks and Uniform</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<p>Our school’s books supplier is&nbsp;<strong>Pacific Bookstores Pte Ltd </strong>and<strong> </strong>uniform
-supplier is <strong>Shanghai School Uniform</strong>.</p>
-<p>For textbook and uniform purchase information, please click <a href="/admission/secondary/admission/textbooks-n-uniform/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
 </div>
 </details>
 </div>

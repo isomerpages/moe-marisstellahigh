@@ -1,14 +1,15 @@
 ---
-title: 2025 Secondary 1 Appeal to Transfer
-permalink: /2025-secondary-1-appeal-to-transfer/
-variant: tiptap
+title: 2026 Secondary 1 Appeal to Transfer
+permalink: /2026-secondary-1-appeal-to-transfer/
+variant: markdown
 description: ""
+third_nav_title: Secondary Section Admission
 ---
 <p>For students who would like to appeal to join Maris Stella High School
-as a Secondary One student in 2025, please take note of the following:</p>
+as a Secondary One student in 2026, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>18 December 2024 to 23 December 2024, 12:00 pm</strong>.</p>
+<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 5:00 pm</strong>. The link to submit your appeal will be made available from 19 December 2025.</p>
 <p></p>
 </li>
 <li>
@@ -17,19 +18,18 @@ via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
-<p>The AL for the 2025 Secondary One cohort is <strong>11</strong>.</p>
+<p>Schools' cut-off points for the 2025 Primary 6 cohort will be published
+in <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">SchoolFinder </a>from
+19 December 2025, after the release of the Secondary 1 posting results,
+at 9am.</p>
 <p></p>
 </li>
 <li>
-<p>Students must take the Higher Chinese Language as their Mother Tongue
+<p>Students <u>must</u> take the Higher Chinese Language as their Mother Tongue
 Language in Secondary 1 and 2, if they are offered a place in the school.</p>
 <p></p>
 </li>
-<li>
-<p>Online appeal applications are to be submitted through the following e-form
-link: <a href="https://go.gov.sg/2025-mshs-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-mshs-appeal</a>.</p>
-<p></p>
-</li>
+
 <li>
 <p>Applications are not assessed based on a first-come-first-served basis.</p>
 <p></p>
@@ -60,7 +60,7 @@ documents to bring to school.</p>
 <p></p>
 </li>
 <li>
-<p>Only successful applicants will be informed after <strong>Friday, 27 December 2024.</strong>
+<p>Only successful applicants will be informed after <strong>Friday, 26 December 2025.</strong>
 </p>
 </li>
 </ol>
