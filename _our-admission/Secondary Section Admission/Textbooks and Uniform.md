@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p>The book list for Secondary 1 is available <a href="/files/2025_MSHS_Sec_1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The book list for Secondary 1 is available <a href="/files/MSHSS_1_G3____2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Do note that purchase of books and stationery are encouraged to be made
