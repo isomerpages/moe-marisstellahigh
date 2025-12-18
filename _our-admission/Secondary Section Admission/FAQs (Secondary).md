@@ -11,10 +11,7 @@ third_nav_title: Secondary Section Admission
 <p>What is the PSLE score for admission into Maris Stella?</p>
 </li>
 </ol>
-<p>Schools' cut-off points for the 2025 Primary 6 cohort will be published
-in <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">SchoolFinder </a>from
-19 December 2025, after the release of the Secondary 1 posting results,
-at 9am.</p>
+<p>Based on the new PSLE scoring system, the cut-off points in 2025 are AL 12 for non-affiliated students and AL 16 for affiliated students.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Are only 20% of the school’s places available for non-affiliated students?</p>
