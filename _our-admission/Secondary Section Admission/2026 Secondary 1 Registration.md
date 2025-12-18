@@ -159,7 +159,7 @@ recess or lunch.</p>
 <p>1.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 pm</p>
+<p>7.30 pm</p>
 </td>
 </tr>
 <tr>
