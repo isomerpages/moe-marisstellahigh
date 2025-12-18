@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary Section Admission
 ---
-<h1>2025 Secondary 1 Registration</h1>
+<h1>2026 Secondary 1 Registration</h1>
 <p></p>
 <p>Dear Parent/Guardian,</p>
 <p>We are delighted to welcome your son/ward to Maris Stella High School!</p>
