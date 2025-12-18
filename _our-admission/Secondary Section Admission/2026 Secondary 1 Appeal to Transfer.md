@@ -9,7 +9,7 @@ third_nav_title: Secondary Section Admission
 as a Secondary One student in 2026, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 5:00 pm</strong>. The link to submit your appeal will be made available from 19 December 2025.</p>
+<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 5:00 pm</strong>.</p>
 <p></p>
 </li>
 <li>
@@ -18,10 +18,7 @@ via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
-<p>Schools' cut-off points for the 2025 Primary 6 cohort will be published
-in <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">SchoolFinder </a>from
-19 December 2025, after the release of the Secondary 1 posting results,
-at 9am.</p>
+	<p>The AL for the 2026 Secondary One cohort is <b><u>12</u></b>.</p>
 <p></p>
 </li>
 <li>
@@ -29,7 +26,37 @@ at 9am.</p>
 Language in Secondary 1 and 2, if they are offered a place in the school.</p>
 <p></p>
 </li>
-
+<li><p>Online appeal applications are to be submitted through the following e-form  
+link:</p>  
+<table style="minWidth: 50px">  
+<colgroup>  
+<col>  
+<col>  
+</colgroup>  
+<tbody>  
+<tr>  
+<th rowspan="1" colspan="1">  
+<p>Link</p>  
+</th>  
+<th rowspan="1" colspan="1">  
+<p>QR Code</p>  
+</th>  
+</tr>  
+<tr>  
+<td rowspan="1" colspan="1">  
+<p><a href="https://go.gov.sg/2026-mshs-appeal" rel="noopener noreferrer nofollow" target="\_blank">https://go.gov.sg/2025-mshs-appeal</a>  
+</p>  
+</td>  
+<td rowspan="1" colspan="1">  
+<div class="isomer-image-wrapper">  
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 s1 appeal.jpg">  
+</div>  
+</td>  
+</tr>  
+</tbody>  
+</table>  
+<p></p>  
+</li>
 <li>
 <p>Applications are not assessed based on a first-come-first-served basis.</p>
 <p></p>
