@@ -120,15 +120,15 @@ and House Allocation (more info will be provided before 31 Dec 2025).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Dec 2025</p>
+<p>19 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9am to 3pm</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong><u>Bookshop</u></strong>
 <br><strong>Online Purchase:</strong> Visa/Mastercard/Debit Card/PayNow
 <br>
@@ -141,7 +141,7 @@ and House Allocation (more info will be provided before 31 Dec 2025).</p>
 <br>
 </p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong><u>Bookshop</u></strong>
 <br>Self-collection in school for online purchase.
 <br>Venue: Room A3-02&amp;03 (Level 3) until 23 Dec 2025.</p>
@@ -151,20 +151,9 @@ and House Allocation (more info will be provided before 31 Dec 2025).</p>
 <br>
 <br><strong><u>Uniform</u></strong>
 <br>Walk-in purchase for school uniforms</p>
-<p>&nbsp;Venue: School Canteen (Level 3) until 23 Dec 2025.</p>
+<p>&nbsp;Venue: School Canteen (Level 3) until 22 Dec 2025.</p>
 <p>&nbsp;Venue will shift to Exam Room 2 (same level as Foyer, to the right)
-from 26 Dec 2025.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Dec 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
+from 23 Dec 2025.</p>
 </td>
 </tr>
 <tr>
