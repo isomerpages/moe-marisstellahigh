@@ -23,14 +23,14 @@ via the bookshop online website (<a href="https://www.pacificbookstores.com/" re
 at a cost of $14.90.&nbsp;</p>
 </li>
 <li>
-<p>Online Orders Closing Date: 24 December 2025.</p>
+<p>Online Orders Closing Date: 24 December 2025 (Wednesday).</p>
 </li>
 <li>
 <p>For parents who are unable to order online, you may walk in during the
 opening hours found in the table below.</p>
 </li>
 <li>
-<p>For any enquiries, please call 6929 8012 or email sales@pacificbookstores.com.</p>
+<p>For any enquiries, please call 6929 8012 or email <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>.</p>
 </li>
 </ul>
 <p><strong>Shanghai School Uniform</strong>
