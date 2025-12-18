@@ -265,7 +265,7 @@ supplier is <strong>Shanghai School Uniform</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/guardians of successful applicants will be informed by the school
-via Parents Gateway (PG) by 20 December 2025.</p>
+via Parents Gateway (PG) by 22 December 2025.</p>
 </li>
 <li>
 <p>Students must confirm the acceptance of the offer and complete the registration
@@ -285,7 +285,7 @@ separately.</p>
 <p>Unsuccessful Application</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you have applied and do not receive any PG notification by 20 Dec 2025,
+<p>If you have applied and do not receive any PG notification by 22 Dec 2025,
 5:00 pm, it means that your application is unsuccessful.</p>
 </li>
 <li>
