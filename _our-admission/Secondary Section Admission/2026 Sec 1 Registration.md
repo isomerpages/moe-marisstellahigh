@@ -12,7 +12,7 @@ third_nav_title: Secondary Section Admission
 <p>We would like to congratulate him on his PSLE results and for choosing
 to continue his education with us.</p>
 <p>Please note that there is no need for your son/ward to report to school
-for registration on&nbsp;18 December 2025.</p>
+for registration on&nbsp;19 December 2025.</p>
 <p>We will be sharing important information regarding your son’s/ward’s Secondary
 1 registration via&nbsp;<strong>the Parents Gateway (PG)</strong>&nbsp;after
 6 p.m. on the posting day. Please download the PG mobile application&nbsp;
