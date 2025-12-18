@@ -9,7 +9,7 @@ third_nav_title: Secondary Section Admission
 as a Secondary One student in 2026, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 5:00 pm</strong>.</p>
+<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 5:00 pm</strong>. The link to submit your appeal will be made available from 19 December 2025.</p>
 <p></p>
 </li>
 <li>
