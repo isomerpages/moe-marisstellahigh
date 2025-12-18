@@ -9,7 +9,7 @@ third_nav_title: Secondary Section Admission
 as a Secondary One student in 2026, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appeal Application Process is from <strong>18 December 2025 to 23 December 2025, 12:00 pm</strong>.</p>
+<p>Appeal Application Process is from <strong>19 December 2025 to 23 December 2025, 12:00 pm</strong>.</p>
 <p></p>
 </li>
 <li>
@@ -18,7 +18,9 @@ via the e-form below (see point 5).</p>
 <p></p>
 </li>
 <li>
-<p>The AL for the 2026 Secondary One cohort is <strong>11</strong>.</p>
+<p>Schools' cut-off points for the 2025 Primary 6 cohort will be published
+in <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">SchoolFinder </a>from
+19 December 2025, after the release of the Secondary 1 posting results.</p>
 <p></p>
 </li>
 <li>
@@ -92,12 +94,7 @@ documents to bring to school.</p>
 </p>
 </li>
 </ol>
+<p></p>
 </li>
 </ol>
-<p><strong>QR Code for Appeal</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture_1.png">
-</div>
 <p></p>
