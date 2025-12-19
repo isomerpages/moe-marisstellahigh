@@ -354,7 +354,7 @@ separately.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online application (opens from 02 January to 15 January 2025)</p>
+<p>Online application (opens from 02 January to 15 January 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
