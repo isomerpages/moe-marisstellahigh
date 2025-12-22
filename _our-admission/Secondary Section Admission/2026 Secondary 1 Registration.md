@@ -271,7 +271,7 @@ via Parents Gateway (PG) by 22 December 2025.</p>
 <li>
 <p>Students must confirm the acceptance of the offer and complete the registration
 at MOE Language Centre <a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">website</a> from
-19 Dec 2025, 9:00 am to 02 Jan 2026, 11:59 pm.</p>
+26 Dec 2025 to 07 Jan 2026.</p>
 </li>
 <li>
 <p>More information will be provided to the applicants via Parents Gateway
