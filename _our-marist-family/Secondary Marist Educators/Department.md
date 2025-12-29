@@ -87,6 +87,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>See Wei Liang Clement (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Koh Yew Kiat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,6 +143,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Alyssa Mah (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Florence Lim Jie Ru (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,6 +163,14 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Jenn Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
 </td>
 </tr>
 <tr>
@@ -393,6 +417,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ong Rui Xiang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tay Kwang Ming (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -418,6 +450,22 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wang Mae Yan (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Lih Woon (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judianne Tan Ya (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -490,6 +538,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mabel Neo Yu Qian (Miss)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ong Cher Tat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,6 +595,14 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zhao Jingyi (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chang Yong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -652,6 +716,22 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Praveen Kumar s/o Vadevelu (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xie Zhi Hao (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ser Kia Hwee (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -772,6 +852,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Siti Nadiah Binte Ramli (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Soh Jia Qi Gigi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -783,6 +871,23 @@ third_nav_title: Secondary Marist Educators
 <p>Tay Woon Ping (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Sock Hoon (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Soo Hoon Patricia&nbsp;(Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Teacher</p>
 </td>
 </tr>
@@ -829,6 +934,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Alyssa Mah (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Goh Chui Ting (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -861,22 +974,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan-Goh Mei Lin Mandy (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Geok Puay Eunice (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Shantini d/o Karunagaran (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -893,7 +990,15 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xie Zhi Hao (Mr)</p>
+<p>Wong Heng Yee (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chern Lee Boon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -922,6 +1027,14 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Jenn Yang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
 </td>
 </tr>
 <tr>
@@ -1085,14 +1198,6 @@ third_nav_title: Secondary Marist Educators
 <p>ECG Coach</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nor Rafidah Sumargonor (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>EXECUTIVE AND ADMINISTRATIVE STAFF</h3>
@@ -1112,7 +1217,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kelvinder Singh Jagal (Mr)</p>
+<p>Esther Ang (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
