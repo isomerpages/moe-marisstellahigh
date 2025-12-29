@@ -30,14 +30,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Ching Huat (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Pan Jingliu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
