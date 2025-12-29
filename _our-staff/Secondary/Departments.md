@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Ching Huat (Mr)</p>
+<p>Pan Jingliu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pan Jingliu (Mr)</p>
+<p>Tan Kok Heng Daniel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -75,6 +75,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>See Wei Liang Clement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -127,6 +135,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Alyssa Mah (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Florence Lim Jie Ru (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,6 +155,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jenn Yang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
 </td>
 </tr>
 <tr>
@@ -345,14 +369,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Hwee Fang Vanessa (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Jasmine Yeo (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -431,6 +447,14 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>See Wei Liang Clement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Chinese Language</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -821,6 +845,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Alyssia Mah (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Goh Chui Ting (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -846,22 +878,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chia-Ming Ying Terence Ryan (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan-Goh Mei Lin Mandy (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Geok Puay Eunice (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1104,7 +1120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kelvinder Singh Jagal (Mr)</p>
+<p>Esther Ho (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
