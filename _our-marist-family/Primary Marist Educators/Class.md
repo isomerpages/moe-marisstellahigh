@@ -563,7 +563,7 @@ third_nav_title: Primary Marist Educators
 <p>4 Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lek Kah Han Brandon (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yong Ren Cui (Ms)</p>
+<p>Noradlina Bte Mohamed (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vinodkumar S/O Murugan (Mr)</p>
+<p>Chiang Lay Hoon (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -630,7 +630,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Sumei (Mdm)</p>
+<p>Tay-Ang Poh Qin (Mrs)</p>
 </td>
 </tr>
 <tr>
@@ -638,7 +638,7 @@ third_nav_title: Primary Marist Educators
 <p>5 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgar Wong Hong Teow (Mr)</p>
+<p>Ng Kim Neo Helen (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -646,36 +646,12 @@ third_nav_title: Primary Marist Educators
 <p>5 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Melvin Chang Jian Wei (Mr)</p>
+<p>Ng Beng Choo (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5 Charles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yingru Matilda (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Dominic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Abigail Abraham (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Dominic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shahira Mohamed Sharif (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vikineesh S/O Balakrishnan (Mr)</p>
@@ -683,15 +659,55 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Dominic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Su Fong (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Dominic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharmini Jayasughavanagopal (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tee Ying Chuen (Mdm)</p>
+<p>Koh Ee Beng (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Edward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vinodkumar S/O Murugan (Mr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5 Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emmanuel Penshah Yang Shao Xuan (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ma Yiwei (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang-Teo Sai Hiang Helen (Mrs)</p>
@@ -699,26 +715,10 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Francis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kassandra Wong Yen Li (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alice Ng (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Gabriel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Benjamin Png Yeow Hui (Mr)</p>
+<p>Koh Gay Kheong Joseph (Mr)</p>
 </td>
 </tr>
 </tbody>
@@ -745,7 +745,7 @@ third_nav_title: Primary Marist Educators
 <p>6 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Caelyn Whyndee Lim Shu Yann (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -753,63 +753,55 @@ third_nav_title: Primary Marist Educators
 <p>6 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noradlina Bte Mohamed (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Benedict</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharmini Jayasughavanagopal (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Benedict</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ma Yiwei (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Charles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Koh Ee Beng (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Charles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Dominic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Beng Choo (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Dominic</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Oh Li Neo Rebecca (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Edward</p>
+<p>6 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Randall Lim (Mr)</p>
+<p>Edgar Wong Hong Teow (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Sumei (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Charles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melvin Chang Jian Wei (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Charles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yingru Matilda (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Dominic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Hui Ming Ann (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Dominic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shahira Mohamed Sharif (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -822,10 +814,10 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Francis</p>
+<p>6 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay-Ang Poh Qin (Mrs)</p>
+<p>Hernidiana Mansor (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -833,7 +825,15 @@ third_nav_title: Primary Marist Educators
 <p>6 Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Mei Xian Angelia (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kassandra Wong Yen Li (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -841,7 +841,7 @@ third_nav_title: Primary Marist Educators
 <p>6 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Alice Ng (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +849,7 @@ third_nav_title: Primary Marist Educators
 <p>6 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Randall Lim (Mr)</p>
 </td>
 </tr>
 </tbody>
