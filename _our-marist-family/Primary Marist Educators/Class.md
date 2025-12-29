@@ -849,7 +849,7 @@ third_nav_title: Primary Marist Educators
 <p>6 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Randall Lim (Mr)</p>
+<p>Lim Kern Wei Randall (Mr)</p>
 </td>
 </tr>
 </tbody>
