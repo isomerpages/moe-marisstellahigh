@@ -1133,14 +1133,6 @@ variant: tiptap
 <p>ECG Coach</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nor Rafidah Sumargonor (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>EXECUTIVE AND ADMINISTRATIVE STAFF</h3>
@@ -1220,6 +1212,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nor Rafidah Binte Sumargonor&nbsp;(Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
 </td>
 </tr>
 </tbody>
