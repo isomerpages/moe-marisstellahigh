@@ -36,9 +36,9 @@ respective classrooms.</p>
 <p>Morning assembly starts at 7:30 am in the Shaw Hall.</p>
 </li>
 <li>
-<p>Attire: Full school uniform and tie, with predominantly white shoes. Students
-are allowed to wear their primary school uniform if they have not purchased
-our school uniform in time.</p>
+<p>Attire: Blue polo shirt with white school shorts, with predominantly white
+shoes. Students are allowed to wear their primary school uniform if they
+have not purchased our school uniform in time.</p>
 </li>
 <li>
 <p>There is no vegetarian stall in our canteen. Vegetarians may make special
