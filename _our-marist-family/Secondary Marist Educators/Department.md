@@ -1279,6 +1279,14 @@ third_nav_title: Secondary Marist Educators
 <p>Corporate Support Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nor Rafidah Binte Sumargonor&nbsp;(Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>ICT STAFF</h3>
