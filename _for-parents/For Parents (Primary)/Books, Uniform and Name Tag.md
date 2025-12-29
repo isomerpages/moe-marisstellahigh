@@ -40,7 +40,7 @@ Kindly download the [Name Tag Order Form](/files/Name_tag_Order_Form.pdf) for in
 Supplier of school uniforms, PE Attire and House T-Shirts<br>
 Tel: 6747 8037<br>
 New retail outlet address: 63 Ubi Ave 1, #04-09, Singapore 408937<br>
-Click [Here ](https://shop.shanghai-uniforms.com/product-category/maris-stella-high-primary/) for online purchase of school uniform
+Click [Here ](https://shanghai-uniforms.sg/shop/category/maris-stella-high-primary-137) for online purchase of school uniform
   
 
 Business Hours:<br>
