@@ -48,6 +48,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Louis Loo Kui Jin (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lee Ko Yong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,14 +287,6 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / SAP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Kai Shi (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT</p>
 </td>
 </tr>
 <tr>
