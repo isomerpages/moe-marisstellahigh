@@ -401,6 +401,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ong Rui Xiang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tay Kwang Ming (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -499,6 +507,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jiang Zhiqiong (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mabel Neo Yu Qian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -668,6 +684,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Praveen Kumar s/o Vadevelu (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xie Zhi Hao (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -894,14 +918,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wong Yi Jun (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xie Zhi Hao (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
