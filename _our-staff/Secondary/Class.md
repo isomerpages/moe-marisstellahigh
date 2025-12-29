@@ -435,7 +435,7 @@ variant: tiptap
 <p>3 Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Kwang Liang (Ms)</p>
+<p>Lim Kwang Liang (Mr)</p>
 </td>
 </tr>
 <tr>
