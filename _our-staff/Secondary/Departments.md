@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Wei Liang Clement</p>
+<p>See Wei Liang Clement (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Chinese Language</p>
@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jenn Yang (Mr)</p>
+<p>Ng Jenn Yang (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / ICT</p>
@@ -450,7 +450,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Wei Liang Clement</p>
+<p>See Wei Liang Clement (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Chinese Language</p>
@@ -930,6 +930,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Jenn Yang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
 </td>
 </tr>
 <tr>
