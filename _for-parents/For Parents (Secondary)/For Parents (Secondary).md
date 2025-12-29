@@ -3,6 +3,7 @@ title: For Parents (Secondary)
 permalink: /useful-links-and-info/secondary/for-parents/
 description: ""
 third_nav_title: For Parents (Secondary)
+variant: markdown
 ---
 # For Parents
 
@@ -12,8 +13,7 @@ third_nav_title: For Parents (Secondary)
     
 *   [School Facebook](https://www.facebook.com/marisstellahighschool)
 *   [School Instagram](https://www.instagram.com/marisstellahighschool/)
-*   [Maris Stella High School Yearbook 2022](https://online.fliphtml5.com/obrr/bzwk/) (flipped version for online viewing)
-*   [Maris Stella High School Yearbook 2022 (PDF version)](https://drive.google.com/drive/folders/1VzplTkc2C99Mayk_-I91pcomXjtMC79u) (for downloading)
+
 
   
 
