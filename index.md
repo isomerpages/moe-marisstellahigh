@@ -21,7 +21,7 @@ sections:
         - title: For Students
           description: ""
           linktext: Click here
-          url: /useful-links-and-info/primary/for-students/
+          url: /for-students/
         - title: For Staff
           description: ""
           linktext: Click here
