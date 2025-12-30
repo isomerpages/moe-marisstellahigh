@@ -505,22 +505,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Abigail Abraham (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Benjamin Png Yeow Hui (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Colin Yang Jiahui (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -660,14 +644,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Kai Shi (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chiang Lay Hoon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -789,14 +765,6 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Seah Yu Jie (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Leng Leong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1098,14 +1066,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yong Ren Cui (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Clement Dominic Gomez (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1297,14 +1257,6 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wong Ee Sheng (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nurdjeha binte Haji Sa'at (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
