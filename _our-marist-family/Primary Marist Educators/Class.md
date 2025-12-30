@@ -34,7 +34,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Roshane (Ms)</p>
+<p>Roshane D/O Rajandran (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +547,7 @@ third_nav_title: Primary Marist Educators
 <p>4 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khairiani (Ms)</p>
+<p>Khairiani Binte Yayha (Ms)</p>
 </td>
 </tr>
 <tr>
