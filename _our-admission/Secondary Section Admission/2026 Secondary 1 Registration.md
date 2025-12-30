@@ -144,7 +144,7 @@ recess or lunch.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.40 pm</p>
+<p>12.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.40 pm</p>
