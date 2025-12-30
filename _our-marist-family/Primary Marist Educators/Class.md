@@ -82,7 +82,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Diane (Ms)</p>
+<p>Diane Carissa Goh Ying Xuan (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aisyah (Ms)</p>
+<p>Aisyah Hanani Binte Mahmud (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ third_nav_title: Primary Marist Educators
 <p>4 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tsung Deborah (Ms)</p>
+<p>Deborah Tsung Chung Ying (Ms)</p>
 </td>
 </tr>
 <tr>
