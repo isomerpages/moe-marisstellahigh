@@ -25,7 +25,7 @@ sections:
         - title: For Staff
           description: ""
           linktext: Click here
-          url: /useful-links-and-info/primary/for-staff/
+          url: /for-staff/
         - title: For Parents
           description: ""
           linktext: Click here
