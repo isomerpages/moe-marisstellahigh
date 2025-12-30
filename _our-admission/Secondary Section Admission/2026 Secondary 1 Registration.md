@@ -167,10 +167,7 @@ recess or lunch.</p>
 <p><strong>Attire</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Full School Uniform with Tie or Primary School Uniform</p>
-</td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Blue Polo Tee (Mandarin Collar) with White School Pants</p>
 </td>
 <td rowspan="1" colspan="2">
