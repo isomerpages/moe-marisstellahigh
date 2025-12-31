@@ -401,7 +401,7 @@ third_nav_title: Primary Marist Educators
 <p>Leong Mei Lian Jacelyn (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Science (Acting)</p>
+<p>ST / Science</p>
 </td>
 </tr>
 <tr>
@@ -1069,7 +1069,7 @@ third_nav_title: Primary Marist Educators
 <p>Leong Mei Lian Jacelyn (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Science (Acting)</p>
+<p>ST / Science</p>
 </td>
 </tr>
 <tr>
