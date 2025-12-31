@@ -1328,7 +1328,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 </tbody>
 </table>
-<h3>EXECUTIVE AND ADMINISTRATIVE STAFF</h3>
+<h3>SCHOOL ADMINSTRATION TEAM</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
