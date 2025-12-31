@@ -919,6 +919,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Andre Tan Jing Xue (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -968,14 +976,6 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nur Farah Sng (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1355,6 +1355,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Huey Chyi Carol (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Seah Yong Huat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1379,22 +1387,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Huey Chyi Carol (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chng Soke Chye Lucy (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ong Choo Thing (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1407,6 +1399,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clement Dominic Gomez (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AED (Admin)</p>
 </td>
 </tr>
 </tbody>
