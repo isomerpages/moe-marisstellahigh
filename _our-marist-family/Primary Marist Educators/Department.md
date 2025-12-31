@@ -1344,7 +1344,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 </tbody>
 </table>
-<h3>SCHOOL ADMINSTRATION TEAM</h3>
+<h3>EXECUTIVE AND ADMINSTRATIVE STAFF</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1422,7 +1422,7 @@ third_nav_title: Primary Marist Educators
 <p>Clement Dominic Gomez (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AED (Admin)</p>
+<p>AED (Admin Support)</p>
 </td>
 </tr>
 </tbody>
