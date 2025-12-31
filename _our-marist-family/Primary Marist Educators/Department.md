@@ -310,7 +310,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership (Acting)</p>
+<p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@ third_nav_title: Primary Marist Educators
 <p>Tay-Ang Poh Qin (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT / Science (Acting)</p>
+<p>LT / Science</p>
 </td>
 </tr>
 <tr>
@@ -890,7 +890,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership (Acting)</p>
+<p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -1045,7 +1045,7 @@ third_nav_title: Primary Marist Educators
 <p>Tay-Ang Poh Qin (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT / Science (Acting)</p>
+<p>LT / Science</p>
 </td>
 </tr>
 <tr>
