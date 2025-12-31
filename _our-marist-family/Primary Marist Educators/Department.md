@@ -409,7 +409,7 @@ third_nav_title: Primary Marist Educators
 <p>Sim-Phang Shin Chee Melinda (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Lower Primary (acting)</p>
+<p>ST / Lower Primary (Acting)</p>
 </td>
 </tr>
 </tbody>
@@ -1324,14 +1324,6 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clement Dominic Gomez (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator / Science</p>
 </td>
 </tr>
 </tbody>
