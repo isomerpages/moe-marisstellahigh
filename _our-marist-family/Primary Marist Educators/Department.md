@@ -134,7 +134,7 @@ third_nav_title: Primary Marist Educators
 <p>Lim Kern Wei Randall (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / CCA</p>
+<p>HOD / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership (Acting)</p>
+<p>SH / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@ third_nav_title: Primary Marist Educators
 <p>Tay-Ang Poh Qin (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT / Science (Acting)</p>
+<p>LT / Science</p>
 </td>
 </tr>
 <tr>
@@ -401,7 +401,23 @@ third_nav_title: Primary Marist Educators
 <p>Leong Mei Lian Jacelyn (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Science (Acting)</p>
+<p>ST / Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alice Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/ HAL (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary (Acting)</p>
 </td>
 </tr>
 </tbody>
@@ -505,7 +521,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Colin Yang Jiahui (Mr)</p>
+<p>Aisyah Hanani Binte Mahmud (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -514,6 +530,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jasmine Chong Yiqiong (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -530,6 +554,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jolene Tan Jie En (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khairiani Binte Yayha (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -874,7 +906,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership (Acting)</p>
+<p>SH / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -891,6 +923,30 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / SEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Andre Tan Jing Xue (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Jiahui Colin (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -928,14 +984,6 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nur Farah Sng (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1013,7 +1061,7 @@ third_nav_title: Primary Marist Educators
 <p>Tay-Ang Poh Qin (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT / Science (Acting)</p>
+<p>LT / Science</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1069,7 @@ third_nav_title: Primary Marist Educators
 <p>Leong Mei Lian Jacelyn (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Science (Acting)</p>
+<p>ST / Science</p>
 </td>
 </tr>
 <tr>
@@ -1037,12 +1085,20 @@ third_nav_title: Primary Marist Educators
 <p>Alice Ng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>ST/ HAL (Acting)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lye Jia Yi Adeline (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roshane D/O Rajandran (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1062,14 +1118,6 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clement Dominic Gomez (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator / Science</p>
 </td>
 </tr>
 </tbody>
@@ -1104,7 +1152,7 @@ third_nav_title: Primary Marist Educators
 <p>Lim Kern Wei Randall (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / CCA</p>
+<p>HOD / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -1165,6 +1213,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Li Pei Jie (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Pereira Erica Stella (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1181,7 +1237,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yan Zhi Eugene (Mr)</p>
+<p>Tan Cher Hui (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1189,7 +1245,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tosakul Saenghaengfah (Ms)</p>
+<p>Tan Yan Zhi Eugene (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1256,7 +1312,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Ee Sheng (Mr)</p>
+<p>Kong Marn Moy (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
@@ -1280,15 +1336,15 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clement Dominic Gomez (Mr)</p>
+<p>Wong Ee Sheng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator / Science</p>
+<p>Special Educational Needs Officer</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>EXECUTIVE AND ADMINISTRATIVE STAFF</h3>
+<h3>EXECUTIVE AND ADMINSTRATIVE STAFF</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1308,6 +1364,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cheryl Chan (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Huey Chyi Carol (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -1339,22 +1403,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Huey Chyi Carol (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chng Soke Chye Lucy (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ong Choo Thing (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1367,6 +1415,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clement Dominic Gomez (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
 </td>
 </tr>
 </tbody>
