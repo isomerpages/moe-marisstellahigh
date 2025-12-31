@@ -134,7 +134,7 @@ third_nav_title: Primary Marist Educators
 <p>Lim Kern Wei Randall (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / CCA</p>
+<p>HOD / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership</p>
+<p>SH / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -402,6 +402,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Science (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim-Phang Shin Chee Melinda (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary (acting)</p>
 </td>
 </tr>
 </tbody>
@@ -890,7 +898,7 @@ third_nav_title: Primary Marist Educators
 <p>Ng Peiyun Melissa (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership</p>
+<p>SH / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -1136,7 +1144,7 @@ third_nav_title: Primary Marist Educators
 <p>Lim Kern Wei Randall (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / CCA</p>
+<p>HOD / CCA and Student Leadership</p>
 </td>
 </tr>
 <tr>
