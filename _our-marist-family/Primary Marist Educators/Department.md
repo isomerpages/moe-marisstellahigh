@@ -1077,7 +1077,7 @@ third_nav_title: Primary Marist Educators
 <p>Alice Ng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>ST/ HAL (Acting)</p>
 </td>
 </tr>
 <tr>
