@@ -505,7 +505,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Colin Yang Jiahui (Mr)</p>
+<p>Aisyah Hanani Binte Mahmud (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -514,6 +514,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Harsharenpal Kaur d/o Kuldip Singh (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jasmine Chong Yiqiong (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -530,6 +538,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jolene Tan Jie En (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khairiani Binte Yayha (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -895,6 +911,22 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Andre Tan Jing Xue (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Jiahui Colin (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jan Teo Min (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1050,6 +1082,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Roshane D/O Rajandran (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tan Hui Ling Gwendolyn (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1062,14 +1102,6 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clement Dominic Gomez (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator / Science</p>
 </td>
 </tr>
 </tbody>
@@ -1165,6 +1197,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Li Pei Jie (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Pereira Erica Stella (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1181,7 +1221,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yan Zhi Eugene (Mr)</p>
+<p>Tan Cher Hui (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1189,7 +1229,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tosakul Saenghaengfah (Ms)</p>
+<p>Tan Yan Zhi Eugene (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
