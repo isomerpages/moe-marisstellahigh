@@ -456,7 +456,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oswald Lee (Mr)</p>
+<p>Tan Choon Yong Calvin (Mr)</p>
 </td>
 </tr>
 </tbody>
