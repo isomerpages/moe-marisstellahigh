@@ -48,7 +48,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Louis Loo Kui Jin (Mr)</p>
+<p>Loo Kui-Jin Louis (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
