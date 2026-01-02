@@ -627,6 +627,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lee Zhi Ying (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yong Min (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Dawn Ng Li Li (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -643,14 +659,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Zhi Ying (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lim Kwang Liang (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -660,14 +668,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ng Li Ping (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Yong Min (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
