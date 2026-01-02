@@ -935,7 +935,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Andre Tan Jing Xue (Ms)</p>
+<p>Andre Tan Jing Xue (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -968,14 +968,6 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Leow Yong Long (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nurmayah Bte Mohamed Isa (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
