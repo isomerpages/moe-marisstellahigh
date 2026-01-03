@@ -530,6 +530,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chang Yong (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Han Lee Kwang (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -608,161 +616,9 @@ third_nav_title: Secondary Marist Educators
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chang Yong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>MATHEMATICS</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Yew Kiat (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ye Wenhui (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Loo Hup Tee (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Zhi Ying (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Yong Min (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Mathematics (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dawn Ng Li Li (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Kah Lam (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Zhi Ying (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Kwang Liang (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Li Ping (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Yong Min (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Badriah Mirza Abdul Matin (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Png Chin Yuen Marianne (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Praveen Kumar s/o Vadevelu (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xie Zhi Hao (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ser Kia Hwee (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>SCIENCE</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -844,6 +700,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Sock Hoon (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lim Xiao Feng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -895,23 +759,6 @@ third_nav_title: Secondary Marist Educators
 <p>Tay Woon Ping (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Sock Hoon (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Soo Hoon Patricia&nbsp;(Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <p>Teacher</p>
 </td>
 </tr>
@@ -998,6 +845,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chern Lee Boon (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Shantini d/o Karunagaran (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1015,14 +870,6 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wong Heng Yee (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chern Lee Boon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
