@@ -377,6 +377,22 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Judianne Tan Ya (Miss)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Lih Woon (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Marcus Goh Tao Zhi (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -439,22 +455,6 @@ third_nav_title: Secondary Marist Educators
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Loh Lih Woon (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Judianne Tan Ya (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>CHINESE</h3>
@@ -471,6 +471,14 @@ third_nav_title: Secondary Marist Educators
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>See Wei Liang Clement (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Chinese Language</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1047,15 +1055,15 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Lin Chuan (Mr)</p>
+<p>Fernandez Jeremy Joel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>SH/ Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fernandez Jeremy Joel (Mr)</p>
+<p>Tan Lin Chuan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
