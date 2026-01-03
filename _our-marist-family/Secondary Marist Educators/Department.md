@@ -627,7 +627,7 @@ third_nav_title: Secondary Marist Educators
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Designation</p>
@@ -655,6 +655,22 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Ying (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yong Min (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics (covering)</p>
 </td>
 </tr>
 <tr>
