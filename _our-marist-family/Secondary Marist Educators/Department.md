@@ -90,7 +90,7 @@ third_nav_title: Secondary Marist Educators
 <p>Koh Yew Kiat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Mathematics</p>
+<p>HOD / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -207,14 +207,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Zhi Ying (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chia Kian Boon Edwin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,6 +269,14 @@ third_nav_title: Secondary Marist Educators
 <p>Assistant Year Head</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Ying (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics (covering)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SENIOR/LEAD TEACHERS</h3>
@@ -312,14 +312,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Yong Min (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Mathematics (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Wong Xiu Yan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,6 +324,14 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yong Min (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics (covering)</p>
 </td>
 </tr>
 </tbody>
@@ -619,6 +619,119 @@ third_nav_title: Secondary Marist Educators
 </tbody>
 </table>
 <h3>MATHEMATICS</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Yew Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ye Wenhui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loo Hup Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yong Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dawn Ng Li Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Kah Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Kwang Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Badriah Bte Mirza Ab Matin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Png Chin Yuen, Marianne&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Praveen Kumar s/o Vadevelu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>SCIENCE</h3>
 <table style="minWidth: 50px">
 <colgroup>
