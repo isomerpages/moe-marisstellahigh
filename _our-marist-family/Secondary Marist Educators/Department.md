@@ -635,7 +635,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Yew Kiat</p>
+<p>Koh Yew Kiat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mathematics</p>
@@ -643,7 +643,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ye Wenhui</p>
+<p>Ye Wenhui (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Mathematics</p>
@@ -651,7 +651,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loo Hup Tee</p>
+<p>Loo Hup Tee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics</p>
@@ -659,7 +659,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Zhi Ying</p>
+<p>Lee Zhi Ying (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Mathematics (covering)</p>
@@ -667,7 +667,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Yong Min</p>
+<p>Ng Yong Min (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics (covering)</p>
@@ -675,7 +675,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dawn Ng Li Li</p>
+<p>Dawn Ng Li Li (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -683,7 +683,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Kah Lam</p>
+<p>Koh Kah Lam (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -691,7 +691,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Kwang Liang</p>
+<p>Lim Kwang Liang (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -699,7 +699,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Li Ping</p>
+<p>Ng Li Ping (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -707,7 +707,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Badriah Bte Mirza Ab Matin</p>
+<p>Nur Badriah Bte Mirza Ab Matin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -715,7 +715,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Png Chin Yuen, Marianne&nbsp;</p>
+<p>Png Chin Yuen, Marianne&nbsp;(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -723,7 +723,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Praveen Kumar s/o Vadevelu</p>
+<p>Praveen Kumar s/o Vadevelu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
