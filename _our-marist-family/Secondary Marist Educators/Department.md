@@ -594,23 +594,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tham Hsin Ee Esther (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Yee Tai Yen, Terrance (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhao Jingyi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
