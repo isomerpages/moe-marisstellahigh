@@ -174,7 +174,7 @@ recess or lunch.</p>
 <p>PE Attire (Singlet and shorts)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>House Tee with White School Pants</p>
+<p>House Tee with PE shorts</p>
 </td>
 </tr>
 <tr>
