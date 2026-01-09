@@ -3,9 +3,8 @@ title: Marist Robotics and Programming Club
 permalink: /programmes/secondary/cca/marist-robotics-and-programming-club/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/robotics_v2.jpg" style="width:45%">
 
 
@@ -58,7 +57,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri</td>
+    <td>Wed, Fri</td>
     <td>2.30pm - 5pm</td>
   </tr>
 </tbody>

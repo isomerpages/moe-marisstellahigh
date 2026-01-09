@@ -3,6 +3,7 @@ title: Scouts
 permalink: /programmes/secondary/cca/scouts/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/scout_v1.png" style="width:45%">
 
@@ -40,8 +41,8 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri<br><br>1 Sat per term</td>
-    <td>2.30pm - 5.30pm<br><br>8.30am - 12pm</td>
+    <td>Wed, Fri<br><br>Selected Saturdays (for HQ activities)</td>
+    <td>2.30pm - 5.30pm<br></td>
   </tr>
 </tbody>
 </table>

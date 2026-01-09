@@ -3,9 +3,8 @@ title: English Literary Society
 permalink: /programmes/secondary/cca/english-literary-society/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/ELS2.jpg" style="width:45%">
 
 
@@ -63,7 +62,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri</td>
+    <td>Wed, Fri</td>
     <td>2.30pm - 5.30pm</td>
   </tr>
 </tbody>

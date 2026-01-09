@@ -3,6 +3,7 @@ title: Taekwondo
 permalink: /programmes/secondary/cca/taekwondo/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/TKD.jpg" style="width:45%">
 
@@ -40,8 +41,8 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed (Poomsae, Sparring)<br><br>Sat (All)</td>
-    <td>Wed (Poomsae)<br>2.30pm - 4pm<br><br>Wed (Sparring)<br>4pm - 5.30pm<br><br>Sat (All)<br>8am - 11am</td>
+    <td>Wed, Fri</td>
+    <td>Competition season (Jan - Apr/May)<br>(Poomsae)<br>2.30pm - 4pm<br><br>(Sparring)<br>4pm - 5.30pm<br><br>Off season (Apr/May - Nov)<br>All members<br>2.30pm - 5.30pm</td>
   </tr>
 </tbody>
 </table>

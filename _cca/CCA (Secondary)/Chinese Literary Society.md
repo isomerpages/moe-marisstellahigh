@@ -3,6 +3,7 @@ title: Chinese Literary Society
 permalink: /programmes/secondary/cca/chinese-literary-society/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/CLDDS.jpg" style="width:45%">
 
@@ -51,7 +52,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wednesday, Friday<br></td>
+    <td>Wed, Fri<br></td>
     <td>2.30pm - 5pm</td>
   </tr>
 </tbody>
