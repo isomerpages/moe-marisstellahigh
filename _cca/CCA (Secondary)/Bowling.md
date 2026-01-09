@@ -30,13 +30,22 @@ variant: markdown
 
 #### Training Schedule
 
-**From January to April**<br>
-B Division - Mainly Monday and Wednesday <br>
-C Division - Mainly Friday
+<table>
+<thead>
+  <tr>
+    <th>Frequency</th>
+    <th>Training Days</th>
+    <th>Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1-2/Wk</td>
+		<td><b>From January to April</b><br>B Division - Mainly Mon, Wed <br><br>C Division - Mainly Fri<br><br><b>From May to July</b><br>B Division - Once a week <br><br>C Division - Twice a week<br><br><b>During Off Season (August to December)</b><br>Training as per schedule</td>
+    <td>3.15pm - 5.45pm</td>
+  </tr>
+	
+</tbody>
+</table>
 
-**From May to July**<br>
-B Division - Once a week <br>
-C Division - Twice a week
 
-**During Off Season (August to December)**<br>
-Training as per schedule
