@@ -3,9 +3,8 @@ title: Table Tennis
 permalink: /programmes/secondary/cca/table-tennis/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/tabletennis_v1.png" style="width:45%">
 
 
@@ -40,7 +39,7 @@ third_nav_title: CCA (Secondary)
   <tr>
     <td>3/Wk</td>
     <td>Mon, Wed &amp; Fri</td>
-    <td>Mon, Wed &amp; Fri<br><br>2.30pm - 5 pm</td>
+    <td>2.30pm - 5 pm</td>
   </tr>
 </tbody>
 </table>
