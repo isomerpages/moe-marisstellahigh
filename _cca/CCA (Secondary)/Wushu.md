@@ -3,6 +3,7 @@ title: Wushu
 permalink: /programmes/secondary/cca/wushu/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/Wushu_1.jpg" style="width:45%">
 
@@ -48,7 +49,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri</td>
+    <td>Wed, Fri</td>
     <td>2.45pm - 4.45pm</td>
   </tr>
 </tbody>
