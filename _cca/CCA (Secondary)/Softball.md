@@ -3,9 +3,8 @@ title: Softball
 permalink: /programmes/secondary/cca/softball/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/softball_v1.png" style="width:45%">
 
 
@@ -44,8 +43,8 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2-3/Wk</td>
-    <td>Mon (Selected Division),<br><br>Wed (All),<br><br>Sat (All)</td>
-    <td>Mon, Wed<br>2.30pm - 6pm<br><br>Sat<br>8.00am - 12.30pm</td>
-  </tr>
+    <td>Mon (Selected Division),<br><br>Wed (All),<br><br>Fri (All)</td>
+    <td>2.30pm - 6pm<br>
+  </td></tr>
 </tbody>
 </table>
