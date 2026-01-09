@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /programmes/secondary/cca/national-police-cadet-corps/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/NPCC-parade_v1.png" style="width:45%">
 
@@ -63,7 +64,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri</td>
+    <td>Wed, Fri</td>
     <td>2.30pm - 5.30pm</td>
   </tr>
 </tbody>
