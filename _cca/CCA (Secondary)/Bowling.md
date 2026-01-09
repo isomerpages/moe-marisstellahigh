@@ -35,10 +35,8 @@ B Division - Mainly Monday and Wednesday <br>
 C Division - Mainly Friday
 
 **From May to July**<br>
-B Division - Every Monday <br>
-C Division - Every Wednesday and Friday
+B Division - Once a week <br>
+C Division - Twice a week
 
 **During Off Season (August to December)**<br>
-Secondary 1 - Every Monday and Wednesday
-Secondary 2- Every Wednesday and Friday
-Secondary 3- Every Monday and Friday
+Training as per schedule
