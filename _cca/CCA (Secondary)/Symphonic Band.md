@@ -3,9 +3,8 @@ title: Symphonic Band
 permalink: /programmes/secondary/cca/symphonic-band/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/band2.jpg" style="width:45%">
 
 **The Symphonic Band aims to:**
@@ -39,8 +38,8 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2-3/Wk</td>
-    <td><br>Wed &amp; Sat<br><br>Fri (added during competition &amp; concert seasons)<br></td>
-    <td>Wed<br>2.30pm - 6pm<br><br>Fri<br>2.30pm - 6pm<br>(added during competition &amp; concert seasons)<br><br>Sat<br>8am - 1pm</td>
+    <td><br>Wed, Fri<br><br><br>Tues (added during competition &amp; concert seasons)<br></td>
+    <td>Wed &amp; Fri<br>2.30pm - 6pm<br><br>Tues<br>2.30pm - 6pm<br>(added during competition &amp; concert seasons)</td>
   </tr>
 </tbody>
 </table>
