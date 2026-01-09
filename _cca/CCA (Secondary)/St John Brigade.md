@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /programmes/secondary/cca/st-john-brigade/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/SJB.jpg" style="width:45%">
 
@@ -42,7 +43,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed and Fri<br><br></td>
+    <td>Wed and Fri<br><br>Selected Saturdays (for HQ events)</td>
     <td>2.30 pm - 5.30pm</td>
   </tr>
 </tbody>
