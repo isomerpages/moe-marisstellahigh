@@ -3,6 +3,7 @@ title: Outdoor Activities Club
 permalink: /programmes/secondary/cca/outdoor-activities-club/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/ODAC_v1.png" style="width:45%">
 
@@ -36,7 +37,7 @@ third_nav_title: CCA (Secondary)
 <tbody>
   <tr>
     <td>2/Wk</td>
-    <td>Wed &amp; Fri</td>
+    <td>Wed, Fri</td>
     <td>2.30pm - 5.00pm</td>
   </tr>
 </tbody>
