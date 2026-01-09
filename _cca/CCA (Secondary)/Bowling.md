@@ -3,6 +3,7 @@ title: Bowling
 permalink: /programmes/secondary/cca/bowling/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
 <img align="right" src="/images/CCA/Secondary/Bowling_1.jpg" style="width:45%">
 
@@ -30,8 +31,8 @@ third_nav_title: CCA (Secondary)
 #### Training Schedule
 
 **From January to April**<br>
-B Division - Every Monday and Wednesday <br>
-C Division - Every Friday
+B Division - Mainly Monday and Wednesday <br>
+C Division - Mainly Friday
 
 **From May to July**<br>
 B Division - Every Monday <br>
