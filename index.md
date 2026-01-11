@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: 2026 Secondary One Information for Parents and Students
           description: Find out more
-          url: /2026-sec-1-registration/
+          url: /Announcements/Announcements (Secondary)
         - title: Release of GCE O Level Results 2025
           description: Find out more
           url: ""
