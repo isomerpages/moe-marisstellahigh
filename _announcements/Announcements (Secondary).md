@@ -32,10 +32,10 @@ websites to find out more about the range of education and career pathways
 available:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a href="go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
 <p></p>
