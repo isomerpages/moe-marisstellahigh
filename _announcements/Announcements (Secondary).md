@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <h4>Release of GCE O Level Results 2025</h4>
 <p>The results of the 2025 GCE O-Level examination will be released on Wednesday,
-14 January 2025. All students are to report to the Shaw Hall by <u>1.50 pm</u> on
+14 January 2026. All students are to report to the Shaw Hall by <u>1.50 pm</u> on
 Wednesday. Students should be appropriately attired and groomed. The session
 will begin at 2.00 pm.</p>
 <p></p>
