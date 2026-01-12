@@ -40,5 +40,3 @@ available:</p>
 </ul>
 <h4></h4>
 <p></p>
-<h4>Collection of School Graduation Certificates and Yearbook</h4>
-<p></p>
