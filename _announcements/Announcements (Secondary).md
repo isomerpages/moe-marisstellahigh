@@ -26,7 +26,7 @@ the results. A copy of the proxy form can be found at this link</p>
 </p>
 <p></p>
 <p>Please feel free to contact your Form Teachers or our ECG Coach, Ms Joanne
-Tan at <a href="" rel="noopener nofollow" target="_blank">joanne_tan_pek_gek@schools.gov.sg</a> for
+Tan at <a href="mailto:joanne_tan_pek_gek@schools.gov.sg" rel="noopener nofollow" target="_blank">joanne_tan_pek_gek@schools.gov.sg</a> for
 guidance on your education pathways. You may also refer to the following
 websites to find out more about the range of education and career pathways
 available:</p>
