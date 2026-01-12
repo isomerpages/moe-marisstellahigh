@@ -11,6 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
+        - title: Release of GCE O Level Results 2025
+          description: Find out more
+          url: /school-happenings/secondary/announcements/
         - title: 2026 Secondary One Information for Parents and Students
           description: Find out more
           url: /2026-sec-1-registration/
