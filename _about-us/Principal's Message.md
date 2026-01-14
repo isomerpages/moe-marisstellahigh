@@ -44,9 +44,6 @@ of growth. I am also honoured to work with my team of dedicated and excellent
 Marist Educators, not forgetting our Parents Support Group, School Management
 Committee and Alumni Association. Together, we will write the new chapter
 for Maris Stella.</p>
-<p>
-<br>
-</p>
 <p></p>
 <p>Boy Eng Seng (Mr)
 <br>Principal</p>
