@@ -1,6 +1,6 @@
 ---
 title: Outdoor Activities Club
-permalink: /programmes/secondary/cca/outdoor-activities-club/
+permalink: /programmes/secondary/cca/outdoor-adventure-club/
 description: ""
 third_nav_title: CCA (Secondary)
 variant: markdown
