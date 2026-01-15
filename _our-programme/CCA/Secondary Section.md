@@ -50,7 +50,7 @@ third_nav_title: CCA
 <div class="isomer-card-title">Wushu 武术</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/outdoor-activities-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Adventure Club" src="/images/CCA/Secondary/ODAC_v1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Adventure Club 户外运动</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/outdoor-adventure-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Adventure Club" src="/images/CCA/Secondary/ODAC_v1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Adventure Club 户外运动</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
 <h2>Uniform Groups</h2>
