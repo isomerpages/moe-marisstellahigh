@@ -42,7 +42,7 @@ opening hours found in the table below.</p>
 <p>School Canteen (refer to opening hours in the table below)</p>
 </li>
 <li>
-<p>Online Shop @ <a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>.
+<p>Online Shop @ <a href="http://www.shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>.
 (You are strongly encouraged to make your online purchase to ensure that
 you receive your uniform before school starts.)</p>
 </li>
