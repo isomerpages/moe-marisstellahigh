@@ -141,16 +141,24 @@ and understand how to build healthy and supportive relationships, both
 online and offline.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-of monitoring and managing our emotional reactions, in helpful ways that
-are reflective of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
-are different forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-of, and understand what builds healthy and supportive relationships, both
-online and offline</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>recognise the importance of, and understand what builds healthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
 <p>understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 8</p>
@@ -173,9 +181,13 @@ of self.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -199,14 +211,19 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept
-that as we work towards becoming our best self, there will be times when
-we make mistakes, and recognise the importance of exercising moral courage
-in facing up to consequences</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
 <p>recognise that there are moral and legal consequences of risky sexual
 behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -280,7 +297,19 @@ treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sdf</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
+</li>
+<li>
+<p>develop an appreciation of one’s own unique qualities and characteristics
+as a male or female</p>
+</li>
+<li>
+<p>understand what sexual orientation entails</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 5</p>
@@ -304,9 +333,13 @@ and safety.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -329,7 +362,17 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
+</li>
+<li>
+<p>recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -376,8 +419,6 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -400,15 +441,21 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-self-perception and identity have an impact on our self-esteem and how
-we interact with others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
-that expectations of oneself and others may differ and can affect one’s
-emotions, thoughts and behaviours</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise
-what healthy dating relationships involve and know that readiness is important
-when entering into a dating relationship</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+</li>
+<li>
+<p>understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
+</li>
+<li>
+<p>recognise what healthy dating relationships involve and know that readiness
+is important when entering into a dating relationship</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 5</p>
@@ -430,17 +477,24 @@ that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-relationship-building involves personal emotions and vulnerabilities, and
-changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-a decision to end a relationship will have consequences on oneself and
-others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-grief and loss due to rejections and broken relationships is normal and
-one can recover from the experience</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that relationship-building involves personal emotions and vulnerabilities,
+and changes and challenges</p>
+</li>
+<li>
+<p>know that a decision to end a relationship will have consequences on oneself
+and others</p>
+</li>
+<li>
+<p>know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
+</li>
+<li>
 <p>know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
@@ -464,13 +518,18 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-recognise the importance of being informed of social and moral issues of
-the day and the need to reflect on these issues, and weigh them against
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of being informed of social and moral issues
+of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them</p>
+</li>
+<li>
 <p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
@@ -513,8 +572,6 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -526,15 +583,27 @@ alignment with our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender
-stereotypes comprise, e.g. notions of masculinity and femininity vary over
-time and space, and are shaped by societal expectations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender
-stereotypes on oneself and others can limit one’s experiences, cause harm
-to the self-esteem of oneself and others and should be avoided</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+</li>
+<li>
+<p>know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 8</p>
@@ -559,19 +628,27 @@ or their friends are involved in an unhealthy relationship.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy
-ways of coping with broken relationships, and family and friends are important
-pillars of support</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused
-by traumatic situations, e.g. bullying, abuse and dating violence, and
-understand the physiological and psychological, social impact on victims</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need
-moral courage and wisdom to recognise and end relationships that are unhealthy
-and cause harm to our mental and emotional well-being</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
-of ensuring that non-verbal messages match with verbal ones, when communicating
-personal and emotional boundaries in a relationship</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</li>
+<li>
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
+and dating violence, and understand the physiological and psychological,
+social impact on victims</p>
+</li>
+<li>
+<p>understand that we need moral courage and wisdom to recognise and end
+relationships that are unhealthy and cause harm to our mental and emotional
+well-being</p>
+</li>
+<li>
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
+relationship</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -584,18 +661,32 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term
-romantic relationships leading to marriage involve understanding oneself
-and others in the intellectual, emotional, social and moral dimensions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails
-a union between a man and a woman based on love, trust, commitment, and
-requires mutual effort</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts
-are normal in any relationship, including marriage, and the way in which
-a couple handles conflict is critical to the success of their marriage</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that long-term romantic relationships leading to marriage involve
+understanding oneself and others in the intellectual, emotional, social
+and moral dimensions</p>
+</li>
+<li>
+<p>know that marriage entails a union between a man and a woman based on
+love, trust, commitment, and requires mutual effort</p>
+</li>
+<li>
+<p>understand that conflicts are normal in any relationship, including marriage,
+and the way in which a couple handles conflict is critical to the success
+of their marriage</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -670,8 +761,6 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -679,16 +768,22 @@ are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
-knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it
-is, how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and risky situations
-in a healthy way.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -696,13 +791,15 @@ in a healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way
-out of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -711,21 +808,23 @@ decision-making</p>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
-Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
-education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
-of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="https://drive.google.com/file/d/1S-7Y13Hu2UoNwe_72dtHOLPrGupRKfnP/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
-of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="https://drive.google.com/file/d/1IDyWoLQEW7WRY8kmld6soOxHYoKFvo4p/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">msh@moe.edu.sg</a> for discussion or
-to seek clarification about the school’s Sexuality Education programme.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons</strong> need to
+complete an opt-out form. This form will be communicated to parents at
+the start of the year and is also available <a href="https://form.gov.sg/697171c42c34e006f0e219e7" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> The
+completed form is to be submitted by <strong>02/02/2026</strong>.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong><em>eTeens</em> programme</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="https://form.gov.sg/697173f1cce0acf261d992d2" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed
+form is to be submitted by <strong>02/02/2026</strong>.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at <strong><a href="mailto:msh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">msh@moe.edu.sg</a></strong>&nbsp;for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p>
 <br>
 </p>
