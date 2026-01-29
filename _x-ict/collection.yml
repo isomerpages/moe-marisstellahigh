@@ -1,5 +1,5 @@
 collections:
-  ict:
+  x-ict:
     output: true
     order:
       - Primary.md
