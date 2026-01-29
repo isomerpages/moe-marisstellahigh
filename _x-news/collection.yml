@@ -1,5 +1,5 @@
 collections:
-  news:
+  x-news:
     output: true
     order:
       - News (Primary).md
