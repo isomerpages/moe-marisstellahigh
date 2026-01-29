@@ -494,6 +494,83 @@ to celebrate the differences in our community</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Student Leadership</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Student Management Committee aims to:</p>
+<p><u>Discipline and Well-being</u>
+</p>
+<ul>
+<li>
+<p>Partner and empower colleagues, parents, and partners in society to groom
+socially responsible Marists;</p>
+</li>
+<li>
+<p>Provide a safe, secure and conducive learning by adopting sound, transparent
+and consistent processes and procedures; and</p>
+</li>
+<li>
+<p>Educate Marists through values-based and positive discipline in order
+to groom them to be reflective gentlemen of character who are future-ready.</p>
+</li>
+</ul>
+<p><u>Student Leadership</u>
+</p>
+<ul>
+<li>
+<p>Provide platforms for Marists to lead others in different stages – class,
+level, CCA and school;</p>
+</li>
+<li>
+<p>Develop “Every Marist a Leader” through various platforms aimed at developing
+interpersonal and intrapersonal skills;</p>
+</li>
+<li>
+<p>Develop life-ready competencies and leadership skills such as resilience,
+communication skills and critical thinking; and</p>
+</li>
+<li>
+<p>Groom and maximise potential of outstanding student leaders through values-based
+and competency-driven activities.</p>
+</li>
+</ul>
+<p>To achieve these goals, the following programmes are offered:</p>
+<ul>
+<li>
+<p>Monitors’ Training</p>
+</li>
+<li>
+<p>Head Prefect Campaign</p>
+</li>
+<li>
+<p>P5 and P6 Prefects’ Investiture</p>
+</li>
+<li>
+<p>P4 Junior Prefect Selection</p>
+</li>
+<li>
+<p>P4 Prefects’ Training – Discovering the Leader in Us</p>
+</li>
+<li>
+<p>P5 Prefects’ Training – Becoming a Critical Thinker and Problem Solver</p>
+</li>
+<li>
+<p>P6 Prefects’ Training – Leading Others</p>
+</li>
+<li>
+<p>Eco Ambassador Training</p>
+</li>
+<li>
+<p>Cleaning Buddy Workshop</p>
+</li>
+<li>
+<p>School Tour for Parents of P1 2018</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>

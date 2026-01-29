@@ -1,4 +1,4 @@
 collections:
-  faith-formation:
+  x-faith-formation:
     output: true
     order: []
