@@ -35,7 +35,8 @@ are owned by, licensed to or controlled by Maris Stella High School.</p>
 <h4><strong>Privacy Policy</strong></h4>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>Click here to review this Web Site Privacy Statement.</p>
+<p>Click <a href="https://www.marisstellahigh.moe.edu.sg/privacy/" rel="noopener nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 </li>
 </ol>
 <h4><strong>Restrictions on Use of Materials</strong></h4>
