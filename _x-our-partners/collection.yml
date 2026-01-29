@@ -1,5 +1,5 @@
 collections:
-  our-partners:
+  x-our-partners:
     output: true
     order:
       - Our Partners.md
