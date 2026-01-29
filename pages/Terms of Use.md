@@ -10,7 +10,7 @@ and using this Web Site, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
 please do not use this Web Site.</p>
 <h4><strong>General</strong></h4>
-<ol start="2" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>These Terms of Use may be changed from time to time. Changes will be posted
 on this page and your use of this Web Site after such changes have been
@@ -74,16 +74,17 @@ whatsoever.</p>
 <p>The Contents of this Web Site are provided on an “as is” basis without
 warranties of any kind. To the fullest extent permitted by law, Maris Stella
 High School does not warrant and hereby disclaims any warranty:</p>
-</li>
-</ol>
+<p></p>
 <p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
 of this Web Site;</p>
+<p></p>
 <p>(b) that the Contents available through this Web Site or any functions
 associated therewith will be uninterrupted or error-free, or that defects
 will be corrected or that this Web Site and the server is and will be free
 of all viruses and/or other harmful elements.</p>
-<ol start="10" data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>Maris Stella High School shall also not be liable for any damage or loss
 of any kind caused as a result (direct or indirect) of the use of the Web
