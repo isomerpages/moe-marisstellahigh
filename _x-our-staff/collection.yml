@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  x-our-staff:
     output: true
     order:
       - Primary/.keep

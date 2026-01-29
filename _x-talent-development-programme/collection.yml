@@ -1,4 +1,4 @@
 collections:
-  talent-development-programme:
+  x-talent-development-programme:
     output: true
     order: []
