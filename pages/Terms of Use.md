@@ -9,8 +9,9 @@ description: ""
 and using this Web Site, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
 please do not use this Web Site.</p>
-<h4><strong>General</strong></h4>
-<ol data-tight="true" class="tight">
+<p><strong>General</strong>
+</p>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>These Terms of Use may be changed from time to time. Changes will be posted
 on this page and your use of this Web Site after such changes have been
@@ -18,7 +19,8 @@ posted will constitute your agreement to the modified Terms of Use and
 all of the changes.</p>
 </li>
 </ol>
-<h4><strong>Proprietary Rights</strong></h4>
+<p><strong>Proprietary Rights</strong>
+</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>This Web Site is maintained by Maris Stella High School. It is owned by
@@ -32,14 +34,16 @@ forms of proprietary rights. All rights, title and interest in the Contents
 are owned by, licensed to or controlled by Maris Stella High School.</p>
 </li>
 </ol>
-<h4><strong>Privacy Policy</strong></h4>
+<p><strong>Privacy Policy</strong>
+</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Click <a href="https://www.marisstellahigh.moe.edu.sg/privacy/" rel="noopener nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
 </li>
 </ol>
-<h4><strong>Restrictions on Use of Materials</strong></h4>
+<p><strong>Restrictions on Use of Materials</strong>
+</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>Except as otherwise provided, the Contents of this Web Site shall not
@@ -60,7 +64,8 @@ are protected by copyright and may not be reproduced or appropriated in
 any manner without written permission of Maris Stella High School.</p>
 </li>
 </ol>
-<h4><strong>Right of Access</strong></h4>
+<p><strong>Right of Access</strong>
+</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Maris Stella High School reserves all rights to deny or restrict access
@@ -69,7 +74,8 @@ external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
 </li>
 </ol>
-<h4><strong>Disclaimer of Warranties and Liability</strong></h4>
+<p><strong>Disclaimer of Warranties and Liability</strong>
+</p>
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p>The Contents of this Web Site are provided on an “as is” basis without
@@ -93,7 +99,8 @@ Site, including but not limited to any damage or loss suffered as a result
 of reliance on the Contents contained in or available from the Web Site.</p>
 </li>
 </ol>
-<h4><strong>Links from This Web Site to Other Web Sites</strong></h4>
+<p><strong>Links from This Web Site to Other Web Sites</strong>
+</p>
 <ol start="11" data-tight="true" class="tight">
 <li>
 <p>This Web Site contains hyperlinks to web sites which are not maintained
@@ -110,7 +117,8 @@ with any trade or service marks, logos, insignia or other devices used
 or appearing on web sites to which this Web Site is linked.</p>
 </li>
 </ol>
-<h4><strong>Links to This Web Site from Other Web Sites</strong></h4>
+<p><strong>Links to This Web Site from Other Web Sites</strong>
+</p>
 <ol start="13" data-tight="true" class="tight">
 <li>
 <p>Except as set forth below, caching and links to, and the framing of this
@@ -157,7 +165,8 @@ Contents.
 </p>
 </li>
 </ol>
-<h4><strong>Governing Law</strong></h4>
+<p><strong>Governing Law</strong>
+</p>
 <ol start="19" data-tight="true" class="tight">
 <li>
 <p>These Terms of Use shall be governed and construed in accordance with
