@@ -351,16 +351,17 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF SEXUALITY EDUCATION PROGRAMME FOR 2025 Programme</strong>
+<p><strong>OVERVIEW OF SEXUALITY EDUCATION PROGRAMME FOR 2026 Programme</strong>
 </p>
 <p><strong>MARIS STELLA HIGH SCHOOL (PRIMARY)</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum.&nbsp;The content for
-Sexuality Education is grouped into five main themes: Human Development,
-Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum.&nbsp;The content for Sexuality Education is grouped into five
+main themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+</a>&nbsp;for more information on the scope of Sexuality Education in the
+school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science</p>
@@ -375,8 +376,8 @@ our children are becoming biologically ready for sexual activity sooner
 without necessarily having the corresponding cognitive or emotional maturity
 to modulate their behaviours. Furthermore, our young are also exposed to
 a wide range of influences that could endanger health and undermine the
-integrity of the family. Our students require guidance so that they can
-respond with discernment to the sexual messages in the media and other
+integrity of the family. Our students require close guidance so that they
+can respond with discernment to the sexual messages in the media and other
 sources.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
@@ -393,41 +394,29 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form via Parent Gateway. This form will be communicated to parents at the
-start of the year. The completed opt-out form is to be submitted by 31/04/2025.</p>
+start of the year. The completed opt-out form is to be submitted by 31/04/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the
 school at Ms Noradlina via email at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">noradlina_mohamed@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/SEL2024_1_.JPG">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/SEL2024_2_.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/SEL2024_3_.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/pg 4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/pg 5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_Education_P5.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/pg 6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_Education_P5_part_2.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Primary/pg 7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_Education_P6.png">
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
