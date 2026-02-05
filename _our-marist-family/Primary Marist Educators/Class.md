@@ -82,7 +82,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diane Carissa Goh Ying Xuan (Ms)</p>
+<p>Ong Poh Leng (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ third_nav_title: Primary Marist Educators
 <p>4 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deborah Tsung Chung Ying (Ms)</p>
+<p>Ong Yin Lian (Mdm)</p>
 </td>
 </tr>
 <tr>
