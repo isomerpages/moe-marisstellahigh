@@ -154,4 +154,4 @@ variant: tiptap
 </tbody>
 </table>
 <p>Any enquiries, please call 67478037, Mon-Fri, 10.00am-1.00pm, 2.00pm-6.00pm</p>
-<p>More details could be found on the company website&nbsp;<a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>More details could be found on the company website&nbsp;<a href="https://shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
