@@ -224,9 +224,8 @@ third_nav_title: Secondary Marist Educators
 </tbody>
 </table>
 <h3>SECONDARY 3</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -242,9 +241,6 @@ third_nav_title: Secondary Marist Educators
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -255,9 +251,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Yen Leng (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chee Yong Qing (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -270,9 +263,6 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Liu Dongmei (Mdm)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -283,9 +273,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Shantini D/O Karunagaran (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -298,9 +285,6 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>V Praveenkumar (Mr)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -311,9 +295,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Chia Kian Boon Edwin (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -326,9 +307,6 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Sui Lei (Mr)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -336,9 +314,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Jasmine Yeo (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan May Yi (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -354,9 +329,6 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Tay Kwang Ming (Mr)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -367,9 +339,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Nadiah Binte Ramli (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
