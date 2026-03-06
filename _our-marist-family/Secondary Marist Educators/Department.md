@@ -385,6 +385,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chee Yong Qing (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jasmine Yeo (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
