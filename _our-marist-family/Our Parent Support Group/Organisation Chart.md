@@ -17,7 +17,7 @@ third_nav_title: Our Parent Support Group
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jeremy Ng</p>
@@ -25,10 +25,19 @@ third_nav_title: Our Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
+<p>Vice-Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angela Christy</p>
+<p>Lynn Sarah</p>
+<p>Justin Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration, Digital &amp; Events</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeremy Ng</p>
 </td>
 </tr>
 <tr>
@@ -54,6 +63,7 @@ third_nav_title: Our Parent Support Group
 </td>
 <td rowspan="1" colspan="1">
 <p>Lynn Sarah</p>
+<p>SuTina</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +71,7 @@ third_nav_title: Our Parent Support Group
 <p>Religious Education (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angela Christy
+<p>Jeremiah Lee
 <br>Judith Oh</p>
 </td>
 </tr>
@@ -72,6 +82,14 @@ third_nav_title: Our Parent Support Group
 <td rowspan="1" colspan="1">
 <p>Joanne Chung
 <br>Pamela Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jacqueline Ng</p>
 </td>
 </tr>
 </tbody>

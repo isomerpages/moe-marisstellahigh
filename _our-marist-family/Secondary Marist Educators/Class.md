@@ -316,7 +316,7 @@ third_nav_title: Secondary Marist Educators
 <p>Jasmine Yeo (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan May Yi (Miss)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ third_nav_title: Secondary Marist Educators
 <p>Chong Yew Keng Audrey (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chng Wan Ting, Zenia (Ms)</p>
+<p>Chng Wan Ting Zenia (Ms)</p>
 </td>
 </tr>
 <tr>

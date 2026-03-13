@@ -385,6 +385,14 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chee Yong Qing (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jasmine Yeo (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -610,14 +618,6 @@ third_nav_title: Secondary Marist Educators
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Koh Yew Kiat (Mr)</p>
 </td>
@@ -797,14 +797,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Sock Hoon (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lim Xiao Feng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,14 +806,6 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lum Wai Mei (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Neo Siao Ghee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
