@@ -2,4 +2,5 @@ collections:
   our-next-chapter:
     output: true
     order:
+      - Key Information (Yr 2027).md
       - MSHS Rebuilding.md
