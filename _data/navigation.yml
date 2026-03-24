@@ -16,7 +16,7 @@ links:
       - title: School Management Committee
         url: /about-mshs/school-management-committee
       - title: School Achievements
-        url: https://marisstellahigh.moe.edu.sg/about-mshs/secondary/school-achievements/2025/
+        url: /about-mshs/secondary/school-achievements/2025/
       - title: Contact Us
         url: /about-mshs/contact-us
   - title: Our Marist Family
@@ -50,7 +50,9 @@ links:
     url: /rebuilding/
     sublinks:
       - title: MSHS Rebuilding
-        url: https://marisstellahigh.moe.edu.sg/rebuilding/
+        url: /rebuilding/
+      - title: Key Information (2027)
+        url: /key-information-2027/
   - title: Our Admissions
     url: /our-admissions/
     sublinks:

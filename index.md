@@ -11,9 +11,9 @@ sections:
       background: /images/Homepage/Banner_draft.gif
       variant: image
       key_highlights:
-        - title: Release of GCE O Level Results 2025
-          description: Find out more
-          url: /school-happenings/secondary/announcements/
+        - title: Our Next Chapter
+          description: Key Information (2027)
+          url: /key-information-2027/
   - textcards:
       title: Resources
       id: textcards
