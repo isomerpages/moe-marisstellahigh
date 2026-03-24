@@ -50,7 +50,7 @@ for the purpose of that year’s Primary One Registration Exercise.</p>
 (white top with blue skorts). We will also be changing the PE attire to
 one with a Mandarin collar. Existing students may continue to wear the
 current PE attire or purchase the new one. The new uniform will be available
-for purchase at the end of this year.</p>
+for purchase at the end of 2026.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_uniform_2027.jpg">
