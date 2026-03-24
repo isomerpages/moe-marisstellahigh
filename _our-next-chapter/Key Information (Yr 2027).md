@@ -52,19 +52,10 @@ one with a Mandarin collar. Existing students may continue to wear the
 current PE attire or purchase the new one. The new uniform will be available
 for purchase at the end of this year.</p>
 <p></p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;<strong>Q6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is the school providing student care service in the morning for the P1 and P2 Marists?</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_uniform_2027.jpg">
+</div>
+<p><strong>Q6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is the school providing student care service in the morning for the P1 and P2 Marists?</strong>
 </p>
 <p>To support parents, the school will provide full-day student care service
 (i.e. 7.00 a.m. – 7.00 p.m.) for primary Marists while we are at the holding
