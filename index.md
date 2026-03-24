@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Our Next Chapter
           description: Key Information (Yr 2027)
-          url: ""
+          url: https://marisstellahigh.moe.edu.sg/key-information-yr-2027/
   - textcards:
       title: Resources
       id: textcards
