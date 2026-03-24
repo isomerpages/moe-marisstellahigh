@@ -12,8 +12,8 @@ sections:
       variant: image
       key_highlights:
         - title: Our Next Chapter
-          description: Key Information (Yr 2027)
-          url: /key-information-yr-2027/
+          description: Key Information (2027)
+          url: /key-information-2027/
   - textcards:
       title: Resources
       id: textcards
