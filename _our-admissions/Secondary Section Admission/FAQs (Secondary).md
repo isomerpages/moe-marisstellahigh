@@ -147,7 +147,7 @@ learning device under the Personalised Digital Learning Programme.</p>
 </li>
 </ol>
 <p>School starts at 7.30 a.m. and ends every day at 1.40 p.m. for lower secondary
-students. For upper secondary students, school ends at 3.20 p.m. on Tuesdays.
+students. For upper secondary students, school ends at 3.20 p.m. on Thursdays.
 On some afternoons, students may attend enrichment or supplementary programmes.</p>
 <h4>What are the public transport services available to reach Maris Stella High School?</h4>
 <p>The nearest MRT station to Maris Stella High School is Bartley MRT Station,
