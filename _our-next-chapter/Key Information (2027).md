@@ -102,12 +102,17 @@ our intake. Primary 1 and 2 Marists are in the afternoon session because
 they do not have CCAs. Additionally, having Primary 1 and 2 Marists in
 the afternoon session will help to ease the girls into the school, as the
 other levels are all boys.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 and P2 students:
-12.30 p.m. to 6.00 p.m.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P6 students: 7.30
-a.m. to 1.30 p.m.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S1 to S4 Marists: 8.00
-a.m.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 and P2 students: 12.30 p.m. to 6.00 p.m.</p>
+</li>
+<li>
+<p>P3 to P6 students: 7.30 a.m. to 1.30 p.m.</p>
+</li>
+<li>
+<p>S1 to S4 Marists: 8.00 a.m.</p>
+</li>
+</ul>
 <p>The later start time for secondary Marists gives them more time to sleep
 and travel. The primary section will revert to a full single session when
 we return to Mount Vernon.</p>
