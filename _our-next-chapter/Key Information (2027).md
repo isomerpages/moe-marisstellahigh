@@ -57,7 +57,7 @@ for purchase at the end of 2026.</p>
 </div>
 <p><strong>Q6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is the school providing student care service in the morning for the P1 and P2 Marists?</strong>
 </p>
-<p>To support parents, the school will provide full-day student care service
+<p style="text-align: justify;">To support parents, the school will provide full-day student care service
 (i.e. 7.00 a.m. – 7.00 p.m.) for primary Marists while we are at the holding
 site.</p>
 <p></p>
