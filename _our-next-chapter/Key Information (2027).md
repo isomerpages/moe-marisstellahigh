@@ -122,6 +122,7 @@ no increase in enrolment, we are careful not to start new CCAs which may
 compete with existing CCAs for members and facilities. However, the secondary
 section started a Chess interest group in 2025, and if the interest amongst
 students is sustained, we may offer it as a CCA in the near future.</p>
+<p></p>
 <p><strong>Q3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will the holding sites be renovated?</strong>
 </p>
 <p>We are currently renovating both holding sites to ensure that they are
