@@ -2,11 +2,8 @@
 title: Saint Marcellin Champagnat
 permalink: /about-mshs/saint-marcellin-champagnat/
 description: ""
+variant: tiptap
 ---
-
-
-
-
 <img src="/images/Saint%20Marcellin%20Champagnat/aw-hE1Ah823CbmBggLxEsSgqdFU.jpg" style="width:35%">
 Saint Marcellin Champagnat founded the Marist Brothers in 1817. Champagnat was born on the 20th May 1789 and was baptized the very next day on the Feast of the Ascension of the Lord. In October 1805 at the age of 17 years, he entered the seminary and spent eleven years of preparation before he was ordained as a priest on 22nd July 1816.
 

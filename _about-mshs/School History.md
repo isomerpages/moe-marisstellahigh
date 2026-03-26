@@ -2,7 +2,7 @@
 title: School History
 permalink: /about-mshs/school-history/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <center><h3>永恒的海星精神<br>THE MARIS STELLA SPIRIT PREVAILS</h3></center>
 	
