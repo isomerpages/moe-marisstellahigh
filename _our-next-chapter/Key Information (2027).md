@@ -12,7 +12,7 @@ of interested parents, the school will increase its Primary 1 intake by
 two classes, or 60 students, from 2027. The Primary 1 registration process
 remains the same as in previous years, and no quota will be set for either
 gender. Please refer to the MOE website to understand the Primary 1 registration
-process at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.
+process at&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.
 There are currently no plans for the secondary section to become co-educational.</p>
 <p></p>
 <p><strong>Q2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I transfer my older daughter to MSHS (Primary) if my younger daughter gets P1 admission in 2027?</strong>
@@ -40,7 +40,7 @@ building footprint). With the rebuilding of the school, there may be changes
 to the SLB which is used for determining the HSD.</p>
 <p>Members of the public can use the Singapore Land Authority’s (SLA’s) OneMap
 SchoolQuery to check the HSD of an address for the upcoming P1 Exercise.
-Once information on new residential and school developments are confirmed,
+Once information on new residential and school developments is confirmed,
 they will be updated annually by June into the SLA OneMap SchoolQuery,
 for the purpose of that year’s Primary One Registration Exercise.</p>
 <p></p>
@@ -86,9 +86,9 @@ boys and girls. Detailed plans will be shared in 2027.</p>
 adapt our approaches to support positive interactions among all students.
 We will continue to follow MOE guidelines, focusing on developing empathy,
 building mutual respect, and pro-social skills that will serve students
-well beyond school and fostering an environment where every child can thrive
+well beyond school and foster an environment where every child can thrive
 and develop strong character. Our successful school-wide anti-bullying
-programme, <em>Stop!t@MarisStella</em>, will continue to be an important
+programme,&nbsp;<em>Stop!t@MarisStella</em>, will continue to be an important
 aspect of our discipline approach.</p>
 <p></p>
 <h3><strong>Questions related to both primary and secondary sections</strong></h3>
