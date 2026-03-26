@@ -98,10 +98,10 @@ aspect of our discipline approach.</p>
 <p>The primary section will operate as a partial single session for the three
 years at the holding site. This is because the holding site is unable to
 accommodate all primary Marists at the same time, even if we do not increase
-our intake. Primary 1 and Primary 2 Marists are in the afternoon session
-because they do not have CCAs. Additionally, having Primary 1 and Primary
-2 Marists in the afternoon session will help to ease the girls into the
-school, as the other levels are all boys.</p>
+our intake. Primary 1 and 2 Marists are in the afternoon session because
+they do not have CCAs. Additionally, having Primary 1 and 2 Marists in
+the afternoon session will help to ease the girls into the school, as the
+other levels are all boys.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 and P2 students:
 12.30 p.m. to 6.00 p.m.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P6 students: 7.30
@@ -120,15 +120,15 @@ CCAs may be closed or merged and new CCAs may be opened.</p>
 <p>As the secondary section is not turning co-educational and there is also
 no increase in enrolment, we are careful not to start new CCAs which may
 compete with existing CCAs for members and facilities. However, the secondary
-section has started a Chess interest group in 2025, and if the interest
-amongst students is sustained, we may offer it as a CCA in the near future.</p>
+section started a Chess interest group in 2025, and if the interest amongst
+students is sustained, we may offer it as a CCA in the near future.</p>
 <p><strong>Q3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will the holding sites be renovated?</strong>
 </p>
-<p>We are currently renovating the both holding sites to ensure that they
-are conducive for learning when we move in. Besides applying a new coat
-of paint, we will also returf the school field, replace the floor tiles
-of the parade square, and more. These improvements will ensure that the
-campuses are conducive for learning.</p>
+<p>We are currently renovating both holding sites to ensure that they are
+conducive for learning when we move in. Besides applying a new coat of
+paint, we will also returf the school field, replace the floor tiles of
+the parade square, and more. These improvements will ensure that the campuses
+are conducive for learning.</p>
 <p></p>
 <p><strong>Q4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are the holding sites better than the heritage site?</strong>
 </p>
@@ -136,9 +136,8 @@ campuses are conducive for learning.</p>
 For example, both holding sites have a school field, an indoor sports hall,
 and sheltered courts. The staff room and library are centrally located
 and more convenient for students to meet teachers for consultation or to
-self-study. The holding site for the primary Marists have an auditorium
-and the classrooms are the holding site for the secondary Marists are 30%
-bigger.</p>
+self-study. The primary section’s holding site has an auditorium while
+the classrooms for secondary section’s holding site are 30% bigger.</p>
 <p></p>
 <p><strong>Q5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How will school leadership work across both sites?</strong>
 </p>
