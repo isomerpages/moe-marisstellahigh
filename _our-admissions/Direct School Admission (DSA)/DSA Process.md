@@ -125,10 +125,10 @@ media software such as Adobe Photoshop, Illustrator, Premier Pro, Final
 Cut Pro etc.</p>
 <p>(ii) Robotics:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in EV3 and Spike Prime
-Programming&nbsp;&nbsp;</p>
+Programming.&nbsp;&nbsp;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in NJRC/FLL/WRG/APYRC
 or other international/national robotics competitions and obtained a good
-standing in either the main or side events</p>
+standing in either the main or side events.</p>
 <p><strong><u>Chinese Language</u></strong>
 </p>
 <p>Applicants should:</p>
