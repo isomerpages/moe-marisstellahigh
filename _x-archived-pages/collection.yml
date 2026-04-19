@@ -1,4 +1,5 @@
 collections:
   x-archived-pages:
     output: true
-    order: []
+    order:
+      - Principles of Account.md
