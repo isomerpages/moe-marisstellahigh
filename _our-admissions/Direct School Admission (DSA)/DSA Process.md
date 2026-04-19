@@ -186,7 +186,7 @@ a in-person selection exercise which will be conducted between <strong>7 July â€
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Shortlisted applicants
 will be informed of the exact date, time and venue for the audition/trial.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to
-all shortlisted applicants from <strong>25 August - 4 September 2025</strong>,
+all shortlisted applicants from <strong>17 August - 28 August 2026</strong>,
 informing them if they have been given a <em>Confirmed Offer,</em> placed
 on the <em>Waiting List</em> or being <em>Rejected.</em>
 </p>
