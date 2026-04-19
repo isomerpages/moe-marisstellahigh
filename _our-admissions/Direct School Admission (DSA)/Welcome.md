@@ -8,10 +8,10 @@ variant: tiptap
 <h1>2026 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL</h1>
 <h3>WELCOME TO THE MARIS STELLA HIGH SCHOOL DSA PAGE.</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Publicity_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admission/DSA_2026.jpg">
+</div>
 <p></p>
 <p>JOIN US FOR OUR DSA SHARING SESSION
 <br>8 MAY 2025 (FRIDAY),
