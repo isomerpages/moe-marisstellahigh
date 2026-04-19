@@ -87,18 +87,18 @@ brass, woodwind and/or percussion.&nbsp;</p>
 <p>Any two scales (Concert Band only)</p>
 </li>
 </ul>
-<p><strong><u>MSHS Scouts Requirements</u></strong>
+<p><strong><u>Scouts</u></strong>
 </p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants
-must be a member of the Cub Scouts in 2024 and 2025;</p>
+must be a member of the Cub Scouts in 2025 and 2026;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actively
 involved in the Scouts Movement; and</p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Achieved
 at least the Gold Arrow.</p>
-<p><strong><u>MSHS Clubs and Societies Requirements</u></strong>
+<p><strong><u>Clubs and Societies</u></strong>
 </p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants
-should preferably be a member in one of these CCAs in 2024 and 2025</p>
+should preferably be a member in one of these CCAs in 2025 and 2026</p>
 <ul>
 <li>
 <p>Chinese Language – Drama and Debate</p>
