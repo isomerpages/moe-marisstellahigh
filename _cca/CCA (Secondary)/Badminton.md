@@ -27,10 +27,10 @@ honourable.&nbsp;</p>
 <p><strong>Marists are given the opportunities to participate in the following competitions:</strong>&nbsp;</p>
 <ul>
 <li>
-<p>‘B’ and ‘C’ Division North Zone Badminton Championships&nbsp;</p>
+<p>North Zone Badminton Championships&nbsp;</p>
 </li>
 <li>
-<p>‘B’ and ‘C’ Division National Badminton Championships</p>
+<p>National Badminton Championships</p>
 </li>
 </ul>
 <h4>Training Schedule</h4>
@@ -53,21 +53,30 @@ honourable.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3/Wk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, Wed, Fri (C Div),
+<p>Tue, Wed, Fri (C Div)
 <br>
-<br>Mon, Wed, Thurs (B Div)</p>
+</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C div:
 <br>Tues 4 - 6pm
 <br>Wed 2.30pm - 4.30 pm
-<br>Fri 4 - 6.30 pm
-<br>
-<br>B div:
+<br>Fri 4 - 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon, Wed, Thurs (B Div)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B div:
 <br>Mon 4 - 6 pm
 <br>Wed 4 - 6pm
 <br>Thurs 4 - 6pm</p>
