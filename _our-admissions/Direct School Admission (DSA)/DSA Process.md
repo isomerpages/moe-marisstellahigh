@@ -133,7 +133,7 @@ standing in either the main or side events</p>
 </p>
 <p>Applicants should:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong command of
-Chinese Language in both spoken and written form;</p>
+the Chinese Language in both spoken and written form;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Display strong interest
 and high aptitude for Chinese; and</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have participated in
