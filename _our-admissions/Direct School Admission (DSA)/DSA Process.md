@@ -300,7 +300,7 @@ related to the talent they are selected for from year 1-4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>* go live on 7 May, 11am</p>
+<p>* go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec</p>
@@ -310,7 +310,7 @@ related to the talent they are selected for from year 1-4.</p>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal&nbsp;</p>
 <p>(Non Mainstream Students)</p>
-<p>* go live on 7 May, 11am</p>
+<p>* go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec-nms</p>
