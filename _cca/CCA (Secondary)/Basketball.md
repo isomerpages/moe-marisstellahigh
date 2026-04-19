@@ -3,29 +3,28 @@ title: Basketball
 permalink: /programmes/secondary/cca/basketball/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/Basketball_1.jpg" style="width:45%">
 
 
 **The Basketball CCA aims to:**&nbsp;
 
-*   Create an environment that is fun and players can develop their own passion for the game;&nbsp;  
+*   Instil important values such as teamwork, discipline and resilience;
     
-*   Instil and understanding in players of the important facets to the game and improve their “basketball IQ”; and&nbsp;  
+*   Cultivate a fast-paced and competitive playing style; and
     
-*   Inculcate leadership, respect, imagination, courage and selflessness in players.&nbsp;
-
+*   Nurture students into athletes who hold themselves to high standards on and off the court.
+    
   
 
 **Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
-*   ‘B’ and ‘C’ Division North Zone Basketball Championships  
+*   &nbsp;National School Games&nbsp;
     
-*   Bowen Secondary School Basketball League&nbsp;  
+*   &nbsp;BAS Youth Cup
     
-*   East View Secondary School Basketball League
+*   &nbsp;External Tournaments (eg. ARSJC Cup, Raffles Cup)**
 
 
 #### Training Schedule
