@@ -14,7 +14,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admission/DSA_Sharing_for_Social_Media.jpg">
 </div>
 <p>JOIN US FOR OUR DSA SHARING SESSION
-<br>8 MAY 2025 (FRIDAY),
+<br>8 MAY 2026 (FRIDAY),
 <br>3PM AT MARIS STELLA HIGH SCHOOL.</p>
 <p></p>
 <p><strong>Click </strong><a href="https://form.gov.sg/680708d0419efd54ef0ab767" rel="noopener nofollow" target="_blank">here</a><strong> to register for DSA Sharing Session!</strong>
