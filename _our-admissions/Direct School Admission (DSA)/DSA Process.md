@@ -181,7 +181,7 @@ and service before they may be confirmed as Student Councillors in Secondary
 are required to go through DSA selection conducted by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications
 and vacancies, shortlisted applicants will be notified via email to attend
-a in-person selection exercise which will be conducted between <strong>8 July – 22 August 2025.</strong>
+a in-person selection exercise which will be conducted between <strong>7 July – 5 August 2026.</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Shortlisted applicants
 will be informed of the exact date, time and venue for the audition/trial.</p>
