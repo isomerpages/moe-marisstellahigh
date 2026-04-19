@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA (Secondary)
 variant: markdown
 ---
-<img align="right" src="/images/CCA/Secondary/Basketball_1.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Secondary/2026_Basketball.jpg" style="width:45%">
 
 
 **The Basketball CCA aims to:**&nbsp;
