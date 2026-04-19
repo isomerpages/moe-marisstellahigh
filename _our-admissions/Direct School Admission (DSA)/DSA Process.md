@@ -156,6 +156,26 @@ and competition,</p>
 and competition,</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science research programme,</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEM related competitions.</p>
+<p><strong><u>Student Leadership</u></strong>
+</p>
+<p>Applicants should:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have held a key leadership
+appointment at the highest level of student leadership (e.g., EXCO of the
+Prefectorial Board, Student Council, or equivalent), with clear evidence
+of responsibility, initiative, and meaningful contributions to programmes
+or projects.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have demonstrated the
+ability to positively influence and guide peers, foster collaboration,
+and organise group efforts to achieve shared outcomes.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrate the ability
+to communicate ideas clearly and confidently, and listen actively to others.</p>
+<p>Successful applicants will be placed in the Councillor-in-Training (CiT)
+Programme when it commences for Secondary 1 students.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participation in the
+programme does not automatically lead to appointment as a Student Councillor.
+Students will be expected to meet stringent criteria in leadership, conduct
+and service before they may be confirmed as Student Councillors in Secondary
+2.</p>
 <h3>SELECTION PROCESS</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted
 are required to go through DSA selection conducted by the school.</p>
