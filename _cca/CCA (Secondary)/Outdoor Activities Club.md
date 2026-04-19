@@ -18,10 +18,10 @@ variant: markdown
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*  Inter-School Bouldering Championship ‘B’ Division;
-*  Inter-School Bouldering Championship ‘C' Division;
-*  Ignite Boulder Competition; and
-*  Spark Boulder Competition.
+*  Inter-School Bouldering Championship ‘B’ Division
+*  Inter-School Bouldering Championship ‘C' Division
+*  Ignite Boulder Competition
+*  Spark Boulder Competition
 
 
 #### Training Schedule
