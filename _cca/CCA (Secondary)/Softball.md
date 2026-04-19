@@ -10,25 +10,25 @@ variant: markdown
 
 **The Softball CCA aims to:**&nbsp;
 
-*   Use the sport as a conduit to develop students in the area of sportsmanship and resilience;&nbsp;  
+*   Use the sport as a platform to develop students’ sportsmanship, resilience, and strong values;  
     
-*   Allow students to understand and appreciate the necessity to work as a team;&nbsp;  
+*   Cultivate an understanding and appreciation of teamwork, communication, adaptive thinking, as well as build brotherhood and empathy;  
     
-*   Provide students with opportunities to hone their physical skills and coordination through training and practice;&nbsp;  
+*   Provide opportunities for students to hone their physical skills and coordination through structured training and practice;
     
-*   Develop a love for Softball as a sport; and&nbsp;  
+*   Foster a lasting passion for the sport of softball; and
     
-*   Provide opportunities for students to grow as leaders.
+*   Nurture students’ holistic development and growth as confident, responsible leaders.
 
   
 
 **Marists are given the opportunities to participate in the following competitions:**&nbsp;
 
-*   ‘B’ Division National Softball Competition  
+*  ‘B’ &amp; ‘C’ Division National School Softball Championships
     
-*   ‘C’ Division National Softball Competition&nbsp;
-*   Singapore Recreation Club Softball Carnival Tournament&nbsp;
-*   Friendly matches with other schools
+*  Singapore Recreation Club Softball Carnival
+*   Maris Stella Softball Goodwill Games
+*   Friendly tournaments and matches with other schools
 
 #### Training Schedule
 
