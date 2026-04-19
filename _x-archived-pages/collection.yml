@@ -1,0 +1,4 @@
+collections:
+  x-archived-pages:
+    output: true
+    order: []
