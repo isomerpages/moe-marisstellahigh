@@ -64,10 +64,10 @@ who achieved Top 8 placing in their&nbsp;<strong>individual</strong>&nbsp;events
 at National Inter-Primary School Competition(s), or</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individuals
 with outstanding achievements.</p>
-<p><strong><u>MSHS Aesthetics Requirements</u></strong>
+<p><strong><u>Aesthetics</u></strong>
 </p>
 <p>(a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should preferably be a member
-of the following Performing Arts CCA in 2024 and 2025</p>
+of the following Performing Arts CCA in 2025 and 2026</p>
 <ul>
 <li>
 <p>Concert Band</p>
