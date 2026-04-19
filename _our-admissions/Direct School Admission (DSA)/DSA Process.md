@@ -146,7 +146,7 @@ and Chinese Language-related competitions.</p>
 </p>
 <p>Applicants should:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong aptitude
-in Math and Science</p>
+in Math and Science;</p>
 <p>-&nbsp; Have participated in STEM-related projects, activities or competitions.</p>
 <p>Successful applicants will be expected to commit to one or more of the
 following:</p>
