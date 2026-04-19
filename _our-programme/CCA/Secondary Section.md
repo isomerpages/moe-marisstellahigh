@@ -97,7 +97,7 @@ third_nav_title: CCA
 </div>
 <h2>Clubs and Societies</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/chinese-literary-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Literary Society 华文学会" src="/images/CCA/Secondary/CLDDS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Literary Society 华文学会</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/chinese-literary-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Literary Society 华文学会" src="/images/CCA/Secondary/2026_CLS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Literary Society 华文学会</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/english-literary-society/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
