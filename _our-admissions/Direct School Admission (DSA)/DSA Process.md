@@ -142,6 +142,20 @@ Chinese Language-related and/or Chinese cultural events or competitions.</p>
 the understanding and learning of Chinese Language and tradition, successful
 applicants will also be enrolled in the school's bicultural&nbsp;programme
 and Chinese Language-related competitions.</p>
+<p><strong><u>STEM</u></strong>
+</p>
+<p>Applicants should:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong aptitude
+in Math and Science</p>
+<p>-&nbsp; Have participated in STEM-related projects, activities or competitions.</p>
+<p>Successful applicants will be expected to commit to one or more of the
+following:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math Olympiad training
+and competition,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science Olympiad training
+and competition,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science research programme,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEM related competitions.</p>
 <h3>SELECTION PROCESS</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted
 are required to go through DSA selection conducted by the school.</p>
