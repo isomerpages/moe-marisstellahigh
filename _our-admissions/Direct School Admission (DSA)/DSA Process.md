@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>ADMISSION CRITERIA</h1>
 <p>To apply via Direct School Admission (DSA) Exercise for Admission to Secondary
-One in&nbsp;2026&nbsp;at Maris Stella High School, current Primary 6 male
+One in&nbsp;2027&nbsp;at Maris Stella High School, current Primary 6 male
 students must satisfy the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -20,12 +20,12 @@ students must satisfy the following criteria:</p>
 </li>
 </ul>
 <p>Successful applicants must take Higher Chinese as the Mother Tongue Language
-in 2026.</p>
+in 2027.</p>
 <p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted / given an offer.</strong>
 </p>
-<p><strong><u>MSHS Sports and Games Requirements</u></strong>
+<p><strong><u>Sports and Games</u></strong>
 </p>
 <p>(a)&nbsp; &nbsp; &nbsp;&nbsp;Applicants should preferably have represented
 his primary school, participated in international, regional or national
