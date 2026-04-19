@@ -129,7 +129,7 @@ Programming&nbsp;&nbsp;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in NJRC/FLL/WRG/APYRC
 or other international/national robotics competitions and obtained a good
 standing in either the main or side events</p>
-<p><strong><u>MSHS Chinese Language Requirements</u></strong>
+<p><strong><u>Chinese Language</u></strong>
 </p>
 <p>Applicants should:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong command of
