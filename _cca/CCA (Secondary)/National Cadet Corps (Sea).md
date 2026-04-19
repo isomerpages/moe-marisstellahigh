@@ -17,26 +17,13 @@ variant: markdown
 
 **To achieve the CCA’s goals, the following programmes are offered:**  
 
-*   Comprehensive 30-week programme to train cadets to be proficient in bends and hitches; drills; fitness and kayaking.  
+*   Sec 1: Camp Forge, Sea Affirmation Ceremony, 1-star Kayaking Course
     
-*   Sec 1  
+*   &nbsp;Sec 2: Camp Steel, Air Rifle, Freestyle Drill Competition, Intermediate Drill Workshop
     
-
-    *   Camp FORGE
-    *   Affirmation Ceremony
-
-*   Sec 2  
+*   &nbsp;Sec 3: Sea Specialist Programme, Senior Specialist Leaders Course, SAR-21 Live Shoot, Midshipman Sea Training Deployment (MSTD), Dragonboat Competition, Advanced Drill Course and International Cadet Exchange Programmes.
     
 
-    *   Camp STEEL
-    *   IMT shoot
-
-*   Sec 3  
-    
-
-    *   Senior Specialist Leaders’ Camp
-    *   Midshipman Sea Training Deployment (MSTD)
-    *   International Cadet Exchange Programmes
 
 #### Training Schedule
 
