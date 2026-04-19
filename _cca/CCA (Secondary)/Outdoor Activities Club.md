@@ -8,20 +8,20 @@ variant: markdown
 <img align="right" src="/images/CCA/Secondary/ODAC_v1.png" style="width:45%">
 
 
-**To achieve the CCA’s goals, the following programmes are offered:**
+**The Outdoor Activities Club (ODAC) CCA aims to:**
 
-*   Comprehensive training programme with a focus on fitness training, and outdoor adventure skills
-*   Level 1 Sports Climbing Certification
-*   ODAC Annual Camp&nbsp;
-*   Values-in-Action Programme
+*   Help members to acquire and improve their knowledge and skills in Bouldering;
+*   Provides students with targeted training for individual growth; and
+*   Inculcate leadership, respect, resilience and teamwork.
 
   
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*   National Schools Bouldering / Speed Climbing / Sports Climbing Competitions&nbsp;&nbsp;
-*   Inter-Schools Sports Climbing Competitions&nbsp;&nbsp;
-*   Inter-Schools Adventure Race
+*  Inter-School Bouldering Championship ‘B’ Division;
+*  Inter-School Bouldering Championship ‘C' Division;
+*  Ignite Boulder Competition; and
+*  Spark Boulder Competition.
 
 
 #### Training Schedule
@@ -38,7 +38,7 @@ variant: markdown
   <tr>
     <td>2/Wk</td>
     <td>Wed, Fri</td>
-    <td>2.30pm - 5.00pm</td>
+    <td>2.00pm - 5.00pm</td>
   </tr>
 </tbody>
 </table>
