@@ -244,9 +244,9 @@ study.</p>
 <p><strong>How To Apply</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11
-am to 3 June 2025, 3pm. For more details, please refer to MOE website –
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 6 May 2026, 11
+am to 2 June 2026, 4.30pm. For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>In your submission, please provide information such as position played
 in the sports, belt attainment in taekwondo, wushu specialization, instrument
 played and grade level, whichever is applicable for the talent area that
@@ -263,7 +263,7 @@ related to the talent they are selected for from year 1-4.</p>
 </p>
 <p><strong>Application Deadline</strong>
 </p>
-<p><strong>3 June 2025, 3pm</strong>
+<p><strong>2 June 2026, 4.30pm</strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
