@@ -26,9 +26,7 @@ variant: markdown
 
 **Marists are given the opportunities to participate in the following competitions and performances:**
 
-*   National School Games (NSG) Wushu Championships  
-    
-*   National Wushu Championships  
+*   National School Games (NSG) Wushu Championships   
     
 *   Chinese New Year Performance  
     
