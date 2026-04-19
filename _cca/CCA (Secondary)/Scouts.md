@@ -19,13 +19,13 @@ variant: markdown
 
 **To achieve the CCA’s goals, the following programmes are offered:**
 
-*   Outdoor activities such as camping, backwoods cooking, knot-tying, and orienteering;
+*   Outdoor activities such as camping, backwoods cooking, knot-tying, and orienteering
     
-*   Annual Camp, Signature Dxufto Camp, Scout Leadership Camp
-*   Various scouting competitions
-*   A chance to meet Scouts and Guides from other schools at camps and campfires
-*   Opportunities to obtain a wide range of Scout progress, proficiency and event badges
-*   Opportunities to participate in Jamborees to meet scouts from other countries
+*   Annual Camp and Scout Leadership Camp
+*   Participation in various scouting competitions
+*   Opportunities to meet Scouts and Guides from other schools through camps and campfires
+*   Opportunities to obtain a wide range of Scout progress, proficiency, and event badges
+*   Opportunities to participate in Jamborees and meet Scouts from other countries
 
 
 #### Training Schedule
