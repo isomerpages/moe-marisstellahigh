@@ -3,9 +3,8 @@ title: Archery
 permalink: /programmes/secondary/cca/archery/
 description: ""
 third_nav_title: CCA (Secondary)
+variant: markdown
 ---
-
-
 <img align="right" src="/images/CCA/Secondary/archery_v1.png" style="width:45%">
 
 
@@ -41,8 +40,8 @@ third_nav_title: CCA (Secondary)
 </thead>
 <tbody>
   <tr>
-    <td>1-2/Wk</td>
-    <td><u>Semester 1</u><br>Mon (Sec 2 and 3 archers),<br>Wed (Sec 3 and 4 archers),<br>Fri (Sec 1 and 4 archers)<br><br><u>Semester 2</u><br>Mon (Sec 2 and 3 archers),<br>Wed (Sec 1 and 3 archers),<br>Fri (Sec 1 and 2 archers)</td>
+    <td>2/Wk</td>
+    <td><u>Semester 1</u><br>Mon (Sec 2 and 3 archers),<br>Wed (Sec 3 and 4 archers),<br>Fri (Sec 2 and 4 archers)<br><br><u>Semester 2</u><br>Mon (Sec 3 archers),<br>Wed (Sec 2 and 3 archers),<br>Fri (Sec 2 archers)</td>
     <td>2.30pm - 5.30pm</td>
   </tr>
 </tbody>
