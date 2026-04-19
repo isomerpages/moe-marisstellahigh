@@ -108,7 +108,7 @@ third_nav_title: CCA
 <div class="isomer-card-title">English Literary Society 英文学会</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/marist-digital-media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marist Digital Media Club 海星数码传媒学会" src="/images/CCA/Secondary/MDMC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marist Digital Media Club 海星数码传媒学会</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/marist-digital-media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marist Digital Media Club 海星数码传媒学会" src="/images/CCA/Secondary/2026_MDMC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marist Digital Media Club 海星数码传媒学会</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/programmes/secondary/cca/marist-robotics-and-programming-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
