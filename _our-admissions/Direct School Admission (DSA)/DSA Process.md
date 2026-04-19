@@ -209,7 +209,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May, 11am – 3 June 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 June 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of online DSA Application Form</p>
@@ -217,7 +217,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 9 July 2025</p>
+<p>By 10 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to send e-mail notification to shortlisted applicants.</p>
@@ -225,7 +225,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 July – &nbsp;22 August 2025</p>
+<p>7 July – &nbsp;5 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person selection exercise for shortlisted applicants.</p>
@@ -233,7 +233,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August - 9 September 2025</p>
+<p>17 August - 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to inform all shortlisted applicants of the selection outcome.</p>
