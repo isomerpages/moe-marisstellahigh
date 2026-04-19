@@ -17,7 +17,7 @@ variant: tiptap
 <br>8 MAY 2025 (FRIDAY),
 <br>3PM AT MARIS STELLA HIGH SCHOOL.</p>
 <p></p>
-<p><strong>Click </strong><a href="https://form.gov.sg/680708d0419efd54ef0ab767" rel="noopener nofollow" target="_blank">here</a><strong> to register here for DSA Sharing Session!</strong>
+<p><strong>Click </strong><a href="https://form.gov.sg/680708d0419efd54ef0ab767" rel="noopener nofollow" target="_blank">here</a><strong> to register for DSA Sharing Session!</strong>
 </p>
 <p></p>
 <h3>ADDITIONAL DETAILS</h3>
