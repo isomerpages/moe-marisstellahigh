@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h1>2025 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL</h1>
+<h1>2026 DIRECT SCHOOL ADMISSION @ MARIS STELLA HIGH SCHOOL</h1>
 <h3>WELCOME TO THE MARIS STELLA HIGH SCHOOL DSA PAGE.</h3>
 <p></p>
 <div class="isomer-image-wrapper">
