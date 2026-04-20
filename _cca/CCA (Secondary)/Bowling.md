@@ -8,13 +8,14 @@ variant: markdown
 <img align="right" src="/images/CCA/Secondary/Bowling_1.jpg" style="width:45%">
 
 
-**The Bowling team aims to:**
+**The Bowling CCA aims to:**
 
-*   Improve players’ psychomotor skills, fitness and agility;  
+*   Develop players’ skills, fitness and agility, reflecting diligence and determination in striving for excellence;
     
-*   Strengthen eye-hand coordination, stimulate mental alertness and concentration; and  
+*   Foster camaraderie and resilience, building family spirit and supporting one another through every strike, spare and setback; and
     
-*   Build camaraderie and resilience as a team.&nbsp;  
+*   Instil humility and respect through sport, developing not just athletes, but gentlemen of character.
+
     
 
   
@@ -23,7 +24,7 @@ variant: markdown
 
 *   Secondary School League&nbsp;  
     
-*   National Age Group
+*   National Age Group Championships
 *   National Schools Championship 'B' Division
 *   National Schools Championship 'C' Division
 
@@ -41,11 +42,9 @@ variant: markdown
 <tbody>
   <tr>
     <td>1-2/Wk</td>
-		<td><b>From January to April</b><br>B Division - Mainly Mon, Wed <br><br>C Division - Mainly Fri<br><br><b>From May to July</b><br>B Division - Once a week <br><br>C Division - Twice a week<br><br><b>During Off Season (August to December)</b><br>Training as per schedule</td>
+		<td><b>After 'C' Division NSG (August - April)</b><br>'B' Division - Mainly Mon and Wed <br><br>'C' Division - Mainly Fri<br><br><b>After 'B' Division NSG (April - August)</b><br>'B' Division - Mainly Mon <br><br>'C' Division - Mainly Wed and Fri<br></td>
     <td>3.15pm - 5.45pm</td>
   </tr>
 	
 </tbody>
 </table>
-
-
