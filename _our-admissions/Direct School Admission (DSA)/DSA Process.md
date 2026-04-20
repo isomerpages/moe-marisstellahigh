@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>ADMISSION CRITERIA</h1>
 <p>To apply via Direct School Admission (DSA) Exercise for Admission to Secondary
-One in&nbsp;2026&nbsp;at Maris Stella High School, current Primary 6 male
+One in&nbsp;2027&nbsp;at Maris Stella High School, current Primary 6 male
 students must satisfy the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -20,12 +20,12 @@ students must satisfy the following criteria:</p>
 </li>
 </ul>
 <p>Successful applicants must take Higher Chinese as the Mother Tongue Language
-in 2026.</p>
+in 2027.</p>
 <p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted / given an offer.</strong>
 </p>
-<p><strong><u>MSHS Sports and Games Requirements</u></strong>
+<p><strong><u>Sports and Games</u></strong>
 </p>
 <p>(a)&nbsp; &nbsp; &nbsp;&nbsp;Applicants should preferably have represented
 his primary school, participated in international, regional or national
@@ -64,10 +64,10 @@ who achieved Top 8 placing in their&nbsp;<strong>individual</strong>&nbsp;events
 at National Inter-Primary School Competition(s), or</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individuals
 with outstanding achievements.</p>
-<p><strong><u>MSHS Aesthetics Requirements</u></strong>
+<p><strong><u>Aesthetics</u></strong>
 </p>
 <p>(a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should preferably be a member
-of the following Performing Arts CCA in 2024 and 2025</p>
+of the following Performing Arts CCA in 2025 and 2026</p>
 <ul>
 <li>
 <p>Concert Band</p>
@@ -87,18 +87,18 @@ brass, woodwind and/or percussion.&nbsp;</p>
 <p>Any two scales (Concert Band only)</p>
 </li>
 </ul>
-<p><strong><u>MSHS Scouts Requirements</u></strong>
+<p><strong><u>Scouts</u></strong>
 </p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants
-must be a member of the Cub Scouts in 2024 and 2025;</p>
+must be a member of the Cub Scouts in 2025 and 2026;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actively
 involved in the Scouts Movement; and</p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Achieved
 at least the Gold Arrow.</p>
-<p><strong><u>MSHS Clubs and Societies Requirements</u></strong>
+<p><strong><u>Clubs and Societies</u></strong>
 </p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicants
-should preferably be a member in one of these CCAs in 2024 and 2025</p>
+should preferably be a member in one of these CCAs in 2025 and 2026</p>
 <ul>
 <li>
 <p>Chinese Language – Drama and Debate</p>
@@ -124,17 +124,16 @@ Media (Soft copy)</p>
 media software such as Adobe Photoshop, Illustrator, Premier Pro, Final
 Cut Pro etc.</p>
 <p>(ii) Robotics:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in EV3 and Scratch Programming&nbsp;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in either Python or C++
-Programming is a bonus&nbsp;</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in EV3 and Spike Prime
+Programming.&nbsp;&nbsp;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in NJRC/FLL/WRG/APYRC
 or other international/national robotics competitions and obtained a good
-standing in either the main or side events</p>
-<p><strong><u>MSHS Chinese Language Requirements</u></strong>
+standing in either the main or side events.</p>
+<p><strong><u>Chinese Language</u></strong>
 </p>
 <p>Applicants should:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong command of
-Chinese Language in both spoken and written form;</p>
+the Chinese Language in both spoken and written form;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Display strong interest
 and high aptitude for Chinese; and</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have participated in
@@ -143,17 +142,51 @@ Chinese Language-related and/or Chinese cultural events or competitions.</p>
 the understanding and learning of Chinese Language and tradition, successful
 applicants will also be enrolled in the school's bicultural&nbsp;programme
 and Chinese Language-related competitions.</p>
+<p><strong><u>STEM</u></strong>
+</p>
+<p>Applicants should:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have strong aptitude
+in Math and Science.</p>
+<p>-&nbsp; Have participated in STEM-related projects, activities or competitions.</p>
+<p>Successful applicants will be expected to commit to one or more of the
+following:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math Olympiad training
+and competition,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science Olympiad training
+and competition,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science research programme,</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEM related competitions.</p>
+<p><strong><u>Student Leadership</u></strong>
+</p>
+<p>Applicants should:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have held a key leadership
+appointment at the highest level of student leadership (e.g., EXCO of the
+Prefectorial Board, Student Council, or equivalent), with clear evidence
+of responsibility, initiative, and meaningful contributions to programmes
+or projects.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have demonstrated the
+ability to positively influence and guide peers, foster collaboration,
+and organise group efforts to achieve shared outcomes.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrate the ability
+to communicate ideas clearly and confidently, and listen actively to others.</p>
+<p>Successful applicants will be placed in the Councillor-in-Training (CiT)
+Programme when it commences for Secondary 1 students.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participation in the
+programme does not automatically lead to appointment as a Student Councillor.
+Students will be expected to meet stringent criteria in leadership, conduct
+and service before they may be confirmed as Student Councillors in Secondary
+2.</p>
 <h3>SELECTION PROCESS</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; Candidates who are shortlisted
 are required to go through DSA selection conducted by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; Depending on the number of applications
 and vacancies, shortlisted applicants will be notified via email to attend
-a in-person selection exercise which will be conducted between <strong>8 July – 22 August 2025.</strong>
+a in-person selection exercise which will be conducted between <strong>7 July – 5 August 2026.</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Shortlisted applicants
 will be informed of the exact date, time and venue for the audition/trial.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Letters will be issued to
-all shortlisted applicants from <strong>25 August - 4 September 2025</strong>,
+all shortlisted applicants from <strong>17 August - 28 August 2026</strong>,
 informing them if they have been given a <em>Confirmed Offer,</em> placed
 on the <em>Waiting List</em> or being <em>Rejected.</em>
 </p>
@@ -176,7 +209,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May, 11am – 3 June 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 June 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of online DSA Application Form</p>
@@ -184,7 +217,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 9 July 2025</p>
+<p>By 10 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to send e-mail notification to shortlisted applicants.</p>
@@ -192,7 +225,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 July – &nbsp;22 August 2025</p>
+<p>7 July – &nbsp;5 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person selection exercise for shortlisted applicants.</p>
@@ -200,7 +233,7 @@ study.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August - 9 September 2025</p>
+<p>17 August - 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to inform all shortlisted applicants of the selection outcome.</p>
@@ -211,9 +244,9 @@ study.</p>
 <p><strong>How To Apply</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11
-am to 3 June 2025, 3pm. For more details, please refer to MOE website –
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 6 May 2026, 11
+am to 2 June 2026, 4.30pm. For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>In your submission, please provide information such as position played
 in the sports, belt attainment in taekwondo, wushu specialization, instrument
 played and grade level, whichever is applicable for the talent area that
@@ -230,7 +263,7 @@ related to the talent they are selected for from year 1-4.</p>
 </p>
 <p><strong>Application Deadline</strong>
 </p>
-<p><strong>3 June 2025, 3pm</strong>
+<p><strong>2 June 2026, 4.30pm</strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
@@ -267,7 +300,7 @@ related to the talent they are selected for from year 1-4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>* go live on 7 May, 11am</p>
+<p>* go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec</p>
@@ -277,7 +310,7 @@ related to the talent they are selected for from year 1-4.</p>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal&nbsp;</p>
 <p>(Non Mainstream Students)</p>
-<p>* go live on 7 May, 11am</p>
+<p>* go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec-nms</p>

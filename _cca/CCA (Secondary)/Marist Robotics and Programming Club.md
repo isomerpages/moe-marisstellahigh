@@ -41,7 +41,6 @@ variant: markdown
 *   The Perse Coding Team Challenge
 *   National Software Competition
 *   Lockheed Martin Code Quest Competition (APAC)
-*   ICDL Asia Digital Challenge
 
 
 #### Training Schedules

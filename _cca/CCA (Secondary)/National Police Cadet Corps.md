@@ -19,37 +19,32 @@ variant: markdown
 
 **To achieve the CCA’s goals, the following programmes are offered:**  
 
-  
-
-*   Drill, Campcraft, Teambuilding and character development games  
+ *   Drill, Campcraft, Teambuilding and character development games
     
-*   Air pistol and air rifle shooting at our own range in MSHS  
+*   Annual Camp, Year-End Course
     
-*   Annual Camp, Year-End Course  
+*   VIA programme (e.g., PYA engagement with Woodleigh NPC, Sentosa Outreach Programme, Traffic Road Marshal etc)
     
-*   VIA programme (e.g., PYA engagement with Toa Payoh NPC, Sentosa Outreach Programme, Traffic Road Marshal, 5D4N Cambodia VIA Trip 2017)  
+*   Enrichment course organised by own unit (such as Kayaking, Dragonboating, Aikido self-defence course, Air Pistol Shooting etc)
     
-*   Enrichment course organised by own unit (such as Kayaking, Dragonboating, Aikido self-defence course etc)  
+*   Organise MSHS competition for other units&nbsp;
     
-*   Organise MSHS Inter-Unit Competition for other units  
+*   Opportunities to be selected for NPCC HQ Overseas Trips (e.g., Brunei, Malaysia, Hong Kong), National Camp, Harmony Camp
     
-*   Opportunities to be selected for NPCC HQ Overseas Trips (e.g., Brunei, Malaysia, Hong Kong), HQ NPCC OBS, National Camp, Harmony Camp  
+*   Opportunities to be selected for various parade – Annual Parade, NDP
     
-*   Opportunities to be selected for various parade – Annual Parade, NDP, SYF  
+*   NPCC HQ activities / programmes - Police Heritage Visit, Training Village Visit, Home Team Gallery, Unarmed Tactics, Civil Defence Course, Police Procedure, Basic Law, Enhanced CSI, Sec 2 ATC @ Pulau Ubin, Inter-Unit .22 Revolver Shooting / Campcraft / Drill / CSI Competitions
     
-*   MSHS NPCC Overseas and Service Learning Trips such as Mount Kinabalu Climb (2010 &amp; 2013), Taman Negara Adventure (2011), Krabi Adventure (2012), 4D3N Bali Adventure &amp; VIA Trip (2014), 5D4N Vietnam Cultural &amp; Experiential Trip (2015)  
     
-*   NPCC HQ activities / programmes (.22 Revolver shooting), Police Heritage Visit, Training Village Visit, Home Team Gallery, Civil Defence Course, SANA course, Law and Enforcement, CSI, Sec 2 ATC / Sec 3 STC @ Pulau Ubin, Inter Unit Shooting / Campcraft / Drill Competitions&nbsp;  
-    
-
-  
 
 **Marists are given the opportunities to participate in the following competitions:**  
 
-*   Inter-Unit .22 Revolver Shooting Competition&nbsp;  
+*   Inter-Unit .22 Revolver Shooting Competition&nbsp;
     
-*   Inter-Unit Crime-Scene Investigation Competition
-
+*   Inter-Unit Crime Scene Investigation Competition
+    
+*   Inter-Unit Drill Competition / Inter-Unit Campcraft Competition
+    
 
 #### Training Schedule
 

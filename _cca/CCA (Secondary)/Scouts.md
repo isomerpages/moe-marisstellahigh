@@ -12,20 +12,20 @@ variant: markdown
 
 *   Train our Scouts to become independent, helpful and useful members of society; and  
     
-*   Maximise the potential of our Scouts to become self-fulfilled individuals who contribute to the betterment of our world.  
+*   Holistically develop our scouts in the areas of citizenship, leadership, outdoor competencies, community service, physical fitness, belief system, and creativity.
     
 
   
 
 **To achieve the CCA’s goals, the following programmes are offered:**
 
-*   Outdoor activities like camping, backwoodsman cooking, knotting and hiking  
+*   Outdoor activities such as camping, backwoods cooking, knot-tying, and orienteering
     
-*   Annual Camp, Signature Dxufto Camp, Scout Leadership Camp
-*   Various scouting competitions
-*   A chance to meet Scouts and Guides from other schools at camps and campfires
-*   Opportunities to obtain a wide range of Scout progress, proficiency and event badges
-*   Opportunities to participate in Jamborees to meet scouts from other countries
+*   Annual Camp and Scout Leadership Camp
+*   Participation in various scouting competitions
+*   Opportunities to meet Scouts and Guides from other schools through camps and campfires
+*   Opportunities to obtain a wide range of Scout progress, proficiency, and event badges
+*   Opportunities to participate in Jamborees and meet Scouts from other countries
 
 
 #### Training Schedule

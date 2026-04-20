@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA (Secondary)
 variant: markdown
 ---
-<img align="right" src="/images/CCA/Secondary/MDMC_v2.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Secondary/2026_MDMC.jpg" style="width:45%">
 
 
 **The Marist Digital Media Club aims to:**
@@ -14,37 +14,25 @@ variant: markdown
     
 *   Provide a platform for students to learn about digital media in a fun and inspiring environment where students are confident to lead and explore the many possibilities in digital media.  
     
+**Marists are given the opportunities to participate in the following competitions:**
 
+*   Our Schools, Our Stories&nbsp;
+    
+*   &nbsp;National Chinese Short Film Competition&nbsp;
+    
+*   &nbsp;Copyright Competition
+    
   
 
 **To achieve the CCA’s goals, the following programmes are offered:**  
 
-*   Basic Photography and Videography modules  
-    
-*   Advanced Photography modules  
-    
-*   Fashion /Portraiture  
-    
-*   Food Photography  
-    
-*   Long-Exposure Photography  
-    
-*   Journalism and Reporting for video  
-    
-*   Introduction to Garageband  
-    
-*   End-of-Year MDMC Exhibition and Showcase  
-    
+* Basic Photography and Videography modules
 
-  
+* Advanced Photography/Videography modules
 
-**Marists are given the opportunities to participate in the following competitions:**
+* Interview style videos&nbsp;
 
-*   Canon Photo Marathon&nbsp;  
-    
-*   Singapore Youth Festival Arts Exhibition (Biennial)  
-    
-*   N.E.mation
+* Photography exhibitions and showcases
 
 
 #### Training Schedule
