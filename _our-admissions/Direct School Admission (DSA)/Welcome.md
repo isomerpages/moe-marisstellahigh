@@ -29,6 +29,10 @@ sub-pages:</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.marisstellahigh.moe.edu.sg/rebuilding/" rel="noopener nofollow" target="_blank">MSHS Rebuilding</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.marisstellahigh.moe.edu.sg/2025/" rel="noopener noreferrer nofollow" target="_blank">Past Achievements</a>
 </p>
 </li>
