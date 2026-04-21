@@ -21,9 +21,7 @@ returning to school to collect their results. Students who are unable to
 collect their results in person can appoint a proxy to collect a physical
 copy of their results on their behalf from the school. Proxies are required
 to produce the relevant documents for the school’s verification when collecting
-the results. A copy of the proxy form can be found at this link</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/jae-proxy-form.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/jae-proxy-form.pdf</a>
-</p>
+the results.</p>
 <p></p>
 <p>Please feel free to contact your Form Teachers or our ECG Coach, Ms Joanne
 Tan at <a href="mailto:joanne_tan_pek_gek@schools.gov.sg" rel="noopener nofollow" target="_blank">joanne_tan_pek_gek@schools.gov.sg</a> for
