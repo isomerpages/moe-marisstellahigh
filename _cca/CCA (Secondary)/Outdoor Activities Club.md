@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA (Secondary)
 variant: markdown
 ---
-<img align="right" src="/images/CCA/Secondary/2026_ODAC.jpg" style="width:45%">
+<img align="right" src="/images/CCA/Secondary/2026_ODAC.jpg" style="width:100%">
 
 
 **The Outdoor Activities Club (ODAC) CCA aims to:**
