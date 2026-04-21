@@ -51,9 +51,6 @@ Health and Fitness</p>
 <p>Cohort camps</p>
 </li>
 <li>
-<p>Marist Ironkid Biathlon</p>
-</li>
-<li>
 <p>O-Level Exercise and Sports Science (ESS) is offered to students interested
 in stretching their potential beyond PE lessons.</p>
 <p></p>
@@ -105,9 +102,6 @@ in stretching their potential beyond PE lessons.</p>
 </li>
 <li>
 <p>年级露营（Cohort Camps）</p>
-</li>
-<li>
-<p>海星铁人两项赛（Marist Ironkid Biathlon）</p>
 </li>
 </ul>
 <p>同时，体育部也为有兴趣在体育课以外挑战自我的学生开设 中四O 水准运动与体育科学（Exercise and Sports Science,
