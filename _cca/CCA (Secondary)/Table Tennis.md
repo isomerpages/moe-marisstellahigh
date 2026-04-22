@@ -20,9 +20,9 @@ variant: markdown
 
 **Marists are given the opportunities to participate in the following competitions:**
 
-*   ‘B’ and ‘C’ Division North Zone Table Tennis Championships
+*  North Zone Championships (‘B’ Division) 
 
-*   ‘B’ and ‘C’ Division National Table Tennis Championships
+*   National Table Tennis Championships (‘B’ and ‘C’ Division) 
 
 
 #### Training Schedule
