@@ -38,7 +38,7 @@ Answer: As our school only offers Posting Group 3 course of study, the primary s
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What is the AL score cut-off point for this year? Must the applicant meet this cut-off for entry via DSA?</u>
 
-The cut-off point is dependent on the choices of the students applying to MSHS. The PSLE score range of 2025 for affiliated students is 4(M) - 16, and the range for non-affiliated students is 7(M) -12.  
+The cut-off point is dependent on the choices of the students applying to MSHS. The PSLE score range of 2025 for affiliated students is 4(M) - 16, and the range for non-affiliated students is 7(M) - 12.  
   
 
 DSA applicants only need to meet Posting Group 3 AL score for entry to MSHS via DSA.  
@@ -49,7 +49,7 @@ Answer: No. Students will be randomly put into Sec 1 classes with the average AL
 
 10.&nbsp; <u>&nbsp;What happens when the child is admitted to Maris Stella High School via DSA?</u>
 
-Answer: If your child is admitted through DSA-Sec, he must commit to his chosen school for the duration of the programme. He is not allowed to transfer to another school.
+Answer: If your child is admitted through DSA-Sec, he must commit to his chosen school for the duration of the programme. He is not allowed to transfer to another school. He must commit to his DSA talent area for the next 4 years and must meet the promotion criteria to continue studying in the school. If he does not meet promotion criteria, he will have to transfer to another school that offers Posting Group 2 course of study.
 
 11.&nbsp; &nbsp;<u>How many slots are available for DSA? Is there a quota set for each talent area?</u>
 
