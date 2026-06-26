@@ -318,7 +318,7 @@ third_nav_title: Primary Marist Educators
 <p>Amrit Kaur Langeana (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Talent Development (Acting)</p>
+<p>SH / Talent Development</p>
 </td>
 </tr>
 </tbody>
