@@ -516,12 +516,28 @@ third_nav_title: Primary Marist Educators
 <p>Amrit Kaur Langeana (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Talent Development (Acting)</p>
+<p>SH / Talent Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Aisyah Hanani Binte Mahmud (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brandon Adam Joseph (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Yiqiong Jasmine (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -724,6 +740,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Liu Yining (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Loh Si Jie (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -788,6 +812,22 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Pan Ye (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qian Siya (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Seah Yu Jie (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,6 +845,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Xie Meng (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yan Xue (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -967,7 +1015,31 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Li Pei Jie (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nur Farah Sng (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Hidayah Binte Rohaimi (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jing Xue Andre (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
