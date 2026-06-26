@@ -1146,6 +1146,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lou Wei Liang Leroy (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lye Jia Yi Adeline (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1439,6 +1447,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Wei Leng Dawn (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adminstration Executive</p>
 </td>
 </tr>
 <tr>
