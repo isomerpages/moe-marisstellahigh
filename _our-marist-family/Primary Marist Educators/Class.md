@@ -66,7 +66,15 @@ third_nav_title: Primary Marist Educators
 <p>1 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teoh Yian Pin (Ms)</p>
+<p>Brandon Adam Joseph (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Charles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Yining (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +90,15 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Poh Leng (Mdm)</p>
+<p>Tan Choon Yong Calvin (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Dominic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yan Xue (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +178,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kah Yin Carin (Ms)</p>
+<p>Li Pei Jie (Ms)</p>
 </td>
 </tr>
 </tbody>
@@ -218,6 +234,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pan Ye (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,6 +254,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Mei Hui (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Charles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jing Xue Andre (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -429,6 +461,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Edward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Hidayah Binte Rohaimi (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Francis</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -445,6 +485,14 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lou Wei Liang Leroy (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -456,7 +504,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Choon Yong Calvin (Mr)</p>
+<p>Ms Erica Pereira (Ms)</p>
 </td>
 </tr>
 </tbody>
@@ -507,7 +555,7 @@ third_nav_title: Primary Marist Educators
 <p>4 Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Yi Ling Adeline (Ms)</p>
+<p>Qian Siya (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -639,6 +687,14 @@ third_nav_title: Primary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Kim Neo Helen (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Yiqiong Jasmine (Ms)</p>
 </td>
 </tr>
 <tr>
