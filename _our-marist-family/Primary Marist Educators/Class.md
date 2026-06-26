@@ -74,7 +74,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Yining (Ms)</p>
+<p>Liu Yining (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ third_nav_title: Primary Marist Educators
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yan Xue (Ms)</p>
+<p>Yan Xue (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ third_nav_title: Primary Marist Educators
 <p>3 Edward</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Hidayah Binte Rohaimi (Ms)</p>
+<p>Nur Hidayah Binte Rohaimi (Mdm)</p>
 </td>
 </tr>
 <tr>
