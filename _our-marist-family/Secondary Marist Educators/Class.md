@@ -87,7 +87,7 @@ third_nav_title: Secondary Marist Educators
 <p>Xie Zhihao (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Neeraja Vijayakumar (Ms)</p>
+<p>Neeraja Vijayakumar (Ms)</p>
 </td>
 </tr>
 <tr>
