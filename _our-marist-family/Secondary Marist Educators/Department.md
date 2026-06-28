@@ -568,6 +568,14 @@ third_nav_title: Secondary Marist Educators
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhao Meiling (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MATHEMATICS</h3>
@@ -583,14 +591,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ye Wenhui (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -790,6 +790,14 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tay Woon Ping (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S. Yasothai D/O Santhana Bose (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
