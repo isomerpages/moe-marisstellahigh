@@ -701,14 +701,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Kian Boon Edwin (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lucy Yeo (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
