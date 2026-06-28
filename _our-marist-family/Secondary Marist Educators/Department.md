@@ -183,34 +183,10 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sui Lei (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ho Jia Min (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ye Wenhui (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chia Kian Boon Edwin (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
 </td>
 </tr>
 <tr>
