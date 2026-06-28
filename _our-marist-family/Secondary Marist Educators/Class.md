@@ -109,7 +109,7 @@ third_nav_title: Secondary Marist Educators
 <p>Wong Yi Jun (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marcus Goh Tao Zhi (Mr)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@ third_nav_title: Secondary Marist Educators
 <p>Ng Li Ping (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Kian Boon Edwin (Mr)</p>
+<p>Mark Chong Yan Sheng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
