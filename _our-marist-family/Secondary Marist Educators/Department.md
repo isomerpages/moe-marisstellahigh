@@ -250,7 +250,7 @@ third_nav_title: Secondary Marist Educators
 <p>Lee Zhi Ying (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Mathematics (covering)</p>
+<p>SH / Mathematics (Covering)</p>
 </td>
 </tr>
 </tbody>
@@ -291,7 +291,7 @@ third_nav_title: Secondary Marist Educators
 <p>Wong Xiu Yan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Social Studies</p>
+<p>LT / Social Studies (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ third_nav_title: Secondary Marist Educators
 <p>Ng Yong Min (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Mathematics (covering)</p>
+<p>ST / Mathematics (Covering)</p>
 </td>
 </tr>
 </tbody>
@@ -598,7 +598,7 @@ third_nav_title: Secondary Marist Educators
 <p>Lee Zhi Ying (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Mathematics (covering)</p>
+<p>SH / Mathematics (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ third_nav_title: Secondary Marist Educators
 <p>Ng Yong Min (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Mathematics (covering)</p>
+<p>ST / Mathematics (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -865,7 +865,7 @@ third_nav_title: Secondary Marist Educators
 <p>Wong Xiu Yan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Social Studies</p>
+<p>LT / Social Studies (Acting)</p>
 </td>
 </tr>
 <tr>
