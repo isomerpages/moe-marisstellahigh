@@ -393,14 +393,6 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marcus Goh Tao Zhi (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Natasha St Clare Alvar (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,14 +418,6 @@ third_nav_title: Secondary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tay Kwang Ming (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Yen Leng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -538,7 +522,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mabel Neo Yu Qian (Miss)</p>
+<p>Juliawaty Tje (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -546,7 +530,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Cher Tat (Mr)</p>
+<p>Mabel Neo Yu Qian (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -631,14 +615,6 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Mathematics (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dawn Ng Li Li (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -910,7 +886,15 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shantini d/o Karunagaran (Ms)</p>
+<p>Clement Tan (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Neeraja Vijayakumar (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
