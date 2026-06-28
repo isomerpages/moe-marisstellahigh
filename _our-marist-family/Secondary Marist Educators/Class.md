@@ -282,7 +282,7 @@ third_nav_title: Secondary Marist Educators
 <p>Praveen Kumar s/o Vadevelu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Leng (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -310,7 +310,7 @@ third_nav_title: Secondary Marist Educators
 <p>Lim Xiao Feng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shantini D/O Karunagaran (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
