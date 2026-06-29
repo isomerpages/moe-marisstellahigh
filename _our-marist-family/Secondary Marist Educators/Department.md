@@ -789,7 +789,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S. Yasothai D/O Santhana Bose (Ms)</p>
+<p>S. Yasothai D/O Santhana Rose (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
