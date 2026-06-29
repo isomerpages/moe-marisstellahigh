@@ -282,7 +282,7 @@ third_nav_title: Secondary Marist Educators
 <p>Praveen Kumar s/o Vadevelu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chee Yong Qing (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
