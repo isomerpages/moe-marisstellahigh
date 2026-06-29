@@ -852,7 +852,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yan Xue (Mdm)</p>
+<p>Yan Xue (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1031,7 +1031,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Hidayah Binte Rohaimi (Mdm)</p>
+<p>Nur Hidayah Binte Rohaimi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
