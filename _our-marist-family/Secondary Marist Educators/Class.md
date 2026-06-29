@@ -109,7 +109,7 @@ third_nav_title: Secondary Marist Educators
 <p>Wong Yi Jun (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan May Yi (Ms)</p>
 </td>
 </tr>
 </tbody>
@@ -296,10 +296,10 @@ third_nav_title: Secondary Marist Educators
 <p>Seah Sheng Zhi (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Dongmei (Mdm)</p>
+<p>Clement Tan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clement Tan (Mr)</p>
+<p>Liu Dongmei (Mdm)</p>
 </td>
 </tr>
 <tr>
