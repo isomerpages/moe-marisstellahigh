@@ -87,7 +87,7 @@ third_nav_title: Secondary Marist Educators
 <p>Xie Zhihao (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Neeraja Vijayakumar (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -109,14 +109,15 @@ third_nav_title: Secondary Marist Educators
 <p>Wong Yi Jun (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marcus Goh Tao Zhi (Mr)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>SECONDARY 2</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -128,6 +129,9 @@ third_nav_title: Secondary Marist Educators
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -143,6 +147,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Ray Ong Rui Xiang (Mr)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,6 +157,9 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Lum Wai Mei (Miss)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Hanif Bin Mustadza (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jeremy Fernandez (Mr)</p>
@@ -165,6 +175,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Ho Jia Min (Ms)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,6 +189,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Judianne Tan Ya&nbsp;(Ms)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,7 +201,10 @@ third_nav_title: Secondary Marist Educators
 <p>Tan Peng Yau (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Cher Tat (Mr)</p>
+<p>Juliawaty Tje (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -198,6 +217,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Nur Hanis Binte Selamat&nbsp;(Mdm)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -207,7 +229,10 @@ third_nav_title: Secondary Marist Educators
 <p>Yap Kheng Kin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dawn Ng Li Li (Ms)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -220,12 +245,16 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Chong Shao Hong (Mr)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>S. Yasothai D/O Santhana Rose (Ms)</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h3>SECONDARY 3</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -241,6 +270,9 @@ third_nav_title: Secondary Marist Educators
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -250,7 +282,10 @@ third_nav_title: Secondary Marist Educators
 <p>Praveen Kumar s/o Vadevelu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Leng (Ms)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -263,6 +298,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Liu Dongmei (Mdm)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Clement Tan (Mr)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -272,7 +310,10 @@ third_nav_title: Secondary Marist Educators
 <p>Lim Xiao Feng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shantini D/O Karunagaran (Ms)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -285,6 +326,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>V Praveenkumar (Mr)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -294,7 +338,10 @@ third_nav_title: Secondary Marist Educators
 <p>Ng Li Ping (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Kian Boon Edwin (Mr)</p>
+<p>Mark Chong Yan Sheng (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -305,7 +352,10 @@ third_nav_title: Secondary Marist Educators
 <p>Png Chin Yuen, Marianne&nbsp;(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sui Lei (Mr)</p>
+<p>Zhao Meiling (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -314,6 +364,9 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Jasmine Yeo (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -329,6 +382,9 @@ third_nav_title: Secondary Marist Educators
 <td rowspan="1" colspan="1">
 <p>Tay Kwang Ming (Mr)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -339,6 +395,9 @@ third_nav_title: Secondary Marist Educators
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Nadiah Binte Ramli (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -425,7 +484,7 @@ third_nav_title: Secondary Marist Educators
 <p>Yee Tai Yen, Terrance (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ye Wenhui (Ms)</p>
+<p>Nur Badriah Bte Mirza Ab Matin (Mdm)</p>
 </td>
 </tr>
 <tr>
