@@ -665,6 +665,14 @@ third_nav_title: Secondary Marist Educators
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xie Zhihao (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -789,7 +797,7 @@ third_nav_title: Secondary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S. Yasothai D/O Santhana Rose (Ms)</p>
+<p>S. Yasothai D/O Santhana Bose (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

@@ -529,14 +529,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brandon Adam Joseph (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chong Yiqiong Jasmine (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -852,7 +844,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yan Xue (Mdm)</p>
+<p>Yan Xue (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -983,7 +975,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yang Jiahui Colin (Mr)</p>
+<p>Brandon Adam Joseph (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1031,7 +1023,7 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Hidayah Binte Rohaimi (Mdm)</p>
+<p>Nur Hidayah Binte Rohaimi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1056,6 +1048,14 @@ third_nav_title: Primary Marist Educators
 <tr>
 <td rowspan="1" colspan="1">
 <p>Toh-Lai Wei Xuan (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Jiahui Colin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
