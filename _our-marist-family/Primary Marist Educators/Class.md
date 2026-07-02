@@ -71,14 +71,6 @@ third_nav_title: Primary Marist Educators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Charles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liu Yining (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Dominic</p>
 </td>
 <td rowspan="1" colspan="1">
