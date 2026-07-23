@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary Section Admission
 ---
-<h5>2026 Secondary 2 and 3 Transfer</h5>
+<h5>2027 Secondary 2 and 3 Transfer</h5>
 <p>Maris Stella High School (Secondary) is a Special Assistance Plan (SAP)
 school which offers only Chinese Language as Mother Tongue. Students who
 are exempted from Chinese Language will not be considered. Students admitted
