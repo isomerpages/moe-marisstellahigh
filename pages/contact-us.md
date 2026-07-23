@@ -2,31 +2,35 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: MSHS
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 25 Mount Vernon Road
+      - Singapore 368051
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8.00am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
+    title: Secondary
+  - address:
+      - 25 Mount Vernon Road
+      - Singapore 368051
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: Primary
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6280 3880
+      - email: msh@moe.edu.sg
+      - other: ""
+    title: Secondary
+  - content:
+      - phone: "+6562827743"
+      - email: mshp@moe.edu.sg
+      - other: ""
+    title: Primary
+feedback: ""
 ---
