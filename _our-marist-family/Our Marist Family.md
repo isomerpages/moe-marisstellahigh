@@ -1,7 +1,7 @@
 ---
 title: Our Marist Family
 permalink: /our-marist-family/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p></p>
@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/secondary-section-class/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary Section" src="/images/Our Marist Family/Marist_Family_Sec.jpg">
+
 </div>
 </div>
 <div class="isomer-card-body">
