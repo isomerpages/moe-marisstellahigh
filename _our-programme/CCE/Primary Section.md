@@ -547,15 +547,6 @@ and competency-driven activities.</p>
 <li>
 <p>P6 Prefects’ Training – Leading Others</p>
 </li>
-<li>
-<p>Eco Ambassador Training</p>
-</li>
-<li>
-<p>Cleaning Buddy Workshop</p>
-</li>
-<li>
-<p>School Tour for Parents of P1 2018</p>
-</li>
 </ul>
 <p></p>
 </div>
